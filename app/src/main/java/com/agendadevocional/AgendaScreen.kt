@@ -926,14 +926,18 @@ fun AgendaScreen(
                             HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
                             Spacer(modifier = Modifier.height(24.dp))
 
-                            AnotacoesPreviewCard(
+                            AnotacoesSection(
                                 mensagemDia = mensagemDia,
-                                onClick = {
+                                onSaveAnotacao = onSaveAnotacao,
+                                onSaveAudioPath = onSaveAudioPath,
+                                audioRecorder = audioRecorder,
+                                audioPlayer = audioPlayer,
+                                fontSizeMultiplier = fontSizeMultiplier,
+                                selectedLanguage = selectedLanguage,
+                                onTimelineClick = {
                                     timelineTargetMessage = mensagemDia
                                     showAgendaTimeline = true
-                                },
-                                fontSizeMultiplier = fontSizeMultiplier,
-                                selectedLanguage = selectedLanguage
+                                }
                             )
                         }
                     }

@@ -35,7 +35,8 @@ fun AnotacoesSection(
     audioRecorder: AndroidAudioRecorder,
     audioPlayer: AndroidAudioPlayer,
     fontSizeMultiplier: Float,
-    selectedLanguage: String
+    selectedLanguage: String,
+    onTimelineClick: (() -> Unit)? = null
 ) {
     val context = LocalContext.current
     var selectedTab by remember { mutableStateOf(0) } // 0 = Texto, 1 = Áudio
@@ -112,22 +113,38 @@ fun AnotacoesSection(
     Column(modifier = Modifier.fillMaxWidth()) {
         Row(
             verticalAlignment = Alignment.CenterVertically,
-            modifier = Modifier.padding(bottom = 12.dp)
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(bottom = 12.dp)
         ) {
-            Icon(
-                imageVector = Icons.Default.TextSnippet,
-                contentDescription = null,
-                tint = MaterialTheme.colorScheme.primary,
-                modifier = Modifier.size(20.dp)
-            )
-            Spacer(modifier = Modifier.width(8.dp))
-            Text(
-                text = getLocalizedString(selectedLanguage, "anotacoes").uppercase(),
-                style = MaterialTheme.typography.labelLarge,
-                fontWeight = FontWeight.Bold,
-                color = MaterialTheme.colorScheme.primary,
-                letterSpacing = 1.sp
-            )
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.weight(1f)
+            ) {
+                Icon(
+                    imageVector = Icons.Default.TextSnippet,
+                    contentDescription = null,
+                    tint = MaterialTheme.colorScheme.primary,
+                    modifier = Modifier.size(20.dp)
+                )
+                Spacer(modifier = Modifier.width(8.dp))
+                Text(
+                    text = getLocalizedString(selectedLanguage, "anotacoes").uppercase(),
+                    style = MaterialTheme.typography.labelLarge,
+                    fontWeight = FontWeight.Bold,
+                    color = MaterialTheme.colorScheme.primary,
+                    letterSpacing = 1.sp
+                )
+            }
+            if (onTimelineClick != null) {
+                IconButton(onClick = onTimelineClick) {
+                    Icon(
+                        imageVector = Icons.Default.DateRange,
+                        contentDescription = "Abrir Agenda",
+                        tint = MaterialTheme.colorScheme.primary
+                    )
+                }
+            }
         }
 
         // Tabs clara/escura customizada com design premium
