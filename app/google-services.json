@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636205601404",
+    "project_id": "agendadevocional",
+    "storage_bucket": "agendadevocional.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636205601404:android:362a6fca11f4f5e7992ff9",
+        "android_client_info": {
+          "package_name": "br.com.bibliafalada.agendadevocional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMs2x73kypYsQgEGDHUhoUtWn_AxF63Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636205601404:android:1ae4d0eb80c9b317992ff9",
+        "android_client_info": {
+          "package_name": "com.agendadevovional"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMs2x73kypYsQgEGDHUhoUtWn_AxF63Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
