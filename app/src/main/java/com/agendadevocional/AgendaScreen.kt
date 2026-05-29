@@ -2431,6 +2431,7 @@ fun AgendaTimelineOverlay(
     
     val msgIso = parseToIsoDate(mensagemDia.data)
     val isFuture = msgIso != null && msgIso > LocalDate.now().toString()
+    val hasSavedContent = !mensagemDia.anotacao.isNullOrBlank() || !mensagemDia.audioPath.isNullOrBlank()
     
     val dataParts = mensagemDia.data.split(" de ")
     val dayNum = dataParts.getOrNull(0) ?: "01"
@@ -2606,80 +2607,107 @@ fun AgendaTimelineOverlay(
                             ) {
                                 when {
                                     isContextSlot -> {
-                                        Text(
-                                            text = mensagemDia.contexto,
-                                            style = MaterialTheme.typography.bodyMedium.copy(
-                                                fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                            ),
-                                            color = MaterialTheme.colorScheme.onSurface
-                                        )
-                                    }
-                                    isMeaningSlot -> {
-                                        Text(
-                                            text = mensagemDia.significado,
-                                            style = MaterialTheme.typography.bodyMedium.copy(
-                                                fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                            ),
-                                            color = MaterialTheme.colorScheme.onSurface
-                                        )
-                                    }
-                                    isMessageSlot -> {
-                                        Text(
-                                            text = getLocalizedString(selectedLanguage, "mensagem").uppercase(),
-                                            style = MaterialTheme.typography.labelSmall.copy(fontWeight = FontWeight.Bold),
-                                            color = MaterialTheme.colorScheme.tertiary
-                                        )
-                                        Spacer(modifier = Modifier.height(4.dp))
-                                        if (isFuture) {
-                                            val stableHash = kotlin.math.abs(mensagemDia.data.hashCode())
-                                            val verseIdx = stableHash % 5
-                                            val lockedText = when (selectedLanguage) {
-                                                "en" -> {
-                                                    val v = when (verseIdx) {
-                                                        0 -> "“My times are in your hand.” — Psalm 31:15"
-                                                        1 -> "“Therefore don’t be anxious for tomorrow.” — Matthew 6:34"
-                                                        2 -> "“If the Lord wills…” — James 4:15"
-                                                        3 -> "“For everything there is a season.” — Ecclesiastes 3:1"
-                                                        else -> "“Yahweh directs his steps.” — Proverbs 16:9"
-                                                    }
-                                                    "This devotional will be available at the right time.\n\n$v\n\nCome back on this day and walk with us through another reflection on God’s Word."
-                                                }
-                                                "es" -> {
-                                                    val v = when (verseIdx) {
-                                                        0 -> "“En tu mano están mis tiempos.” — Salmos 31:15"
-                                                        1 -> "“No os afanéis por el día de mañana.” — Mateo 6:34"
-                                                        2 -> "“Si el Señor quiere…” — Santiago 4:15"
-                                                        3 -> "“Todo tiene su tiempo.” — Eclesiástes 3:1"
-                                                        else -> "“Jehová endereza sus pasos.” — Proverbios 16:9"
-                                                    }
-                                                    "Este devocional estará disponible en el tiempo señalado.\n\n$v\n\nVuelve en este día y camina con nosotros en una nueva reflexión en la Palabra de Dios."
-                                                }
-                                                else -> {
-                                                    val v = when (verseIdx) {
-                                                        0 -> "“Os meus tempos estão nas tuas mãos.” — Salmo 31:15"
-                                                        1 -> "“Não vos inquieteis pelo dia de amanhã.” — Mateus 6:34"
-                                                        2 -> "“Se o Senhor quiser...” — Tiago 4:15"
-                                                        3 -> "“Tudo tem o seu tempo determinado.” — Eclesiastes 3:1"
-                                                        else -> "“O Senhor lhe dirige os passos.” — Provérbios 16:9"
-                                                    }
-                                                    "Este devocional estará disponível no tempo certo.\n\n$v\n\nVolte neste dia e caminhe conosco em mais uma reflexão na Palavra de Deus."
-                                                }
-                                            }
+                                        if (hasSavedContent) {
                                             Text(
-                                                text = lockedText,
-                                                style = MaterialTheme.typography.bodyMedium.copy(
-                                                    fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp,
-                                                    fontStyle = FontStyle.Italic
-                                                ),
-                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
-                                            )
-                                        } else {
-                                            Text(
-                                                text = mensagemDia.mensagem,
+                                                text = mensagemDia.contexto,
                                                 style = MaterialTheme.typography.bodyMedium.copy(
                                                     fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
                                                 ),
                                                 color = MaterialTheme.colorScheme.onSurface
+                                            )
+                                        } else {
+                                            Text(
+                                                text = "",
+                                                style = MaterialTheme.typography.bodyMedium,
+                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f),
+                                                modifier = Modifier.height(24.dp)
+                                            )
+                                        }
+                                    }
+                                    isMeaningSlot -> {
+                                        if (hasSavedContent) {
+                                            Text(
+                                                text = mensagemDia.significado,
+                                                style = MaterialTheme.typography.bodyMedium.copy(
+                                                    fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
+                                                ),
+                                                color = MaterialTheme.colorScheme.onSurface
+                                            )
+                                        } else {
+                                            Text(
+                                                text = "",
+                                                style = MaterialTheme.typography.bodyMedium,
+                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f),
+                                                modifier = Modifier.height(24.dp)
+                                            )
+                                        }
+                                    }
+                                    isMessageSlot -> {
+                                        if (hasSavedContent) {
+                                            Text(
+                                                text = getLocalizedString(selectedLanguage, "mensagem").uppercase(),
+                                                style = MaterialTheme.typography.labelSmall.copy(fontWeight = FontWeight.Bold),
+                                                color = MaterialTheme.colorScheme.tertiary
+                                            )
+                                            Spacer(modifier = Modifier.height(4.dp))
+                                            if (isFuture) {
+                                                val stableHash = kotlin.math.abs(mensagemDia.data.hashCode())
+                                                val verseIdx = stableHash % 5
+                                                val lockedText = when (selectedLanguage) {
+                                                    "en" -> {
+                                                        val v = when (verseIdx) {
+                                                            0 -> "“My times are in your hand.” — Psalm 31:15"
+                                                            1 -> "“Therefore don’t be anxious for tomorrow.” — Matthew 6:34"
+                                                            2 -> "“If the Lord wills…” — James 4:15"
+                                                            3 -> "“For everything there is a season.” — Ecclesiastes 3:1"
+                                                            else -> "“Yahweh directs his steps.” — Proverbs 16:9"
+                                                        }
+                                                        "This devotional will be available at the right time.\n\n$v\n\nCome back on this day and walk with us through another reflection on God’s Word."
+                                                    }
+                                                    "es" -> {
+                                                        val v = when (verseIdx) {
+                                                            0 -> "“En tu mano están mis tiempos.” — Salmos 31:15"
+                                                            1 -> "“No os afanéis por el día de mañana.” — Mateo 6:34"
+                                                            2 -> "“Si el Señor quiere…” — Santiago 4:15"
+                                                            3 -> "“Todo tiene su tiempo.” — Eclesiástes 3:1"
+                                                            else -> "“Jehová endereza sus pasos.” — Proverbios 16:9"
+                                                        }
+                                                        "Este devocional estará disponible en el tempo señalado.\n\n$v\n\nVuelve en este día y camina con nosotros en una nueva reflexión en la Palabra de Dios."
+                                                    }
+                                                    else -> {
+                                                        val v = when (verseIdx) {
+                                                            0 -> "“Os meus tempos estão nas tuas mãos.” — Salmo 31:15"
+                                                            1 -> "“Não vos inquieteis pelo dia de amanhã.” — Mateus 6:34"
+                                                            2 -> "“Se o Senhor quiser...” — Tiago 4:15"
+                                                            3 -> "“Tudo tem o seu tempo determinado.” — Eclesiastes 3:1"
+                                                            else -> "“O Senhor lhe dirige os passos.” — Provérbios 16:9"
+                                                        }
+                                                        "Este devocional estará disponível no tempo certo.\n\n$v\n\nVolte neste dia e caminhe conosco em mais uma reflexão na Palavra de Deus."
+                                                    }
+                                                }
+                                                Text(
+                                                    text = lockedText,
+                                                    style = MaterialTheme.typography.bodyMedium.copy(
+                                                        fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp,
+                                                        fontStyle = FontStyle.Italic
+                                                    ),
+                                                    color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+                                                )
+                                            } else {
+                                                Text(
+                                                    text = mensagemDia.mensagem,
+                                                    style = MaterialTheme.typography.bodyMedium.copy(
+                                                        fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
+                                                    ),
+                                                    color = MaterialTheme.colorScheme.onSurface
+                                                )
+                                            }
+                                        } else {
+                                            Text(
+                                                text = "",
+                                                style = MaterialTheme.typography.bodyMedium,
+                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.3f),
+                                                modifier = Modifier.height(24.dp)
                                             )
                                         }
                                     }
