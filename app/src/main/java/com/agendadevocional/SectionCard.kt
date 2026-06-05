@@ -21,31 +21,33 @@ fun SectionCard(
     highlighted: Boolean = false
 ) {
     Column {
-        Row(
-            verticalAlignment = Alignment.CenterVertically,
-            modifier = Modifier.padding(bottom = 12.dp)
-        ) {
-            if (highlighted) {
-                Box(
-                    modifier = Modifier
-                        .size(4.dp, 16.dp)
-                        .background(
-                            MaterialTheme.colorScheme.primary,
-                            RoundedCornerShape(2.dp)
-                        )
+        if (title.isNotEmpty()) {
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(bottom = 12.dp)
+            ) {
+                if (highlighted) {
+                    Box(
+                        modifier = Modifier
+                            .size(4.dp, 16.dp)
+                            .background(
+                                MaterialTheme.colorScheme.primary,
+                                RoundedCornerShape(2.dp)
+                            )
+                    )
+                    Spacer(modifier = Modifier.width(8.dp))
+                }
+                Text(
+                    text = title.uppercase(),
+                    style = MaterialTheme.typography.labelLarge,
+                    fontWeight = FontWeight.Bold,
+                    color = if (highlighted)
+                        MaterialTheme.colorScheme.primary
+                    else
+                        MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f),
+                    letterSpacing = 1.sp
                 )
-                Spacer(modifier = Modifier.width(8.dp))
             }
-            Text(
-                text = title.uppercase(),
-                style = MaterialTheme.typography.labelLarge,
-                fontWeight = FontWeight.Bold,
-                color = if (highlighted)
-                    MaterialTheme.colorScheme.primary
-                else
-                    MaterialTheme.colorScheme.onSurface.copy(alpha = 0.7f),
-                letterSpacing = 1.sp
-            )
         }
 
         Text(

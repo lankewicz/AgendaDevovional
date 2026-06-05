@@ -30,6 +30,7 @@ class AgendaViewModel(private val repository: MensagensRepository) : ViewModel()
                 val mensagens = repository.carregarMensagens()
                 val indexHoje = repository.indiceHoje(mensagens)
                 _uiState.value = AgendaState.Success(mensagens, indexHoje)
+                repository.limparAudiosOrfaos()
             } catch (e: Exception) {
                 _uiState.value = AgendaState.Error(e.message ?: "Erro desconhecido ao carregar mensagens")
             }

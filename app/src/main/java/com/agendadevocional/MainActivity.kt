@@ -5,6 +5,7 @@ package com.agendadevocional
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
@@ -19,13 +20,17 @@ import com.agendadevocional.data.MensagensRepository
 import com.agendadevocional.ui.theme.AgendaTheme
 import com.agendadevocional.worker.DevotionalWorker
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
+import android.speech.RecognizerIntent
+import android.speech.SpeechRecognizer
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.content.ContextCompat
 
 import androidx.activity.viewModels
 import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.setValue
@@ -62,15 +67,44 @@ class MainActivity : ComponentActivity() {
         val viewModel: AgendaViewModel by viewModels { AgendaViewModelFactory(repo) }
 
         setContent {
-            AgendaTheme {
-                val context = LocalContext.current
+            val context = LocalContext.current
+            val currentPrefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
+            val systemInDark = isSystemInDarkTheme()
+            val isDarkMode = currentPrefs.getBoolean("is_dark_mode", systemInDark)
+            val themeStyle = currentPrefs.getString("theme_style", "gold") ?: "gold"
+
+            AgendaTheme(darkTheme = isDarkMode, themeStyle = themeStyle) {
                 LocaleManager.applicationContext = context.applicationContext
                 var showSplash by remember { mutableStateOf(true) }
                 val state by viewModel.uiState.collectAsState()
                 
-                val currentPrefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
                 var selectedLanguage by remember { mutableStateOf(currentPrefs.getString("selected_language", null)) }
                 var isDownloading by remember { mutableStateOf(false) }
+
+                LaunchedEffect(selectedLanguage) {
+                    selectedLanguage?.let { lang ->
+                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+                            try {
+                                if (SpeechRecognizer.isRecognitionAvailable(context)) {
+                                    val langTag = when (lang) {
+                                        "en" -> "en-US"
+                                        "es" -> "es-ES"
+                                        else -> "pt-BR"
+                                    }
+                                    val triggerIntent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
+                                        putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
+                                        putExtra(RecognizerIntent.EXTRA_LANGUAGE, langTag)
+                                    }
+                                    val recognizer = SpeechRecognizer.createSpeechRecognizer(context)
+                                    recognizer.triggerModelDownload(triggerIntent)
+                                    recognizer.destroy()
+                                }
+                            } catch (e: Throwable) {
+                                e.printStackTrace()
+                            }
+                        }
+                    }
+                }
 
                 if (showSplash) {
                     SplashScreen(onSplashFinished = { showSplash = false })
@@ -155,5 +189,11 @@ class MainActivity : ComponentActivity() {
                 }
             }
         }
+    }
+
+    override fun onStart() {
+        super.onStart()
+        val notificationManager = getSystemService(Context.NOTIFICATION_SERVICE) as android.app.NotificationManager
+        notificationManager.cancel(1)
     }
 }

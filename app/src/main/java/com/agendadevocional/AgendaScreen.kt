@@ -114,6 +114,9 @@ fun AgendaScreen(
     var isDarkMode by remember { 
         mutableStateOf(prefs.getBoolean("is_dark_mode", systemInDark)) 
     }
+    var themeStyle by remember {
+        mutableStateOf(prefs.getString("theme_style", "gold") ?: "gold")
+    }
 
     var notificationsEnabled by remember {
         mutableStateOf(prefs.getBoolean("notifications_enabled", true))
@@ -158,6 +161,7 @@ fun AgendaScreen(
         initialPage = safeInitialPage,
         pageCount = { filteredMensagens.size }
     )
+    val coroutineScope = rememberCoroutineScope()
     val accessCount = remember { prefs.getInt("access_count", 0) }
     var showSwipeHint by remember { mutableStateOf(accessCount < 2) }
 
@@ -180,7 +184,7 @@ fun AgendaScreen(
     val audioPlayer = remember { AndroidAudioPlayer(context) }
 
     LaunchedEffect(Unit) {
-        val todayStr = LocalDate.now().toString()
+        val todayStr = getTodayIso()
         markDateAsRead(context, todayStr)
     }
 
@@ -350,7 +354,7 @@ fun AgendaScreen(
         )
     }
 
-    AgendaTheme(darkTheme = isDarkMode) {
+    AgendaTheme(darkTheme = isDarkMode, themeStyle = themeStyle) {
         Box(
             modifier = Modifier
                 .fillMaxSize()
@@ -525,13 +529,14 @@ fun AgendaScreen(
                                 onClick = {
                                     val atual = filteredMensagens.getOrNull(pagerState.currentPage)
                                     if (atual != null) {
+                                        val (v, r, m) = getDisplayDevotional(atual, selectedLanguage)
                                         val textoCompartilhar = buildString {
                                             appendLine(atual.data)
                                             appendLine()
                                             appendLine(getLocalizedString(selectedLanguage, "compartilhar_versiculo"))
-                                            appendLine("\"${atual.versiculo}\" (${atual.referencia})")
+                                            appendLine("\"$v\" ($r)")
                                             appendLine()
-                                            appendLine("${getLocalizedString(selectedLanguage, "compartilhar_msg")} ${atual.mensagem}")
+                                            appendLine("${getLocalizedString(selectedLanguage, "compartilhar_msg")} $m")
                                             appendLine()
                                             append(getLocalizedString(selectedLanguage, "compartilhar_rodape"))
                                         }
@@ -673,13 +678,14 @@ fun AgendaScreen(
                             onClick = {
                                 val atual = filteredMensagens.getOrNull(pagerState.currentPage)
                                 if (atual != null) {
+                                    val (v, r, m) = getDisplayDevotional(atual, selectedLanguage)
                                     val textoCompartilhar = buildString {
                                         appendLine(atual.data)
                                         appendLine()
                                         appendLine(getLocalizedString(selectedLanguage, "compartilhar_versiculo"))
-                                        appendLine("\"${atual.versiculo}\" (${atual.referencia})")
+                                        appendLine("\"$v\" ($r)")
                                         appendLine()
-                                        appendLine("${getLocalizedString(selectedLanguage, "compartilhar_msg")} ${atual.mensagem}")
+                                        appendLine("${getLocalizedString(selectedLanguage, "compartilhar_msg")} $m")
                                         appendLine()
                                         append(getLocalizedString(selectedLanguage, "compartilhar_rodape"))
                                     }
@@ -724,6 +730,9 @@ fun AgendaScreen(
             ) { page ->
                 if (page < filteredMensagens.size) {
                     val mensagemDia = filteredMensagens[page]
+                    val msgIso = parseToIsoDate(mensagemDia.data)
+                    val isFuture = msgIso != null && msgIso > getTodayIso()
+                    val (displayVerse, displayReferencia, displayMensagem) = getDisplayDevotional(mensagemDia, selectedLanguage)
                     val scrollState = rememberScrollState()
 
                     Surface(
@@ -742,7 +751,7 @@ fun AgendaScreen(
                         Column(
                             modifier = Modifier
                                 .fillMaxSize()
-                                .padding(28.dp)
+                                .padding(horizontal = 24.dp, vertical = 20.dp)
                                 .verticalScroll(scrollState)
                         ) {
                             // Date Tag & Media Icons
@@ -791,7 +800,7 @@ fun AgendaScreen(
                                         Icon(
                                             imageVector = if (mensagemDia.isFavorite) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
                                             contentDescription = "Favoritar",
-                                            tint = if (mensagemDia.isFavorite) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
+                                            tint = if (mensagemDia.isFavorite) Color.Red else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
                                             modifier = Modifier.size(28.dp)
                                         )
                                     }
@@ -839,11 +848,11 @@ fun AgendaScreen(
                                 }
                             }
 
-                            Spacer(modifier = Modifier.height(32.dp))
+                            Spacer(modifier = Modifier.height(18.dp))
 
                             // Highlighted Verse (Serif)
                             Text(
-                                text = "“${mensagemDia.versiculo}”",
+                                text = "“$displayVerse”",
                                 style = MaterialTheme.typography.headlineSmall.copy(
                                     fontFamily = FontFamily.Serif,
                                     fontStyle = FontStyle.Italic,
@@ -855,7 +864,7 @@ fun AgendaScreen(
                                 modifier = Modifier.fillMaxWidth()
                             )
 
-                            Spacer(modifier = Modifier.height(16.dp))
+                            Spacer(modifier = Modifier.height(10.dp))
 
                             Row(
                                 modifier = Modifier.fillMaxWidth(),
@@ -863,7 +872,7 @@ fun AgendaScreen(
                                 verticalAlignment = Alignment.CenterVertically
                             ) {
                                 Text(
-                                    text = mensagemDia.referencia,
+                                    text = displayReferencia,
                                     style = MaterialTheme.typography.titleMedium.copy(
                                         fontFamily = FontFamily.Serif,
                                         fontSize = (MaterialTheme.typography.titleMedium.fontSize.value * fontSizeMultiplier).sp
@@ -886,7 +895,7 @@ fun AgendaScreen(
                                 )
                             }
 
-                            Spacer(modifier = Modifier.height(32.dp))
+                            Spacer(modifier = Modifier.height(20.dp))
 
                             HorizontalDivider(
                                 modifier = Modifier
@@ -896,35 +905,39 @@ fun AgendaScreen(
                                 thickness = 1.dp
                             )
 
-                            Spacer(modifier = Modifier.height(28.dp))
+                            Spacer(modifier = Modifier.height(20.dp))
 
                             // Sections
-                            SectionCard(
-                                title = getLocalizedString(selectedLanguage, "contexto"),
-                                content = mensagemDia.contexto,
-                                fontSizeMultiplier = fontSizeMultiplier
-                            )
+                            if (!isFuture) {
+                                SectionCard(
+                                    title = "",
+                                    content = mensagemDia.contexto,
+                                    fontSizeMultiplier = fontSizeMultiplier
+                                )
 
-                            Spacer(modifier = Modifier.height(24.dp))
+                                Spacer(modifier = Modifier.height(24.dp))
 
-                            SectionCard(
-                                title = getLocalizedString(selectedLanguage, "significado"),
-                                content = mensagemDia.significado,
-                                fontSizeMultiplier = fontSizeMultiplier
-                            )
+                                SectionCard(
+                                    title = "",
+                                    content = mensagemDia.significado,
+                                    fontSizeMultiplier = fontSizeMultiplier
+                                )
 
-                            Spacer(modifier = Modifier.height(24.dp))
+                                Spacer(modifier = Modifier.height(24.dp))
+                            }
 
-                            SectionCard(
-                                title = getLocalizedString(selectedLanguage, "mensagem"),
-                                content = mensagemDia.mensagem,
-                                highlighted = true,
-                                fontSizeMultiplier = fontSizeMultiplier
-                            )
+                            if (displayMensagem.isNotEmpty()) {
+                                SectionCard(
+                                    title = if (isFuture) "" else getLocalizedString(selectedLanguage, "mensagem"),
+                                    content = displayMensagem,
+                                    highlighted = true,
+                                    fontSizeMultiplier = fontSizeMultiplier
+                                )
+                            }
 
-                            Spacer(modifier = Modifier.height(24.dp))
+                            Spacer(modifier = Modifier.height(12.dp))
                             HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant)
-                            Spacer(modifier = Modifier.height(24.dp))
+                            Spacer(modifier = Modifier.height(12.dp))
 
                             AnotacoesSection(
                                 mensagemDia = mensagemDia,
@@ -937,7 +950,8 @@ fun AgendaScreen(
                                 onTimelineClick = {
                                     timelineTargetMessage = mensagemDia
                                     showAgendaTimeline = true
-                                }
+                                },
+                                timelineOpened = showAgendaTimeline
                             )
                         }
                     }
@@ -1065,14 +1079,32 @@ fun AgendaScreen(
                     onChangeLanguageClick = {
                         showSettings = false
                         showLanguageDialog = true
-                    }
+                    },
+                    themeStyle = themeStyle,
+                    onThemeStyleChange = {
+                        themeStyle = it
+                        prefs.edit().putString("theme_style", it).apply()
+                    },
+                    mensagens = mensagens
                 )
             }
         }
         if (showAgendaTimeline && timelineTargetMessage != null) {
             AgendaTimelineOverlay(
-                mensagemDia = timelineTargetMessage!!,
-                onClose = { showAgendaTimeline = false },
+                mensagens = filteredMensagens,
+                initialPage = filteredMensagens.indexOfFirst { it.data == timelineTargetMessage?.data }.coerceAtLeast(0),
+                onPageChanged = { newPage ->
+                    val nextMsg = filteredMensagens.getOrNull(newPage)
+                    if (nextMsg != null) {
+                        timelineTargetMessage = nextMsg
+                        coroutineScope.launch {
+                            pagerState.scrollToPage(newPage)
+                        }
+                    }
+                },
+                onClose = { 
+                    showAgendaTimeline = false
+                },
                 onSaveAnotacao = onSaveAnotacao,
                 onSaveAudioPath = onSaveAudioPath,
                 audioRecorder = audioRecorder,
@@ -1208,6 +1240,21 @@ fun SwipeHintAnimation(selectedLanguage: String) {
 
 
 
+fun parseMonthStr(monthStr: String): Int? {
+    val clean = monthStr.trim().lowercase()
+    val languages = listOf("pt", "es", "en")
+    for (lang in languages) {
+        for (m in 1..12) {
+            val monthsString = getLocalizedString(lang, "month_$m")
+            val monthVariants = monthsString.split(",").map { it.trim().lowercase() }
+            if (monthVariants.contains(clean)) {
+                return m
+            }
+        }
+    }
+    return null
+}
+
 fun parseToIsoDate(dataStr: String): String? {
     val clean = dataStr.trim().lowercase()
     try {
@@ -1218,21 +1265,7 @@ fun parseToIsoDate(dataStr: String): String? {
                 val monthStr = parts[1].trim()
                 val year = parts[2].trim().toIntOrNull() ?: return null
                 
-                val month = when (monthStr) {
-                    "janeiro", "enero" -> 1
-                    "fevereiro", "febrero" -> 2
-                    "março", "marco", "marzo" -> 3
-                    "abril" -> 4
-                    "maio", "mayo" -> 5
-                    "junho", "junio" -> 6
-                    "julho", "julio" -> 7
-                    "agosto" -> 8
-                    "setembro", "septiembre", "setiembre" -> 9
-                    "outubro", "octubre" -> 10
-                    "novembro", "noviembre" -> 11
-                    "dezembro", "diciembre" -> 12
-                    else -> return null
-                }
+                val month = parseMonthStr(monthStr) ?: return null
                 return String.format("%04d-%02d-%02d", year, month, day)
             }
         } else {
@@ -1242,21 +1275,7 @@ fun parseToIsoDate(dataStr: String): String? {
                 val day = parts[1].toIntOrNull() ?: return null
                 val year = parts[2].toIntOrNull() ?: return null
                 
-                val month = when (monthStr) {
-                    "january" -> 1
-                    "february" -> 2
-                    "march" -> 3
-                    "april" -> 4
-                    "may" -> 5
-                    "june" -> 6
-                    "july" -> 7
-                    "august" -> 8
-                    "september" -> 9
-                    "october" -> 10
-                    "november" -> 11
-                    "december" -> 12
-                    else -> return null
-                }
+                val month = parseMonthStr(monthStr) ?: return null
                 return String.format("%04d-%02d-%02d", year, month, day)
             }
         }
@@ -1280,43 +1299,41 @@ fun getLocalizedString(lang: String, key: String): String {
     return LocaleManager.getLocalizedString(lang, key)
 }
 
-object LocaleManager {
-    var applicationContext: Context? = null
-    private var currentLang: String? = null
-    private var stringsMap: Map<String, String> = emptyMap()
-
-    @Synchronized
-    fun getLocalizedString(lang: String, key: String): String {
-        val context = applicationContext ?: return key
-        if (currentLang != lang || stringsMap.isEmpty()) {
-            val fileName = when (lang) {
-                "en" -> "strings_en.json"
-                "es" -> "strings_es.json"
-                else -> "strings_pt.json"
-            }
-            try {
-                val jsonString = context.assets.open(fileName).use { inputStream ->
-                    inputStream.bufferedReader().use { it.readText() }
-                }
-                val jsonObject = org.json.JSONObject(jsonString)
-                val newMap = mutableMapOf<String, String>()
-                val keys = jsonObject.keys()
-                while (keys.hasNext()) {
-                    val k = keys.next()
-                    newMap[k] = jsonObject.optString(k, k)
-                }
-                stringsMap = newMap
-                currentLang = lang
-            } catch (e: Exception) {
-                e.printStackTrace()
-                return key
-            }
-        }
-        return stringsMap[key] ?: key
-    }
+fun getTodayIso(): String {
+    val cal = java.util.Calendar.getInstance()
+    val year = cal.get(java.util.Calendar.YEAR)
+    val month = cal.get(java.util.Calendar.MONTH) + 1
+    val day = cal.get(java.util.Calendar.DAY_OF_MONTH)
+    return String.format("%04d-%02d-%02d", year, month, day)
 }
 
+fun getTomorrowIso(): String {
+    val cal = java.util.Calendar.getInstance()
+    cal.add(java.util.Calendar.DATE, 1)
+    val year = cal.get(java.util.Calendar.YEAR)
+    val month = cal.get(java.util.Calendar.MONTH) + 1
+    val day = cal.get(java.util.Calendar.DAY_OF_MONTH)
+    return String.format("%04d-%02d-%02d", year, month, day)
+}
 
-
-
+fun getDisplayDevotional(mensagemDia: MensagemDia, selectedLanguage: String): Triple<String, String, String> {
+    val msgIso = parseToIsoDate(mensagemDia.data)
+    val isFuture = msgIso != null && msgIso > getTodayIso()
+    if (!isFuture) {
+        return Triple(mensagemDia.versiculo, mensagemDia.referencia, mensagemDia.mensagem)
+    }
+    
+    val stableHash = kotlin.math.abs(mensagemDia.data.hashCode())
+    val idx = stableHash % 5
+    val v = getLocalizedString(selectedLanguage, "future_verse_$idx")
+    val r = getLocalizedString(selectedLanguage, "future_ref_$idx")
+    
+    val isTomorrow = msgIso == getTomorrowIso()
+    val msg = if (isTomorrow) {
+        getLocalizedString(selectedLanguage, "tomorrow_devotional_msg")
+    } else {
+        ""
+    }
+    return Triple(v, r, msg)
+}
 

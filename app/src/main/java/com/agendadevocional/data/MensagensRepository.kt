@@ -16,6 +16,21 @@ class MensagensRepository(
     private val mensagemDao: MensagemDao
 ) {
 
+    private fun parseMonthStr(monthStr: String): Int? {
+        val clean = monthStr.trim().lowercase()
+        val languages = listOf("pt", "es", "en")
+        for (lang in languages) {
+            for (m in 1..12) {
+                val monthsString = com.agendadevocional.LocaleManager.getLocalizedString(lang, "month_$m")
+                val monthVariants = monthsString.split(",").map { it.trim().lowercase() }
+                if (monthVariants.contains(clean)) {
+                    return m
+                }
+            }
+        }
+        return null
+    }
+
     fun parseToIsoDate(dataStr: String): String? {
         val clean = dataStr.trim().lowercase()
         try {
@@ -26,21 +41,7 @@ class MensagensRepository(
                     val monthStr = parts[1].trim()
                     val year = parts[2].trim().toIntOrNull() ?: return null
                     
-                    val month = when (monthStr) {
-                        "janeiro", "enero" -> 1
-                        "fevereiro", "febrero" -> 2
-                        "março", "marco", "marzo" -> 3
-                        "abril" -> 4
-                        "maio", "mayo" -> 5
-                        "junho", "junio" -> 6
-                        "julho", "julio" -> 7
-                        "agosto" -> 8
-                        "setembro", "septiembre", "setiembre" -> 9
-                        "outubro", "octubre" -> 10
-                        "novembro", "noviembre" -> 11
-                        "dezembro", "diciembre" -> 12
-                        else -> return null
-                    }
+                    val month = parseMonthStr(monthStr) ?: return null
                     return String.format("%04d-%02d-%02d", year, month, day)
                 }
             } else {
@@ -50,21 +51,7 @@ class MensagensRepository(
                     val day = parts[1].toIntOrNull() ?: return null
                     val year = parts[2].toIntOrNull() ?: return null
                     
-                    val month = when (monthStr) {
-                        "january" -> 1
-                        "february" -> 2
-                        "march" -> 3
-                        "april" -> 4
-                        "may" -> 5
-                        "june" -> 6
-                        "july" -> 7
-                        "august" -> 8
-                        "september" -> 9
-                        "october" -> 10
-                        "november" -> 11
-                        "december" -> 12
-                        else -> return null
-                    }
+                    val month = parseMonthStr(monthStr) ?: return null
                     return String.format("%04d-%02d-%02d", year, month, day)
                 }
             }
@@ -270,4 +257,26 @@ class MensagensRepository(
     suspend fun salvarAudioPath(data: String, audioPath: String?) = withContext(Dispatchers.IO) {
         mensagemDao.updateAudioPath(data, audioPath)
     }
+
+    suspend fun limparAudiosOrfaos() = withContext(Dispatchers.IO) {
+        try {
+            val mensagens = mensagemDao.getAllMensagensList()
+            val audiosAtivos = mensagens.mapNotNull { it.audioPath }.toSet()
+            
+            val filesDir = context.filesDir
+            val arquivosNoDisco = filesDir.listFiles { _, name ->
+                name.startsWith("audio_reflection_") && name.endsWith(".m4a")
+            } ?: emptyArray()
+            
+            for (arquivo in arquivosNoDisco) {
+                val path = arquivo.absolutePath
+                if (path !in audiosAtivos) {
+                    arquivo.delete()
+                }
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+    }
 }
+

@@ -6,8 +6,10 @@ import android.content.pm.PackageManager
 import android.widget.Toast
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
+import android.content.Context
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -36,52 +38,22 @@ fun AnotacoesSection(
     audioPlayer: AndroidAudioPlayer,
     fontSizeMultiplier: Float,
     selectedLanguage: String,
-    onTimelineClick: (() -> Unit)? = null
+    onTimelineClick: (() -> Unit)? = null,
+    timelineOpened: Boolean = false
 ) {
     val context = LocalContext.current
     var selectedTab by remember { mutableStateOf(0) } // 0 = Texto, 1 = Áudio
 
-    // Estado do Texto
-    var userNotes by remember(mensagemDia.data) { mutableStateOf(mensagemDia.anotacao ?: "") }
-    val isModified = remember(userNotes, mensagemDia.anotacao) {
-        userNotes.trim() != (mensagemDia.anotacao ?: "").trim()
-    }
-
-    // Speech recognition state
-    var isListening by remember { mutableStateOf(false) }
-    var listeningFeedback by remember { mutableStateOf("") }
-
-    val speechToTextHelper = remember {
-        SpeechToTextHelper(
-            context = context,
-            onResult = { partialResult ->
-                userNotes = if (userNotes.isEmpty()) partialResult else "$userNotes $partialResult"
-            },
-            onError = { errorMsg ->
-                isListening = false
-                listeningFeedback = ""
-                Toast.makeText(context, errorMsg, Toast.LENGTH_SHORT).show()
-            },
-            onReadyForSpeech = {
-                listeningFeedback = getLocalizedString(selectedLanguage, "ouvindo")
-            },
-            onEndOfSpeech = {
-                isListening = false
-                listeningFeedback = ""
-            }
-        )
+    val prefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
+    val noteKey = "note_${mensagemDia.data}_8"
+    val note0800 = remember(mensagemDia.data, timelineOpened) {
+        prefs.getString(noteKey, "") ?: ""
     }
 
     val requestRecordPermissionLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.RequestPermission()
     ) { isGranted ->
-        if (isGranted) {
-            if (selectedTab == 0) {
-                // Modo ditado
-                isListening = true
-                speechToTextHelper.startListening()
-            }
-        } else {
+        if (!isGranted) {
             Toast.makeText(context, getLocalizedString(selectedLanguage, "permissao_negada"), Toast.LENGTH_SHORT).show()
         }
     }
@@ -115,7 +87,7 @@ fun AnotacoesSection(
             verticalAlignment = Alignment.CenterVertically,
             modifier = Modifier
                 .fillMaxWidth()
-                .padding(bottom = 12.dp)
+                .padding(bottom = 4.dp)
         ) {
             Row(
                 verticalAlignment = Alignment.CenterVertically,
@@ -137,7 +109,7 @@ fun AnotacoesSection(
                 )
             }
             if (onTimelineClick != null) {
-                IconButton(onClick = onTimelineClick) {
+                IconButton(onClick = { onTimelineClick() }) {
                     Icon(
                         imageVector = Icons.Default.DateRange,
                         contentDescription = "Abrir Agenda",
@@ -172,54 +144,38 @@ fun AnotacoesSection(
             )
         }
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(8.dp))
 
         if (selectedTab == 0) {
             // ABA TEXTO
-            Box(modifier = Modifier.fillMaxWidth()) {
+            Box(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .clickable { onTimelineClick?.invoke() }
+            ) {
                 OutlinedTextField(
-                    value = userNotes,
-                    onValueChange = { userNotes = it },
+                    value = note0800,
+                    onValueChange = {},
+                    readOnly = true,
                     placeholder = { Text(getLocalizedString(selectedLanguage, "hint_escreva")) },
                     modifier = Modifier
                         .fillMaxWidth()
                         .height(150.dp),
                     shape = RoundedCornerShape(16.dp),
                     colors = OutlinedTextFieldDefaults.colors(
-                        focusedBorderColor = MaterialTheme.colorScheme.primary,
-                        unfocusedBorderColor = MaterialTheme.colorScheme.outline
+                        focusedBorderColor = MaterialTheme.colorScheme.outline,
+                        unfocusedBorderColor = MaterialTheme.colorScheme.outline,
+                        focusedContainerColor = Color.Transparent,
+                        unfocusedContainerColor = Color.Transparent
                     ),
                     maxLines = 10
                 )
-
-                if (isListening) {
-                    Box(
-                        modifier = Modifier
-                            .fillMaxWidth()
-                            .height(150.dp)
-                            .background(Color.Black.copy(alpha = 0.6f), RoundedCornerShape(16.dp)),
-                        contentAlignment = Alignment.Center
-                    ) {
-                        Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                            Text(
-                                text = listeningFeedback,
-                                color = Color.White,
-                                style = MaterialTheme.typography.titleMedium,
-                                fontWeight = FontWeight.Bold
-                            )
-                            Spacer(modifier = Modifier.height(12.dp))
-                            Button(
-                                onClick = {
-                                    isListening = false
-                                    speechToTextHelper.stopListening()
-                                },
-                                colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.error)
-                            ) {
-                                Text(getLocalizedString(selectedLanguage, "parar"), color = Color.White)
-                            }
-                        }
-                    }
-                }
+                // Transparent overlay to catch clicks
+                Box(
+                    modifier = Modifier
+                        .matchParentSize()
+                        .clickable { onTimelineClick?.invoke() }
+                )
             }
 
             Spacer(modifier = Modifier.height(12.dp))
@@ -232,46 +188,20 @@ fun AnotacoesSection(
                 // Botão de transcrever
                 IconButton(
                     onClick = {
-                        val recordPermission = ContextCompat.checkSelfPermission(
-                            context,
-                            Manifest.permission.RECORD_AUDIO
-                        )
-                        if (recordPermission == PackageManager.PERMISSION_GRANTED) {
-                            isListening = true
-                            speechToTextHelper.startListening()
-                        } else {
-                            requestRecordPermissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
-                        }
+                        onTimelineClick?.invoke()
                     },
                     modifier = Modifier
                         .size(48.dp)
                         .background(
-                            if (isListening) MaterialTheme.colorScheme.error.copy(alpha = 0.1f)
-                            else MaterialTheme.colorScheme.primary.copy(alpha = 0.1f),
+                            MaterialTheme.colorScheme.primary.copy(alpha = 0.1f),
                             CircleShape
                         )
                 ) {
                     Icon(
-                        imageVector = if (isListening) Icons.Default.Stop else Icons.Default.Mic,
+                        imageVector = Icons.Default.Mic,
                         contentDescription = getLocalizedString(selectedLanguage, "gravar"),
-                        tint = if (isListening) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary
+                        tint = MaterialTheme.colorScheme.primary
                     )
-                }
-
-                // Botão de salvar
-                if (isModified) {
-                    Button(
-                        onClick = {
-                            onSaveAnotacao(mensagemDia, userNotes.takeIf { it.isNotBlank() })
-                            Toast.makeText(context, getLocalizedString(selectedLanguage, "sucesso_salvar"), Toast.LENGTH_SHORT).show()
-                        },
-                        shape = RoundedCornerShape(12.dp),
-                        colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.primary)
-                    ) {
-                        Icon(Icons.Default.Save, contentDescription = null, modifier = Modifier.size(16.dp))
-                        Spacer(modifier = Modifier.width(8.dp))
-                        Text(getLocalizedString(selectedLanguage, "salvar"))
-                    }
                 }
             }
         } else {
