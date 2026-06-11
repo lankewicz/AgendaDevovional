@@ -147,14 +147,12 @@ class MensagensRepository(
         try {
             if (url.isNullOrBlank()) return@withContext false
 
-            val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
-            prefs.edit().putString("selected_language", language).apply()
-
-            // Carrega mensagens atuais para mapear favoritos, anotações e áudios
-            val mensagensLocais = mensagemDao.getAllMensagensList().associateBy { parseToIsoDate(it.data) }
-
+            // 1. Baixar os dados primeiro (ponto com maior chance de falha/erro de rede)
             val jsonText = URL(url).readText()
             val jsonArray = JSONArray(jsonText)
+
+            // 2. Carrega mensagens atuais para mapear favoritos, anotações e áudios
+            val mensagensLocais = mensagemDao.getAllMensagensList().associateBy { parseToIsoDate(it.data) }
             val novasMensagens = mutableListOf<MensagemDia>()
 
             for (i in 0 until jsonArray.length()) {
@@ -181,7 +179,11 @@ class MensagensRepository(
                 )
             }
 
+            // 3. Se tudo foi processado e baixado sem erros, agora sim salvamos no banco e nas configurações
             if (novasMensagens.isNotEmpty()) {
+                val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+                prefs.edit().putString("selected_language", language).apply()
+
                 mensagemDao.deleteAll()
                 mensagemDao.insertAll(novasMensagens)
             }
