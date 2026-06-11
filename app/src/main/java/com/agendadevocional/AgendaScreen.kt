@@ -819,7 +819,7 @@ fun AgendaScreen(
                                             )
                                     ) {
                                         Icon(
-                                            imageVector = if (isSpeaking) Icons.AutoMirrored.Filled.VolumeOff else Icons.AutoMirrored.Filled.VolumeUp,
+                                            imageVector = if (isSpeaking) Icons.AutoMirrored.Filled.VolumeUp else Icons.AutoMirrored.Filled.VolumeOff,
                                             contentDescription = getLocalizedString(
                                                 selectedLanguage, 
                                                 if (isSpeaking) "desc_parar_ouvir" else "desc_ouvir"
