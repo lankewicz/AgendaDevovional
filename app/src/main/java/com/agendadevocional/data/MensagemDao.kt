@@ -35,6 +35,21 @@ interface MensagemDao {
     @Query("UPDATE mensagens SET audioPath = :audioPath WHERE data = :data")
     suspend fun updateAudioPath(data: String, audioPath: String?)
 
+    @Query("UPDATE mensagens SET anotacao = null, audioPath = null, isFavorite = 0")
+    suspend fun resetAllMensagens()
+
     @Query("SELECT * FROM mensagens WHERE isFavorite = 1")
     fun getFavorites(): Flow<List<MensagemDia>>
+
+    @Query("""
+        SELECT * FROM mensagens 
+        WHERE (:onlyFavorites = 0 OR isFavorite = 1) 
+          AND (:searchQuery IS NULL OR :searchQuery = '' 
+               OR versiculo LIKE :searchQuery 
+               OR mensagem LIKE :searchQuery 
+               OR referencia LIKE :searchQuery 
+               OR data LIKE :searchQuery)
+        ORDER BY rowid ASC
+    """)
+    fun getFilteredMensagens(searchQuery: String?, onlyFavorites: Boolean): Flow<List<MensagemDia>>
 }

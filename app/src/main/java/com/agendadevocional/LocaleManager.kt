@@ -2,9 +2,17 @@ package com.agendadevocional
 
 import android.content.Context
 import org.json.JSONObject
+import java.lang.ref.WeakReference
 
 object LocaleManager {
-    var applicationContext: Context? = null
+    private var contextRef: WeakReference<Context>? = null
+
+    var applicationContext: Context?
+        get() = contextRef?.get()
+        set(value) {
+            contextRef = value?.let { WeakReference(it.applicationContext) }
+        }
+
     private var currentLang: String? = null
     private var stringsMap: Map<String, String> = emptyMap()
 
@@ -38,3 +46,4 @@ object LocaleManager {
         return stringsMap[key] ?: key
     }
 }
+

@@ -1,6 +1,7 @@
 package com.agendadevocional
 
 import com.agendadevocional.model.MensagemDia
+import com.agendadevocional.model.TimelineNota
 import android.content.Context
 import android.widget.Toast
 import android.Manifest
@@ -18,7 +19,10 @@ import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.text.KeyboardActions
 import androidx.compose.ui.text.input.ImeAction
+import androidx.compose.ui.text.input.TextFieldValue
+import androidx.compose.ui.text.TextRange
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
@@ -26,6 +30,7 @@ import androidx.compose.foundation.pager.HorizontalPager
 import androidx.compose.foundation.pager.rememberPagerState
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.filled.*
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
@@ -60,104 +65,111 @@ fun AgendaTimelineDayPage(
     selectedLanguage: String,
     viewMode: String,
     onViewModeChange: (String) -> Unit,
-    onDateSelected: (String) -> Unit
+    onDateSelected: (String) -> Unit,
+    onShowDatePicker: () -> Unit,
+    timelineNotas: List<TimelineNota>,
+    onSaveTimelineNota: (String, Int, String) -> Unit,
+    onDeleteTimelineNota: (String, Int) -> Unit
 ) {
     val context = LocalContext.current
     val prefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
     
     val hoursList = (0..23).toList()
     
-    var showDatePicker by remember { mutableStateOf(false) }
-    val datePickerState = rememberDatePickerState(
-        initialSelectedDateMillis = System.currentTimeMillis()
-    )
 
-    if (showDatePicker) {
-        DatePickerDialog(
-            onDismissRequest = { showDatePicker = false },
-            confirmButton = {
-                TextButton(onClick = {
-                    datePickerState.selectedDateMillis?.let { millis ->
-                        val selectedIso = java.time.Instant.ofEpochMilli(millis)
-                            .atZone(java.time.ZoneOffset.UTC)
-                            .toLocalDate()
-                            .toString()
-                        onDateSelected(selectedIso)
-                    }
-                    showDatePicker = false
-                }) {
-                    Text(getLocalizedString(selectedLanguage, "confirmar"), color = MaterialTheme.colorScheme.primary)
-                }
-            },
-            dismissButton = {
-                TextButton(onClick = { showDatePicker = false }) {
-                    Text(getLocalizedString(selectedLanguage, "cancelar"), color = MaterialTheme.colorScheme.onSurface)
-                }
-            }
-        ) {
-            DatePicker(state = datePickerState)
-        }
-    }
     
     val msgIso = parseToIsoDate(mensagemDia.data)
     val isFuture = msgIso != null && msgIso > getTodayIso()
     val (displayVerse, displayReferencia, displayMensagem) = getDisplayDevotional(mensagemDia, selectedLanguage)
     val hasSavedContent = !mensagemDia.anotacao.isNullOrBlank() || !mensagemDia.audioPath.isNullOrBlank()
     
-    val dataParts = mensagemDia.data.split(" de ")
-    val dayNum = dataParts.getOrNull(0) ?: "01"
-    val monthYear = if (dataParts.size >= 3) "${dataParts[1]} ${dataParts[2]}" else mensagemDia.data
-    
-    val dayOfWeekName = if (msgIso != null) {
+    val parsedDate = if (msgIso != null) {
         try {
-            val sdfInput = java.text.SimpleDateFormat("yyyy-MM-dd", Locale.US)
-            val date = sdfInput.parse(msgIso)
-            if (date != null) {
-                val locale = when (selectedLanguage) {
-                    "en" -> Locale.US
-                    "es" -> Locale.forLanguageTag("es")
-                    else -> Locale.forLanguageTag("pt-BR")
-                }
-                val sdfOutput = java.text.SimpleDateFormat("EEEE", locale)
-                sdfOutput.format(date).replaceFirstChar { it.uppercase() }
-            } else {
-                "Sexta-feira"
-            }
+            java.time.LocalDate.parse(msgIso)
         } catch (e: Exception) {
-            "Sexta-feira"
+            null
         }
-    } else {
-        "Sexta-feira"
+    } else null
+
+    val dayNum = parsedDate?.dayOfMonth?.toString()?.padStart(2, '0') ?: "08"
+    val monthStr = parsedDate?.let {
+        val locale = when (selectedLanguage) {
+            "en" -> Locale.US
+            "es" -> Locale.forLanguageTag("es")
+            else -> Locale.forLanguageTag("pt-BR")
+        }
+        it.month.getDisplayName(java.time.format.TextStyle.FULL, locale)
+    } ?: "junho"
+    val yearStr = parsedDate?.year?.toString() ?: "2026"
+
+    val monthNum = when (monthStr.lowercase(Locale.getDefault()).trim()) {
+        "janeiro", "january", "enero", "jan" -> "01"
+        "fevereiro", "february", "febrero", "feb" -> "02"
+        "março", "march", "marzo", "mar" -> "03"
+        "abril", "april", "abr" -> "04"
+        "maio", "may", "mayo" -> "05"
+        "junho", "june", "junio", "jun" -> "06"
+        "julho", "july", "julio", "jul" -> "07"
+        "agosto", "august", "ago" -> "08"
+        "setembro", "september", "septiembre", "set", "sep" -> "09"
+        "outubro", "october", "octubre", "out", "oct" -> "10"
+        "novembro", "november", "noviembre", "nov" -> "11"
+        "dezembro", "december", "diciembre", "dez", "dec" -> "12"
+        else -> {
+            msgIso?.split("-")?.getOrNull(1) ?: "01"
+        }
+    }
+    
+    val dayOfWeekName = run {
+        val locale = when (selectedLanguage) {
+            "en" -> Locale.US
+            "es" -> Locale.forLanguageTag("es")
+            else -> Locale.forLanguageTag("pt-BR")
+        }
+        val date = if (msgIso != null) {
+            try {
+                java.text.SimpleDateFormat("yyyy-MM-dd", Locale.US).parse(msgIso)
+            } catch (e: Exception) {
+                null
+            }
+        } else null
+        
+        val targetDate = date ?: java.util.Date()
+        try {
+            java.text.SimpleDateFormat("EEEE", locale).format(targetDate).replaceFirstChar { it.uppercase() }
+        } catch (e: Exception) {
+            when (selectedLanguage) {
+                "en" -> "Friday"
+                "es" -> "Viernes"
+                else -> "Sexta-feira"
+            }
+        }
     }
 
     // Hourly notes state map
-    val hourlyNotes = remember(mensagemDia.data) { mutableStateMapOf<Int, String>() }
-    
-    LaunchedEffect(mensagemDia.data) {
-        val listToLoad = (0..23).toList()
-        listToLoad.forEach { hour ->
-            val key = "note_${mensagemDia.data}_$hour"
-            val savedValue = prefs.getString(key, "") ?: ""
-            if (savedValue.isNotEmpty()) {
-                hourlyNotes[hour] = savedValue
-            } else {
-                hourlyNotes.remove(hour)
-            }
+    val hourlyNotes = remember(mensagemDia.data, timelineNotas) {
+        val map = mutableStateMapOf<Int, String>()
+        val dataIso = parseToIsoDate(mensagemDia.data) ?: mensagemDia.data
+        timelineNotas.filter { it.data == dataIso }.forEach {
+            map[it.hora] = it.texto
         }
+        map
     }
 
     var editingHour by remember { mutableStateOf<Int?>(null) }
     var editingText by remember(editingHour, mensagemDia.data) {
-        val saved = editingHour?.let { prefs.getString("note_${mensagemDia.data}_$it", "") } ?: ""
-        mutableStateOf(saved)
+        val saved = editingHour?.let { hourlyNotes[it] } ?: ""
+        mutableStateOf(TextFieldValue(text = saved, selection = TextRange(saved.length)))
     }
 
     // Speech dictation state
     var isListening by remember { mutableStateOf(false) }
     var listeningFeedback by remember { mutableStateOf("") }
+    var initialText by remember { mutableStateOf("") }
 
     val currentOnResult by rememberUpdatedState { partialResult: String ->
-        editingText = if (editingText.isEmpty()) partialResult else "$editingText $partialResult"
+        val newText = if (initialText.isEmpty()) partialResult else "$initialText $partialResult"
+        editingText = TextFieldValue(text = newText, selection = TextRange(newText.length))
     }
     val currentOnError by rememberUpdatedState { errorMsg: String ->
         isListening = false
@@ -193,6 +205,7 @@ fun AgendaTimelineDayPage(
         contract = ActivityResultContracts.RequestPermission()
     ) { isGranted ->
         if (isGranted) {
+            initialText = editingText.text
             isListening = true
             speechToTextHelper.startListening()
         } else {
@@ -219,8 +232,8 @@ fun AgendaTimelineDayPage(
                 ) {
                     IconButton(onClick = onClose) {
                         Icon(
-                            imageVector = Icons.Default.ArrowBack,
-                            contentDescription = "Voltar",
+                            imageVector = Icons.AutoMirrored.Filled.ArrowBack,
+                            contentDescription = getLocalizedString(selectedLanguage, "desc_voltar"),
                             tint = Color.White
                         )
                     }
@@ -247,91 +260,213 @@ fun AgendaTimelineDayPage(
                 color = MaterialTheme.colorScheme.surface,
                 shadowElevation = 2.dp
             ) {
+                val configuration = androidx.compose.ui.platform.LocalConfiguration.current
+                val screenWidth = configuration.screenWidthDp
+                val isSmallScreen = screenWidth < 600
+
                 Row(
                     modifier = Modifier
                         .fillMaxWidth()
-                        .padding(horizontal = 24.dp, vertical = 16.dp),
+                        .padding(horizontal = if (isSmallScreen) 12.dp else 24.dp, vertical = 16.dp),
                     verticalAlignment = Alignment.CenterVertically
                 ) {
-                    Column(horizontalAlignment = Alignment.CenterHorizontally) {
-                        Text(
-                            text = dayNum,
-                            style = MaterialTheme.typography.displayMedium,
-                            fontWeight = FontWeight.ExtraBold,
-                            color = MaterialTheme.colorScheme.primary
-                        )
-                        Text(
-                            text = dayOfWeekName,
-                            style = MaterialTheme.typography.labelMedium.copy(fontWeight = FontWeight.Bold),
-                            color = MaterialTheme.colorScheme.primary.copy(alpha = 0.8f)
-                        )
-                    }
-                    
-                    Spacer(modifier = Modifier.width(24.dp))
-                    
-                    Column(modifier = Modifier.weight(1f)) {
-                        Text(
-                            text = monthYear,
-                            style = MaterialTheme.typography.titleLarge,
-                            fontWeight = FontWeight.Bold,
-                            color = MaterialTheme.colorScheme.onSurface
-                        )
-                        Text(
-                            text = getLocalizedString(selectedLanguage, "app_title"),
-                            style = MaterialTheme.typography.bodySmall,
-                            color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
-                        )
+                    // Date and Calendar block
+                    if (isSmallScreen) {
+                        Column(
+                            horizontalAlignment = Alignment.CenterHorizontally,
+                            modifier = Modifier
+                                .background(
+                                    color = MaterialTheme.colorScheme.primaryContainer,
+                                    shape = RoundedCornerShape(12.dp)
+                                )
+                                .clickable { onShowDatePicker() }
+                                .padding(horizontal = 14.dp, vertical = 6.dp)
+                        ) {
+                            Text(
+                                text = dayNum,
+                                style = MaterialTheme.typography.titleLarge.copy(
+                                    fontSize = 24.sp,
+                                    fontWeight = FontWeight.ExtraBold,
+                                    color = MaterialTheme.colorScheme.onPrimaryContainer
+                                )
+                            )
+                            val shortYear = if (yearStr.length >= 2) yearStr.takeLast(2) else yearStr
+                            Text(
+                                text = "$monthNum/$shortYear",
+                                style = MaterialTheme.typography.labelSmall.copy(
+                                    fontWeight = FontWeight.Bold,
+                                    fontSize = 11.sp,
+                                    color = MaterialTheme.colorScheme.primary
+                                )
+                            )
+                        }
+                    } else {
+                        Row(
+                            verticalAlignment = Alignment.CenterVertically,
+                            modifier = Modifier.clickable { onShowDatePicker() }
+                        ) {
+                            // Calendar Day Card (Increased by 30%)
+                            Column(
+                                horizontalAlignment = Alignment.CenterHorizontally,
+                                modifier = Modifier
+                                    .background(
+                                        color = MaterialTheme.colorScheme.primaryContainer,
+                                        shape = RoundedCornerShape(12.dp)
+                                    )
+                                    .padding(horizontal = 14.dp, vertical = 8.dp)
+                            ) {
+                                Text(
+                                    text = dayNum,
+                                    style = MaterialTheme.typography.titleLarge.copy(
+                                        fontSize = 36.sp,
+                                        fontWeight = FontWeight.ExtraBold,
+                                        color = MaterialTheme.colorScheme.onPrimaryContainer
+                                    )
+                                )
+                                Text(
+                                    text = dayOfWeekName.take(3).lowercase(Locale.getDefault()),
+                                    style = MaterialTheme.typography.labelSmall.copy(
+                                        fontWeight = FontWeight.Bold,
+                                        fontSize = 11.sp,
+                                        color = MaterialTheme.colorScheme.primary
+                                    )
+                                )
+                            }
+
+                            Spacer(modifier = Modifier.width(8.dp))
+
+                            // Month & Year next to the Card
+                            Column {
+                                Text(
+                                    text = monthStr.lowercase(Locale.getDefault()),
+                                    style = MaterialTheme.typography.titleLarge.copy(
+                                        fontWeight = FontWeight.Bold,
+                                        fontSize = 22.sp,
+                                        color = MaterialTheme.colorScheme.onSurface
+                                    )
+                                )
+                                Text(
+                                    text = yearStr,
+                                    style = MaterialTheme.typography.titleMedium.copy(
+                                        fontWeight = FontWeight.Bold,
+                                        fontSize = 16.sp,
+                                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.8f)
+                                    )
+                                )
+                            }
+                        }
                     }
 
-                    Row(
-                        verticalAlignment = Alignment.CenterVertically,
-                        horizontalArrangement = Arrangement.spacedBy(8.dp)
+                    Spacer(modifier = Modifier.width(if (isSmallScreen) 8.dp else 16.dp))
+
+                    // Title centered in the middle
+                    Column(
+                        modifier = Modifier.weight(1f),
+                        horizontalAlignment = Alignment.CenterHorizontally
                     ) {
-                        val isAgendaActive = viewMode == "agenda"
-                        IconButton(
-                            onClick = { onViewModeChange("agenda") },
-                            modifier = Modifier
-                                .background(
-                                    if (isAgendaActive) MaterialTheme.colorScheme.primaryContainer 
-                                    else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
-                                    RoundedCornerShape(12.dp)
+                        Text(
+                            text = if (viewMode == "notepad") {
+                                getLocalizedString(selectedLanguage, "tab_bloco_notas").uppercase()
+                            } else {
+                                getLocalizedString(selectedLanguage, "app_title").uppercase()
+                            },
+                            style = MaterialTheme.typography.titleMedium.copy(
+                                fontWeight = FontWeight.Bold,
+                                fontSize = if (isSmallScreen) 14.sp else 18.sp,
+                                letterSpacing = 1.sp
+                            ),
+                            color = MaterialTheme.colorScheme.primary,
+                            textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+                            maxLines = 2,
+                            overflow = TextOverflow.Ellipsis
+                        )
+                    }
+
+                    Spacer(modifier = Modifier.width(if (isSmallScreen) 8.dp else 16.dp))
+
+                    if (isSmallScreen) {
+                        Column(
+                            horizontalAlignment = Alignment.CenterHorizontally,
+                            verticalArrangement = Arrangement.spacedBy(4.dp)
+                        ) {
+                            val isAgendaActive = viewMode == "agenda"
+                            IconButton(
+                                onClick = { onViewModeChange("agenda") },
+                                modifier = Modifier
+                                    .size(36.dp)
+                                    .background(
+                                        if (isAgendaActive) MaterialTheme.colorScheme.primaryContainer 
+                                        else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
+                                        RoundedCornerShape(8.dp)
+                                    )
+                            ) {
+                                Icon(
+                                    imageVector = Icons.Default.Schedule,
+                                    contentDescription = getLocalizedString(selectedLanguage, "tab_agenda"),
+                                    tint = if (isAgendaActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f),
+                                    modifier = Modifier.size(20.dp)
                                 )
-                        ) {
-                            Icon(
-                                imageVector = Icons.Default.Schedule,
-                                contentDescription = getLocalizedString(selectedLanguage, "tab_agenda"),
-                                tint = if (isAgendaActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f)
-                            )
-                        }
+                            }
 
-                        val isNotepadActive = viewMode == "notepad"
-                        IconButton(
-                            onClick = { onViewModeChange("notepad") },
-                            modifier = Modifier
-                                .background(
-                                    if (isNotepadActive) MaterialTheme.colorScheme.primaryContainer 
-                                    else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
-                                    RoundedCornerShape(12.dp)
+                            val isNotepadActive = viewMode == "notepad"
+                            IconButton(
+                                onClick = { onViewModeChange("notepad") },
+                                modifier = Modifier
+                                    .size(36.dp)
+                                    .background(
+                                        if (isNotepadActive) MaterialTheme.colorScheme.primaryContainer 
+                                        else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
+                                        RoundedCornerShape(8.dp)
+                                    )
+                            ) {
+                                Icon(
+                                    imageVector = Icons.Default.Edit,
+                                    contentDescription = getLocalizedString(selectedLanguage, "tab_bloco_notas"),
+                                    tint = if (isNotepadActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f),
+                                    modifier = Modifier.size(20.dp)
                                 )
-                        ) {
-                            Icon(
-                                imageVector = Icons.Default.Edit,
-                                contentDescription = getLocalizedString(selectedLanguage, "tab_bloco_notas"),
-                                tint = if (isNotepadActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f)
-                            )
+                            }
                         }
-
-                        Spacer(modifier = Modifier.width(4.dp))
-
-                        IconButton(
-                            onClick = { showDatePicker = true },
-                            modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
+                    } else {
+                        Row(
+                            verticalAlignment = Alignment.CenterVertically,
+                            horizontalArrangement = Arrangement.spacedBy(8.dp)
                         ) {
-                            Icon(
-                                imageVector = Icons.Default.DateRange,
-                                contentDescription = "Selecionar Data",
-                                tint = MaterialTheme.colorScheme.primary
-                            )
+                            val isAgendaActive = viewMode == "agenda"
+                            IconButton(
+                                onClick = { onViewModeChange("agenda") },
+                                modifier = Modifier
+                                    .background(
+                                        if (isAgendaActive) MaterialTheme.colorScheme.primaryContainer 
+                                        else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
+                                        RoundedCornerShape(12.dp)
+                                    )
+                            ) {
+                                Icon(
+                                    imageVector = Icons.Default.Schedule,
+                                    contentDescription = getLocalizedString(selectedLanguage, "tab_agenda"),
+                                    tint = if (isAgendaActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f)
+                                )
+                            }
+
+                            val isNotepadActive = viewMode == "notepad"
+                            IconButton(
+                                onClick = { onViewModeChange("notepad") },
+                                modifier = Modifier
+                                    .background(
+                                        if (isNotepadActive) MaterialTheme.colorScheme.primaryContainer 
+                                        else MaterialTheme.colorScheme.surfaceVariant.copy(alpha = 0.5f), 
+                                        RoundedCornerShape(12.dp)
+                                    )
+                            ) {
+                                Icon(
+                                    imageVector = Icons.Default.Edit,
+                                    contentDescription = getLocalizedString(selectedLanguage, "tab_bloco_notas"),
+                                    tint = if (isNotepadActive) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f)
+                                )
+                            }
+
+                            Spacer(modifier = Modifier.width(4.dp))
                         }
                     }
                 }
@@ -385,7 +520,7 @@ fun AgendaTimelineDayPage(
                             Row(
                                 modifier = Modifier
                                     .fillMaxWidth()
-                                    .padding(horizontal = 16.dp, vertical = 8.dp),
+                                    .padding(horizontal = 16.dp, vertical = 4.dp),
                                 verticalAlignment = Alignment.Top
                               ) {
                                 // Hour Column (Left)
@@ -414,7 +549,7 @@ fun AgendaTimelineDayPage(
                                         .clickable {
                                             editingHour = hour
                                         }
-                                        .padding(horizontal = 12.dp, vertical = 8.dp)
+                                        .padding(horizontal = 12.dp, vertical = 4.dp)
                                 ) {
                                     if (editingHour == hour) {
                                         // INLINE EDIT MODE
@@ -424,52 +559,67 @@ fun AgendaTimelineDayPage(
                                         }
                                         Column(modifier = Modifier.fillMaxWidth()) {
                                             BasicTextField(
-                                                value = editingText,
-                                                onValueChange = { editingText = it },
-                                                modifier = Modifier
-                                                    .fillMaxWidth()
-                                                    .focusRequester(focusRequester),
-                                                keyboardOptions = KeyboardOptions(imeAction = ImeAction.Done),
-                                                keyboardActions = KeyboardActions(
-                                                    onDone = {
-                                                        if (isListening) {
-                                                            speechToTextHelper.stopListening()
-                                                            isListening = false
-                                                        }
-                                                        val key = "note_${mensagemDia.data}_$hour"
-                                                        if (editingText.isNotBlank()) {
-                                                            prefs.edit().putString(key, editingText.trim()).apply()
-                                                            hourlyNotes[hour] = editingText.trim()
-                                                            if (hour == 8) {
-                                                                onSaveAnotacao(mensagemDia, editingText.trim())
-                                                            }
-                                                        } else {
-                                                            prefs.edit().remove(key).apply()
-                                                            hourlyNotes.remove(hour)
-                                                            if (hour == 8) {
-                                                                onSaveAnotacao(mensagemDia, null)
-                                                            }
-                                                        }
-                                                        editingHour = null
-                                                    }
-                                                ),
-                                                textStyle = MaterialTheme.typography.bodyMedium.copy(
-                                                    color = MaterialTheme.colorScheme.onSurface,
-                                                    fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                                ),
-                                                decorationBox = { innerTextField ->
-                                                    Box(modifier = Modifier.fillMaxWidth()) {
-                                                        if (editingText.isEmpty()) {
-                                                            Text(
-                                                                text = getLocalizedString(selectedLanguage, "hint_escreva"),
-                                                                style = MaterialTheme.typography.bodyMedium,
-                                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
-                                                            )
-                                                        }
-                                                        innerTextField()
-                                                    }
-                                                }
-                                            )
+                                                 value = editingText,
+                                                 onValueChange = { editingText = it },
+                                                 modifier = Modifier
+                                                     .fillMaxWidth()
+                                                     .defaultMinSize(minHeight = 36.dp)
+                                                     .focusRequester(focusRequester)
+                                                     .onFocusChanged { focusState ->
+                                                         if (!focusState.isFocused) {
+                                                             val textToSave = editingText.text.trim()
+                                                             if (textToSave.isNotEmpty()) {
+                                                                 onSaveTimelineNota(mensagemDia.data, hour, textToSave)
+                                                                 if (hour == 8) {
+                                                                     onSaveAnotacao(mensagemDia, textToSave)
+                                                                 }
+                                                             } else {
+                                                                 onDeleteTimelineNota(mensagemDia.data, hour)
+                                                                 if (hour == 8) {
+                                                                     onSaveAnotacao(mensagemDia, null)
+                                                                 }
+                                                             }
+                                                         }
+                                                     },
+                                                 keyboardOptions = KeyboardOptions(imeAction = ImeAction.Done),
+                                                 keyboardActions = KeyboardActions(
+                                                     onDone = {
+                                                         if (isListening) {
+                                                             speechToTextHelper.stopListening()
+                                                             isListening = false
+                                                         }
+                                                         val textToSave = editingText.text.trim()
+                                                         if (textToSave.isNotEmpty()) {
+                                                             onSaveTimelineNota(mensagemDia.data, hour, textToSave)
+                                                             if (hour == 8) {
+                                                                 onSaveAnotacao(mensagemDia, textToSave)
+                                                             }
+                                                         } else {
+                                                             onDeleteTimelineNota(mensagemDia.data, hour)
+                                                             if (hour == 8) {
+                                                                 onSaveAnotacao(mensagemDia, null)
+                                                             }
+                                                         }
+                                                         editingHour = null
+                                                     }
+                                                 ),
+                                                 textStyle = MaterialTheme.typography.bodyMedium.copy(
+                                                     color = MaterialTheme.colorScheme.onSurface,
+                                                     fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
+                                                 ),
+                                                 decorationBox = { innerTextField ->
+                                                     Box(modifier = Modifier.fillMaxWidth()) {
+                                                         if (editingText.text.isEmpty()) {
+                                                             Text(
+                                                                 text = getLocalizedString(selectedLanguage, "hint_escreva"),
+                                                                 style = MaterialTheme.typography.bodyMedium,
+                                                                 color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.4f)
+                                                             )
+                                                         }
+                                                         innerTextField()
+                                                     }
+                                                 }
+                                             )
                                             
                                             if (isListening && listeningFeedback.isNotEmpty()) {
                                                 Spacer(modifier = Modifier.height(4.dp))
@@ -479,6 +629,39 @@ fun AgendaTimelineDayPage(
                                                     style = MaterialTheme.typography.labelSmall,
                                                     fontWeight = FontWeight.Bold
                                                 )
+                                            }
+
+                                            if (!isFuture) {
+                                                Spacer(modifier = Modifier.height(8.dp))
+                                                Row(
+                                                    modifier = Modifier
+                                                        .fillMaxWidth()
+                                                        .horizontalScroll(rememberScrollState()),
+                                                    horizontalArrangement = Arrangement.spacedBy(8.dp)
+                                                ) {
+                                                    val items = listOf(
+                                                         Pair(getLocalizedString(selectedLanguage, "chip_versiculo"), "$displayVerse ($displayReferencia)"),
+                                                         Pair(getLocalizedString(selectedLanguage, "chip_contexto"), mensagemDia.contexto),
+                                                         Pair(getLocalizedString(selectedLanguage, "chip_significado"), mensagemDia.significado),
+                                                         Pair(getLocalizedString(selectedLanguage, "chip_mensagem"), displayMensagem)
+                                                     )
+                                                    items.forEach { (label, value) ->
+                                                        if (value.isNotBlank()) {
+                                                            SuggestionChip(
+                                                                onClick = {
+                                                                    val newText = if (editingText.text.isEmpty()) value else "${editingText.text}\n$value"
+                                                                    editingText = TextFieldValue(text = newText, selection = TextRange(newText.length))
+                                                                },
+                                                                label = { Text(text = label, fontSize = 11.sp) },
+                                                                colors = SuggestionChipDefaults.suggestionChipColors(
+                                                                    containerColor = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.4f),
+                                                                    labelColor = MaterialTheme.colorScheme.primary
+                                                                ),
+                                                                border = null
+                                                            )
+                                                        }
+                                                    }
+                                                }
                                             }
 
                                             Spacer(modifier = Modifier.height(8.dp))
@@ -498,6 +681,7 @@ fun AgendaTimelineDayPage(
                                                                 Manifest.permission.RECORD_AUDIO
                                                             )
                                                             if (recordPermission == PackageManager.PERMISSION_GRANTED) {
+                                                                initialText = editingText.text
                                                                 isListening = true
                                                                 speechToTextHelper.startListening()
                                                             } else {
@@ -509,7 +693,7 @@ fun AgendaTimelineDayPage(
                                                 ) {
                                                     Icon(
                                                         imageVector = if (isListening) Icons.Default.Stop else Icons.Default.Mic,
-                                                        contentDescription = "Ditar",
+                                                        contentDescription = getLocalizedString(selectedLanguage, "gravar"),
                                                         tint = if (isListening) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary,
                                                         modifier = Modifier.size(20.dp)
                                                     )
@@ -522,9 +706,7 @@ fun AgendaTimelineDayPage(
                                                             speechToTextHelper.stopListening()
                                                             isListening = false
                                                         }
-                                                        val key = "note_${mensagemDia.data}_$hour"
-                                                        prefs.edit().remove(key).apply()
-                                                        hourlyNotes.remove(hour)
+                                                        onDeleteTimelineNota(mensagemDia.data, hour)
                                                         if (hour == 8) {
                                                             onSaveAnotacao(mensagemDia, null)
                                                         }
@@ -534,7 +716,7 @@ fun AgendaTimelineDayPage(
                                                 ) {
                                                     Icon(
                                                         imageVector = Icons.Default.Delete,
-                                                        contentDescription = "Excluir",
+                                                        contentDescription = getLocalizedString(selectedLanguage, "excluir_audio"),
                                                         tint = MaterialTheme.colorScheme.error,
                                                         modifier = Modifier.size(20.dp)
                                                     )
@@ -552,7 +734,7 @@ fun AgendaTimelineDayPage(
                                                 ) {
                                                     Icon(
                                                         imageVector = Icons.Default.Close,
-                                                        contentDescription = "Cancelar",
+                                                        contentDescription = getLocalizedString(selectedLanguage, "cancelar"),
                                                         tint = MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.6f),
                                                         modifier = Modifier.size(20.dp)
                                                     )
@@ -564,16 +746,14 @@ fun AgendaTimelineDayPage(
                                                             speechToTextHelper.stopListening()
                                                             isListening = false
                                                         }
-                                                        val key = "note_${mensagemDia.data}_$hour"
-                                                        if (editingText.isNotBlank()) {
-                                                            prefs.edit().putString(key, editingText.trim()).apply()
-                                                            hourlyNotes[hour] = editingText.trim()
+                                                        val textToSave = editingText.text.trim()
+                                                        if (textToSave.isNotEmpty()) {
+                                                            onSaveTimelineNota(mensagemDia.data, hour, textToSave)
                                                             if (hour == 8) {
-                                                                onSaveAnotacao(mensagemDia, editingText.trim())
+                                                                onSaveAnotacao(mensagemDia, textToSave)
                                                             }
                                                         } else {
-                                                            prefs.edit().remove(key).apply()
-                                                            hourlyNotes.remove(hour)
+                                                            onDeleteTimelineNota(mensagemDia.data, hour)
                                                             if (hour == 8) {
                                                                 onSaveAnotacao(mensagemDia, null)
                                                             }
@@ -584,7 +764,7 @@ fun AgendaTimelineDayPage(
                                                 ) {
                                                     Icon(
                                                         imageVector = Icons.Default.Check,
-                                                        contentDescription = "Confirmar",
+                                                        contentDescription = getLocalizedString(selectedLanguage, "confirmar"),
                                                         tint = MaterialTheme.colorScheme.primary,
                                                         modifier = Modifier.size(20.dp)
                                                     )
@@ -594,66 +774,7 @@ fun AgendaTimelineDayPage(
                                     } else {
                                         // READ MODE OR DEFAULT VIEW FOR THE CARD
                                         Column(modifier = Modifier.fillMaxWidth()) {
-                                            // Devotional items if applicable (displayed side-by-side or above custom notes)
-                                            when {
-                                                isContextSlot && hasSavedContent && !isFuture -> {
-                                                    Text(
-                                                        text = mensagemDia.contexto,
-                                                        style = MaterialTheme.typography.bodyMedium.copy(
-                                                            fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                                        ),
-                                                        color = MaterialTheme.colorScheme.onSurface
-                                                    )
-                                                }
-                                                isMeaningSlot && hasSavedContent && !isFuture -> {
-                                                    Text(
-                                                        text = mensagemDia.significado,
-                                                        style = MaterialTheme.typography.bodyMedium.copy(
-                                                            fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                                        ),
-                                                        color = MaterialTheme.colorScheme.onSurface
-                                                    )
-                                                }
-                                                isMessageSlot && hasSavedContent -> {
-                                                    val sectionTitle = if (isFuture) "" else getLocalizedString(selectedLanguage, "mensagem")
-                                                    if (sectionTitle.isNotEmpty()) {
-                                                        Text(
-                                                            text = sectionTitle.uppercase(),
-                                                            style = MaterialTheme.typography.labelSmall.copy(fontWeight = FontWeight.Bold),
-                                                            color = MaterialTheme.colorScheme.tertiary
-                                                        )
-                                                        Spacer(modifier = Modifier.height(4.dp))
-                                                    }
-                                                    if (isFuture) {
-                                                        if (displayMensagem.isNotEmpty()) {
-                                                            Text(
-                                                                text = displayMensagem,
-                                                                style = MaterialTheme.typography.bodyMedium.copy(
-                                                                    fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp,
-                                                                    fontStyle = FontStyle.Italic
-                                                                ),
-                                                                color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
-                                                            )
-                                                        }
-                                                    } else {
-                                                        Text(
-                                                            text = mensagemDia.mensagem,
-                                                            style = MaterialTheme.typography.bodyMedium.copy(
-                                                                fontSize = (MaterialTheme.typography.bodyMedium.fontSize.value * fontSizeMultiplier).sp
-                                                            ),
-                                                            color = MaterialTheme.colorScheme.onSurface
-                                                        )
-                                                    }
-                                                }
-                                            }
-
-                                            // Display custom notes for the slot (if there is any, otherwise show spacer or empty note placeholder)
                                             if (noteText.isNotEmpty()) {
-                                                if ((isContextSlot || isMeaningSlot || isMessageSlot) && hasSavedContent) {
-                                                    Spacer(modifier = Modifier.height(8.dp))
-                                                    HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.5f))
-                                                    Spacer(modifier = Modifier.height(4.dp))
-                                                }
                                                 Text(
                                                     text = noteText,
                                                     style = MaterialTheme.typography.bodyMedium.copy(
@@ -662,19 +783,11 @@ fun AgendaTimelineDayPage(
                                                     color = MaterialTheme.colorScheme.onSurfaceVariant
                                                 )
                                             } else {
-                                                val isShowingContent = when {
-                                                    isContextSlot && hasSavedContent -> true
-                                                    isMeaningSlot && hasSavedContent -> true
-                                                    isMessageSlot && hasSavedContent -> true
-                                                    else -> false
-                                                }
-                                                if (!isShowingContent) {
-                                                    Text(
-                                                        text = "",
-                                                        style = MaterialTheme.typography.bodyMedium,
-                                                        modifier = Modifier.height(24.dp)
-                                                    )
-                                                }
+                                                Text(
+                                                    text = "",
+                                                    style = MaterialTheme.typography.bodyMedium,
+                                                    modifier = Modifier.height(36.dp)
+                                                )
                                             }
                                         }
                                     }
@@ -687,7 +800,7 @@ fun AgendaTimelineDayPage(
                                     ) {
                                         Icon(
                                             imageVector = if (isReminderSet) Icons.Default.NotificationsActive else Icons.Default.NotificationsOff,
-                                            contentDescription = "Lembrete",
+                                            contentDescription = getLocalizedString(selectedLanguage, "config_horario"),
                                             tint = if (isReminderSet) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onBackground.copy(alpha = 0.4f)
                                         )
                                     }
@@ -697,7 +810,7 @@ fun AgendaTimelineDayPage(
                                     ) {
                                         if (isReminderSet) {
                                             DropdownMenuItem(
-                                                text = { Text(getLocalizedString(selectedLanguage, "desativar") ?: "Desativar") },
+                                                text = { Text(getLocalizedString(selectedLanguage, "desc_desativar")) },
                                                 onClick = {
                                                     prefs.edit()
                                                         .putBoolean(reminderKey, false)
@@ -712,9 +825,9 @@ fun AgendaTimelineDayPage(
                                         val offsets = listOf(0, 5, 10, 15, 30, 60)
                                         offsets.forEach { offset ->
                                             val label = when (offset) {
-                                                0 -> "No horário"
-                                                60 -> "1 hora antes"
-                                                else -> "$offset minutos antes"
+                                                0 -> getLocalizedString(selectedLanguage, "reminder_on_time")
+                                                60 -> getLocalizedString(selectedLanguage, "reminder_one_hour_before")
+                                                else -> String.format(getLocalizedString(selectedLanguage, "reminder_minutes_before"), offset)
                                             }
                                             DropdownMenuItem(
                                                 text = { Text(label) },
@@ -743,18 +856,20 @@ fun AgendaTimelineDayPage(
                 }
             } else {
                 // BLOCO DE NOTAS (Notepad) view
-                val dailyNoteKey = "note_${mensagemDia.data}_8"
-                var noteText by remember(mensagemDia.data) {
-                    mutableStateOf(prefs.getString(dailyNoteKey, "") ?: "")
+                var noteText by remember(mensagemDia.data, timelineNotas) {
+                    val dataIso = parseToIsoDate(mensagemDia.data) ?: mensagemDia.data
+                    val saved = timelineNotas.firstOrNull { it.data == dataIso && it.hora == 8 }?.texto ?: ""
+                    mutableStateOf(TextFieldValue(text = saved, selection = TextRange(saved.length)))
                 }
                 var isListeningNotepad by remember { mutableStateOf(false) }
                 var listeningFeedbackNotepad by remember { mutableStateOf("") }
+                var initialTextNotepad by remember { mutableStateOf("") }
 
                 val currentOnResultNotepad by rememberUpdatedState { partialResult: String ->
-                    noteText = if (noteText.isEmpty()) partialResult else "$noteText $partialResult"
-                    prefs.edit().putString(dailyNoteKey, noteText).apply()
-                    hourlyNotes[8] = noteText
-                    onSaveAnotacao(mensagemDia, noteText)
+                    val newText = if (initialTextNotepad.isEmpty()) partialResult else "$initialTextNotepad $partialResult"
+                    noteText = TextFieldValue(text = newText, selection = TextRange(newText.length))
+                    onSaveTimelineNota(mensagemDia.data, 8, newText)
+                    onSaveAnotacao(mensagemDia, newText)
                 }
 
                 val speechToTextHelperNotepad = remember {
@@ -777,6 +892,18 @@ fun AgendaTimelineDayPage(
                     )
                 }
 
+                val requestRecordPermissionLauncherNotepad = rememberLauncherForActivityResult(
+                    contract = ActivityResultContracts.RequestPermission()
+                ) { isGranted ->
+                    if (isGranted) {
+                        initialTextNotepad = noteText.text
+                        isListeningNotepad = true
+                        speechToTextHelperNotepad.startListening()
+                    } else {
+                        Toast.makeText(context, getLocalizedString(selectedLanguage, "permissao_negada"), Toast.LENGTH_SHORT).show()
+                    }
+                }
+
                 DisposableEffect(speechToTextHelperNotepad) {
                     onDispose {
                         speechToTextHelperNotepad.stopListening()
@@ -794,9 +921,8 @@ fun AgendaTimelineDayPage(
                         value = noteText,
                         onValueChange = { newVal ->
                             noteText = newVal
-                            prefs.edit().putString(dailyNoteKey, newVal).apply()
-                            hourlyNotes[8] = newVal
-                            onSaveAnotacao(mensagemDia, newVal)
+                            onSaveTimelineNota(mensagemDia.data, 8, newVal.text)
+                            onSaveAnotacao(mensagemDia, newVal.text)
                         },
                         placeholder = { Text(getLocalizedString(selectedLanguage, "hint_escreva")) },
                         modifier = Modifier
@@ -837,10 +963,11 @@ fun AgendaTimelineDayPage(
                                         Manifest.permission.RECORD_AUDIO
                                     )
                                     if (recordPermission == PackageManager.PERMISSION_GRANTED) {
+                                        initialTextNotepad = noteText.text
                                         isListeningNotepad = true
                                         speechToTextHelperNotepad.startListening()
                                     } else {
-                                        requestRecordPermissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
+                                        requestRecordPermissionLauncherNotepad.launch(Manifest.permission.RECORD_AUDIO)
                                     }
                                 }
                             },
@@ -859,7 +986,7 @@ fun AgendaTimelineDayPage(
                         ) {
                             Icon(
                                 imageVector = if (isListeningNotepad) Icons.Default.Stop else Icons.Default.Mic,
-                                contentDescription = "Ditar",
+                                contentDescription = getLocalizedString(selectedLanguage, "gravar"),
                                 tint = if (isListeningNotepad) MaterialTheme.colorScheme.error else MaterialTheme.colorScheme.primary,
                                 modifier = Modifier.size(28.dp)
                             )
@@ -883,15 +1010,22 @@ fun AgendaTimelineOverlay(
     audioRecorder: AndroidAudioRecorder,
     audioPlayer: AndroidAudioPlayer,
     fontSizeMultiplier: Float,
-    selectedLanguage: String
+    selectedLanguage: String,
+    timelineNotas: List<TimelineNota>,
+    onSaveTimelineNota: (String, Int, String) -> Unit,
+    onDeleteTimelineNota: (String, Int) -> Unit
 ) {
     val pagerState = rememberPagerState(
         initialPage = initialPage.coerceIn(0, mensagens.lastIndex),
         pageCount = { mensagens.size }
     )
     val coroutineScope = rememberCoroutineScope()
+    var showDatePicker by remember { mutableStateOf(false) }
+    val datePickerState = rememberDatePickerState()
     val context = LocalContext.current
     val prefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
+
+
     var viewMode by remember { mutableStateOf(prefs.getString("last_timeline_view_mode", "agenda") ?: "agenda") }
 
     LaunchedEffect(pagerState.currentPage) {
@@ -902,6 +1036,39 @@ fun AgendaTimelineOverlay(
         modifier = Modifier.fillMaxSize(),
         color = MaterialTheme.colorScheme.background
     ) {
+// Date picker dialog
+        if (showDatePicker) {
+            DatePickerDialog(
+                onDismissRequest = { showDatePicker = false },
+                confirmButton = {
+                    TextButton(onClick = {
+                        val selectedMillis = datePickerState.selectedDateMillis
+                        if (selectedMillis != null) {
+                            val selectedDate = java.time.Instant.ofEpochMilli(selectedMillis)
+                                .atZone(java.time.ZoneId.systemDefault())
+                                .toLocalDate()
+                            val selectedIso = selectedDate.format(java.time.format.DateTimeFormatter.ISO_LOCAL_DATE)
+                            val targetIndex = mensagens.indexOfFirst { parseToIsoDate(it.data) == selectedIso }
+                            if (targetIndex >= 0) {
+                                coroutineScope.launch {
+                                    pagerState.animateScrollToPage(targetIndex)
+                                }
+                            } else {
+                                Toast.makeText(context, "Data não encontrada", Toast.LENGTH_SHORT).show()
+                            }
+                        }
+                        showDatePicker = false
+                    }) { Text("OK") }
+                },
+                dismissButton = {
+                    TextButton(onClick = { showDatePicker = false }) { Text("Cancelar") }
+                }
+            ) {
+                DatePicker(state = datePickerState)
+            }
+        }
+
+        // Horizontal pager
         HorizontalPager(
             state = pagerState,
             modifier = Modifier.fillMaxSize()
@@ -930,7 +1097,11 @@ fun AgendaTimelineOverlay(
                                 pagerState.scrollToPage(index)
                             }
                         }
-                    }
+                    },
+                    onShowDatePicker = { showDatePicker = true },
+                    timelineNotas = timelineNotas,
+                    onSaveTimelineNota = onSaveTimelineNota,
+                    onDeleteTimelineNota = onDeleteTimelineNota
                 )
             }
         }

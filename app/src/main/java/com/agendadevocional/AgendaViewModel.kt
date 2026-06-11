@@ -4,9 +4,10 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.agendadevocional.data.MensagensRepository
 import com.agendadevocional.model.MensagemDia
-import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.flow.StateFlow
-import kotlinx.coroutines.flow.asStateFlow
+import com.agendadevocional.model.TimelineNota
+import com.agendadevocional.model.DataLeitura
+import kotlinx.coroutines.ExperimentalCoroutinesApi
+import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
 
 sealed class AgendaState {
@@ -15,43 +16,60 @@ sealed class AgendaState {
     data class Error(val message: String) : AgendaState()
 }
 
+@OptIn(ExperimentalCoroutinesApi::class)
 class AgendaViewModel(private val repository: MensagensRepository) : ViewModel() {
 
-    private val _uiState = MutableStateFlow<AgendaState>(AgendaState.Loading)
-    val uiState: StateFlow<AgendaState> = _uiState.asStateFlow()
+    private val _searchQuery = MutableStateFlow("")
+    val searchQuery: StateFlow<String> = _searchQuery.asStateFlow()
+
+    private val _showOnlyFavorites = MutableStateFlow(false)
+    val showOnlyFavorites: StateFlow<Boolean> = _showOnlyFavorites.asStateFlow()
+
+    val uiState: StateFlow<AgendaState> = combine(_searchQuery, _showOnlyFavorites) { query, onlyFavs ->
+        Pair(query, onlyFavs)
+    }.flatMapLatest { (query, onlyFavs) ->
+        flow {
+            // Garante o carregamento inicial/população do banco de dados na primeira execução
+            val list = repository.carregarMensagens()
+            emit(list)
+        }.flatMapLatest {
+            repository.getFilteredMensagens(query, onlyFavs)
+        }.map { list ->
+            val indexHoje = repository.indiceHoje(list)
+            AgendaState.Success(list, indexHoje) as AgendaState
+        }.catch { e ->
+            emit(AgendaState.Error(e.message ?: "Erro ao carregar mensagens"))
+        }
+    }.stateIn(
+        scope = viewModelScope,
+        started = SharingStarted.WhileSubscribed(5000),
+        initialValue = AgendaState.Loading
+    )
 
     init {
-        carregarDados()
+        viewModelScope.launch {
+            repository.limparAudiosOrfaos()
+        }
     }
 
-    fun carregarDados() {
-        viewModelScope.launch {
-            try {
-                val mensagens = repository.carregarMensagens()
-                val indexHoje = repository.indiceHoje(mensagens)
-                _uiState.value = AgendaState.Success(mensagens, indexHoje)
-                repository.limparAudiosOrfaos()
-            } catch (e: Exception) {
-                _uiState.value = AgendaState.Error(e.message ?: "Erro desconhecido ao carregar mensagens")
-            }
-        }
+    fun setSearchQuery(query: String) {
+        _searchQuery.value = query
+    }
+
+    fun setShowOnlyFavorites(onlyFavorites: Boolean) {
+        _showOnlyFavorites.value = onlyFavorites
     }
 
     fun syncData(url: String, onResult: (Boolean) -> Unit) {
         viewModelScope.launch {
             val success = repository.syncMensagens(url)
-            if (success) {
-                carregarDados()
-            }
             onResult(success)
         }
     }
 
     fun changeLanguage(language: String, url: String?, onResult: (Boolean) -> Unit) {
-        _uiState.value = AgendaState.Loading
         viewModelScope.launch {
             val success = repository.setLanguageAndLoad(language, url)
-            carregarDados()
             onResult(success)
         }
     }
@@ -59,21 +77,67 @@ class AgendaViewModel(private val repository: MensagensRepository) : ViewModel()
     fun toggleFavorite(mensagem: MensagemDia) {
         viewModelScope.launch {
             repository.toggleFavorite(mensagem)
-            carregarDados()
         }
     }
 
     fun salvarAnotacao(mensagem: MensagemDia, anotacao: String?) {
         viewModelScope.launch {
             repository.salvarAnotacao(mensagem.data, anotacao)
-            carregarDados()
         }
     }
 
     fun salvarAudioPath(mensagem: MensagemDia, audioPath: String?) {
         viewModelScope.launch {
             repository.salvarAudioPath(mensagem.data, audioPath)
-            carregarDados()
+        }
+    }
+
+    val allTimelineNotas: StateFlow<List<TimelineNota>> = repository.getAllTimelineNotasFlow()
+        .stateIn(
+            scope = viewModelScope,
+            started = SharingStarted.WhileSubscribed(5000),
+            initialValue = emptyList()
+        )
+
+    fun getNotasDoDia(data: String): Flow<List<TimelineNota>> {
+        return repository.getNotasDoDia(data)
+    }
+
+    fun salvarTimelineNota(data: String, hora: Int, texto: String) {
+        viewModelScope.launch {
+            repository.salvarTimelineNota(data, hora, texto)
+        }
+    }
+
+    fun excluirTimelineNota(data: String, hora: Int) {
+        viewModelScope.launch {
+            repository.excluirTimelineNota(data, hora)
+        }
+    }
+
+    val allLeituras: StateFlow<List<DataLeitura>> = repository.getAllLeiturasFlow()
+        .stateIn(
+            scope = viewModelScope,
+            started = SharingStarted.WhileSubscribed(5000),
+            initialValue = emptyList()
+        )
+
+    fun marcarComoLido(dataIso: String) {
+        viewModelScope.launch {
+            repository.marcarComoLido(dataIso)
+        }
+    }
+
+    fun resetAllData(onComplete: (Boolean) -> Unit) {
+        viewModelScope.launch {
+            try {
+                repository.resetAllData()
+                onComplete(true)
+            } catch (e: Exception) {
+                e.printStackTrace()
+                onComplete(false)
+            }
         }
     }
 }
+

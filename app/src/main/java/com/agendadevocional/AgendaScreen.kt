@@ -33,6 +33,8 @@ import androidx.compose.material.icons.filled.CameraAlt
 import androidx.compose.material.icons.filled.Public
 import androidx.compose.material.icons.filled.MusicVideo
 import androidx.compose.material.icons.automirrored.filled.KeyboardArrowRight
+import androidx.compose.material.icons.automirrored.filled.VolumeOff
+import androidx.compose.material.icons.automirrored.filled.VolumeUp
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.clickable
@@ -57,6 +59,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.agendadevocional.model.MensagemDia
+import com.agendadevocional.model.TimelineNota
 import kotlinx.coroutines.launch
 import androidx.compose.material.icons.filled.Mic
 import androidx.compose.material.icons.filled.Stop
@@ -86,22 +89,39 @@ import java.time.format.TextStyle
 fun AgendaScreen(
     mensagens: List<MensagemDia>,
     indexHoje: Int,
+    searchQuery: String,
+    onSearchQueryChange: (String) -> Unit,
+    showOnlyFavorites: Boolean,
+    onShowOnlyFavoritesChange: (Boolean) -> Unit,
     onSync: (String, (Boolean) -> Unit) -> Unit,
     onChangeLanguage: (String, String?, (Boolean) -> Unit) -> Unit,
     onToggleFavorite: (MensagemDia) -> Unit,
     onSaveAnotacao: (MensagemDia, String?) -> Unit,
-    onSaveAudioPath: (MensagemDia, String?) -> Unit
+    onSaveAudioPath: (MensagemDia, String?) -> Unit,
+    timelineNotas: List<TimelineNota>,
+    onSaveTimelineNota: (String, Int, String) -> Unit,
+    onDeleteTimelineNota: (String, Int) -> Unit,
+    readDates: Set<String>,
+    onMarkAsRead: (String) -> Unit,
+    onResetAllData: ((Boolean) -> Unit) -> Unit
 ) {
     val context = LocalContext.current
     LocaleManager.applicationContext = context.applicationContext
     val prefs = remember { context.getSharedPreferences("app_settings", Context.MODE_PRIVATE) }
     
+    val ttsHelper = remember { TextToSpeechHelper(context) { } }
+    var speakingData by remember { mutableStateOf<String?>(null) }
+
+    DisposableEffect(Unit) {
+        onDispose {
+            ttsHelper.release()
+        }
+    }
+
     val selectedLanguage = remember(mensagens) { prefs.getString("selected_language", "pt") ?: "pt" }
     var showLanguageDialog by remember { mutableStateOf(false) }
 
-    var searchQuery by remember { mutableStateOf("") }
     var isSearchActive by remember { mutableStateOf(false) }
-    var showOnlyFavorites by remember { mutableStateOf(false) }
     
     var showAgendaTimeline by remember { mutableStateOf(false) }
     var timelineTargetMessage by remember { mutableStateOf<MensagemDia?>(null) }
@@ -130,36 +150,17 @@ fun AgendaScreen(
 
     var showSettings by remember { mutableStateOf(false) }
     var showCopyrightDialog by remember { mutableStateOf(false) }
-    val sheetState = rememberModalBottomSheetState()
+    val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
 
-    val filteredMensagens = remember(searchQuery, showOnlyFavorites, mensagens) {
-        val results = if (searchQuery.isEmpty()) {
-            mensagens
-        } else {
-            mensagens.filter { 
-                it.versiculo.contains(searchQuery, ignoreCase = true) ||
-                it.mensagem.contains(searchQuery, ignoreCase = true) ||
-                it.referencia.contains(searchQuery, ignoreCase = true) ||
-                it.data.contains(searchQuery, ignoreCase = true)
-            }
-        }
-        
-        if (showOnlyFavorites) {
-            results.filter { it.isFavorite }
-        } else {
-            results
-        }
-    }
-
-    val safeInitialPage = if (filteredMensagens.isNotEmpty() && searchQuery.isEmpty()) {
-        indexHoje.coerceIn(0, filteredMensagens.lastIndex)
+    val safeInitialPage = if (mensagens.isNotEmpty() && searchQuery.isEmpty()) {
+        indexHoje.coerceIn(0, mensagens.lastIndex)
     } else {
         0
     }
 
     val pagerState = rememberPagerState(
         initialPage = safeInitialPage,
-        pageCount = { filteredMensagens.size }
+        pageCount = { mensagens.size }
     )
     val coroutineScope = rememberCoroutineScope()
     val accessCount = remember { prefs.getInt("access_count", 0) }
@@ -185,7 +186,7 @@ fun AgendaScreen(
 
     LaunchedEffect(Unit) {
         val todayStr = getTodayIso()
-        markDateAsRead(context, todayStr)
+        onMarkAsRead(todayStr)
     }
 
     LaunchedEffect(pagerState.currentPage) {
@@ -200,18 +201,23 @@ fun AgendaScreen(
         }
     }
 
-    LaunchedEffect(filteredMensagens.size) {
-        if (filteredMensagens.isNotEmpty() && pagerState.currentPage > filteredMensagens.lastIndex) {
-            pagerState.scrollToPage(filteredMensagens.lastIndex)
+    LaunchedEffect(mensagens.size) {
+        if (mensagens.isNotEmpty() && pagerState.currentPage > mensagens.lastIndex) {
+            pagerState.scrollToPage(mensagens.lastIndex)
         }
     }
 
-    LaunchedEffect(pendingScrollIndex, filteredMensagens.size) {
+    LaunchedEffect(pendingScrollIndex, mensagens.size) {
         val index = pendingScrollIndex
-        if (index != null && filteredMensagens.isNotEmpty()) {
-            pagerState.animateScrollToPage(index.coerceIn(0, filteredMensagens.lastIndex))
+        if (index != null && mensagens.isNotEmpty()) {
+            pagerState.animateScrollToPage(index.coerceIn(0, mensagens.lastIndex))
             pendingScrollIndex = null
         }
+    }
+
+    LaunchedEffect(pagerState.currentPage) {
+        ttsHelper.stop()
+        speakingData = null
     }
 
     LaunchedEffect(Unit) {
@@ -241,9 +247,9 @@ fun AgendaScreen(
                         }
 
                         if (index >= 0) {
-                            searchQuery = ""
+                            onSearchQueryChange("")
                             isSearchActive = false
-                            showOnlyFavorites = false
+                            onShowOnlyFavoritesChange(false)
                             pendingScrollIndex = index
                         }
                     }
@@ -396,7 +402,7 @@ fun AgendaScreen(
                     if (isSearchActive) {
                         TextField(
                             value = searchQuery,
-                            onValueChange = { searchQuery = it },
+                            onValueChange = { onSearchQueryChange(it) },
                             modifier = Modifier
                                 .weight(1f)
                                 .padding(end = 8.dp),
@@ -411,10 +417,10 @@ fun AgendaScreen(
                             singleLine = true,
                             trailingIcon = {
                                 IconButton(onClick = { 
-                                    searchQuery = ""
+                                    onSearchQueryChange("")
                                     isSearchActive = false 
                                 }) {
-                                    Icon(Icons.Default.Clear, contentDescription = "Fechar")
+                                    Icon(Icons.Default.Clear, contentDescription = getLocalizedString(selectedLanguage, "desc_fechar"))
                                 }
                             }
                         )
@@ -480,26 +486,20 @@ fun AgendaScreen(
                                 onClick = { isSearchActive = true },
                                 modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                             ) {
-                                Icon(Icons.Default.Search, contentDescription = "Buscar", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                                Icon(Icons.Default.Search, contentDescription = getLocalizedString(selectedLanguage, "desc_buscar"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
 
-                            IconButton(
-                                onClick = { showDatePicker = true },
-                                modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
-                            ) {
-                                Icon(Icons.Default.DateRange, contentDescription = "Data", tint = MaterialTheme.colorScheme.onSurfaceVariant)
-                            }
 
                             IconButton(
                                 onClick = {
-                                    searchQuery = ""
+                                    onSearchQueryChange("")
                                     isSearchActive = false
-                                    showOnlyFavorites = false
+                                    onShowOnlyFavoritesChange(false)
                                     pendingScrollIndex = indexHoje.coerceIn(0, mensagens.lastIndex)
                                 },
                                 modifier = Modifier.background(MaterialTheme.colorScheme.primaryContainer, RoundedCornerShape(12.dp))
                             ) {
-                                Icon(Icons.Default.Home, contentDescription = "Hoje", tint = MaterialTheme.colorScheme.primary)
+                                Icon(Icons.Default.Home, contentDescription = getLocalizedString(selectedLanguage, "desc_hoje"), tint = MaterialTheme.colorScheme.primary)
                             }
 
                             IconButton(
@@ -522,12 +522,12 @@ fun AgendaScreen(
                                 onClick = { showSettings = true },
                                 modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                             ) {
-                                Icon(Icons.Default.Settings, contentDescription = "Configurações", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                                Icon(Icons.Default.Settings, contentDescription = getLocalizedString(selectedLanguage, "desc_configuracoes"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
 
                             IconButton(
                                 onClick = {
-                                    val atual = filteredMensagens.getOrNull(pagerState.currentPage)
+                                    val atual = mensagens.getOrNull(pagerState.currentPage)
                                     if (atual != null) {
                                         val (v, r, m) = getDisplayDevotional(atual, selectedLanguage)
                                         val textoCompartilhar = buildString {
@@ -549,7 +549,7 @@ fun AgendaScreen(
                                 },
                                 modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                             ) {
-                                Icon(Icons.Default.Share, contentDescription = "Compartilhar", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                                Icon(Icons.Default.Share, contentDescription = getLocalizedString(selectedLanguage, "desc_compartilhar"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                             }
                         }
                     }
@@ -629,26 +629,20 @@ fun AgendaScreen(
                             onClick = { isSearchActive = true },
                             modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                         ) {
-                            Icon(Icons.Default.Search, contentDescription = "Buscar", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Icon(Icons.Default.Search, contentDescription = getLocalizedString(selectedLanguage, "desc_buscar"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
 
-                        IconButton(
-                            onClick = { showDatePicker = true },
-                            modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
-                        ) {
-                            Icon(Icons.Default.DateRange, contentDescription = "Data", tint = MaterialTheme.colorScheme.onSurfaceVariant)
-                        }
 
                         IconButton(
                             onClick = {
-                                searchQuery = ""
+                                onSearchQueryChange("")
                                 isSearchActive = false
-                                showOnlyFavorites = false
+                                onShowOnlyFavoritesChange(false)
                                 pendingScrollIndex = indexHoje.coerceIn(0, mensagens.lastIndex)
                             },
                             modifier = Modifier.background(MaterialTheme.colorScheme.primaryContainer, RoundedCornerShape(12.dp))
                         ) {
-                            Icon(Icons.Default.Home, contentDescription = "Hoje", tint = MaterialTheme.colorScheme.primary)
+                            Icon(Icons.Default.Home, contentDescription = getLocalizedString(selectedLanguage, "desc_hoje"), tint = MaterialTheme.colorScheme.primary)
                         }
 
                         IconButton(
@@ -671,12 +665,12 @@ fun AgendaScreen(
                             onClick = { showSettings = true },
                             modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                         ) {
-                            Icon(Icons.Default.Settings, contentDescription = "Configurações", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Icon(Icons.Default.Settings, contentDescription = getLocalizedString(selectedLanguage, "desc_configuracoes"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
 
                         IconButton(
                             onClick = {
-                                val atual = filteredMensagens.getOrNull(pagerState.currentPage)
+                                val atual = mensagens.getOrNull(pagerState.currentPage)
                                 if (atual != null) {
                                     val (v, r, m) = getDisplayDevotional(atual, selectedLanguage)
                                     val textoCompartilhar = buildString {
@@ -698,14 +692,14 @@ fun AgendaScreen(
                             },
                             modifier = Modifier.background(MaterialTheme.colorScheme.surfaceVariant, RoundedCornerShape(12.dp))
                         ) {
-                            Icon(Icons.Default.Share, contentDescription = "Compartilhar", tint = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Icon(Icons.Default.Share, contentDescription = getLocalizedString(selectedLanguage, "desc_compartilhar"), tint = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                     }
                 }
             }
 
             // Pager with elegant cards
-            if (filteredMensagens.isEmpty()) {
+            if (mensagens.isEmpty()) {
                 Box(
                     modifier = Modifier
                         .fillMaxWidth()
@@ -728,8 +722,8 @@ fun AgendaScreen(
                 pageSpacing = 16.dp,
                 contentPadding = PaddingValues(horizontal = 4.dp)
             ) { page ->
-                if (page < filteredMensagens.size) {
-                    val mensagemDia = filteredMensagens[page]
+                if (page < mensagens.size) {
+                    val mensagemDia = mensagens[page]
                     val msgIso = parseToIsoDate(mensagemDia.data)
                     val isFuture = msgIso != null && msgIso > getTodayIso()
                     val (displayVerse, displayReferencia, displayMensagem) = getDisplayDevotional(mensagemDia, selectedLanguage)
@@ -768,6 +762,7 @@ fun AgendaScreen(
                                             MaterialTheme.colorScheme.primary.copy(alpha = 0.3f),
                                             RoundedCornerShape(16.dp)
                                         )
+                                        .clickable { showDatePicker = true }
                                 ) {
                                     Text(
                                         text = mensagemDia.data.uppercase(),
@@ -784,6 +779,56 @@ fun AgendaScreen(
                                     verticalAlignment = Alignment.CenterVertically,
                                     horizontalArrangement = Arrangement.spacedBy(8.dp)
                                 ) {
+                                    // TTS Read Aloud Toggle
+                                    val isSpeaking = speakingData == mensagemDia.data
+                                    IconButton(
+                                        onClick = {
+                                            if (isSpeaking) {
+                                                ttsHelper.stop()
+                                                speakingData = null
+                                            } else {
+                                                val (displayVerse, displayReferencia, displayMensagem) = getDisplayDevotional(mensagemDia, selectedLanguage)
+                                                val ttsText = when (selectedLanguage) {
+                                                    "en" -> "Verse: $displayVerse. Reference: $displayReferencia. Message: $displayMensagem."
+                                                    "es" -> "Versículo: $displayVerse. Referencia: $displayReferencia. Mensaje: $displayMensagem."
+                                                    else -> "Versículo: $displayVerse. Referência: $displayReferencia. Mensagem: $displayMensagem."
+                                                }
+                                                speakingData = mensagemDia.data
+                                                val result = ttsHelper.speak(
+                                                    text = ttsText,
+                                                    language = selectedLanguage,
+                                                    onStart = { speakingData = mensagemDia.data },
+                                                    onDone = { speakingData = null }
+                                                )
+                                                if (result != 1) {
+                                                    speakingData = null
+                                                    val errorKey = when (result) {
+                                                        -1 -> "erro_tts_inicializacao"
+                                                        -2 -> "erro_tts_idioma"
+                                                        else -> "erro_tts_geral"
+                                                    }
+                                                    Toast.makeText(context, getLocalizedString(selectedLanguage, errorKey), Toast.LENGTH_LONG).show()
+                                                }
+                                            }
+                                        },
+                                        modifier = Modifier
+                                            .size(40.dp)
+                                            .background(
+                                                if (isSpeaking) MaterialTheme.colorScheme.primary.copy(alpha = 0.15f) else Color.Transparent,
+                                                CircleShape
+                                            )
+                                    ) {
+                                        Icon(
+                                            imageVector = if (isSpeaking) Icons.AutoMirrored.Filled.VolumeOff else Icons.AutoMirrored.Filled.VolumeUp,
+                                            contentDescription = getLocalizedString(
+                                                selectedLanguage, 
+                                                if (isSpeaking) "desc_parar_ouvir" else "desc_ouvir"
+                                            ),
+                                            tint = if (isSpeaking) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
+                                            modifier = Modifier.size(28.dp)
+                                        )
+                                    }
+
                                     // Favorite Toggle
                                     IconButton(
                                         onClick = { onToggleFavorite(mensagemDia) },
@@ -799,7 +844,7 @@ fun AgendaScreen(
                                     ) {
                                         Icon(
                                             imageVector = if (mensagemDia.isFavorite) Icons.Default.Favorite else Icons.Default.FavoriteBorder,
-                                            contentDescription = "Favoritar",
+                                            contentDescription = getLocalizedString(selectedLanguage, "desc_favoritar"),
                                             tint = if (mensagemDia.isFavorite) Color.Red else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.5f),
                                             modifier = Modifier.size(28.dp)
                                         )
@@ -841,7 +886,7 @@ fun AgendaScreen(
                                                 },
                                                 modifier = Modifier.size(36.dp).background(MaterialTheme.colorScheme.surfaceVariant, CircleShape)
                                             ) {
-                                                Icon(Icons.Default.MusicNote, contentDescription = "Mídia", tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(20.dp))
+                                                 Icon(Icons.Default.MusicNote, contentDescription = getLocalizedString(selectedLanguage, "tab_mensagem_voz"), tint = MaterialTheme.colorScheme.primary, modifier = Modifier.size(20.dp))
                                             }
                                         }
                                     }
@@ -951,7 +996,8 @@ fun AgendaScreen(
                                     timelineTargetMessage = mensagemDia
                                     showAgendaTimeline = true
                                 },
-                                timelineOpened = showAgendaTimeline
+                                timelineOpened = showAgendaTimeline,
+                                timelineNotas = timelineNotas
                             )
                         }
                     }
@@ -960,8 +1006,8 @@ fun AgendaScreen(
         }
 
             // Progress indicator (subtle)
-            if (filteredMensagens.isNotEmpty()) {
-                val stats = remember { getAssiduidadeStats(context) }
+            if (mensagens.isNotEmpty()) {
+                val stats = remember(readDates) { getAssiduidadeStats(readDates) }
                 Row(
                     modifier = Modifier
                         .align(Alignment.CenterHorizontally)
@@ -970,7 +1016,7 @@ fun AgendaScreen(
                     horizontalArrangement = Arrangement.Center
                 ) {
                     Text(
-                        text = "${pagerState.currentPage + 1} / ${filteredMensagens.size}",
+                        text = "${pagerState.currentPage + 1} / ${mensagens.size}",
                         style = MaterialTheme.typography.labelSmall,
                         color = MaterialTheme.colorScheme.onBackground.copy(alpha = 0.4f)
                     )
@@ -1074,7 +1120,7 @@ fun AgendaScreen(
                     },
                     onSync = onSync,
                     showOnlyFavorites = showOnlyFavorites,
-                    onShowOnlyFavoritesChange = { showOnlyFavorites = it },
+                    onShowOnlyFavoritesChange = onShowOnlyFavoritesChange,
                     selectedLanguage = selectedLanguage,
                     onChangeLanguageClick = {
                         showSettings = false
@@ -1085,16 +1131,19 @@ fun AgendaScreen(
                         themeStyle = it
                         prefs.edit().putString("theme_style", it).apply()
                     },
-                    mensagens = mensagens
+                    mensagens = mensagens,
+                    timelineNotas = timelineNotas,
+                    readDates = readDates,
+                    onResetAllData = onResetAllData
                 )
             }
         }
         if (showAgendaTimeline && timelineTargetMessage != null) {
             AgendaTimelineOverlay(
-                mensagens = filteredMensagens,
-                initialPage = filteredMensagens.indexOfFirst { it.data == timelineTargetMessage?.data }.coerceAtLeast(0),
+                mensagens = mensagens,
+                initialPage = mensagens.indexOfFirst { it.data == timelineTargetMessage?.data }.coerceAtLeast(0),
                 onPageChanged = { newPage ->
-                    val nextMsg = filteredMensagens.getOrNull(newPage)
+                    val nextMsg = mensagens.getOrNull(newPage)
                     if (nextMsg != null) {
                         timelineTargetMessage = nextMsg
                         coroutineScope.launch {
@@ -1110,7 +1159,10 @@ fun AgendaScreen(
                 audioRecorder = audioRecorder,
                 audioPlayer = audioPlayer,
                 fontSizeMultiplier = fontSizeMultiplier,
-                selectedLanguage = selectedLanguage
+                selectedLanguage = selectedLanguage,
+                timelineNotas = timelineNotas,
+                onSaveTimelineNota = onSaveTimelineNota,
+                onDeleteTimelineNota = onDeleteTimelineNota
             )
         }
     }
@@ -1285,16 +1337,6 @@ fun parseToIsoDate(dataStr: String): String? {
     return null
 }
 
-fun markDateAsRead(context: Context, isoDate: String) {
-    val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
-    val readDates = prefs.getStringSet("read_dates", emptySet())?.toMutableSet() ?: mutableSetOf()
-    if (readDates.add(isoDate)) {
-        prefs.edit().putStringSet("read_dates", readDates).apply()
-    }
-}
-
-
-
 fun getLocalizedString(lang: String, key: String): String {
     return LocaleManager.getLocalizedString(lang, key)
 }
@@ -1332,7 +1374,7 @@ fun getDisplayDevotional(mensagemDia: MensagemDia, selectedLanguage: String): Tr
     val msg = if (isTomorrow) {
         getLocalizedString(selectedLanguage, "tomorrow_devotional_msg")
     } else {
-        ""
+        getLocalizedString(selectedLanguage, "future_devotional_msg")
     }
     return Triple(v, r, msg)
 }

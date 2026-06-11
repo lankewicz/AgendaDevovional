@@ -10,11 +10,19 @@ import java.util.Date
 import java.util.Locale
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
+import kotlinx.coroutines.flow.Flow
 
 class MensagensRepository(
     private val context: Context,
-    private val mensagemDao: MensagemDao
+    private val mensagemDao: MensagemDao,
+    private val timelineNotaDao: TimelineNotaDao,
+    private val dataLeituraDao: DataLeituraDao
 ) {
+
+    fun getFilteredMensagens(query: String?, onlyFavorites: Boolean): Flow<List<MensagemDia>> {
+        val formattedQuery = if (query.isNullOrBlank()) null else "%$query%"
+        return mensagemDao.getFilteredMensagens(formattedQuery, onlyFavorites)
+    }
 
     private fun parseMonthStr(monthStr: String): Int? {
         val clean = monthStr.trim().lowercase()
@@ -62,39 +70,9 @@ class MensagensRepository(
     }
 
     suspend fun carregarMensagens(): List<MensagemDia> = withContext(Dispatchers.IO) {
-        var lista = mensagemDao.getAllMensagensList()
-        
-        if (lista.isEmpty()) {
-            lista = carregarMensagensDoJson()
-            if (lista.isNotEmpty()) {
-                mensagemDao.insertAll(lista)
-            }
-        }
-        
-        return@withContext lista
-    }
-
-    private fun carregarMensagensDoJson(): List<MensagemDia> {
-        val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
-        val lang = prefs.getString("selected_language", "pt") ?: "pt"
-        val assetName = when (lang) {
-            "en" -> "agenda_en.json"
-            "es" -> "agenda_es.json"
-            else -> "agenda_pt.json"
-        }
-
-        val jsonText = try {
-            val file = File(context.filesDir, "updated_agenda.json")
-            if (file.exists()) {
-                file.readText()
-            } else {
-                context.assets.open(assetName).bufferedReader().use { it.readText() }
-            }
-        } catch (e: Exception) {
-            context.assets.open(assetName).bufferedReader().use { it.readText() }
-        }
-
-        return parseJsonText(jsonText)
+        migrarSharedPreferencesParaRoom()
+        migrarAssiduidadeParaRoom()
+        return@withContext mensagemDao.getAllMensagensList()
     }
 
     private fun parseJsonText(jsonText: String): List<MensagemDia> {
@@ -158,9 +136,6 @@ class MensagensRepository(
                 mensagemDao.deleteAll()
                 mensagemDao.insertAll(novasMensagens)
             }
-            
-            val file = File(context.filesDir, "updated_agenda.json")
-            file.writeText(jsonText)
             true
         } catch (e: Exception) {
             e.printStackTrace()
@@ -170,35 +145,15 @@ class MensagensRepository(
 
     suspend fun setLanguageAndLoad(language: String, url: String?): Boolean = withContext(Dispatchers.IO) {
         try {
+            if (url.isNullOrBlank()) return@withContext false
+
             val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
             prefs.edit().putString("selected_language", language).apply()
-
-            val assetName = when (language) {
-                "en" -> "agenda_en.json"
-                "es" -> "agenda_es.json"
-                else -> "agenda_pt.json"
-            }
 
             // Carrega mensagens atuais para mapear favoritos, anotações e áudios
             val mensagensLocais = mensagemDao.getAllMensagensList().associateBy { parseToIsoDate(it.data) }
 
-            val jsonText: String
-            val file = File(context.filesDir, "updated_agenda.json")
-
-            if (!url.isNullOrBlank()) {
-                jsonText = try {
-                    URL(url).readText()
-                } catch (e: Exception) {
-                    context.assets.open(assetName).bufferedReader().use { it.readText() }
-                }
-                file.writeText(jsonText)
-            } else {
-                jsonText = context.assets.open(assetName).bufferedReader().use { it.readText() }
-                if (file.exists()) {
-                    file.delete()
-                }
-            }
-
+            val jsonText = URL(url).readText()
             val jsonArray = JSONArray(jsonText)
             val novasMensagens = mutableListOf<MensagemDia>()
 
@@ -277,6 +232,115 @@ class MensagensRepository(
         } catch (e: Exception) {
             e.printStackTrace()
         }
+    }
+
+    fun getNotasDoDia(data: String): Flow<List<com.agendadevocional.model.TimelineNota>> {
+        val dataIso = parseToIsoDate(data) ?: data
+        return timelineNotaDao.getNotasDoDia(dataIso)
+    }
+
+    fun getAllTimelineNotasFlow(): Flow<List<com.agendadevocional.model.TimelineNota>> {
+        return timelineNotaDao.getAllTimelineNotasFlow()
+    }
+
+    suspend fun salvarTimelineNota(data: String, hora: Int, texto: String) = withContext(Dispatchers.IO) {
+        val dataIso = parseToIsoDate(data) ?: data
+        timelineNotaDao.insertOrUpdate(com.agendadevocional.model.TimelineNota(dataIso, hora, texto))
+    }
+
+    suspend fun excluirTimelineNota(data: String, hora: Int) = withContext(Dispatchers.IO) {
+        val dataIso = parseToIsoDate(data) ?: data
+        timelineNotaDao.deleteNota(dataIso, hora)
+    }
+
+    private suspend fun migrarSharedPreferencesParaRoom() {
+        val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        val migrated = prefs.getBoolean("timeline_notes_migrated_v4", false)
+        if (!migrated) {
+            try {
+                val allEntries = prefs.all
+                val notesToInsert = mutableListOf<com.agendadevocional.model.TimelineNota>()
+                val keysToRemove = mutableListOf<String>()
+
+                for ((key, value) in allEntries) {
+                    if (key.startsWith("note_") && value is String && value.isNotEmpty()) {
+                        val parts = key.split("_")
+                        if (parts.size >= 3) {
+                            val hourStr = parts.last()
+                            val hour = hourStr.toIntOrNull()
+                            if (hour != null) {
+                                val data = parts.subList(1, parts.size - 1).joinToString("_")
+                                val dataIso = parseToIsoDate(data) ?: data
+                                notesToInsert.add(com.agendadevocional.model.TimelineNota(dataIso, hour, value))
+                                keysToRemove.add(key)
+                            }
+                        }
+                    }
+                }
+
+                if (notesToInsert.isNotEmpty()) {
+                    timelineNotaDao.insertAll(notesToInsert)
+                }
+
+                if (keysToRemove.isNotEmpty()) {
+                    val editor = prefs.edit()
+                    keysToRemove.forEach { editor.remove(it) }
+                    editor.apply()
+                }
+
+                prefs.edit().putBoolean("timeline_notes_migrated_v4", true).apply()
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
+
+    fun getAllLeiturasFlow(): Flow<List<com.agendadevocional.model.DataLeitura>> {
+        return dataLeituraDao.getAllLeiturasFlow()
+    }
+
+    suspend fun marcarComoLido(dataIso: String) = withContext(Dispatchers.IO) {
+        dataLeituraDao.marcarComoLido(com.agendadevocional.model.DataLeitura(dataIso))
+    }
+
+    private suspend fun migrarAssiduidadeParaRoom() {
+        val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        val migrated = prefs.getBoolean("read_dates_migrated_v5", false)
+        if (!migrated) {
+            try {
+                val readDates = prefs.getStringSet("read_dates", emptySet()) ?: emptySet()
+                if (readDates.isNotEmpty()) {
+                    val listToInsert = readDates.map { com.agendadevocional.model.DataLeitura(it) }
+                    dataLeituraDao.insertAll(listToInsert)
+                }
+                prefs.edit().remove("read_dates").putBoolean("read_dates_migrated_v5", true).apply()
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
+
+    suspend fun resetAllData() = withContext(Dispatchers.IO) {
+        timelineNotaDao.deleteAll()
+        dataLeituraDao.deleteAll()
+        mensagemDao.resetAllMensagens()
+
+        // physically delete all recorded audio files (.m4a) in filesDir
+        try {
+            val filesDir = context.filesDir
+            val arquivosNoDisco = filesDir.listFiles { _, name ->
+                name.startsWith("audio_reflection_") && name.endsWith(".m4a")
+            } ?: emptyArray()
+            for (arquivo in arquivosNoDisco) {
+                arquivo.delete()
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+
+        // remove legacy read_dates keys in shared preferences if any exist
+        val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        prefs.edit().remove("read_dates").apply()
     }
 }
 

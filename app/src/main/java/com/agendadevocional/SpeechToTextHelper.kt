@@ -33,9 +33,6 @@ class SpeechToTextHelper(
     private val recognizerIntent: Intent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
         putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
         putExtra(RecognizerIntent.EXTRA_PARTIAL_RESULTS, true)
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            putExtra(RecognizerIntent.EXTRA_PREFER_OFFLINE, true)
-        }
     }
 
     private val listener = object : RecognitionListener {
@@ -103,12 +100,7 @@ class SpeechToTextHelper(
                 if (SpeechRecognizer.isRecognitionAvailable(context)) {
                     val preparingMsg = LocaleManager.getLocalizedString(lang, "preparando_voz")
                     onPreparing(preparingMsg)
-
-                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-                        checkAndStart(lang, langTag)
-                    } else {
-                        createAndStart()
-                    }
+                    createAndStart()
                 } else {
                     val msg = LocaleManager.getLocalizedString(lang, "reconhecimento_indisponivel")
                     onError(msg)
@@ -117,36 +109,6 @@ class SpeechToTextHelper(
                 val format = LocaleManager.getLocalizedString(lang, "falha_inicializar_gravador")
                 onError(String.format(format, e.message ?: ""))
             }
-        }
-    }
-
-    private fun checkAndStart(lang: String, langTag: String) {
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-            val recognizer = SpeechRecognizer.createSpeechRecognizer(context)
-            recognizer.checkRecognitionSupport(
-                recognizerIntent,
-                Executors.newSingleThreadExecutor(),
-                object : RecognitionSupportCallback {
-                    override fun onSupportResult(recognitionSupport: RecognitionSupport) {
-                        val isInstalled = recognitionSupport.installedOnDeviceLanguages.contains(langTag)
-                        val isPending = recognitionSupport.pendingOnDeviceLanguages.contains(langTag)
-                        recognizer.destroy()
-                        handler.post {
-                            if (isPending || !isInstalled) {
-                                val downloadingMsg = LocaleManager.getLocalizedString(lang, "baixando_modelos")
-                                onPreparing(downloadingMsg)
-                                android.widget.Toast.makeText(context, downloadingMsg, android.widget.Toast.LENGTH_LONG).show()
-                            }
-                            createAndStart()
-                        }
-                    }
-
-                    override fun onError(error: Int) {
-                        recognizer.destroy()
-                        handler.post { createAndStart() }
-                    }
-                }
-            )
         }
     }
 

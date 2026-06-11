@@ -8,6 +8,8 @@ import androidx.activity.compose.setContent
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
+import androidx.compose.ui.unit.dp
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -43,11 +45,12 @@ class MainActivity : ComponentActivity() {
 
         // Inicializar URLs de sincronização padrão se necessário
         val prefs = getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        val currentYear = java.util.Calendar.getInstance().get(java.util.Calendar.YEAR)
         if (!prefs.contains("sync_url_pt")) {
             prefs.edit()
-                .putString("sync_url_pt", "https://raw.githubusercontent.com/usuario/repo/main/agenda.json")
-                .putString("sync_url_en", "https://raw.githubusercontent.com/usuario/repo/main/agenda_en.json")
-                .putString("sync_url_es", "https://raw.githubusercontent.com/usuario/repo/main/agenda_es.json")
+                .putString("sync_url_pt", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_pt.json")
+                .putString("sync_url_en", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_en.json")
+                .putString("sync_url_es", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_es.json")
                 .apply()
         }
 
@@ -63,7 +66,7 @@ class MainActivity : ComponentActivity() {
         }
 
         val database = com.agendadevocional.data.AppDatabase.getDatabase(this)
-        val repo = MensagensRepository(this, database.mensagemDao())
+        val repo = MensagensRepository(this, database.mensagemDao(), database.timelineNotaDao(), database.dataLeituraDao())
         val viewModel: AgendaViewModel by viewModels { AgendaViewModelFactory(repo) }
 
         setContent {
@@ -81,31 +84,6 @@ class MainActivity : ComponentActivity() {
                 var selectedLanguage by remember { mutableStateOf(currentPrefs.getString("selected_language", null)) }
                 var isDownloading by remember { mutableStateOf(false) }
 
-                LaunchedEffect(selectedLanguage) {
-                    selectedLanguage?.let { lang ->
-                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
-                            try {
-                                if (SpeechRecognizer.isRecognitionAvailable(context)) {
-                                    val langTag = when (lang) {
-                                        "en" -> "en-US"
-                                        "es" -> "es-ES"
-                                        else -> "pt-BR"
-                                    }
-                                    val triggerIntent = Intent(RecognizerIntent.ACTION_RECOGNIZE_SPEECH).apply {
-                                        putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL, RecognizerIntent.LANGUAGE_MODEL_FREE_FORM)
-                                        putExtra(RecognizerIntent.EXTRA_LANGUAGE, langTag)
-                                    }
-                                    val recognizer = SpeechRecognizer.createSpeechRecognizer(context)
-                                    recognizer.triggerModelDownload(triggerIntent)
-                                    recognizer.destroy()
-                                }
-                            } catch (e: Throwable) {
-                                e.printStackTrace()
-                            }
-                        }
-                    }
-                }
-
                 if (showSplash) {
                     SplashScreen(onSplashFinished = { showSplash = false })
                 } else if (selectedLanguage == null) {
@@ -113,10 +91,11 @@ class MainActivity : ComponentActivity() {
                         isDownloading = isDownloading,
                         onLanguageSelected = { lang ->
                             isDownloading = true
+                            val currentYear = java.util.Calendar.getInstance().get(java.util.Calendar.YEAR)
                             val url = when (lang) {
-                                "en" -> currentPrefs.getString("sync_url_en", "https://raw.githubusercontent.com/usuario/repo/main/agenda_en.json")
-                                "es" -> currentPrefs.getString("sync_url_es", "https://raw.githubusercontent.com/usuario/repo/main/agenda_es.json")
-                                "pt" -> currentPrefs.getString("sync_url_pt", "https://raw.githubusercontent.com/usuario/repo/main/agenda.json")
+                                "en" -> currentPrefs.getString("sync_url_en", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_en.json")
+                                "es" -> currentPrefs.getString("sync_url_es", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_es.json")
+                                "pt" -> currentPrefs.getString("sync_url_pt", "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_pt.json")
                                 else -> null
                             }
                             viewModel.changeLanguage(lang, url) { success ->
@@ -155,19 +134,69 @@ class MainActivity : ComponentActivity() {
                                 }
                             }
                             is AgendaState.Success -> {
-                                if (s.mensagens.isEmpty()) {
-                                    Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                                        val lang = selectedLanguage ?: "pt"
-                                        val noMsg = LocaleManager.getLocalizedString(lang, "nenhuma_mensagem")
-                                        Text(
-                                            noMsg, 
-                                            color = MaterialTheme.colorScheme.onBackground
-                                        )
-                                    }
-                                } else {
+                                val searchQuery by viewModel.searchQuery.collectAsState()
+                                val showOnlyFavorites by viewModel.showOnlyFavorites.collectAsState()
+                                val timelineNotas by viewModel.allTimelineNotas.collectAsState()
+                                val readDatesList by viewModel.allLeituras.collectAsState()
+                                val readDatesSet = remember(readDatesList) { readDatesList.map { it.dataIso }.toSet() }
+
+                                 if (s.mensagens.isEmpty() && searchQuery.isEmpty() && !showOnlyFavorites) {
+                                     val lang = selectedLanguage ?: "pt"
+                                     var isSyncingInicial by remember { mutableStateOf(false) }
+                                     Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                                         androidx.compose.foundation.layout.Column(
+                                             horizontalAlignment = Alignment.CenterHorizontally,
+                                             verticalArrangement = androidx.compose.foundation.layout.Arrangement.Center,
+                                             modifier = Modifier.padding(24.dp)
+                                         ) {
+                                             Text(
+                                                 text = LocaleManager.getLocalizedString(lang, "nenhuma_mensagem"),
+                                                 color = MaterialTheme.colorScheme.onBackground,
+                                                 textAlign = androidx.compose.ui.text.style.TextAlign.Center,
+                                                 modifier = Modifier.padding(bottom = 16.dp)
+                                             )
+                                             if (isSyncingInicial) {
+                                                 CircularProgressIndicator(color = MaterialTheme.colorScheme.primary)
+                                             } else {
+                                                 androidx.compose.material3.Button(
+                                                     onClick = {
+                                                         isSyncingInicial = true
+                                                         val currentYear = java.util.Calendar.getInstance().get(java.util.Calendar.YEAR)
+                                                         val urlKey = when (lang) {
+                                                             "en" -> "sync_url_en"
+                                                             "es" -> "sync_url_es"
+                                                             else -> "sync_url_pt"
+                                                         }
+                                                         val defaultUrl = when (lang) {
+                                                             "en" -> "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_en.json"
+                                                             "es" -> "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_es.json"
+                                                             else -> "https://lankewicz.github.io/AgendaDevovional/dados/agenda_${currentYear}_pt.json"
+                                                         }
+                                                         val url = currentPrefs.getString(urlKey, defaultUrl) ?: defaultUrl
+                                                         viewModel.syncData(url) { success ->
+                                                             isSyncingInicial = false
+                                                             if (success) {
+                                                                 Toast.makeText(context, LocaleManager.getLocalizedString(lang, "devocional_atualizado"), Toast.LENGTH_SHORT).show()
+                                                             } else {
+                                                                 Toast.makeText(context, LocaleManager.getLocalizedString(lang, "erro_sincronizacao"), Toast.LENGTH_LONG).show()
+                                                             }
+                                                         }
+                                                     },
+                                                     shape = androidx.compose.foundation.shape.RoundedCornerShape(8.dp)
+                                                 ) {
+                                                     Text(LocaleManager.getLocalizedString(lang, "sincronizar"))
+                                                 }
+                                             }
+                                         }
+                                     }
+                                 } else {
                                     AgendaScreen(
                                         mensagens = s.mensagens,
                                         indexHoje = s.indexHoje,
+                                        searchQuery = searchQuery,
+                                        onSearchQueryChange = { viewModel.setSearchQuery(it) },
+                                        showOnlyFavorites = showOnlyFavorites,
+                                        onShowOnlyFavoritesChange = { viewModel.setShowOnlyFavorites(it) },
                                         onSync = { url, callback -> viewModel.syncData(url, callback) },
                                         onChangeLanguage = { lang, url, callback -> 
                                             viewModel.changeLanguage(lang, url) { success ->
@@ -180,7 +209,13 @@ class MainActivity : ComponentActivity() {
                                         },
                                         onToggleFavorite = { viewModel.toggleFavorite(it) },
                                         onSaveAnotacao = { msg, text -> viewModel.salvarAnotacao(msg, text) },
-                                        onSaveAudioPath = { msg, path -> viewModel.salvarAudioPath(msg, path) }
+                                        onSaveAudioPath = { msg, path -> viewModel.salvarAudioPath(msg, path) },
+                                        timelineNotas = timelineNotas,
+                                        onSaveTimelineNota = { data, hora, texto -> viewModel.salvarTimelineNota(data, hora, texto) },
+                                        onDeleteTimelineNota = { data, hora -> viewModel.excluirTimelineNota(data, hora) },
+                                        readDates = readDatesSet,
+                                        onMarkAsRead = { viewModel.marcarComoLido(it) },
+                                        onResetAllData = { callback -> viewModel.resetAllData(callback) }
                                     )
                                 }
                             }

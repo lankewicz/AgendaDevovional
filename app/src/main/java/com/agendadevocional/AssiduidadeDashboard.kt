@@ -21,10 +21,7 @@ data class AssiduidadeStats(
     val streak: Int
 )
 
-fun getAssiduidadeStats(context: Context): AssiduidadeStats {
-    val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
-    val readDates = prefs.getStringSet("read_dates", emptySet()) ?: emptySet()
-    
+fun getAssiduidadeStats(readDates: Set<String>): AssiduidadeStats {
     val today = LocalDate.now()
     val currentYear = today.year
     val currentMonth = today.monthValue

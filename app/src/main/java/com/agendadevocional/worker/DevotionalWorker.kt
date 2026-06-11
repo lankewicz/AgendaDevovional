@@ -18,7 +18,7 @@ class DevotionalWorker(context: Context, workerParams: WorkerParameters) :
 
     override suspend fun doWork(): Result {
         val database = com.agendadevocional.data.AppDatabase.getDatabase(applicationContext)
-        val repository = MensagensRepository(applicationContext, database.mensagemDao())
+        val repository = MensagensRepository(applicationContext, database.mensagemDao(), database.timelineNotaDao(), database.dataLeituraDao())
         val mensagens = repository.carregarMensagens()
         val hojeIdx = repository.indiceHoje(mensagens)
         
