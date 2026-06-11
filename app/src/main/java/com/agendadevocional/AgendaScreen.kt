@@ -788,10 +788,41 @@ fun AgendaScreen(
                                                 speakingData = null
                                             } else {
                                                 val (displayVerse, displayReferencia, displayMensagem) = getDisplayDevotional(mensagemDia, selectedLanguage)
+                                                
+                                                val regex = Regex("(\\d+)\\s*:\\s*(\\d+)(-\\d+)?")
+                                                val matchResult = regex.find(displayReferencia)
+                                                val speechReference = if (matchResult != null) {
+                                                    val chapter = matchResult.groupValues[1]
+                                                    val verse = matchResult.groupValues[2]
+                                                    val range = matchResult.groupValues[3]
+                                                    val chapterText = when (selectedLanguage) {
+                                                        "en" -> "chapter $chapter"
+                                                        "es" -> "capítulo $chapter"
+                                                        else -> "capítulo $chapter"
+                                                    }
+                                                    var verseText = when (selectedLanguage) {
+                                                        "en" -> "verse $verse"
+                                                        "es" -> "versículo $verse"
+                                                        else -> "versículo $verse"
+                                                    }
+                                                    if (!range.isNullOrEmpty()) {
+                                                        val endVerse = range.substring(1)
+                                                        val toText = when (selectedLanguage) {
+                                                            "en" -> " to $endVerse"
+                                                            "es" -> " al $endVerse"
+                                                            else -> " ao $endVerse"
+                                                        }
+                                                        verseText += toText
+                                                    }
+                                                    displayReferencia.replace(regex, "$chapterText, $verseText")
+                                                } else {
+                                                    displayReferencia
+                                                }
+
                                                 val ttsText = when (selectedLanguage) {
-                                                    "en" -> "Verse: $displayVerse. Reference: $displayReferencia. Message: $displayMensagem."
-                                                    "es" -> "Versículo: $displayVerse. Referencia: $displayReferencia. Mensaje: $displayMensagem."
-                                                    else -> "Versículo: $displayVerse. Referência: $displayReferencia. Mensagem: $displayMensagem."
+                                                    "en" -> "Verse: $displayVerse. Reference: $speechReference. Message: $displayMensagem."
+                                                    "es" -> "Versículo: $displayVerse. Referencia: $speechReference. Mensaje: $displayMensagem."
+                                                    else -> "Versículo: $displayVerse. Referência: $speechReference. Mensagem: $displayMensagem."
                                                 }
                                                 speakingData = mensagemDia.data
                                                 val result = ttsHelper.speak(
