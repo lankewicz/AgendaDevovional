@@ -736,3 +736,34 @@ footer p {
         font-size: 20px;
     }
 }
+
+/* Language Selector */
+.language-selector {
+    display: flex;
+    align-items: center;
+}
+
+.lang-dropdown {
+    background: rgba(255, 255, 255, 0.05);
+    color: #ffffff;
+    border: 1px solid var(--border-color);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    transition: all 0.3s ease;
+    font-family: var(--font-accent);
+}
+
+.lang-dropdown:hover {
+    border-color: var(--primary-color);
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.lang-dropdown option {
+    background: var(--surface-color);
+    color: #ffffff;
+}
+

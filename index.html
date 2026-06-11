@@ -24,7 +24,7 @@
         <div class="container nav-container">
             <div class="logo">
                 <img src="app_icon_google_play.png" alt="Agenda Devocional Logo" class="logo-img">
-                <span class="logo-text">Agenda Devocional</span>
+                <span class="logo-text" data-i18n="logo-text">Agenda Devocional</span>
             </div>
             
             <div class="nav-controls">
@@ -36,10 +36,19 @@
                     <span class="theme-dot dot-rose" data-theme="rose" title="Rosa de Saron"></span>
                 </div>
 
+                <!-- Language Switcher -->
+                <div class="language-selector">
+                    <select id="lang-select" class="lang-dropdown">
+                        <option value="pt">🇧🇷 PT</option>
+                        <option value="en">🇺🇸 EN</option>
+                        <option value="es">🇪🇸 ES</option>
+                    </select>
+                </div>
+
                 <nav class="nav-links">
-                    <a href="#features">Recursos</a>
-                    <a href="#preview">Reflexão</a>
-                    <a href="#download" class="btn btn-secondary">Instalar</a>
+                    <a href="#features" data-i18n="nav-features">Recursos</a>
+                    <a href="#preview" data-i18n="nav-reflection">Reflexão</a>
+                    <a href="#download" class="btn btn-secondary" data-i18n="nav-install">Instalar</a>
                 </nav>
             </div>
         </div>
@@ -49,12 +58,12 @@
     <section class="hero">
         <div class="container hero-container">
             <div class="hero-content">
-                <span class="badge"><i class="fa-solid fa-crown"></i> Versão Premium & Elegante</span>
-                <h1>Guarde o seu momento diário de <span class="gradient-text">comunhão com Deus</span></h1>
-                <p>Uma experiência devocional intimista e completa no seu celular. Registre suas anotações, grave áudios e acompanhe sua assiduidade espiritual.</p>
+                <span class="badge" data-i18n="hero-badge"><i class="fa-solid fa-crown"></i> Versão Premium & Elegante</span>
+                <h1 data-i18n="hero-title">Guarde o seu momento diário de <span class="gradient-text">comunhão com Deus</span></h1>
+                <p data-i18n="hero-desc">Uma experiência devocional intimista e completa no seu celular. Registre suas anotações, grave áudios e acompanhe sua assiduidade espiritual.</p>
                 <div class="hero-actions">
-                    <a href="#download" class="btn btn-primary"><i class="fa-brands fa-google-play"></i> Baixar Grátis</a>
-                    <a href="#features" class="btn btn-outline">Saber Mais <i class="fa-solid fa-arrow-down"></i></a>
+                    <a href="#download" class="btn btn-primary" data-i18n="hero-download"><i class="fa-brands fa-google-play"></i> Baixar Grátis</a>
+                    <a href="#features" class="btn btn-outline" data-i18n="hero-learn-more">Saber Mais <i class="fa-solid fa-arrow-down"></i></a>
                 </div>
             </div>
             <div class="hero-visual">
@@ -62,9 +71,9 @@
                 <div class="phone-mockup">
                     <div class="phone-screen">
                         <div class="app-header">
-                            <span class="app-date">11 DE JUNHO DE 2026</span>
+                            <span class="app-date" id="mockup-date">11 DE JUNHO DE 2026</span>
                             <div class="app-top-row">
-                                <span class="app-lang-tag">🇧🇷 PT | ARC</span>
+                                <span class="app-lang-tag" id="mockup-lang">🇧🇷 PT | ARC</span>
                                 <div class="app-icons">
                                     <i class="fa-regular fa-volume-high"></i>
                                     <i class="fa-solid fa-heart" style="color: #ff3b30;"></i>
@@ -72,17 +81,17 @@
                             </div>
                         </div>
                         <div class="app-card">
-                            <p class="app-verse">"Lâmpada para os meus pés é tua palavra e luz, para o meu caminho."</p>
-                            <p class="app-ref">Salmo 119:105</p>
+                            <p class="app-verse" id="mockup-verse">"Lâmpada para os meus pés é tua palavra e luz, para o meu caminho."</p>
+                            <p class="app-ref" id="mockup-ref">Salmo 119:105</p>
                             <div class="app-divider"></div>
                             <div class="app-section">
-                                <span class="app-sec-title">Mensagem</span>
-                                <p class="app-sec-text">A Palavra de Deus serve como nosso guia diário nos momentos de escuridão e dúvida. Que hoje você se permita ser iluminado pela Sua verdade eterna.</p>
+                                <span class="app-sec-title" id="mockup-sec-title" data-i18n="mockup-sec-title">Mensagem</span>
+                                <p class="app-sec-text" id="mockup-sec-text">A Palavra de Deus serve como nosso guia diário nos momentos de escuridão e dúvida. Que hoje você se permita ser iluminado pela Sua verdade eterna.</p>
                             </div>
                         </div>
                         <div class="app-notes">
                             <i class="fa-solid fa-pen-nib"></i>
-                            <span>O que Deus falou ao seu coração hoje?</span>
+                            <span data-i18n="mockup-notes">O que Deus falou ao seu coração hoje?</span>
                         </div>
                     </div>
                 </div>
@@ -94,39 +103,39 @@
     <section id="features" class="features">
         <div class="container">
             <div class="section-header">
-                <h2>Recursos pensados para a sua <span class="gradient-text">vida com Deus</span></h2>
-                <p>Muito mais do que um leitor de versículos. Um espaço elegante para documentar sua caminhada de fé.</p>
+                <h2 data-i18n="features-title">Recursos pensados para a sua <span class="gradient-text">vida com Deus</span></h2>
+                <p data-i18n="features-desc">Muito mais do que um leitor de versículos. Um espaço elegante para documentar sua caminhada de fé.</p>
             </div>
             <div class="features-grid">
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-calendar-check"></i></div>
-                    <h3>Devocional Diário</h3>
-                    <p>Uma palavra inspiradora selecionada para cada dia do ano, disponível em múltiplos idiomas e traduções bíblicas.</p>
+                    <h3 data-i18n="feat1-title">Devocional Diário</h3>
+                    <p data-i18n="feat1-desc">Uma palavra inspiradora selecionada para cada dia do ano, disponível em múltiplos idiomas e traduções bíblicas.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-microphone-lines"></i></div>
-                    <h3>Mensagens de Voz</h3>
-                    <p>Grave suas orações e reflexões faladas diretamente no dia, com suporte a áudio estendido para meditações mais profundas.</p>
+                    <h3 data-i18n="feat2-title">Mensagens de Voz</h3>
+                    <p data-i18n="feat2-desc">Grave suas orações e reflexões faladas diretamente no dia, com suporte a áudio estendido para meditações mais profundas.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-book-open"></i></div>
-                    <h3>Bloco de Notas & Timeline</h3>
-                    <p>Escreva pensamentos e crie uma linha do tempo organizada para rever suas decisões e compromissos diários.</p>
+                    <h3 data-i18n="feat3-title">Bloco de Notas & Timeline</h3>
+                    <p data-i18n="feat3-desc">Escreva pensamentos e crie uma linha do tempo organizada para rever suas decisões e compromissos diários.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-fire"></i></div>
-                    <h3>Dashboard de Assiduidade</h3>
-                    <p>Acompanhe suas sequências de leitura diária e visualize estatísticas mensais e anuais de comunhão.</p>
+                    <h3 data-i18n="feat4-title">Dashboard de Assiduidade</h3>
+                    <p data-i18n="feat4-desc">Acompanhe suas sequências de leitura diária e visualize estatísticas mensais e anuais de comunhão.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-cloud-arrow-up"></i></div>
-                    <h3>Backup no Google Drive</h3>
-                    <p>Seus dados salvos de forma segura na sua conta Google. Restaure ou mescle suas anotações sempre que precisar.</p>
+                    <h3 data-i18n="feat5-title">Backup no Google Drive</h3>
+                    <p data-i18n="feat5-desc">Seus dados salvos de forma segura na sua conta Google. Restaure ou mescle suas anotações sempre que precisar.</p>
                 </div>
                 <div class="feature-card">
                     <div class="feature-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
-                    <h3>Visual Customizável</h3>
-                    <p>Escolha o seu estilo preferido de cores (Ouro Imperial, Oliva, Real, Vinho) e ajuste o tamanho das fontes para leitura confortável.</p>
+                    <h3 data-i18n="feat6-title">Visual Customizável</h3>
+                    <p data-i18n="feat6-desc">Escolha o seu estilo preferido de cores (Ouro Imperial, Oliva, Real, Vinho) e ajuste o tamanho das fontes para leitura confortável.</p>
                 </div>
             </div>
         </div>
@@ -137,37 +146,37 @@
         <div class="container">
             <div class="preview-box-container">
                 <!-- Navigation Button Left -->
-                <button class="nav-arrow nav-arrow-left" id="prev-btn" title="Dia Anterior">
+                <button class="nav-arrow nav-arrow-left" id="prev-btn" title="Dia Anterior" data-i18n-title="prev-btn-title">
                     <i class="fa-solid fa-chevron-left"></i>
                 </button>
 
                 <div class="preview-box glass-card">
                     <div class="preview-header">
-                        <span class="live-indicator"><span class="dot animate-pulse"></span> PREVIEW</span>
-                        <h3>Reflexão da Bíblia</h3>
-                        <p class="preview-date-label" id="live-date">Carregando data...</p>
+                        <span class="live-indicator"><span class="dot animate-pulse"></span> <span data-i18n="preview-live">PREVIEW</span></span>
+                        <h3 data-i18n="preview-title">Reflexão da Bíblia</h3>
+                        <p class="preview-date-label" id="live-date" data-i18n="preview-loading">Carregando data...</p>
                     </div>
                     <div class="preview-content">
                         <p class="preview-verse" id="live-verse">"Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto."</p>
                         <p class="preview-ref" id="live-ref">Isaías 55:6</p>
                         <div class="app-divider"></div>
                         <div class="preview-msg-box">
-                            <h4 class="msg-title">Mensagem de Esperança</h4>
+                            <h4 class="msg-title" id="preview-msg-title" data-i18n="preview-msg-title">Mensagem de Esperança</h4>
                             <p class="preview-msg" id="live-msg">Deus está sempre acessível àqueles que o buscam de coração sincero. Dedique alguns minutos do seu dia de hoje para clamar pela presença do Pai em suas decisões.</p>
                         </div>
                     </div>
                 </div>
 
                 <!-- Navigation Button Right -->
-                <button class="nav-arrow nav-arrow-right" id="next-btn" title="Próximo Dia">
+                <button class="nav-arrow nav-arrow-right" id="next-btn" title="Próximo Dia" data-i18n-title="next-btn-title">
                     <i class="fa-solid fa-chevron-right"></i>
                 </button>
             </div>
             
             <!-- Mobile Preview Pagination Info -->
             <div class="preview-navigation-mobile">
-                <button class="btn btn-secondary" id="prev-btn-mob"><i class="fa-solid fa-arrow-left"></i> Anterior</button>
-                <button class="btn btn-secondary" id="next-btn-mob">Próximo <i class="fa-solid fa-arrow-right"></i></button>
+                <button class="btn btn-secondary" id="prev-btn-mob" data-i18n="prev-btn-mob"><i class="fa-solid fa-arrow-left"></i> Anterior</button>
+                <button class="btn btn-secondary" id="next-btn-mob" data-i18n="next-btn-mob">Próximo <i class="fa-solid fa-arrow-right"></i></button>
             </div>
         </div>
     </section>
@@ -175,10 +184,10 @@
     <!-- Download Section -->
     <section id="download" class="download">
         <div class="container download-container">
-            <h2>Pronto para iniciar sua <span class="gradient-text">jornada espiritual diária</span>?</h2>
-            <p>Baixe agora e comece a registrar suas anotações e momentos com Deus hoje mesmo. Disponível gratuitamente.</p>
+            <h2 data-i18n="download-title">Pronto para iniciar sua <span class="gradient-text">jornada espiritual diária</span>?</h2>
+            <p data-i18n="download-desc">Baixe agora e comece a registrar suas anotações e momentos com Deus hoje mesmo. Disponível gratuitamente.</p>
             <div class="download-buttons">
-                <a href="https://play.google.com/store/apps/details?id=br.com.bibliafalada.agendadevocional&hl=en-US&ah=n-dtK89vfmXOfvCjt6yvQijhq1c" class="btn btn-primary btn-large" target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-google-play"></i> Baixar para Android</a>
+                <a href="https://play.google.com/store/apps/details?id=br.com.bibliafalada.agendadevocional&hl=en-US&ah=n-dtK89vfmXOfvCjt6yvQijhq1c" class="btn btn-primary btn-large" target="_blank" rel="noopener noreferrer" id="download-btn-play"><i class="fa-brands fa-google-play"></i> <span data-i18n="download-btn">Baixar para Android</span></a>
             </div>
         </div>
     </section>
@@ -186,8 +195,8 @@
     <!-- Footer -->
     <footer>
         <div class="container footer-container">
-            <p>&copy; 2026 Agenda Devocional. Todos os direitos reservados.</p>
-            <p class="footer-subtext">Desenvolvido com carinho para fortalecer a sua fé.</p>
+            <p data-i18n="footer-text">&copy; 2026 Agenda Devocional. Todos os direitos reservados.</p>
+            <p class="footer-subtext" data-i18n="footer-subtext">Desenvolvido com carinho para fortalecer a sua fé.</p>
         </div>
     </footer>
 
@@ -208,7 +217,172 @@
                 });
             });
 
-            // Devotional Preview Navigation Logic
+            // Translation Dictionaries
+            const translations = {
+                pt: {
+                    "logo-text": "Agenda Devocional",
+                    "nav-features": "Recursos",
+                    "nav-reflection": "Reflexão",
+                    "nav-install": "Instalar",
+                    "hero-badge": '<i class="fa-solid fa-crown"></i> Versão Premium & Elegante',
+                    "hero-title": 'Guarde o seu momento diário de <span class="gradient-text">comunhão com Deus</span>',
+                    "hero-desc": 'Uma experiência devocional intimista e completa no seu celular. Registre suas anotações, grave áudios e acompanhe sua assiduidade espiritual.',
+                    "hero-download": '<i class="fa-brands fa-google-play"></i> Baixar Grátis',
+                    "hero-learn-more": 'Saber Mais <i class="fa-solid fa-arrow-down"></i>',
+                    "mockup-sec-title": "Mensagem",
+                    "mockup-notes": "O que Deus falou ao seu coração hoje?",
+                    "features-title": 'Recursos pensados para a sua <span class="gradient-text">vida com Deus</span>',
+                    "features-desc": 'Muito mais do que um leitor de versículos. Um espaço elegante para documentar sua caminhada de fé.',
+                    "feat1-title": "Devocional Diário",
+                    "feat1-desc": "Uma palavra inspiradora selecionada para cada dia do ano, disponível em múltiplos idiomas e traduções bíblicas.",
+                    "feat2-title": "Mensagens de Voz",
+                    "feat2-desc": "Grave suas orações e reflexões faladas diretamente no dia, com suporte a áudio estendido para meditações mais profundas.",
+                    "feat3-title": "Bloco de Notas & Timeline",
+                    "feat3-desc": "Escreva pensamentos e crie uma linha do tempo organizada para rever suas decisões e compromissos diários.",
+                    "feat4-title": "Dashboard de Assiduidade",
+                    "feat4-desc": "Acompanhe suas sequências de leitura diária e visualize estatísticas mensais e anuais de comunhão.",
+                    "feat5-title": "Backup no Google Drive",
+                    "feat5-desc": "Seus dados salvos de forma segura na sua conta Google. Restaure ou mescle suas anotações sempre que precisar.",
+                    "feat6-title": "Visual Customizável",
+                    "feat6-desc": "Escolha o seu estilo preferido de cores (Ouro Imperial, Oliva, Real, Vinho) e ajuste o tamanho das fontes para leitura confortável.",
+                    "preview-live": "PREVIEW",
+                    "preview-title": "Reflexão da Bíblia",
+                    "preview-loading": "Carregando data...",
+                    "preview-msg-title": "Mensagem de Esperança",
+                    "prev-btn-title": "Dia Anterior",
+                    "next-btn-title": "Próximo Dia",
+                    "prev-btn-mob": '<i class="fa-solid fa-arrow-left"></i> Anterior',
+                    "next-btn-mob": 'Próximo <i class="fa-solid fa-arrow-right"></i>',
+                    "download-title": 'Pronto para iniciar sua <span class="gradient-text">jornada espiritual diária</span>?',
+                    "download-desc": 'Baixe agora e comece a registrar suas anotações e momentos com Deus hoje mesmo. Disponível gratuitamente.',
+                    "download-btn": "Baixar para Android",
+                    "footer-text": "&copy; 2026 Agenda Devocional. Todos os direitos reservados.",
+                    "footer-subtext": "Desenvolvido com carinho para fortalecer a sua fé.",
+                    // future verses
+                    "tomorrow_devotional_msg": "Prepare o seu coração! Esperamos você amanhã com muito carinho para mais um momento especial com Deus.",
+                    "future_devotional_msg": "Cada dia traz uma nova porção da Palavra de Deus para você. Esta reflexão estará disponível na data correta. Até lá, guarde o seu momento diário de comunhão, oração e busca.",
+                    "future_verse_0": "Os meus tempos estão nas tuas mãos.", "future_ref_0": "Salmo 31:15",
+                    "future_verse_1": "Não vos inquieteis pelo dia de amanhã.", "future_ref_1": "Mateus 6:34",
+                    "future_verse_2": "Se o Senhor quiser...", "future_ref_2": "Tiago 4:15",
+                    "future_verse_3": "Tudo tem o seu tempo determinado.", "future_ref_3": "Eclesiastes 3:1",
+                    "future_verse_4": "O Senhor lhe dirige os passos.", "future_ref_4": "Provérbios 16:9",
+                    // default mockup devotional
+                    "mockup-verse": "“Lâmpada para os meus pés é tua palavra e luz, para o meu caminho.”",
+                    "mockup-ref": "Salmo 119:105",
+                    "mockup-sec-text": "A Palavra de Deus serve como nosso guia diário nos momentos de escuridão e dúvida. Que hoje você se permita ser iluminado pela Sua verdade eterna."
+                },
+                en: {
+                    "logo-text": "Devotional Diary",
+                    "nav-features": "Features",
+                    "nav-reflection": "Reflection",
+                    "nav-install": "Install",
+                    "hero-badge": '<i class="fa-solid fa-crown"></i> Premium & Elegant Version',
+                    "hero-title": 'Keep your daily moment of <span class="gradient-text">communion with God</span>',
+                    "hero-desc": 'An intimate and complete devotional experience on your phone. Record your notes, voice messages, and track your spiritual consistency.',
+                    "hero-download": '<i class="fa-brands fa-google-play"></i> Download Free',
+                    "hero-learn-more": 'Learn More <i class="fa-solid fa-arrow-down"></i>',
+                    "mockup-sec-title": "Message",
+                    "mockup-notes": "What did God speak to your heart today?",
+                    "features-title": 'Features designed for your <span class="gradient-text">walk with God</span>',
+                    "features-desc": 'Much more than a verse reader. An elegant space to document your walk of faith.',
+                    "feat1-title": "Daily Devotional",
+                    "feat1-desc": "An inspiring word selected for each day of the year, available in multiple languages and Bible translations.",
+                    "feat2-title": "Voice Messages",
+                    "feat2-desc": "Record your prayers and spoken reflections directly on the day, with extended audio support for deeper meditations.",
+                    "feat3-title": "Notebook & Timeline",
+                    "feat3-desc": "Write thoughts and create an organized timeline to review your daily decisions and commitments.",
+                    "feat4-title": "Consistency Dashboard",
+                    "feat4-desc": "Track your daily reading streaks and view monthly and yearly communion statistics.",
+                    "feat5-title": "Google Drive Backup",
+                    "feat5-desc": "Your data securely saved in your Google account. Restore or merge your notes whenever you need.",
+                    "feat6-title": "Customizable Visuals",
+                    "feat6-desc": "Choose your preferred color style (Imperial Gold, Olive, Royal, Rose) and adjust font sizes for comfortable reading.",
+                    "preview-live": "PREVIEW",
+                    "preview-title": "Bible Reflection",
+                    "preview-loading": "Loading date...",
+                    "preview-msg-title": "Message of Hope",
+                    "prev-btn-title": "Previous Day",
+                    "next-btn-title": "Next Day",
+                    "prev-btn-mob": '<i class="fa-solid fa-arrow-left"></i> Previous',
+                    "next-btn-mob": 'Next <i class="fa-solid fa-arrow-right"></i>',
+                    "download-title": 'Ready to start your <span class="gradient-text">daily spiritual journey</span>?',
+                    "download-desc": 'Download now and start recording your notes and moments with God today. Available for free.',
+                    "download-btn": "Download for Android",
+                    "footer-text": "&copy; 2026 Devotional Diary. All rights reserved.",
+                    "footer-subtext": "Developed with love to strengthen your faith.",
+                    // future verses
+                    "tomorrow_devotional_msg": "Prepare your heart! We look forward to seeing you tomorrow for another special moment with God.",
+                    "future_devotional_msg": "Each day brings a new portion of God's Word for you. This reflection will be available on the correct date. Until then, keep your daily moment of communion, prayer, and seeking!",
+                    "future_verse_0": "My times are in your hand.", "future_ref_0": "Psalm 31:15",
+                    "future_verse_1": "Therefore don’t be anxious for tomorrow.", "future_ref_1": "Matthew 6:34",
+                    "future_verse_2": "If the Lord wills…", "future_ref_2": "James 4:15",
+                    "future_verse_3": "For everything there is a season.", "future_ref_3": "Ecclesiastes 3:1",
+                    "future_verse_4": "Yahweh directs his steps.", "future_ref_4": "Proverbs 16:9",
+                    // default mockup devotional
+                    "mockup-verse": "“Your word is a lamp to my feet, and a light for my path.”",
+                    "mockup-ref": "Psalm 119:105",
+                    "mockup-sec-text": "God's Word serves as our daily guide in moments of darkness and doubt. Today, allow yourself to be illuminated by His eternal truth."
+                },
+                es: {
+                    "logo-text": "Agenda Devocional",
+                    "nav-features": "Funciones",
+                    "nav-reflection": "Reflexión",
+                    "nav-install": "Instalar",
+                    "hero-badge": '<i class="fa-solid fa-crown"></i> Versión Premium y Elegante',
+                    "hero-title": 'Guarda tu momento diario de <span class="gradient-text">comunión con Dios</span>',
+                    "hero-desc": 'Una experiencia devocional íntima y completa en tu móvil. Registra tus notas, graba audios y sigue tu constancia espiritual.',
+                    "hero-download": '<i class="fa-brands fa-google-play"></i> Descargar Gratis',
+                    "hero-learn-more": 'Saber Más <i class="fa-solid fa-arrow-down"></i>',
+                    "mockup-sec-title": "Mensaje",
+                    "mockup-notes": "¿Qué habló Dios a tu corazón hoy?",
+                    "features-title": 'Funciones pensadas para tu <span class="gradient-text">vida con Dios</span>',
+                    "features-desc": 'Mucho más que un lector de versículos. Un espacio elegante para documentar tu camino de fe.',
+                    "feat1-title": "Devocional Diario",
+                    "feat1-desc": "Una palabra inspiradora seleccionada para cada día del año, disponible en múltiples idiomas y traducciones bíblicas.",
+                    "feat2-title": "Mensajes de Voz",
+                    "feat2-desc": "Graba tus oraciones y reflexiones habladas directamente en el día, con soporte de audio extendido para meditaciones más profundas.",
+                    "feat3-title": "Bloc de Notas y Timeline",
+                    "feat3-desc": "Escribe pensamientos y crea una línea de tiempo organizada para revisar tus decisiones y compromisos diarios.",
+                    "feat4-title": "Panel de Constancia",
+                    "feat4-desc": "Sigue tus rachas de lectura diaria y visualiza estadísticas mensuales y anuales de comunión.",
+                    "feat5-title": "Backup en Google Drive",
+                    "feat5-desc": "Tus datos guardados de forma segura en tu cuenta de Google. Restaura o combina tus notas cuando lo necesites.",
+                    "feat6-title": "Aspecto Personalizable",
+                    "feat6-desc": "Elige tu estilo de color preferido (Oro Imperial, Oliva, Real, Rosa) y ajusta el tamaño de fuente para una lectura cómoda.",
+                    "preview-live": "PREVIEW",
+                    "preview-title": "Reflexión de la Biblia",
+                    "preview-loading": "Cargando fecha...",
+                    "preview-msg-title": "Mensaje de Esperanza",
+                    "prev-btn-title": "Día Anterior",
+                    "next-btn-title": "Próximo Día",
+                    "prev-btn-mob": '<i class="fa-solid fa-arrow-left"></i> Anterior',
+                    "next-btn-mob": 'Siguiente <i class="fa-solid fa-arrow-right"></i>',
+                    "download-title": '¿Listo para iniciar tu <span class="gradient-text">jornada espiritual diaria</span>?',
+                    "download-desc": 'Descárgalo ahora y comienza a registrar tus notas y momentos con Dios hoy mismo. Disponible de forma gratuita.',
+                    "download-btn": "Descargar para Android",
+                    "footer-text": "&copy; 2026 Agenda Devocional. Todos los derechos reservados.",
+                    "footer-subtext": "Desarrollado con cariño para fortalecer tu fe.",
+                    // future verses
+                    "tomorrow_devotional_msg": "¡Prepara tu corazón! Te esperamos mañana con mucho cariño para otro momento especial con Dios.",
+                    "future_devotional_msg": "Cada día trae una nueva porción de la Palabra de Dios para ti. Esta reflexión estará disponible en la fecha correcta. ¡Hasta entonces, guarda tu momento diario de comunión, oración y búsqueda!",
+                    "future_verse_0": "En tu mano están mis tiempos.", "future_ref_0": "Salmos 31:15",
+                    "future_verse_1": "No os afanéis por el día de mañana.", "future_ref_1": "Mateo 6:34",
+                    "future_verse_2": "Si el Señor quiere…", "future_ref_2": "Santiago 4:15",
+                    "future_verse_3": "Todo tiene su tiempo.", "future_ref_3": "Eclesiastés 3:1",
+                    "future_verse_4": "Jehová endereza sus pasos.", "future_ref_4": "Proverbios 16:9",
+                    // default mockup devotional
+                    "mockup-verse": "“Lámpara es a mis pies tu palabra, y lumbrera a mi camino.”",
+                    "mockup-ref": "Salmos 119:105",
+                    "mockup-sec-text": "La Palabra de Dios sirve como nuestra guía diaria en momentos de oscuridad y duda. Hoy, permítete ser iluminado por Su verdad eterna."
+                }
+            };
+
+            const monthNames = {
+                pt: ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"],
+                en: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+                es: ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+            };
+
             const dateElement = document.getElementById('live-date');
             const verseElement = document.getElementById('live-verse');
             const refElement = document.getElementById('live-ref');
@@ -221,43 +395,147 @@
 
             let currentDate = new Date();
             let loadedDevotionals = [];
-            const monthNames = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
+            let currentLang = localStorage.getItem('preferred-lang') || 'pt';
 
-            function getFormattedDateString(date) {
-                return `${date.getDate()} de ${monthNames[date.getMonth()]} de ${date.getFullYear()}`;
-            }
-
-            function getDisplayDateLabel(date) {
-                return `${date.getDate()} DE ${monthNames[date.getMonth()].toUpperCase()} DE ${date.getFullYear()}`;
-            }
-
-            // Fallback content in case file fetching fails
-            const defaultDevotionals = [
-                {
-                    data: getFormattedDateString(currentDate),
-                    versiculo: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.",
-                    referencia: "Isaías 55:6",
-                    mensagem: "Deus está sempre acessível àqueles que o buscam de coração sincero. Dedique alguns minutos do seu dia de hoje para clamar pela presença do Pai em suas decisões."
+            function getFormattedDateString(date, lang) {
+                const day = date.getDate();
+                const monthIndex = date.getMonth();
+                const year = date.getFullYear();
+                if (lang === 'pt') {
+                    const dayStr = day < 10 ? '0' + day : day;
+                    const monthName = monthNames.pt[monthIndex];
+                    const capitalizedMonth = monthName.charAt(0).toUpperCase() + monthName.slice(1);
+                    return `${dayStr} de ${capitalizedMonth} de ${year}`;
+                } else if (lang === 'es') {
+                    const monthName = monthNames.es[monthIndex];
+                    return `${day} de ${monthName} de ${year}`;
+                } else { // 'en'
+                    const monthName = monthNames.en[monthIndex];
+                    return `${monthName} ${day}, ${year}`;
                 }
-            ];
+            }
+
+            function getDisplayDateLabel(date, lang) {
+                const day = date.getDate();
+                const monthIndex = date.getMonth();
+                const year = date.getFullYear();
+                if (lang === 'pt') {
+                    const monthName = monthNames.pt[monthIndex].toUpperCase();
+                    return `${day} DE ${monthName} DE ${year}`;
+                } else if (lang === 'es') {
+                    const monthName = monthNames.es[monthIndex].toUpperCase();
+                    return `${day} DE ${monthName} DE ${year}`;
+                } else { // 'en'
+                    const monthName = monthNames.en[monthIndex].toUpperCase();
+                    return `${monthName} ${day}, ${year}`;
+                }
+            }
+
+            function isFutureDate(date) {
+                const today = new Date();
+                const d1 = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+                const d2 = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+                return d1.getTime() > d2.getTime();
+            }
+
+            function isTomorrowDate(date) {
+                const tomorrow = new Date();
+                tomorrow.setDate(tomorrow.getDate() + 1);
+                const d1 = new Date(date.getFullYear(), date.getMonth(), date.getDate());
+                const d2 = new Date(tomorrow.getFullYear(), tomorrow.getMonth(), tomorrow.getDate());
+                return d1.getFullYear() === d2.getFullYear() &&
+                       d1.getMonth() === d2.getMonth() &&
+                       d1.getDate() === d2.getDate();
+            }
+
+            function getHashCode(str) {
+                let hash = 0;
+                for (let i = 0; i < str.length; i++) {
+                    const char = str.charCodeAt(i);
+                    hash = (hash << 5) - hash + char;
+                    hash |= 0;
+                }
+                return Math.abs(hash);
+            }
+
+            function getFutureDevotional(date, lang) {
+                const dateStr = getFormattedDateString(date, lang);
+                const stableHash = getHashCode(dateStr);
+                const idx = stableHash % 5;
+
+                const v = translations[lang][`future_verse_${idx}`];
+                const r = translations[lang][`future_ref_${idx}`];
+                const msg = isTomorrowDate(date) 
+                    ? translations[lang]["tomorrow_devotional_msg"]
+                    : translations[lang]["future_devotional_msg"];
+
+                return {
+                    data: dateStr,
+                    versiculo: v,
+                    referencia: r,
+                    mensagem: msg
+                };
+            }
 
             function updateUI(devotional, date) {
-                dateElement.textContent = getDisplayDateLabel(date);
+                dateElement.textContent = getDisplayDateLabel(date, currentLang);
                 if (devotional) {
                     verseElement.textContent = `“${devotional.versiculo}”`;
                     refElement.textContent = devotional.referencia;
                     msgElement.textContent = devotional.mensagem;
                 } else {
-                    // Placeholder for future dates if not present in loaded JSON
+                    // Fallback in case loaded JSON is missing data for past dates
                     verseElement.textContent = "“Os meus tempos estão nas tuas mãos.”";
                     refElement.textContent = "Salmo 31:15";
-                    msgElement.textContent = "Cada dia traz uma nova porção da Palavra de Deus para você. O devocional desta data estará disponível na data correta.";
+                    msgElement.textContent = "Cada dia traz uma nova porção da Palavra de Deus para você.";
+                }
+            }
+
+            function translatePage(lang) {
+                document.documentElement.setAttribute('lang', lang === 'pt' ? 'pt-BR' : (lang === 'es' ? 'es' : 'en'));
+                
+                const elements = document.querySelectorAll('[data-i18n]');
+                elements.forEach(el => {
+                    const key = el.getAttribute('data-i18n');
+                    if (translations[lang] && translations[lang][key]) {
+                        el.innerHTML = translations[lang][key];
+                    }
+                });
+
+                const titleElements = document.querySelectorAll('[data-i18n-title]');
+                titleElements.forEach(el => {
+                    const key = el.getAttribute('data-i18n-title');
+                    if (translations[lang] && translations[lang][key]) {
+                        el.setAttribute('title', translations[lang][key]);
+                    }
+                });
+
+                // Update phone mockup fields
+                const mockupDate = document.getElementById('mockup-date');
+                if (mockupDate) {
+                    mockupDate.textContent = getDisplayDateLabel(new Date(), lang);
+                }
+                const mockupLang = document.getElementById('mockup-lang');
+                if (mockupLang) {
+                    const flags = { pt: '🇧🇷 PT | ARC', en: '🇺🇸 EN | WEB', es: '🇪🇸 ES | RV1960' };
+                    mockupLang.textContent = flags[lang];
+                }
+                const mockupVerse = document.getElementById('mockup-verse');
+                if (mockupVerse) {
+                    mockupVerse.textContent = translations[lang]["mockup-verse"];
+                }
+                const mockupRef = document.getElementById('mockup-ref');
+                if (mockupRef) {
+                    mockupRef.textContent = translations[lang]["mockup-ref"];
+                }
+                const mockupSecText = document.getElementById('mockup-sec-text');
+                if (mockupSecText) {
+                    mockupSecText.textContent = translations[lang]["mockup-sec-text"];
                 }
             }
 
             function fetchDevotionals(year) {
-                const lang = 'pt';
-                const jsonPath = `dados/agenda_${year}_${lang}.json`;
+                const jsonPath = `dados/agenda_${year}_${currentLang}.json`;
 
                 return fetch(jsonPath)
                     .then(res => {
@@ -269,16 +547,21 @@
                         displayActiveDate();
                     })
                     .catch(err => {
-                        console.log('Utilizando devocionais de fallback:', err.message);
-                        loadedDevotionals = defaultDevotionals;
+                        console.log('Utilizando devocionais de fallback ou futuros:', err.message);
+                        loadedDevotionals = [];
                         displayActiveDate();
                     });
             }
 
             function displayActiveDate() {
-                const formattedDateStr = getFormattedDateString(currentDate);
-                const entry = loadedDevotionals.find(item => item.data.toLowerCase() === formattedDateStr.toLowerCase());
-                updateUI(entry, currentDate);
+                if (isFutureDate(currentDate)) {
+                    const entry = getFutureDevotional(currentDate, currentLang);
+                    updateUI(entry, currentDate);
+                } else {
+                    const formattedDateStr = getFormattedDateString(currentDate, currentLang);
+                    const entry = loadedDevotionals.find(item => item.data.toLowerCase() === formattedDateStr.toLowerCase());
+                    updateUI(entry, currentDate);
+                }
             }
 
             function changeDay(offset) {
@@ -287,11 +570,22 @@
                 const newYear = currentDate.getFullYear();
 
                 if (oldYear !== newYear) {
-                    // Fetch new year's file if year changed
                     fetchDevotionals(newYear);
                 } else {
                     displayActiveDate();
                 }
+            }
+
+            // Language Switcher Setup
+            const langSelect = document.getElementById('lang-select');
+            if (langSelect) {
+                langSelect.value = currentLang;
+                langSelect.addEventListener('change', (e) => {
+                    currentLang = e.target.value;
+                    localStorage.setItem('preferred-lang', currentLang);
+                    translatePage(currentLang);
+                    fetchDevotionals(currentDate.getFullYear());
+                });
             }
 
             // Desktop Buttons
@@ -302,7 +596,8 @@
             prevBtnMob.addEventListener('click', () => changeDay(-1));
             nextBtnMob.addEventListener('click', () => changeDay(1));
 
-            // Initial Fetch
+            // Initial setup and fetch
+            translatePage(currentLang);
             fetchDevotionals(currentDate.getFullYear());
         });
     </script>
