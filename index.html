@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="gold">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -26,11 +26,22 @@
                 <img src="app_icon_google_play.png" alt="Agenda Devocional Logo" class="logo-img">
                 <span class="logo-text">Agenda Devocional</span>
             </div>
-            <nav class="nav-links">
-                <a href="#features">Recursos</a>
-                <a href="#preview">Reflexão de Hoje</a>
-                <a href="#download" class="btn btn-secondary">Instalar</a>
-            </nav>
+            
+            <div class="nav-controls">
+                <!-- Color Theme Dots -->
+                <div class="theme-selector">
+                    <span class="theme-dot dot-gold active" data-theme="gold" title="Ouro Imperial"></span>
+                    <span class="theme-dot dot-olive" data-theme="olive" title="Jardim de Oliveiras"></span>
+                    <span class="theme-dot dot-royal" data-theme="royal" title="Azul Real"></span>
+                    <span class="theme-dot dot-rose" data-theme="rose" title="Rosa de Saron"></span>
+                </div>
+
+                <nav class="nav-links">
+                    <a href="#features">Recursos</a>
+                    <a href="#preview">Reflexão</a>
+                    <a href="#download" class="btn btn-secondary">Instalar</a>
+                </nav>
+            </div>
         </div>
     </header>
 
@@ -124,21 +135,39 @@
     <!-- Devotional Live Preview Widget -->
     <section id="preview" class="preview">
         <div class="container">
-            <div class="preview-box glass-card">
-                <div class="preview-header">
-                    <span class="live-indicator"><span class="dot animate-pulse"></span> ONLINE</span>
-                    <h3>Reflexão do Dia</h3>
-                    <p class="preview-date-label" id="live-date">Carregando data...</p>
-                </div>
-                <div class="preview-content">
-                    <p class="preview-verse" id="live-verse">"Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto."</p>
-                    <p class="preview-ref" id="live-ref">Isaías 55:6</p>
-                    <div class="app-divider"></div>
-                    <div class="preview-msg-box">
-                        <h4 class="msg-title">Mensagem de Esperança</h4>
-                        <p class="preview-msg" id="live-msg">Deus está sempre acessível àqueles que o buscam de coração sincero. Dedique alguns minutos do seu dia de hoje para clamar pela presença do Pai em suas decisões.</p>
+            <div class="preview-box-container">
+                <!-- Navigation Button Left -->
+                <button class="nav-arrow nav-arrow-left" id="prev-btn" title="Dia Anterior">
+                    <i class="fa-solid fa-chevron-left"></i>
+                </button>
+
+                <div class="preview-box glass-card">
+                    <div class="preview-header">
+                        <span class="live-indicator"><span class="dot animate-pulse"></span> PREVIEW</span>
+                        <h3>Reflexão da Bíblia</h3>
+                        <p class="preview-date-label" id="live-date">Carregando data...</p>
+                    </div>
+                    <div class="preview-content">
+                        <p class="preview-verse" id="live-verse">"Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto."</p>
+                        <p class="preview-ref" id="live-ref">Isaías 55:6</p>
+                        <div class="app-divider"></div>
+                        <div class="preview-msg-box">
+                            <h4 class="msg-title">Mensagem de Esperança</h4>
+                            <p class="preview-msg" id="live-msg">Deus está sempre acessível àqueles que o buscam de coração sincero. Dedique alguns minutos do seu dia de hoje para clamar pela presença do Pai em suas decisões.</p>
+                        </div>
                     </div>
                 </div>
+
+                <!-- Navigation Button Right -->
+                <button class="nav-arrow nav-arrow-right" id="next-btn" title="Próximo Dia">
+                    <i class="fa-solid fa-chevron-right"></i>
+                </button>
+            </div>
+            
+            <!-- Mobile Preview Pagination Info -->
+            <div class="preview-navigation-mobile">
+                <button class="btn btn-secondary" id="prev-btn-mob"><i class="fa-solid fa-arrow-left"></i> Anterior</button>
+                <button class="btn btn-secondary" id="next-btn-mob">Próximo <i class="fa-solid fa-arrow-right"></i></button>
             </div>
         </div>
     </section>
@@ -162,44 +191,119 @@
         </div>
     </footer>
 
-    <!-- JavaScript to Fetch Live Devotional Data (Optional / Enhancing Widget) -->
+    <!-- JavaScript to Fetch Live Devotional Data & Theme Switcher -->
     <script>
         document.addEventListener('DOMContentLoaded', () => {
+            // Theme Switcher Logic
+            const themeDots = document.querySelectorAll('.theme-selector .theme-dot');
+            themeDots.forEach(dot => {
+                dot.addEventListener('click', () => {
+                    // Remove active class from all
+                    themeDots.forEach(d => d.classList.remove('active'));
+                    // Add active to current
+                    dot.classList.add('active');
+                    // Set theme attribute on html
+                    const theme = dot.getAttribute('data-theme');
+                    document.documentElement.setAttribute('data-theme', theme);
+                });
+            });
+
+            // Devotional Preview Navigation Logic
             const dateElement = document.getElementById('live-date');
             const verseElement = document.getElementById('live-verse');
             const refElement = document.getElementById('live-ref');
             const msgElement = document.getElementById('live-msg');
 
-            const now = new Date();
-            const year = now.getFullYear();
+            const prevBtn = document.getElementById('prev-btn');
+            const nextBtn = document.getElementById('next-btn');
+            const prevBtnMob = document.getElementById('prev-btn-mob');
+            const nextBtnMob = document.getElementById('next-btn-mob');
+
+            let currentDate = new Date();
+            let loadedDevotionals = [];
             const monthNames = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro", "novembro", "dezembro"];
-            
-            // Format date for display
-            dateElement.textContent = `${now.getDate()} DE ${monthNames[now.getMonth()].toUpperCase()} DE ${year}`;
 
-            // Try to load online devotional data for the year from the local path or remote path
-            const lang = 'pt';
-            const jsonPath = `dados/agenda_${year}_${lang}.json`;
+            function getFormattedDateString(date) {
+                return `${date.getDate()} de ${monthNames[date.getMonth()]} de ${date.getFullYear()}`;
+            }
 
-            fetch(jsonPath)
-                .then(res => {
-                    if (!res.ok) throw new Error('Não foi possível carregar o arquivo devocional.');
-                    return res.json();
-                })
-                .then(data => {
-                    // Try to match today's date format (e.g. "11 de junho de 2026")
-                    const formattedDate = `${now.getDate()} de ${monthNames[now.getMonth()]} de ${year}`;
-                    const todayEntry = data.find(item => item.data.toLowerCase() === formattedDate.toLowerCase());
+            function getDisplayDateLabel(date) {
+                return `${date.getDate()} DE ${monthNames[date.getMonth()].toUpperCase()} DE ${date.getFullYear()}`;
+            }
 
-                    if (todayEntry) {
-                        verseElement.textContent = `“${todayEntry.versiculo}”`;
-                        refElement.textContent = todayEntry.referencia;
-                        msgElement.textContent = todayEntry.mensagem;
-                    }
-                })
-                .catch(err => {
-                    console.log('Utilizando devocional padrão:', err.message);
-                });
+            // Fallback content in case file fetching fails
+            const defaultDevotionals = [
+                {
+                    data: getFormattedDateString(currentDate),
+                    versiculo: "Buscai ao Senhor enquanto se pode achar, invocai-o enquanto está perto.",
+                    referencia: "Isaías 55:6",
+                    mensagem: "Deus está sempre acessível àqueles que o buscam de coração sincero. Dedique alguns minutos do seu dia de hoje para clamar pela presença do Pai em suas decisões."
+                }
+            ];
+
+            function updateUI(devotional, date) {
+                dateElement.textContent = getDisplayDateLabel(date);
+                if (devotional) {
+                    verseElement.textContent = `“${devotional.versiculo}”`;
+                    refElement.textContent = devotional.referencia;
+                    msgElement.textContent = devotional.mensagem;
+                } else {
+                    // Placeholder for future dates if not present in loaded JSON
+                    verseElement.textContent = "“Os meus tempos estão nas tuas mãos.”";
+                    refElement.textContent = "Salmo 31:15";
+                    msgElement.textContent = "Cada dia traz uma nova porção da Palavra de Deus para você. O devocional desta data estará disponível na data correta.";
+                }
+            }
+
+            function fetchDevotionals(year) {
+                const lang = 'pt';
+                const jsonPath = `dados/agenda_${year}_${lang}.json`;
+
+                return fetch(jsonPath)
+                    .then(res => {
+                        if (!res.ok) throw new Error('Falha ao obter JSON');
+                        return res.json();
+                    })
+                    .then(data => {
+                        loadedDevotionals = data;
+                        displayActiveDate();
+                    })
+                    .catch(err => {
+                        console.log('Utilizando devocionais de fallback:', err.message);
+                        loadedDevotionals = defaultDevotionals;
+                        displayActiveDate();
+                    });
+            }
+
+            function displayActiveDate() {
+                const formattedDateStr = getFormattedDateString(currentDate);
+                const entry = loadedDevotionals.find(item => item.data.toLowerCase() === formattedDateStr.toLowerCase());
+                updateUI(entry, currentDate);
+            }
+
+            function changeDay(offset) {
+                const oldYear = currentDate.getFullYear();
+                currentDate.setDate(currentDate.getDate() + offset);
+                const newYear = currentDate.getFullYear();
+
+                if (oldYear !== newYear) {
+                    // Fetch new year's file if year changed
+                    fetchDevotionals(newYear);
+                } else {
+                    displayActiveDate();
+                }
+            }
+
+            // Desktop Buttons
+            prevBtn.addEventListener('click', () => changeDay(-1));
+            nextBtn.addEventListener('click', () => changeDay(1));
+
+            // Mobile Buttons
+            prevBtnMob.addEventListener('click', () => changeDay(-1));
+            nextBtnMob.addEventListener('click', () => changeDay(1));
+
+            // Initial Fetch
+            fetchDevotionals(currentDate.getFullYear());
         });
     </script>
 </body>
