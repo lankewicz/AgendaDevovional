@@ -208,5 +208,14 @@
   "estender_mais_uma_hora": "Extend +1 Hour",
   "tts_capitulo": "chapter",
   "tts_versiculo": "verse",
-  "tts_ao": "to"
+  "tts_ao": "to",
+  "config_tts_velocidade": "Voice Speed",
+  "config_tts_tom": "Voice Pitch",
+  "config_tts_gerenciar": "Manage Phone Voices",
+  "config_tts_gerenciar_desc": "Install voice packages or change the synthesizer in Android settings.",
+  "erro_tts_dados_ausentes": "The voice package for this language is not installed on your device. Do you want to open settings to install it?",
+  "abrir_configuracoes": "Open Settings",
+  "tts_pitch_grave": "Low",
+  "tts_pitch_normal": "Normal",
+  "tts_pitch_agudo": "High"
 }

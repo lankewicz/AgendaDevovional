@@ -120,6 +120,7 @@ fun AgendaScreen(
 
     val selectedLanguage = remember(mensagens) { prefs.getString("selected_language", "pt") ?: "pt" }
     var showLanguageDialog by remember { mutableStateOf(false) }
+    var showTtsDownloadDialog by remember { mutableStateOf(false) }
 
     var isSearchActive by remember { mutableStateOf(false) }
     
@@ -355,6 +356,41 @@ fun AgendaScreen(
                     onClick = { showLanguageDialog = false }
                 ) {
                     Text(getLocalizedString(tempSelectedLang, "cancelar"))
+                }
+            }
+        )
+    }
+
+    if (showTtsDownloadDialog) {
+        AlertDialog(
+            onDismissRequest = { showTtsDownloadDialog = false },
+            title = {
+                Text(
+                    text = getLocalizedString(selectedLanguage, "config_tts_gerenciar"),
+                    fontWeight = FontWeight.Bold
+                )
+            },
+            text = {
+                Text(getLocalizedString(selectedLanguage, "erro_tts_dados_ausentes"))
+            },
+            confirmButton = {
+                TextButton(
+                    onClick = {
+                        try {
+                            val intent = Intent(android.speech.tts.TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA)
+                            context.startActivity(intent)
+                        } catch (e: Exception) {
+                            Toast.makeText(context, "Erro ao abrir configurações de TTS", Toast.LENGTH_SHORT).show()
+                        }
+                        showTtsDownloadDialog = false
+                    }
+                ) {
+                    Text(getLocalizedString(selectedLanguage, "abrir_configuracoes"))
+                }
+            },
+            dismissButton = {
+                TextButton(onClick = { showTtsDownloadDialog = false }) {
+                    Text(getLocalizedString(selectedLanguage, "cancelar"))
                 }
             }
         )
@@ -825,12 +861,16 @@ fun AgendaScreen(
                                                 )
                                                 if (result != 1) {
                                                     speakingData = null
-                                                    val errorKey = when (result) {
-                                                        -1 -> "erro_tts_inicializacao"
-                                                        -2 -> "erro_tts_idioma"
-                                                        else -> "erro_tts_geral"
+                                                    if (result == -4) {
+                                                        showTtsDownloadDialog = true
+                                                    } else {
+                                                        val errorKey = when (result) {
+                                                            -1 -> "erro_tts_inicializacao"
+                                                            -2 -> "erro_tts_idioma"
+                                                            else -> "erro_tts_geral"
+                                                        }
+                                                        Toast.makeText(context, getLocalizedString(selectedLanguage, errorKey), Toast.LENGTH_LONG).show()
                                                     }
-                                                    Toast.makeText(context, getLocalizedString(selectedLanguage, errorKey), Toast.LENGTH_LONG).show()
                                                 }
                                             }
                                         },

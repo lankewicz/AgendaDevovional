@@ -90,6 +90,8 @@ fun SettingsMenu(
     var showConflictDialog by remember { mutableStateOf(false) }
     var backupJsonToRestore by remember { mutableStateOf<String?>(null) }
     var selectedTab by remember { mutableStateOf(0) }
+    var ttsSpeechRate by remember { mutableStateOf(prefs.getFloat("tts_speech_rate", 1.0f)) }
+    var ttsPitch by remember { mutableStateOf(prefs.getFloat("tts_pitch", 1.0f)) }
 
     val googleSignInLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.StartActivityForResult()
@@ -600,6 +602,118 @@ fun SettingsMenu(
                                     )
                                 }
                                 Switch(checked = showOnlyFavorites, onCheckedChange = onShowOnlyFavoritesChange)
+                            }
+
+                            Spacer(modifier = Modifier.height(24.dp))
+                            HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant.copy(alpha = 0.4f))
+                            Spacer(modifier = Modifier.height(16.dp))
+
+                            // TTS Speed Slider
+                            Column(modifier = Modifier.fillMaxWidth()) {
+                                Row(
+                                    modifier = Modifier.fillMaxWidth(),
+                                    horizontalArrangement = Arrangement.SpaceBetween,
+                                    verticalAlignment = Alignment.CenterVertically
+                                ) {
+                                    Text(
+                                        text = getLocalizedString(selectedLanguage, "config_tts_velocidade"),
+                                        style = MaterialTheme.typography.bodyLarge
+                                    )
+                                    Text(
+                                        text = String.format("%.1fx", ttsSpeechRate),
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = FontWeight.Bold,
+                                        color = MaterialTheme.colorScheme.primary
+                                    )
+                                }
+                                Slider(
+                                    value = ttsSpeechRate,
+                                    onValueChange = {
+                                        ttsSpeechRate = it
+                                        prefs.edit().putFloat("tts_speech_rate", it).apply()
+                                    },
+                                    valueRange = 0.5f..2.0f,
+                                    steps = 14
+                                )
+                            }
+
+                            Spacer(modifier = Modifier.height(16.dp))
+
+                            // TTS Pitch Slider
+                            Column(modifier = Modifier.fillMaxWidth()) {
+                                Row(
+                                    modifier = Modifier.fillMaxWidth(),
+                                    horizontalArrangement = Arrangement.SpaceBetween,
+                                    verticalAlignment = Alignment.CenterVertically
+                                ) {
+                                    Text(
+                                        text = getLocalizedString(selectedLanguage, "config_tts_tom"),
+                                        style = MaterialTheme.typography.bodyLarge
+                                    )
+                                    val pitchLabel = when {
+                                        ttsPitch < 0.9f -> getLocalizedString(selectedLanguage, "tts_pitch_grave")
+                                        ttsPitch > 1.1f -> getLocalizedString(selectedLanguage, "tts_pitch_agudo")
+                                        else -> getLocalizedString(selectedLanguage, "tts_pitch_normal")
+                                    }
+                                    Text(
+                                        text = pitchLabel,
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        fontWeight = FontWeight.Bold,
+                                        color = MaterialTheme.colorScheme.primary
+                                    )
+                                }
+                                Slider(
+                                    value = ttsPitch,
+                                    onValueChange = {
+                                        ttsPitch = it
+                                        prefs.edit().putFloat("tts_pitch", it).apply()
+                                    },
+                                    valueRange = 0.5f..2.0f,
+                                    steps = 14
+                                )
+                            }
+
+                            Spacer(modifier = Modifier.height(16.dp))
+
+                            // Manage Phone Voices Button
+                            Row(
+                                modifier = Modifier.fillMaxWidth(),
+                                verticalAlignment = Alignment.CenterVertically,
+                                horizontalArrangement = Arrangement.SpaceBetween
+                            ) {
+                                Column(modifier = Modifier.weight(1f)) {
+                                    Text(
+                                        text = getLocalizedString(selectedLanguage, "config_tts_gerenciar"),
+                                        style = MaterialTheme.typography.bodyLarge
+                                    )
+                                    Text(
+                                        text = getLocalizedString(selectedLanguage, "config_tts_gerenciar_desc"),
+                                        style = MaterialTheme.typography.bodySmall,
+                                        color = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.6f)
+                                    )
+                                }
+                                Button(
+                                    onClick = {
+                                        try {
+                                            val intent = Intent("com.android.settings.TTS_SETTINGS")
+                                            context.startActivity(intent)
+                                        } catch (e: Exception) {
+                                            try {
+                                                val intent = Intent(android.speech.tts.TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA)
+                                                context.startActivity(intent)
+                                            } catch (e2: Exception) {
+                                                Toast.makeText(context, "Erro ao abrir configurações de TTS", Toast.LENGTH_SHORT).show()
+                                            }
+                                        }
+                                    },
+                                    shape = RoundedCornerShape(8.dp),
+                                    colors = ButtonDefaults.buttonColors(
+                                        containerColor = MaterialTheme.colorScheme.surfaceVariant,
+                                        contentColor = MaterialTheme.colorScheme.primary
+                                    )
+                                ) {
+                                    Text(getLocalizedString(selectedLanguage, "editar"))
+                                }
                             }
                         }
                     }

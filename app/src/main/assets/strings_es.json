@@ -208,5 +208,14 @@
   "estender_mais_uma_hora": "Extender +1 Hora",
   "tts_capitulo": "capítulo",
   "tts_versiculo": "versículo",
-  "tts_ao": "al"
+  "tts_ao": "al",
+  "config_tts_velocidade": "Velocidad de la Voz",
+  "config_tts_tom": "Tono de la Voz",
+  "config_tts_gerenciar": "Gestionar Voces del Celular",
+  "config_tts_gerenciar_desc": "Instale paquetes de voz o cambie el sintetizador en la configuración de Android.",
+  "erro_tts_dados_ausentes": "El paquete de voz para este idioma no está instalado en su dispositivo. ¿Desea abrir la configuración del celular para instalarlo?",
+  "abrir_configuracoes": "Abrir Configuración",
+  "tts_pitch_grave": "Grave",
+  "tts_pitch_normal": "Normal",
+  "tts_pitch_agudo": "Agudo"
 }

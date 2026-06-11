@@ -8,7 +8,7 @@ import android.os.Looper
 import java.util.Locale
 
 class TextToSpeechHelper(
-    context: Context,
+    private val context: Context,
     private val onInitResult: (Boolean) -> Unit
 ) : TextToSpeech.OnInitListener {
 
@@ -41,9 +41,18 @@ class TextToSpeechHelper(
 
         val ttsEngine = tts ?: return -1
         val langResult = ttsEngine.setLanguage(locale)
-        if (langResult == TextToSpeech.LANG_MISSING_DATA || langResult == TextToSpeech.LANG_NOT_SUPPORTED) {
+        if (langResult == TextToSpeech.LANG_MISSING_DATA) {
+            return -4
+        }
+        if (langResult == TextToSpeech.LANG_NOT_SUPPORTED) {
             return -2
         }
+
+        val prefs = context.getSharedPreferences("app_settings", Context.MODE_PRIVATE)
+        val rate = prefs.getFloat("tts_speech_rate", 1.0f)
+        val pitch = prefs.getFloat("tts_pitch", 1.0f)
+        ttsEngine.setSpeechRate(rate)
+        ttsEngine.setPitch(pitch)
 
         ttsEngine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
             private val handler = Handler(Looper.getMainLooper())
