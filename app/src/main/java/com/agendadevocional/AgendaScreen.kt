@@ -795,24 +795,16 @@ fun AgendaScreen(
                                                     val chapter = matchResult.groupValues[1]
                                                     val verse = matchResult.groupValues[2]
                                                     val range = matchResult.groupValues[3]
-                                                    val chapterText = when (selectedLanguage) {
-                                                        "en" -> "chapter $chapter"
-                                                        "es" -> "capítulo $chapter"
-                                                        else -> "capítulo $chapter"
-                                                    }
-                                                    var verseText = when (selectedLanguage) {
-                                                        "en" -> "verse $verse"
-                                                        "es" -> "versículo $verse"
-                                                        else -> "versículo $verse"
-                                                    }
+                                                    
+                                                    val strCapitulo = getLocalizedString(selectedLanguage, "tts_capitulo")
+                                                    val strVersiculo = getLocalizedString(selectedLanguage, "tts_versiculo")
+                                                    val strAo = getLocalizedString(selectedLanguage, "tts_ao")
+                                                    
+                                                    val chapterText = "$strCapitulo $chapter"
+                                                    var verseText = "$strVersiculo $verse"
                                                     if (!range.isNullOrEmpty()) {
                                                         val endVerse = range.substring(1)
-                                                        val toText = when (selectedLanguage) {
-                                                            "en" -> " to $endVerse"
-                                                            "es" -> " al $endVerse"
-                                                            else -> " ao $endVerse"
-                                                        }
-                                                        verseText += toText
+                                                        verseText += " $strAo $endVerse"
                                                     }
                                                     displayReferencia.replace(regex, "$chapterText, $verseText")
                                                 } else {

@@ -205,5 +205,8 @@
   "audio_titulo": "Audio %d",
   "estender_tempo": "Extend Time (Long Audio)",
   "modo_audio_longo": "Long Audio",
-  "estender_mais_uma_hora": "Extend +1 Hour"
+  "estender_mais_uma_hora": "Extend +1 Hour",
+  "tts_capitulo": "chapter",
+  "tts_versiculo": "verse",
+  "tts_ao": "to"
 }
