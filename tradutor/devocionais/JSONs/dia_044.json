@@ -1,0 +1,529 @@
+{
+  "dia": 44,
+  "data": "2027-02-13",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 27; Números 1",
+    "en": "Leviticus 27; Numbers 1",
+    "es": "Levítico 27; Números 1"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 27,
+      "chapter_end": 27
+    },
+    {
+      "book_id": "NUM",
+      "chapter_start": 1,
+      "chapter_end": 1
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 1,
+    "verse_start": 54,
+    "verse_end": 54,
+    "referencia": {
+      "pt": "Números 1:54",
+      "en": "Numbers 1:54",
+      "es": "Números 1:54"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_044.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_044.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/044/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/001.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/044/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/001.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/044/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/001.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/044/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/001.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_044.mp3",
+      "versiculo_central": "audio/en/verses/day_044.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/044/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/en/en-US-AriaNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/en/en-US-AriaNeural/001.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/044/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/en/en-US-JennyNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/en/en-US-JennyNeural/001.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/044/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/en/en-US-GuyNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/en/en-US-GuyNeural/001.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/044/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/en/en-US-BrianNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/en/en-US-BrianNeural/001.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_044.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_044.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/044/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/es/es-ES-ElviraNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/es/es-ES-ElviraNeural/001.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/044/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/es/es-MX-DaliaNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/es/es-MX-DaliaNeural/001.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/044/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/es/es-ES-AlvaroNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/es/es-ES-AlvaroNeural/001.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/044/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/044/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/044/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_27": "audio/biblia/LEV/es/es-MX-JorgeNeural/027.m4a",
+          "NUM_1": "audio/biblia/NUM/es/es-MX-JorgeNeural/001.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 27; Números 1 — Consagração e Organização do Povo",
+      "contexto": "Levítico termina tratando de votos, resgates e coisas consagradas ao Senhor. Números começa com a contagem das tribos e a preparação de Israel para a caminhada. O povo que pertence a Deus deve viver consagração, ordem e obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Votos e coisas dedicadas ao Senhor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 34
+          },
+          "comentario": "O capítulo final de Levítico mostra que aquilo que é dedicado a Deus deve ser tratado com seriedade. Consagração não é palavra vazia.",
+          "aplicacao": "Promessas, recursos e decisões entregues a Deus devem ser acompanhados de responsabilidade e integridade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O povo contado diante de Deus",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "A contagem das tribos prepara Israel para a jornada. Cada família e cada grupo têm lugar dentro do povo da aliança.",
+          "aplicacao": "Deus conhece seu povo e organiza sua missão. Ninguém é invisível diante dele."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obediência na preparação para a caminhada",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 47,
+            "chapter_end": 1,
+            "verse_end": 54
+          },
+          "comentario": "Os levitas recebem responsabilidade especial sobre o tabernáculo, e Israel obedece à ordem do Senhor dada por meio de Moisés.",
+          "aplicacao": "Caminhar com Deus exige disposição para obedecer, servir e assumir responsabilidades no lugar que ele designa."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 23,
+            "verse_start": 24,
+            "verse_end": 32,
+            "referencia": "1 Crônicas 23:24-32",
+            "nota": "Mostra a organização posterior dos levitas no serviço da casa do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 27,
+            "referencia": "1 Coríntios 12:12-27",
+            "nota": "Apresenta o povo de Deus como corpo organizado, com muitos membros e diferentes funções."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Efésios 4:16",
+            "nota": "Mostra que cada parte contribui para a edificação do corpo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Trato com seriedade aquilo que consagro ao Senhor?",
+        "Reconheço que Deus me conhece e me chama para participar do seu povo?",
+        "Tenho servido com fidelidade no lugar em que Deus me colocou?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 1:54 destaca a obediência de Israel à ordem do Senhor, marcando a transição da consagração para a caminhada organizada."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 27,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Levítico 27:30",
+          "nota": "Lembra que aquilo que pertence ao Senhor deve ser reconhecido como santo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 1:2",
+          "nota": "Apresenta a contagem do povo segundo suas famílias."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 54,
+          "verse_end": 54,
+          "referencia": "Números 1:54",
+          "nota": "Mostra a obediência de Israel às instruções do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagração",
+          "significado": "Separação de algo ou alguém para Deus com seriedade e fidelidade."
+        },
+        {
+          "termo": "Censo",
+          "significado": "Contagem do povo que revela organização, identidade e preparação."
+        },
+        {
+          "termo": "Serviço",
+          "significado": "Responsabilidade assumida diante de Deus em favor da comunidade."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a viver com consagração e responsabilidade. Mostra-me o lugar de serviço que preparaste para mim e dá-me um coração obediente. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 27; Numbers 1 — Consecration and Organization of the People",
+      "contexto": "Leviticus ends by addressing vows, redemptions, and things consecrated to the Lord. Numbers begins with the census of the tribes and Israel's preparation for the journey. The people who belong to God must live with consecration, order, and obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Vows and things dedicated to the Lord",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 34
+          },
+          "comentario": "The final chapter of Leviticus shows that what is dedicated to God must be treated seriously. Consecration is not an empty word.",
+          "aplicacao": "Promises, resources, and decisions given to God should be accompanied by responsibility and integrity."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The people counted before God",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "The census of the tribes prepares Israel for the journey. Each family and group has a place within the covenant people.",
+          "aplicacao": "God knows his people and organizes his mission. No one is invisible before him."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obedience in preparation for the journey",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 47,
+            "chapter_end": 1,
+            "verse_end": 54
+          },
+          "comentario": "The Levites receive special responsibility for the tabernacle, and Israel obeys the Lord's command given through Moses.",
+          "aplicacao": "Walking with God requires willingness to obey, serve, and assume responsibilities in the place he assigns."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 23,
+            "verse_start": 24,
+            "verse_end": 32,
+            "referencia": "1 Chronicles 23:24-32",
+            "nota": "Shows the later organization of the Levites in the service of the house of the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 27,
+            "referencia": "1 Corinthians 12:12-27",
+            "nota": "Presents God's people as an organized body, with many members and different functions."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Ephesians 4:16",
+            "nota": "Shows that each part contributes to the building up of the body."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat seriously what I consecrate to the Lord?",
+        "Do I recognize that God knows me and calls me to participate in his people?",
+        "Am I serving faithfully in the place where God has placed me?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 1:54 highlights Israel's obedience to the Lord's command, marking the transition from consecration to an organized journey."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 27,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Leviticus 27:30",
+          "nota": "Reminds the people that what belongs to the Lord must be recognized as holy."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Numbers 1:2",
+          "nota": "Presents the counting of the people according to their families."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 54,
+          "verse_end": 54,
+          "referencia": "Numbers 1:54",
+          "nota": "Shows Israel's obedience to the Lord's instructions."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consecration",
+          "significado": "Setting apart someone or something for God with seriousness and faithfulness."
+        },
+        {
+          "termo": "Census",
+          "significado": "The counting of the people that reveals organization, identity, and preparation."
+        },
+        {
+          "termo": "Service",
+          "significado": "Responsibility assumed before God for the good of the community."
+        }
+      ],
+      "oracao": "Lord, help me live with consecration and responsibility. Show me the place of service you have prepared for me and give me an obedient heart. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 27; Números 1 — Consagración y Organización del Pueblo",
+      "contexto": "Levítico termina tratando votos, rescates y cosas consagradas al Señor. Números comienza con el censo de las tribus y la preparación de Israel para la marcha. El pueblo que pertenece a Dios debe vivir con consagración, orden y obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Votos y cosas dedicadas al Señor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 34
+          },
+          "comentario": "El capítulo final de Levítico muestra que lo dedicado a Dios debe tratarse con seriedad. La consagración no es una palabra vacía.",
+          "aplicacao": "Promesas, recursos y decisiones entregadas a Dios deben ir acompañadas de responsabilidad e integridad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El pueblo contado delante de Dios",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "El censo de las tribus prepara a Israel para la marcha. Cada familia y cada grupo tiene lugar dentro del pueblo de la alianza.",
+          "aplicacao": "Dios conoce a su pueblo y organiza su misión. Nadie es invisible delante de él."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obediencia en la preparación para la marcha",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 1,
+            "verse_start": 47,
+            "chapter_end": 1,
+            "verse_end": 54
+          },
+          "comentario": "Los levitas reciben responsabilidad especial sobre el tabernáculo, e Israel obedece la orden del Señor dada por medio de Moisés.",
+          "aplicacao": "Caminar con Dios exige disposición para obedecer, servir y asumir responsabilidades en el lugar que él designa."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 23,
+            "verse_start": 24,
+            "verse_end": 32,
+            "referencia": "1 Crónicas 23:24-32",
+            "nota": "Muestra la organización posterior de los levitas en el servicio de la casa del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 27,
+            "referencia": "1 Corintios 12:12-27",
+            "nota": "Presenta al pueblo de Dios como cuerpo organizado, con muchos miembros y diferentes funciones."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Efesios 4:16",
+            "nota": "Muestra que cada parte contribuye a la edificación del cuerpo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato con seriedad aquello que consagro al Señor?",
+        "¿Reconozco que Dios me conoce y me llama a participar de su pueblo?",
+        "¿He servido con fidelidad en el lugar donde Dios me puso?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 1:54 destaca la obediencia de Israel a la orden del Señor, marcando la transición de la consagración a la marcha organizada."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 27,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Levítico 27:30",
+          "nota": "Recuerda que aquello que pertenece al Señor debe reconocerse como santo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 1:2",
+          "nota": "Presenta el censo del pueblo según sus familias."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 1,
+          "verse_start": 54,
+          "verse_end": 54,
+          "referencia": "Números 1:54",
+          "nota": "Muestra la obediencia de Israel a las instrucciones del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagración",
+          "significado": "Separación de algo o alguien para Dios con seriedad y fidelidad."
+        },
+        {
+          "termo": "Censo",
+          "significado": "Conteo del pueblo que revela organización, identidad y preparación."
+        },
+        {
+          "termo": "Servicio",
+          "significado": "Responsabilidad asumida delante de Dios en favor de la comunidad."
+        }
+      ],
+      "oracao": "Señor, ayúdame a vivir con consagración y responsabilidad. Muéstrame el lugar de servicio que preparaste para mí y dame un corazón obediente. Amén."
+    }
+  }
+}

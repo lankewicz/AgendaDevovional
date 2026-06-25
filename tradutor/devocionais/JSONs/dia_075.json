@@ -1,0 +1,416 @@
+{
+  "dia": 75,
+  "data": "2027-03-16",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 18–19",
+    "en": "Joshua 18–19",
+    "es": "Josué 18–19"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 18,
+      "chapter_end": 19
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 18,
+    "verse_start": 3,
+    "verse_end": 3,
+    "referencia": {
+      "pt": "Josué 18:3",
+      "en": "Joshua 18:3",
+      "es": "Josué 18:3"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_075.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_075.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_075.mp3",
+      "versiculo_central": "audio/en/verses/day_075.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_075.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_075.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 18–19 — Tomar Posse da Herança com Diligência",
+      "contexto": "Josué 18 e 19 descreve a organização em Siló e a distribuição das terras às tribos que ainda não haviam recebido sua porção. O texto mostra que a promessa de Deus precisava ser recebida com diligência, e que a passividade não combinava com a herança já preparada pelo Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A reunião em Siló",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 10
+          },
+          "comentario": "O tabernáculo é estabelecido em Siló, e Josué chama o povo a deixar a demora. A adoração e a posse da herança aparecem ligadas à obediência prática.",
+          "aplicacao": "A presença de Deus deve nos conduzir a uma vida ativa de fé, não a uma espiritualidade acomodada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A distribuição das porções restantes",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 11,
+            "chapter_end": 19,
+            "verse_end": 48
+          },
+          "comentario": "As tribos recebem suas terras conforme a distribuição conduzida diante do Senhor. Cada porção mostra ordem, direção e responsabilidade comunitária.",
+          "aplicacao": "Deus conduz seu povo com ordem, e cada pessoa é chamada a assumir fielmente a parte que lhe cabe."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A herança de Josué",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 19,
+            "verse_start": 49,
+            "chapter_end": 19,
+            "verse_end": 51
+          },
+          "comentario": "Depois de servir ao povo, Josué também recebe sua porção. Sua liderança não é marcada por privilégio egoísta, mas por serviço fiel até que a distribuição fosse concluída.",
+          "aplicacao": "Liderança segundo Deus serve primeiro e confia que o Senhor também cuida de suas necessidades."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Salmos 37:23-24",
+            "nota": "Afirma que o Senhor firma os passos daquele que se agrada dele."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 6,
+            "verse_end": 8,
+            "referencia": "Romanos 12:6-8",
+            "nota": "Mostra que cada pessoa deve servir fielmente conforme a graça recebida."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Hebreus 6:12",
+            "nota": "Adverte contra a negligência e chama à fé perseverante."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho adiado aquilo que Deus já me chamou a obedecer?",
+        "Assumo com fidelidade a parte que me cabe na caminhada da fé?",
+        "Sirvo com paciência sem transformar liderança em busca de privilégio?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 18:3 confronta a passividade do povo e resume o chamado da leitura: a promessa deve ser recebida com diligência e obediência."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 18:1",
+          "nota": "Mostra Siló como centro de adoração e organização do povo."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Josué 18:3",
+          "nota": "Confronta a demora em tomar posse da herança."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 19,
+          "verse_start": 49,
+          "verse_end": 50,
+          "referencia": "Josué 19:49-50",
+          "nota": "Apresenta a herança de Josué após o serviço ao povo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Diligência",
+          "significado": "Disposição prática de obedecer sem demora."
+        },
+        {
+          "termo": "Herança",
+          "significado": "Porção concedida por Deus ao seu povo."
+        },
+        {
+          "termo": "Serviço",
+          "significado": "Liderança e vida conduzidas para beneficiar o povo de Deus."
+        }
+      ],
+      "oracao": "Senhor, livra-me da demora e da acomodação. Ajuda-me a obedecer com diligência, servir com fidelidade e assumir a responsabilidade que tu me confias. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 18–19 — Possessing the Inheritance with Diligence",
+      "contexto": "Joshua 18 and 19 describes the organization at Shiloh and the distribution of land to the tribes that had not yet received their portion. The text shows that God’s promise needed to be received with diligence, and that passivity did not fit the inheritance already prepared by the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The gathering at Shiloh",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 10
+          },
+          "comentario": "The tabernacle is established at Shiloh, and Joshua calls the people to stop delaying. Worship and possession of the inheritance appear connected to practical obedience.",
+          "aplicacao": "God’s presence should lead us to an active life of faith, not to a complacent spirituality."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The distribution of the remaining portions",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 11,
+            "chapter_end": 19,
+            "verse_end": 48
+          },
+          "comentario": "The tribes receive their lands according to the distribution made before the Lord. Each portion shows order, direction, and shared responsibility.",
+          "aplicacao": "God leads his people with order, and each person is called to faithfully assume the part entrusted to them."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joshua’s inheritance",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 19,
+            "verse_start": 49,
+            "chapter_end": 19,
+            "verse_end": 51
+          },
+          "comentario": "After serving the people, Joshua also receives his portion. His leadership is not marked by selfish privilege, but by faithful service until the distribution is completed.",
+          "aplicacao": "Leadership according to God serves first and trusts that the Lord also cares for its needs."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Psalm 37:23-24",
+            "nota": "Affirms that the Lord establishes the steps of the one who delights in him."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 6,
+            "verse_end": 8,
+            "referencia": "Romans 12:6-8",
+            "nota": "Shows that each person should serve faithfully according to the grace received."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Hebrews 6:12",
+            "nota": "Warns against negligence and calls for persevering faith."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I delayed what God has already called me to obey?",
+        "Do I faithfully assume my part in the walk of faith?",
+        "Do I serve patiently without turning leadership into a search for privilege?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 18:3 confronts the people’s passivity and summarizes the call of the reading: the promise must be received with diligence and obedience."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Joshua 18:1",
+          "nota": "Shows Shiloh as a center of worship and organization for the people."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Joshua 18:3",
+          "nota": "Confronts the delay in taking possession of the inheritance."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 19,
+          "verse_start": 49,
+          "verse_end": 50,
+          "referencia": "Joshua 19:49-50",
+          "nota": "Presents Joshua’s inheritance after his service to the people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Diligence",
+          "significado": "The practical willingness to obey without delay."
+        },
+        {
+          "termo": "Inheritance",
+          "significado": "The portion granted by God to his people."
+        },
+        {
+          "termo": "Service",
+          "significado": "Leadership and life directed toward the good of God’s people."
+        }
+      ],
+      "oracao": "Lord, deliver me from delay and complacency. Help me obey with diligence, serve faithfully, and assume the responsibility you entrust to me. Amen."
+    },
+    "es": {
+      "titulo": "Josué 18–19 — Tomar Posesión de la Herencia con Diligencia",
+      "contexto": "Josué 18 y 19 describe la organización en Silo y la distribución de las tierras a las tribus que aún no habían recibido su porción. El texto muestra que la promesa de Dios debía recibirse con diligencia, y que la pasividad no correspondía a la herencia ya preparada por el Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La reunión en Silo",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 10
+          },
+          "comentario": "El tabernáculo se establece en Silo, y Josué llama al pueblo a dejar la demora. La adoración y la posesión de la herencia aparecen unidas a la obediencia práctica.",
+          "aplicacao": "La presencia de Dios debe conducirnos a una vida activa de fe, no a una espiritualidad acomodada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La distribución de las porciones restantes",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 18,
+            "verse_start": 11,
+            "chapter_end": 19,
+            "verse_end": 48
+          },
+          "comentario": "Las tribus reciben sus tierras conforme a la distribución realizada delante del Señor. Cada porción muestra orden, dirección y responsabilidad comunitaria.",
+          "aplicacao": "Dios guía a su pueblo con orden, y cada persona es llamada a asumir fielmente la parte que le corresponde."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La herencia de Josué",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 19,
+            "verse_start": 49,
+            "chapter_end": 19,
+            "verse_end": 51
+          },
+          "comentario": "Después de servir al pueblo, Josué también recibe su porción. Su liderazgo no está marcado por privilegio egoísta, sino por servicio fiel hasta concluir la distribución.",
+          "aplicacao": "El liderazgo según Dios sirve primero y confía en que el Señor también cuida de sus necesidades."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Salmos 37:23-24",
+            "nota": "Afirma que el Señor afirma los pasos de quien se agrada de él."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 6,
+            "verse_end": 8,
+            "referencia": "Romanos 12:6-8",
+            "nota": "Muestra que cada persona debe servir fielmente conforme a la gracia recibida."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Hebreos 6:12",
+            "nota": "Advierte contra la negligencia y llama a la fe perseverante."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He postergado aquello que Dios ya me llamó a obedecer?",
+        "¿Asumo con fidelidad la parte que me corresponde en la caminata de la fe?",
+        "¿Sirvo con paciencia sin convertir el liderazgo en búsqueda de privilegio?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 18:3 confronta la pasividad del pueblo y resume el llamado de la lectura: la promesa debe recibirse con diligencia y obediencia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 18:1",
+          "nota": "Muestra Silo como centro de adoración y organización del pueblo."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 18,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Josué 18:3",
+          "nota": "Confronta la demora en tomar posesión de la herencia."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 19,
+          "verse_start": 49,
+          "verse_end": 50,
+          "referencia": "Josué 19:49-50",
+          "nota": "Presenta la herencia de Josué después del servicio al pueblo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Diligencia",
+          "significado": "Disposición práctica de obedecer sin demora."
+        },
+        {
+          "termo": "Herencia",
+          "significado": "Porción concedida por Dios a su pueblo."
+        },
+        {
+          "termo": "Servicio",
+          "significado": "Liderazgo y vida dirigidos al bien del pueblo de Dios."
+        }
+      ],
+      "oracao": "Señor, líbrame de la demora y de la comodidad. Ayúdame a obedecer con diligencia, servir con fidelidad y asumir la responsabilidad que tú me confías. Amén."
+    }
+  }
+}

@@ -73,12 +73,14 @@ import androidx.compose.material.icons.filled.NotificationsActive
 import androidx.compose.material.icons.filled.NotificationsOff
 import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material.icons.filled.Edit
+import androidx.compose.material.icons.filled.Book
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import android.widget.Toast
 import java.io.File
 import android.Manifest
 import android.content.pm.PackageManager
+import androidx.compose.material.icons.filled.VolumeUp
 import androidx.core.content.ContextCompat
 import androidx.compose.material3.TabRowDefaults.tabIndicatorOffset
 import androidx.compose.ui.text.style.TextOverflow
@@ -151,6 +153,7 @@ fun AgendaScreen(
 
     var showSettings by remember { mutableStateOf(false) }
     var showCopyrightDialog by remember { mutableStateOf(false) }
+    var showBibliaLeitura by remember { mutableStateOf(false) }
     val sheetState = rememberModalBottomSheetState(skipPartiallyExpanded = true)
 
     val safeInitialPage = if (mensagens.isNotEmpty() && searchQuery.isEmpty()) {
@@ -397,11 +400,18 @@ fun AgendaScreen(
     }
 
     AgendaTheme(darkTheme = isDarkMode, themeStyle = themeStyle) {
-        Box(
-            modifier = Modifier
-                .fillMaxSize()
-                .background(MaterialTheme.colorScheme.background)
-        ) {
+        if (showBibliaLeitura) {
+            BibliaLeituraScreen(
+                selectedLanguage = selectedLanguage,
+                audioPlayer = audioPlayer,
+                onBack = { showBibliaLeitura = false }
+            )
+        } else {
+            Box(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .background(MaterialTheme.colorScheme.background)
+            ) {
         // Subtle gradient glow at the top
         Box(
             modifier = Modifier
@@ -1015,6 +1025,62 @@ fun AgendaScreen(
 
                             Spacer(modifier = Modifier.height(20.dp))
 
+                            mensagemDia.leituraReferencia?.takeIf { it.isNotBlank() }?.let { leituraRef ->
+                                Surface(
+                                    modifier = Modifier
+                                        .fillMaxWidth()
+                                        .border(
+                                            1.dp,
+                                            MaterialTheme.colorScheme.primary.copy(alpha = 0.15f),
+                                            RoundedCornerShape(16.dp)
+                                        )
+                                        .clickable { showBibliaLeitura = true },
+                                    shape = RoundedCornerShape(16.dp),
+                                    color = MaterialTheme.colorScheme.primaryContainer.copy(alpha = 0.15f)
+                                ) {
+                                    Row(
+                                        modifier = Modifier
+                                            .fillMaxWidth()
+                                            .padding(horizontal = 16.dp, vertical = 14.dp),
+                                        verticalAlignment = Alignment.CenterVertically
+                                    ) {
+                                        Icon(
+                                            imageVector = Icons.Default.Book,
+                                            contentDescription = getLocalizedString(selectedLanguage, "leitura_diaria"),
+                                            tint = MaterialTheme.colorScheme.primary,
+                                            modifier = Modifier.size(24.dp)
+                                        )
+                                        Spacer(modifier = Modifier.width(12.dp))
+                                        Column(modifier = Modifier.weight(1f)) {
+                                            Text(
+                                                text = getLocalizedString(selectedLanguage, "leitura_diaria").uppercase(),
+                                                style = MaterialTheme.typography.labelSmall,
+                                                fontWeight = FontWeight.Bold,
+                                                color = MaterialTheme.colorScheme.primary,
+                                                letterSpacing = 1.sp
+                                            )
+                                            Spacer(modifier = Modifier.height(2.dp))
+                                            Text(
+                                                text = leituraRef,
+                                                style = MaterialTheme.typography.bodyLarge.copy(
+                                                    fontSize = (16 * fontSizeMultiplier).sp,
+                                                    fontWeight = FontWeight.SemiBold
+                                                ),
+                                                color = MaterialTheme.colorScheme.onSurface
+                                            )
+                                        }
+                                        Spacer(modifier = Modifier.width(8.dp))
+                                        Icon(
+                                            imageVector = Icons.AutoMirrored.Filled.VolumeUp,
+                                            contentDescription = "Ouvir leitura",
+                                            tint = MaterialTheme.colorScheme.primary,
+                                            modifier = Modifier.size(24.dp)
+                                        )
+                                    }
+                                }
+                                Spacer(modifier = Modifier.height(20.dp))
+                            }
+
                             // Sections
                             if (!isFuture) {
                                 SectionCard(
@@ -1228,6 +1294,7 @@ fun AgendaScreen(
                 onDeleteTimelineNota = onDeleteTimelineNota
             )
         }
+    }
     }
 }
 }

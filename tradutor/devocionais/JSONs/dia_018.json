@@ -1,0 +1,536 @@
+{
+  "dia": 18,
+  "data": "2027-01-18",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 46–48",
+    "en": "Genesis 46–48",
+    "es": "Génesis 46–48"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 46,
+      "chapter_end": 48
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 46,
+    "verse_start": 3,
+    "verse_end": 4,
+    "referencia": {
+      "pt": "Gênesis 46:3-4",
+      "en": "Genesis 46:3-4",
+      "es": "Génesis 46:3-4"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_018.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_018.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/018/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/048.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/018/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/048.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/018/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/048.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/018/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/048.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_018.mp3",
+      "versiculo_central": "audio/en/verses/day_018.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/018/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/en/en-US-AriaNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/en/en-US-AriaNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/en/en-US-AriaNeural/048.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/018/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/en/en-US-JennyNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/en/en-US-JennyNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/en/en-US-JennyNeural/048.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/018/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/en/en-US-GuyNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/en/en-US-GuyNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/en/en-US-GuyNeural/048.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/018/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/en/en-US-BrianNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/en/en-US-BrianNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/en/en-US-BrianNeural/048.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_018.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_018.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/018/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/es/es-ES-ElviraNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/es/es-ES-ElviraNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/es/es-ES-ElviraNeural/048.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/018/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/es/es-MX-DaliaNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/es/es-MX-DaliaNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/es/es-MX-DaliaNeural/048.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/018/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/es/es-ES-AlvaroNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/es/es-ES-AlvaroNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/es/es-ES-AlvaroNeural/048.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/018/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/018/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/018/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_46": "audio/biblia/GEN/es/es-MX-JorgeNeural/046.m4a",
+          "GEN_47": "audio/biblia/GEN/es/es-MX-JorgeNeural/047.m4a",
+          "GEN_48": "audio/biblia/GEN/es/es-MX-JorgeNeural/048.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 46–48 — Deus Acompanha, Sustenta e Abençoa",
+      "contexto": "Gênesis 46 a 48 acompanha a descida de Jacó e sua família ao Egito. Deus confirma que essa mudança faz parte do seu plano, José reencontra seu pai, e Jacó abençoa os filhos de José. A promessa continua viva mesmo em terra estrangeira.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Deus encoraja Jacó na mudança",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 1,
+            "chapter_end": 46,
+            "verse_end": 27
+          },
+          "comentario": "Antes de descer ao Egito, Jacó recebe uma palavra de Deus. A mudança não significa abandono da promessa, mas continuidade do plano divino.",
+          "aplicacao": "Grandes transições precisam ser vividas com escuta, fé e dependência da direção de Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O reencontro entre Jacó e José",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 28,
+            "chapter_end": 47,
+            "verse_end": 31
+          },
+          "comentario": "José e Jacó se reencontram depois de anos de dor. A família é estabelecida em Gósen e preservada durante a fome.",
+          "aplicacao": "Deus pode restaurar alegrias que pareciam perdidas e sustentar sua promessa em lugares inesperados."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A bênção sobre Efraim e Manassés",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 48,
+            "verse_start": 1,
+            "chapter_end": 48,
+            "verse_end": 22
+          },
+          "comentario": "Jacó abençoa os filhos de José e os inclui na herança da promessa. A bênção revela fé no Deus que o guiou por toda a vida.",
+          "aplicacao": "Uma vida marcada pela fé transmite às próximas gerações a memória da fidelidade de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Êxodo 1:6-7",
+            "nota": "Mostra que a família preservada em Gênesis se tornou numerosa no Egito."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Hebreus 11:21",
+            "nota": "Lembra Jacó abençoando os filhos de José como ato de fé."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "João 10:28-29",
+            "nota": "Aponta para o cuidado seguro de Deus sobre os seus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Busco a direção de Deus antes de grandes mudanças?",
+        "Creio que Deus pode sustentar sua promessa mesmo em ambientes inesperados?",
+        "Tenho transmitido fé e gratidão às próximas gerações?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 46:3-4 resume a segurança dada por Deus a Jacó: o Senhor iria com ele ao Egito e continuaria conduzindo sua promessa."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 46,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Gênesis 46:3-4",
+          "nota": "Mostra Deus encorajando Jacó a descer ao Egito."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 47,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Gênesis 47:27",
+          "nota": "Registra a preservação e o crescimento da família em Gósen."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 48,
+          "verse_start": 15,
+          "verse_end": 16,
+          "referencia": "Gênesis 48:15-16",
+          "nota": "Apresenta Jacó testemunhando o cuidado de Deus ao longo da vida."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Transição",
+          "significado": "Mudança vivida sob a direção e a presença de Deus."
+        },
+        {
+          "termo": "Bênção",
+          "significado": "Declaração de fé e favor ligada à continuidade da promessa."
+        },
+        {
+          "termo": "Gerações",
+          "significado": "Continuidade da fé e da promessa no povo de Deus."
+        }
+      ],
+      "oracao": "Senhor, acompanha-me em cada transição e ensina-me a confiar na tua presença. Que minha vida transmita fé, gratidão e esperança às próximas gerações. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 46–48 — God Accompanies, Sustains, and Blesses",
+      "contexto": "Genesis 46 to 48 follows Jacob and his family as they go down to Egypt. God confirms that this move is part of his plan, Joseph is reunited with his father, and Jacob blesses Joseph’s sons. The promise remains alive even in a foreign land.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "God encourages Jacob in transition",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 1,
+            "chapter_end": 46,
+            "verse_end": 27
+          },
+          "comentario": "Before going down to Egypt, Jacob receives a word from God. The move does not mean the abandonment of the promise, but the continuation of God’s plan.",
+          "aplicacao": "Major transitions should be lived with listening, faith, and dependence on God’s direction."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The reunion between Jacob and Joseph",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 28,
+            "chapter_end": 47,
+            "verse_end": 31
+          },
+          "comentario": "Joseph and Jacob are reunited after years of pain. The family is settled in Goshen and preserved during the famine.",
+          "aplicacao": "God can restore joys that seemed lost and sustain his promise in unexpected places."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The blessing over Ephraim and Manasseh",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 48,
+            "verse_start": 1,
+            "chapter_end": 48,
+            "verse_end": 22
+          },
+          "comentario": "Jacob blesses Joseph’s sons and includes them in the inheritance of the promise. The blessing reveals faith in the God who guided him through life.",
+          "aplicacao": "A life marked by faith passes on the memory of God’s faithfulness to the next generations."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Exodus 1:6-7",
+            "nota": "Shows that the family preserved in Genesis became numerous in Egypt."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Hebrews 11:21",
+            "nota": "Remembers Jacob blessing Joseph’s sons as an act of faith."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "John 10:28-29",
+            "nota": "Points to God’s secure care over his people."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek God’s direction before major changes?",
+        "Do I believe that God can sustain his promise even in unexpected places?",
+        "Am I passing on faith and gratitude to the next generations?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 46:3-4 summarizes the assurance God gave Jacob: the Lord would go with him to Egypt and continue guiding his promise."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 46,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Genesis 46:3-4",
+          "nota": "Shows God encouraging Jacob to go down to Egypt."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 47,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Genesis 47:27",
+          "nota": "Records the preservation and growth of the family in Goshen."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 48,
+          "verse_start": 15,
+          "verse_end": 16,
+          "referencia": "Genesis 48:15-16",
+          "nota": "Presents Jacob testifying to God’s care throughout his life."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Transition",
+          "significado": "Change lived under God’s direction and presence."
+        },
+        {
+          "termo": "Blessing",
+          "significado": "A declaration of faith and favor connected to the continuation of the promise."
+        },
+        {
+          "termo": "Generations",
+          "significado": "The continuity of faith and promise among God’s people."
+        }
+      ],
+      "oracao": "Lord, accompany me in every transition and teach me to trust your presence. May my life pass on faith, gratitude, and hope to the next generations. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 46–48 — Dios Acompaña, Sustenta y Bendice",
+      "contexto": "Génesis 46 al 48 acompaña la bajada de Jacob y su familia a Egipto. Dios confirma que ese cambio forma parte de su plan, José se reencuentra con su padre, y Jacob bendice a los hijos de José. La promesa sigue viva incluso en tierra extranjera.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Dios anima a Jacob en la transición",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 1,
+            "chapter_end": 46,
+            "verse_end": 27
+          },
+          "comentario": "Antes de bajar a Egipto, Jacob recibe una palabra de Dios. El cambio no significa abandono de la promesa, sino continuidad del plan divino.",
+          "aplicacao": "Las grandes transiciones deben vivirse con escucha, fe y dependencia de la dirección de Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El reencuentro entre Jacob y José",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 46,
+            "verse_start": 28,
+            "chapter_end": 47,
+            "verse_end": 31
+          },
+          "comentario": "José y Jacob se reencuentran después de años de dolor. La familia es establecida en Gosén y preservada durante el hambre.",
+          "aplicacao": "Dios puede restaurar alegrías que parecían perdidas y sostener su promesa en lugares inesperados."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La bendición sobre Efraín y Manasés",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 48,
+            "verse_start": 1,
+            "chapter_end": 48,
+            "verse_end": 22
+          },
+          "comentario": "Jacob bendice a los hijos de José y los incluye en la herencia de la promesa. La bendición revela fe en el Dios que lo guió durante toda su vida.",
+          "aplicacao": "Una vida marcada por la fe transmite a las próximas generaciones la memoria de la fidelidad de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Éxodo 1:6-7",
+            "nota": "Muestra que la familia preservada en Génesis llegó a ser numerosa en Egipto."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Hebreos 11:21",
+            "nota": "Recuerda a Jacob bendiciendo a los hijos de José como acto de fe."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "Juan 10:28-29",
+            "nota": "Apunta al cuidado seguro de Dios sobre los suyos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco la dirección de Dios antes de grandes cambios?",
+        "¿Creo que Dios puede sostener su promesa incluso en ambientes inesperados?",
+        "¿He transmitido fe y gratitud a las próximas generaciones?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 46:3-4 resume la seguridad dada por Dios a Jacob: el Señor iría con él a Egipto y seguiría conduciendo su promesa."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 46,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Génesis 46:3-4",
+          "nota": "Muestra a Dios animando a Jacob a bajar a Egipto."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 47,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Génesis 47:27",
+          "nota": "Registra la preservación y el crecimiento de la familia en Gosén."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 48,
+          "verse_start": 15,
+          "verse_end": 16,
+          "referencia": "Génesis 48:15-16",
+          "nota": "Presenta a Jacob testificando del cuidado de Dios durante su vida."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Transición",
+          "significado": "Cambio vivido bajo la dirección y presencia de Dios."
+        },
+        {
+          "termo": "Bendición",
+          "significado": "Declaración de fe y favor ligada a la continuidad de la promesa."
+        },
+        {
+          "termo": "Generaciones",
+          "significado": "Continuidad de la fe y de la promesa en el pueblo de Dios."
+        }
+      ],
+      "oracao": "Señor, acompáñame en cada transición y enséñame a confiar en tu presencia. Que mi vida transmita fe, gratitud y esperanza a las próximas generaciones. Amén."
+    }
+  }
+}

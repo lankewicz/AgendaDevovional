@@ -1,0 +1,416 @@
+{
+  "dia": 70,
+  "data": "2027-03-11",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 1–5",
+    "en": "Joshua 1–5",
+    "es": "Josué 1–5"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 1,
+      "chapter_end": 5
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 1,
+    "verse_start": 9,
+    "verse_end": 9,
+    "referencia": {
+      "pt": "Josué 1:9",
+      "en": "Joshua 1:9",
+      "es": "Josué 1:9"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_070.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_070.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_070.mp3",
+      "versiculo_central": "audio/en/verses/day_070.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_070.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_070.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 1–5 — Coragem para Entrar na Promessa",
+      "contexto": "Josué 1 a 5 marca a transição entre o deserto e a entrada na terra prometida. Deus encoraja Josué, Raabe acolhe os espias, o Jordão é atravessado, a aliança é reafirmada e o povo se prepara para viver uma nova etapa sob a liderança do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Chamado à coragem e fidelidade à Palavra",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Josué recebe a responsabilidade de liderar o povo, mas a força para essa missão está na presença de Deus e na meditação constante na lei.",
+          "aplicacao": "Coragem bíblica não nasce da autoconfiança, mas da certeza de que Deus está presente e sua Palavra guia o caminho."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Raabe, fé e misericórdia em Jericó",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 24
+          },
+          "comentario": "Raabe reconhece o agir de Deus e protege os espias. Sua história mostra a misericórdia alcançando pessoas improváveis.",
+          "aplicacao": "A fé verdadeira responde ao que Deus revela e encontra refúgio em sua misericórdia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A travessia do Jordão e a renovação da aliança",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 15
+          },
+          "comentario": "Deus abre caminho pelo Jordão, estabelece memoriais e prepara o povo por meio da circuncisão e da celebração da Páscoa.",
+          "aplicacao": "Antes de avançar, o povo de Deus precisa lembrar suas obras, renovar a obediência e reconhecer sua santidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 31,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Deuteronômio 31:7-8",
+            "nota": "Antecede o encorajamento dado a Josué para liderar o povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 31,
+            "verse_end": 31,
+            "referencia": "Hebreus 11:31",
+            "nota": "Lembra Raabe como exemplo de fé."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 25,
+            "verse_end": 25,
+            "referencia": "Tiago 2:25",
+            "nota": "Mostra que a fé de Raabe produziu uma ação concreta."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado coragem na presença de Deus ou apenas em minha própria força?",
+        "A Palavra do Senhor tem guiado minhas decisões em novas etapas?",
+        "Reconheço que a misericórdia de Deus alcança pessoas que eu talvez não esperasse?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 1:9 resume o chamado da leitura: avançar com coragem porque o Senhor está presente com seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Josué 1:8-9",
+          "nota": "Une meditação na Palavra e coragem para obedecer."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Josué 2:11",
+          "nota": "Mostra a confissão de Raabe sobre o Deus de Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 4,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Josué 4:24",
+          "nota": "Explica o propósito do memorial da travessia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Coragem",
+          "significado": "Confiança obediente fundamentada na presença de Deus."
+        },
+        {
+          "termo": "Memorial",
+          "significado": "Lembrança concreta das obras do Senhor para fortalecer a fé."
+        },
+        {
+          "termo": "Misericórdia",
+          "significado": "Graça de Deus que acolhe e transforma pessoas inesperadas."
+        }
+      ],
+      "oracao": "Senhor, dá-me coragem para obedecer à tua Palavra e seguir tua direção. Ajuda-me a lembrar tuas obras e confiar na tua presença em cada novo passo. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 1–5 — Courage to Enter the Promise",
+      "contexto": "Joshua 1 to 5 marks the transition from the wilderness to the entrance into the promised land. God encourages Joshua, Rahab receives the spies, the Jordan is crossed, the covenant is reaffirmed, and the people prepare to live a new season under the Lord's leadership.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Called to courage and faithfulness to the Word",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Joshua receives the responsibility of leading the people, but the strength for this mission is found in God's presence and constant meditation on the law.",
+          "aplicacao": "Biblical courage does not come from self-confidence, but from the certainty that God is present and his Word guides the way."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Rahab, faith, and mercy in Jericho",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 24
+          },
+          "comentario": "Rahab recognizes God's work and protects the spies. Her story shows mercy reaching unlikely people.",
+          "aplicacao": "True faith responds to what God reveals and finds refuge in his mercy."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The crossing of the Jordan and covenant renewal",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 15
+          },
+          "comentario": "God opens a way through the Jordan, establishes memorials, and prepares the people through circumcision and the celebration of Passover.",
+          "aplicacao": "Before moving forward, God's people need to remember his works, renew obedience, and recognize his holiness."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 31,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Deuteronomy 31:7-8",
+            "nota": "Precedes the encouragement given to Joshua to lead the people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 31,
+            "verse_end": 31,
+            "referencia": "Hebrews 11:31",
+            "nota": "Remembers Rahab as an example of faith."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 25,
+            "verse_end": 25,
+            "referencia": "James 2:25",
+            "nota": "Shows that Rahab's faith produced concrete action."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek courage in God's presence or only in my own strength?",
+        "Has the Lord's Word guided my decisions in new seasons?",
+        "Do I recognize that God's mercy reaches people I might not expect?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 1:9 summarizes the call of the reading: move forward with courage because the Lord is present with his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Joshua 1:8-9",
+          "nota": "Unites meditation on the Word and courage to obey."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Joshua 2:11",
+          "nota": "Shows Rahab's confession about the God of Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 4,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Joshua 4:24",
+          "nota": "Explains the purpose of the memorial of the crossing."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Courage",
+          "significado": "Obedient confidence grounded in the presence of God."
+        },
+        {
+          "termo": "Memorial",
+          "significado": "A concrete remembrance of the Lord's works to strengthen faith."
+        },
+        {
+          "termo": "Mercy",
+          "significado": "God's grace that receives and transforms unexpected people."
+        }
+      ],
+      "oracao": "Lord, give me courage to obey your Word and follow your direction. Help me remember your works and trust your presence in every new step. Amen."
+    },
+    "es": {
+      "titulo": "Josué 1–5 — Valentía para Entrar en la Promesa",
+      "contexto": "Josué 1 al 5 marca la transición entre el desierto y la entrada en la tierra prometida. Dios anima a Josué, Rahab recibe a los espías, el Jordán es cruzado, la alianza es reafirmada y el pueblo se prepara para vivir una nueva etapa bajo la dirección del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Llamado a la valentía y fidelidad a la Palabra",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Josué recibe la responsabilidad de liderar al pueblo, pero la fuerza para esta misión está en la presencia de Dios y en la meditación constante en la ley.",
+          "aplicacao": "La valentía bíblica no nace de la autoconfianza, sino de la certeza de que Dios está presente y su Palabra guía el camino."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Rahab, fe y misericordia en Jericó",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 24
+          },
+          "comentario": "Rahab reconoce el obrar de Dios y protege a los espías. Su historia muestra la misericordia alcanzando a personas inesperadas.",
+          "aplicacao": "La fe verdadera responde a lo que Dios revela y encuentra refugio en su misericordia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El cruce del Jordán y la renovación de la alianza",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 15
+          },
+          "comentario": "Dios abre camino por el Jordán, establece memoriales y prepara al pueblo por medio de la circuncisión y la celebración de la Pascua.",
+          "aplicacao": "Antes de avanzar, el pueblo de Dios necesita recordar sus obras, renovar la obediencia y reconocer su santidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 31,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Deuteronomio 31:7-8",
+            "nota": "Antecede el ánimo dado a Josué para liderar al pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 31,
+            "verse_end": 31,
+            "referencia": "Hebreos 11:31",
+            "nota": "Recuerda a Rahab como ejemplo de fe."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 25,
+            "verse_end": 25,
+            "referencia": "Santiago 2:25",
+            "nota": "Muestra que la fe de Rahab produjo una acción concreta."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco valentía en la presencia de Dios o solo en mi propia fuerza?",
+        "¿La Palabra del Señor ha guiado mis decisiones en nuevas etapas?",
+        "¿Reconozco que la misericordia de Dios alcanza a personas que quizá yo no esperaría?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 1:9 resume el llamado de la lectura: avanzar con valentía porque el Señor está presente con su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 1,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Josué 1:8-9",
+          "nota": "Une la meditación en la Palabra y la valentía para obedecer."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 2,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Josué 2:11",
+          "nota": "Muestra la confesión de Rahab sobre el Dios de Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 4,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Josué 4:24",
+          "nota": "Explica el propósito del memorial del cruce."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Valentía",
+          "significado": "Confianza obediente fundamentada en la presencia de Dios."
+        },
+        {
+          "termo": "Memorial",
+          "significado": "Recuerdo concreto de las obras del Señor para fortalecer la fe."
+        },
+        {
+          "termo": "Misericordia",
+          "significado": "Gracia de Dios que recibe y transforma a personas inesperadas."
+        }
+      ],
+      "oracao": "Señor, dame valentía para obedecer tu Palabra y seguir tu dirección. Ayúdame a recordar tus obras y confiar en tu presencia en cada nuevo paso. Amén."
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "dia": 42,
+  "data": "2027-02-11",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 22–24",
+    "en": "Leviticus 22–24",
+    "es": "Levítico 22–24"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 22,
+      "chapter_end": 24
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 22,
+    "verse_start": 32,
+    "verse_end": 32,
+    "referencia": {
+      "pt": "Levítico 22:32",
+      "en": "Leviticus 22:32",
+      "es": "Levítico 22:32"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_042.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_042.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/042/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/024.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/042/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/024.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/042/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/024.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/042/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/024.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_042.mp3",
+      "versiculo_central": "audio/en/verses/day_042.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/042/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/en/en-US-AriaNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/en/en-US-AriaNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/en/en-US-AriaNeural/024.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/042/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/en/en-US-JennyNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/en/en-US-JennyNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/en/en-US-JennyNeural/024.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/042/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/en/en-US-GuyNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/en/en-US-GuyNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/en/en-US-GuyNeural/024.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/042/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/en/en-US-BrianNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/en/en-US-BrianNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/en/en-US-BrianNeural/024.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_042.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_042.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/042/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/es/es-ES-ElviraNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/es/es-ES-ElviraNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/es/es-ES-ElviraNeural/024.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/042/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/es/es-MX-DaliaNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/es/es-MX-DaliaNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/es/es-MX-DaliaNeural/024.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/042/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/es/es-ES-AlvaroNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/es/es-ES-AlvaroNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/es/es-ES-AlvaroNeural/024.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/042/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/042/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/042/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_22": "audio/biblia/LEV/es/es-MX-JorgeNeural/022.m4a",
+          "LEV_23": "audio/biblia/LEV/es/es-MX-JorgeNeural/023.m4a",
+          "LEV_24": "audio/biblia/LEV/es/es-MX-JorgeNeural/024.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 22–24 — Santidade, Tempos Sagrados e Reverência",
+      "contexto": "Levítico 22 a 24 reúne orientações sobre ofertas, festas solenes, cuidado contínuo diante do Senhor e reverência ao seu nome. O povo aprende que adorar a Deus envolve santidade, memória, gratidão e seriedade. Nada oferecido ao Senhor deveria ser tratado como comum ou sem valor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofertas aceitas diante do Senhor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 33
+          },
+          "comentario": "As ofertas deveriam expressar reverência, pureza e gratidão. O povo não podia tratar o culto como formalidade vazia.",
+          "aplicacao": "A adoração verdadeira envolve coração sincero, vida coerente e respeito por aquilo que pertence a Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "As festas que formavam a memória do povo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 44
+          },
+          "comentario": "As festas lembravam criação, libertação, provisão, expiação e descanso. O calendário de Israel ensinava o povo a viver diante de Deus.",
+          "aplicacao": "A fé precisa de memória. Recordar as obras do Senhor fortalece gratidão, obediência e esperança."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Luz, pão e reverência ao nome de Deus",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 23
+          },
+          "comentario": "O azeite, os pães e as leis sobre reverência mostram que a presença de Deus deveria moldar tanto o culto quanto a justiça na comunidade.",
+          "aplicacao": "Reverenciar a Deus inclui palavras, atitudes e relações justas com o próximo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MAL",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 14,
+            "referencia": "Malaquias 1:6-14",
+            "nota": "Confronta a oferta negligente e chama o povo a honrar o nome do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Apresenta a vida inteira como culto racional e oferta viva a Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Hebreus 13:15-16",
+            "nota": "Relaciona louvor, prática do bem e generosidade como sacrifícios agradáveis a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho oferecido a Deus o melhor da minha vida ou apenas o que sobra?",
+        "Minha rotina me ajuda a lembrar das obras do Senhor?",
+        "Minhas palavras e atitudes honram o nome de Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 22:32 resume o chamado do bloco: o nome do Senhor deve ser reverenciado porque ele santifica o seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Levítico 22:32",
+          "nota": "Apresenta o chamado à reverência pelo nome santo do Senhor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 23,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 23:3",
+          "nota": "Recorda o descanso como tempo separado para Deus."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 24,
+          "verse_start": 2,
+          "verse_end": 4,
+          "referencia": "Levítico 24:2-4",
+          "nota": "Mostra o cuidado contínuo com a luz diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santo nome",
+          "significado": "A revelação do caráter de Deus, que deve ser honrada pelo povo."
+        },
+        {
+          "termo": "Festas solenes",
+          "significado": "Tempos separados para recordar as obras do Senhor e adorá-lo."
+        },
+        {
+          "termo": "Oferta",
+          "significado": "Expressão de entrega, gratidão e reverência diante de Deus."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a honrar o teu nome com reverência. Que minha adoração, minhas palavras e minhas atitudes expressem gratidão, santidade e fidelidade diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 22–24 — Holiness, Sacred Times, and Reverence",
+      "contexto": "Leviticus 22 to 24 brings together instructions about offerings, appointed feasts, continual service before the Lord, and reverence for his name. The people learn that worship involves holiness, memory, gratitude, and seriousness. Nothing offered to the Lord should be treated as common or worthless.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Offerings accepted before the Lord",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 33
+          },
+          "comentario": "The offerings were to express reverence, purity, and gratitude. The people could not treat worship as an empty formality.",
+          "aplicacao": "True worship involves a sincere heart, a coherent life, and respect for what belongs to God."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The feasts that shaped the people's memory",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 44
+          },
+          "comentario": "The feasts remembered creation, deliverance, provision, atonement, and rest. Israel's calendar taught the people to live before God.",
+          "aplicacao": "Faith needs memory. Remembering the works of the Lord strengthens gratitude, obedience, and hope."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Light, bread, and reverence for God's name",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 23
+          },
+          "comentario": "The oil, the bread, and the laws about reverence show that God's presence should shape both worship and justice in the community.",
+          "aplicacao": "Revering God includes our words, our attitudes, and just relationships with others."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MAL",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 14,
+            "referencia": "Malachi 1:6-14",
+            "nota": "Confronts careless offerings and calls the people to honor the Lord's name."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romans 12:1",
+            "nota": "Presents the whole life as spiritual worship and a living offering to God."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Hebrews 13:15-16",
+            "nota": "Connects praise, doing good, and generosity as sacrifices pleasing to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I offering God the best of my life or only what is left over?",
+        "Does my routine help me remember the works of the Lord?",
+        "Do my words and attitudes honor God's name?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 22:32 summarizes the call of the passage: the Lord's name must be revered because he sanctifies his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Leviticus 22:32",
+          "nota": "Presents the call to reverence the holy name of the Lord."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 23,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Leviticus 23:3",
+          "nota": "Recalls rest as time set apart for God."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 24,
+          "verse_start": 2,
+          "verse_end": 4,
+          "referencia": "Leviticus 24:2-4",
+          "nota": "Shows the continual care for the light before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holy name",
+          "significado": "The revelation of God's character, which must be honored by his people."
+        },
+        {
+          "termo": "Appointed feasts",
+          "significado": "Times set apart to remember the works of the Lord and worship him."
+        },
+        {
+          "termo": "Offering",
+          "significado": "An expression of surrender, gratitude, and reverence before God."
+        }
+      ],
+      "oracao": "Lord, teach me to honor your name with reverence. May my worship, my words, and my attitudes express gratitude, holiness, and faithfulness before you. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 22–24 — Santidad, Tiempos Sagrados y Reverencia",
+      "contexto": "Levítico 22 al 24 reúne instrucciones sobre ofrendas, fiestas solemnes, servicio continuo delante del Señor y reverencia a su nombre. El pueblo aprende que adorar a Dios implica santidad, memoria, gratitud y seriedad. Nada ofrecido al Señor debía tratarse como común o sin valor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofrendas aceptas delante del Señor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 33
+          },
+          "comentario": "Las ofrendas debían expresar reverencia, pureza y gratitud. El pueblo no podía tratar la adoración como una formalidad vacía.",
+          "aplicacao": "La adoración verdadera implica un corazón sincero, una vida coherente y respeto por lo que pertenece a Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Las fiestas que formaban la memoria del pueblo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 44
+          },
+          "comentario": "Las fiestas recordaban creación, liberación, provisión, expiación y descanso. El calendario de Israel enseñaba al pueblo a vivir delante de Dios.",
+          "aplicacao": "La fe necesita memoria. Recordar las obras del Señor fortalece gratitud, obediencia y esperanza."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Luz, pan y reverencia al nombre de Dios",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 23
+          },
+          "comentario": "El aceite, los panes y las leyes sobre reverencia muestran que la presencia de Dios debía moldear tanto la adoración como la justicia en la comunidad.",
+          "aplicacao": "Reverenciar a Dios incluye nuestras palabras, actitudes y relaciones justas con el prójimo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MAL",
+            "chapter": 1,
+            "verse_start": 6,
+            "verse_end": 14,
+            "referencia": "Malaquías 1:6-14",
+            "nota": "Confronta la ofrenda negligente y llama al pueblo a honrar el nombre del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Presenta toda la vida como culto racional y ofrenda viva a Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Hebreos 13:15-16",
+            "nota": "Relaciona alabanza, práctica del bien y generosidad como sacrificios agradables a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He ofrecido a Dios lo mejor de mi vida o solo lo que sobra?",
+        "¿Mi rutina me ayuda a recordar las obras del Señor?",
+        "¿Mis palabras y actitudes honran el nombre de Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 22:32 resume el llamado del bloque: el nombre del Señor debe ser reverenciado porque él santifica a su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Levítico 22:32",
+          "nota": "Presenta el llamado a reverenciar el santo nombre del Señor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 23,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 23:3",
+          "nota": "Recuerda el descanso como tiempo apartado para Dios."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 24,
+          "verse_start": 2,
+          "verse_end": 4,
+          "referencia": "Levítico 24:2-4",
+          "nota": "Muestra el cuidado continuo de la luz delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santo nombre",
+          "significado": "La revelación del carácter de Dios, que debe ser honrada por su pueblo."
+        },
+        {
+          "termo": "Fiestas solemnes",
+          "significado": "Tiempos apartados para recordar las obras del Señor y adorarlo."
+        },
+        {
+          "termo": "Ofrenda",
+          "significado": "Expresión de entrega, gratitud y reverencia delante de Dios."
+        }
+      ],
+      "oracao": "Señor, enséñame a honrar tu nombre con reverencia. Que mi adoración, mis palabras y mis actitudes expresen gratitud, santidad y fidelidad delante de ti. Amén."
+    }
+  }
+}

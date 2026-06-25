@@ -1,0 +1,548 @@
+{
+  "dia": 32,
+  "data": "2027-02-01",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 36–37",
+    "en": "Exodus 36–37",
+    "es": "Éxodo 36–37"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 36,
+      "chapter_end": 37
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 36,
+    "verse_start": 5,
+    "verse_end": 5,
+    "referencia": {
+      "pt": "Êxodo 36:5",
+      "en": "Exodus 36:5",
+      "es": "Éxodo 36:5"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_032.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_032.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/032/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/037.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/032/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/037.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/032/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/037.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/032/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/037.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_032.mp3",
+      "versiculo_central": "audio/en/verses/day_032.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/032/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/en/en-US-AriaNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/en/en-US-AriaNeural/037.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/032/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/en/en-US-JennyNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/en/en-US-JennyNeural/037.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/032/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/en/en-US-GuyNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/en/en-US-GuyNeural/037.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/032/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/en/en-US-BrianNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/en/en-US-BrianNeural/037.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_032.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_032.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/032/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/es/es-ES-ElviraNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/es/es-ES-ElviraNeural/037.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/032/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/es/es-MX-DaliaNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/es/es-MX-DaliaNeural/037.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/032/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/es/es-ES-AlvaroNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/es/es-ES-AlvaroNeural/037.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/032/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/032/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/032/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_36": "audio/biblia/EXO/es/es-MX-JorgeNeural/036.m4a",
+          "EXO_37": "audio/biblia/EXO/es/es-MX-JorgeNeural/037.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 36–37 — Generosidade, Habilidade e Adoração",
+      "contexto": "Êxodo 36 a 37 mostra a execução prática das instruções do tabernáculo. Depois da restauração da aliança, o povo responde com ofertas voluntárias, e os artesãos trabalham com sabedoria dada por Deus. A adoração ganha forma em obediência, excelência e generosidade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofertas voluntárias para a obra do Senhor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 7
+          },
+          "comentario": "O povo entrega mais do que o necessário para a construção do tabernáculo. A generosidade surge como resposta à graça, não como tentativa de comprar o favor de Deus.",
+          "aplicacao": "Quando o coração reconhece a bondade do Senhor, a contribuição deixa de ser peso e se torna expressão de gratidão."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A construção das cortinas e estruturas do tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 8,
+            "chapter_end": 36,
+            "verse_end": 38
+          },
+          "comentario": "Os detalhes do tabernáculo são executados conforme a ordem recebida. Beleza, precisão e obediência caminham juntas na preparação do lugar de encontro com Deus.",
+          "aplicacao": "Servir a Deus envolve cuidado, fidelidade e atenção aos detalhes, porque a obra do Senhor deve refletir reverência."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A arca, a mesa, o candelabro e o altar",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 29
+          },
+          "comentario": "Os móveis sagrados apontam para comunhão, luz, intercessão e aproximação de Deus. Cada peça ensina que o Senhor providencia o caminho para habitar no meio do seu povo.",
+          "aplicacao": "A presença de Deus não é tratada de forma casual. Aproximar-se do Senhor exige reverência, gratidão e dependência da sua provisão."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 29,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Crônicas 29:9",
+            "nota": "Mostra o povo se alegrando ao contribuir voluntariamente para a obra do Senhor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 27:4",
+            "nota": "Expressa o desejo de contemplar a beleza do Senhor e estar em sua presença."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 9,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Coríntios 9:7",
+            "nota": "Ensina que Deus ama quem contribui com alegria."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Hebreus 9:1-5",
+            "nota": "Recorda os elementos do tabernáculo e seu significado no culto antigo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha generosidade nasce da gratidão pela graça de Deus?",
+        "Tenho servido ao Senhor com cuidado e excelência?",
+        "Trato a presença de Deus com reverência ou com superficialidade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 36:5 destaca a resposta generosa do povo depois da restauração da aliança, mostrando que a obra de Deus avança quando corações são movidos pelo Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Êxodo 36:1",
+          "nota": "Mostra que habilidade e sabedoria para servir procedem de Deus."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Êxodo 36:5",
+          "nota": "Destaca a generosidade abundante do povo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 37,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Êxodo 37:1",
+          "nota": "Marca o início da construção da arca, símbolo central da presença de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Generosidade",
+          "significado": "Resposta voluntária de um coração alcançado pela graça de Deus."
+        },
+        {
+          "termo": "Tabernáculo",
+          "significado": "Lugar de encontro em que Deus manifesta sua presença no meio do povo."
+        },
+        {
+          "termo": "Excelência",
+          "significado": "Serviço cuidadoso e fiel realizado para a glória do Senhor."
+        }
+      ],
+      "oracao": "Senhor, dá-me um coração generoso, reverente e disposto a servir. Que minha vida contribua para tua obra com alegria, fidelidade e gratidão. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 36–37 — Generosity, Skill, and Worship",
+      "contexto": "Exodus 36 to 37 shows the practical execution of the instructions for the tabernacle. After the restoration of the covenant, the people respond with voluntary offerings, and the craftsmen work with wisdom given by God. Worship takes shape through obedience, excellence, and generosity.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Voluntary offerings for the work of the Lord",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 7
+          },
+          "comentario": "The people bring more than enough for the construction of the tabernacle. Generosity appears as a response to grace, not as an attempt to buy God’s favor.",
+          "aplicacao": "When the heart recognizes the Lord’s goodness, giving ceases to be a burden and becomes an expression of gratitude."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The making of the curtains and structures of the tabernacle",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 8,
+            "chapter_end": 36,
+            "verse_end": 38
+          },
+          "comentario": "The details of the tabernacle are carried out according to the command received. Beauty, precision, and obedience walk together in preparing the place of meeting with God.",
+          "aplicacao": "Serving God involves care, faithfulness, and attention to detail, because the Lord’s work should reflect reverence."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The ark, the table, the lampstand, and the altar",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 29
+          },
+          "comentario": "The sacred furnishings point to communion, light, intercession, and access to God. Each piece teaches that the Lord provides the way to dwell among his people.",
+          "aplicacao": "God’s presence is not treated casually. Drawing near to the Lord requires reverence, gratitude, and dependence on his provision."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 29,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Chronicles 29:9",
+            "nota": "Shows the people rejoicing as they give willingly for the work of the Lord."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Psalm 27:4",
+            "nota": "Expresses the desire to behold the beauty of the Lord and dwell in his presence."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 9,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Corinthians 9:7",
+            "nota": "Teaches that God loves a cheerful giver."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Hebrews 9:1-5",
+            "nota": "Recalls the elements of the tabernacle and their meaning in ancient worship."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my generosity flow from gratitude for God’s grace?",
+        "Do I serve the Lord with care and excellence?",
+        "Do I treat God’s presence with reverence or with superficiality?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 36:5 highlights the generous response of the people after the restoration of the covenant, showing that God’s work advances when hearts are moved by the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Exodus 36:1",
+          "nota": "Shows that skill and wisdom for service come from God."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Exodus 36:5",
+          "nota": "Highlights the abundant generosity of the people."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 37,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Exodus 37:1",
+          "nota": "Marks the beginning of the ark’s construction, a central symbol of God’s presence."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Generosity",
+          "significado": "The voluntary response of a heart reached by God’s grace."
+        },
+        {
+          "termo": "Tabernacle",
+          "significado": "The meeting place where God manifests his presence among his people."
+        },
+        {
+          "termo": "Excellence",
+          "significado": "Careful and faithful service offered for the glory of the Lord."
+        }
+      ],
+      "oracao": "Lord, give me a generous, reverent, and willing heart. May my life contribute to your work with joy, faithfulness, and gratitude. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 36–37 — Generosidad, Habilidad y Adoración",
+      "contexto": "Éxodo 36 al 37 muestra la ejecución práctica de las instrucciones del tabernáculo. Después de la restauración de la alianza, el pueblo responde con ofrendas voluntarias, y los artesanos trabajan con sabiduría dada por Dios. La adoración toma forma en obediencia, excelencia y generosidad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofrendas voluntarias para la obra del Señor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 7
+          },
+          "comentario": "El pueblo entrega más de lo necesario para la construcción del tabernáculo. La generosidad surge como respuesta a la gracia, no como intento de comprar el favor de Dios.",
+          "aplicacao": "Cuando el corazón reconoce la bondad del Señor, dar deja de ser una carga y se convierte en expresión de gratitud."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La construcción de las cortinas y estructuras del tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 36,
+            "verse_start": 8,
+            "chapter_end": 36,
+            "verse_end": 38
+          },
+          "comentario": "Los detalles del tabernáculo se ejecutan conforme a la orden recibida. Belleza, precisión y obediencia caminan juntas en la preparación del lugar de encuentro con Dios.",
+          "aplicacao": "Servir a Dios implica cuidado, fidelidad y atención a los detalles, porque la obra del Señor debe reflejar reverencia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El arca, la mesa, el candelero y el altar",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 29
+          },
+          "comentario": "Los muebles sagrados apuntan a comunión, luz, intercesión y acercamiento a Dios. Cada pieza enseña que el Señor provee el camino para habitar en medio de su pueblo.",
+          "aplicacao": "La presencia de Dios no debe tratarse de manera casual. Acercarse al Señor requiere reverencia, gratitud y dependencia de su provisión."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 29,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Crónicas 29:9",
+            "nota": "Muestra al pueblo alegrándose al contribuir voluntariamente para la obra del Señor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 27:4",
+            "nota": "Expresa el deseo de contemplar la hermosura del Señor y estar en su presencia."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 9,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Corintios 9:7",
+            "nota": "Enseña que Dios ama al dador alegre."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Hebreos 9:1-5",
+            "nota": "Recuerda los elementos del tabernáculo y su significado en el culto antiguo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi generosidad nace de la gratitud por la gracia de Dios?",
+        "¿Sirvo al Señor con cuidado y excelencia?",
+        "¿Trato la presencia de Dios con reverencia o con superficialidad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 36:5 destaca la respuesta generosa del pueblo después de la restauración de la alianza, mostrando que la obra de Dios avanza cuando los corazones son movidos por el Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Éxodo 36:1",
+          "nota": "Muestra que la habilidad y la sabiduría para servir proceden de Dios."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 36,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Éxodo 36:5",
+          "nota": "Destaca la generosidad abundante del pueblo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 37,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Éxodo 37:1",
+          "nota": "Marca el inicio de la construcción del arca, símbolo central de la presencia de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Generosidad",
+          "significado": "Respuesta voluntaria de un corazón alcanzado por la gracia de Dios."
+        },
+        {
+          "termo": "Tabernáculo",
+          "significado": "Lugar de encuentro donde Dios manifiesta su presencia en medio del pueblo."
+        },
+        {
+          "termo": "Excelencia",
+          "significado": "Servicio cuidadoso y fiel realizado para la gloria del Señor."
+        }
+      ],
+      "oracao": "Señor, dame un corazón generoso, reverente y dispuesto a servir. Que mi vida contribuya a tu obra con alegría, fidelidad y gratitud. Amén."
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "dia": 98,
+  "data": "2027-04-08",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 12–14",
+    "en": "2 Samuel 12–14",
+    "es": "2 Samuel 12–14"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 12,
+      "chapter_end": 14
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 12,
+    "verse_start": 13,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "2 Samuel 12:13",
+      "en": "2 Samuel 12:13",
+      "es": "2 Samuel 12:13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_098.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_098.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_098.mp3",
+      "versiculo_central": "audio/en/verses/day_098.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_098.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_098.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 12–14 — Confronto, Consequências e Graça",
+      "contexto": "2 Samuel 12 a 14 mostra Deus confrontando o pecado de Davi por meio de Natã e revela as consequências profundas da queda dentro da família real. Há perdão, mas também disciplina. O texto ensina que o pecado tratado por Deus não é banalizado; ele precisa ser confessado, julgado e enfrentado com verdade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Natã confronta Davi",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 31
+          },
+          "comentario": "Deus envia Natã para expor o pecado que Davi tentou esconder. A confissão de Davi recebe resposta de perdão, mas as consequências permanecem.",
+          "aplicacao": "A graça de Deus não nos chama a esconder o pecado, mas a confessá-lo com humildade e verdade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A dor dentro da casa de Davi",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 39
+          },
+          "comentario": "A violência e a vingança aparecem dentro da própria família real. O pecado gera feridas que não ficam isoladas e exige justiça, cuidado e temor diante de Deus.",
+          "aplicacao": "Não devemos tratar feridas graves com silêncio ou negligência; Deus nos chama à verdade, à justiça e à proteção do vulnerável."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O retorno incompleto de Absalão",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 33
+          },
+          "comentario": "Absalão retorna a Jerusalém, mas a reconciliação é incompleta e tensa. A ausência de restauração profunda prepara novos conflitos.",
+          "aplicacao": "Reaproximação externa não substitui arrependimento, verdade e restauração interior diante de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Salmos 51:1-17",
+            "nota": "Expressa a oração de arrependimento associada ao pecado de Davi."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Provérbios 28:13",
+            "nota": "Mostra o contraste entre encobrir e confessar o pecado."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 João 1:9",
+            "nota": "Afirma a fidelidade de Deus em perdoar e purificar os que confessam seus pecados."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 6,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Gálatas 6:7-8",
+            "nota": "Ensina que as escolhas humanas produzem consequências espirituais reais."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Permito que a Palavra de Deus confronte áreas escondidas da minha vida?",
+        "Entendo que perdão não significa ausência automática de consequências?",
+        "Busco restauração verdadeira ou apenas aparência de paz?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 12:13 apresenta a confissão de Davi e a resposta de Deus, unindo arrependimento, perdão e responsabilidade diante das consequências."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 12:7",
+          "nota": "Marca o momento em que o pecado escondido de Davi é exposto."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "2 Samuel 12:13",
+          "nota": "Mostra a confissão de Davi e a resposta de perdão do Senhor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 14:14",
+          "nota": "Reflete sobre vida, morte e o desejo de reconciliação."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Arrependimento",
+          "significado": "Reconhecimento sincero do pecado diante de Deus, com retorno à verdade."
+        },
+        {
+          "termo": "Disciplina",
+          "significado": "Correção de Deus que revela a seriedade do pecado e chama à restauração."
+        },
+        {
+          "termo": "Restauração",
+          "significado": "Obra de Deus que vai além da aparência e busca cura, verdade e reconciliação real."
+        }
+      ],
+      "oracao": "Senhor, dá-me um coração humilde para receber confronto, confessar o pecado e buscar restauração verdadeira. Que a tua graça me conduza à verdade, à justiça e à fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 12–14 — Confrontation, Consequences, and Grace",
+      "contexto": "2 Samuel 12 to 14 shows God confronting David's sin through Nathan and reveals the deep consequences of the fall within the royal family. There is forgiveness, but also discipline. The text teaches that sin addressed by God is not minimized; it must be confessed, judged, and faced with truth.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Nathan confronts David",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 31
+          },
+          "comentario": "God sends Nathan to expose the sin David tried to hide. David's confession receives an answer of forgiveness, but the consequences remain.",
+          "aplicacao": "God's grace does not call us to hide sin, but to confess it with humility and truth."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pain within David's house",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 39
+          },
+          "comentario": "Violence and revenge appear within the royal family itself. Sin creates wounds that do not remain isolated and require justice, care, and fear before God.",
+          "aplicacao": "Serious wounds should not be treated with silence or neglect; God calls us to truth, justice, and protection of the vulnerable."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Absalom's incomplete return",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 33
+          },
+          "comentario": "Absalom returns to Jerusalem, but the reconciliation is incomplete and tense. The absence of deep restoration prepares new conflicts.",
+          "aplicacao": "External closeness does not replace repentance, truth, and inward restoration before God."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Psalm 51:1-17",
+            "nota": "Expresses the prayer of repentance associated with David's sin."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Proverbs 28:13",
+            "nota": "Shows the contrast between covering and confessing sin."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 John 1:9",
+            "nota": "Affirms God's faithfulness to forgive and cleanse those who confess their sins."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 6,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Galatians 6:7-8",
+            "nota": "Teaches that human choices produce real spiritual consequences."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I allow God's Word to confront hidden areas of my life?",
+        "Do I understand that forgiveness does not automatically mean the absence of consequences?",
+        "Do I seek true restoration or only the appearance of peace?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 12:13 presents David's confession and God's response, uniting repentance, forgiveness, and responsibility before the consequences."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 12:7",
+          "nota": "Marks the moment when David's hidden sin is exposed."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "2 Samuel 12:13",
+          "nota": "Shows David's confession and the Lord's answer of forgiveness."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 14:14",
+          "nota": "Reflects on life, death, and the desire for reconciliation."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Repentance",
+          "significado": "Sincere recognition of sin before God, with a return to truth."
+        },
+        {
+          "termo": "Discipline",
+          "significado": "God's correction that reveals the seriousness of sin and calls to restoration."
+        },
+        {
+          "termo": "Restoration",
+          "significado": "God's work that goes beyond appearance and seeks healing, truth, and real reconciliation."
+        }
+      ],
+      "oracao": "Lord, give me a humble heart to receive correction, confess sin, and seek true restoration. May your grace lead me into truth, justice, and faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 12–14 — Confrontación, Consecuencias y Gracia",
+      "contexto": "2 Samuel 12 al 14 muestra a Dios confrontando el pecado de David por medio de Natán y revela las profundas consecuencias de la caída dentro de la familia real. Hay perdón, pero también disciplina. El texto enseña que el pecado tratado por Dios no es banalizado; debe ser confesado, juzgado y enfrentado con verdad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Natán confronta a David",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 31
+          },
+          "comentario": "Dios envía a Natán para exponer el pecado que David intentó esconder. La confesión de David recibe respuesta de perdón, pero las consecuencias permanecen.",
+          "aplicacao": "La gracia de Dios no nos llama a esconder el pecado, sino a confesarlo con humildad y verdad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El dolor dentro de la casa de David",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 39
+          },
+          "comentario": "La violencia y la venganza aparecen dentro de la propia familia real. El pecado produce heridas que no quedan aisladas y exige justicia, cuidado y temor delante de Dios.",
+          "aplicacao": "No debemos tratar heridas graves con silencio o negligencia; Dios nos llama a la verdad, la justicia y la protección del vulnerable."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El regreso incompleto de Absalón",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 33
+          },
+          "comentario": "Absalón vuelve a Jerusalén, pero la reconciliación es incompleta y tensa. La ausencia de una restauración profunda prepara nuevos conflictos.",
+          "aplicacao": "La cercanía externa no sustituye el arrepentimiento, la verdad y la restauración interior delante de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Salmos 51:1-17",
+            "nota": "Expresa la oración de arrepentimiento asociada al pecado de David."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Proverbios 28:13",
+            "nota": "Muestra el contraste entre encubrir y confesar el pecado."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Juan 1:9",
+            "nota": "Afirma la fidelidad de Dios en perdonar y limpiar a quienes confiesan sus pecados."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 6,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "Gálatas 6:7-8",
+            "nota": "Enseña que las decisiones humanas producen consecuencias espirituales reales."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Permito que la Palabra de Dios confronte áreas escondidas de mi vida?",
+        "¿Entiendo que el perdón no significa ausencia automática de consecuencias?",
+        "¿Busco restauración verdadera o solo apariencia de paz?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 12:13 presenta la confesión de David y la respuesta de Dios, uniendo arrepentimiento, perdón y responsabilidad ante las consecuencias."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 12:7",
+          "nota": "Marca el momento en que el pecado escondido de David es expuesto."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "2 Samuel 12:13",
+          "nota": "Muestra la confesión de David y la respuesta de perdón del Señor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 14:14",
+          "nota": "Reflexiona sobre la vida, la muerte y el deseo de reconciliación."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Arrepentimiento",
+          "significado": "Reconocimiento sincero del pecado delante de Dios, con retorno a la verdad."
+        },
+        {
+          "termo": "Disciplina",
+          "significado": "Corrección de Dios que revela la seriedad del pecado y llama a la restauración."
+        },
+        {
+          "termo": "Restauración",
+          "significado": "Obra de Dios que va más allá de la apariencia y busca sanidad, verdad y reconciliación real."
+        }
+      ],
+      "oracao": "Señor, dame un corazón humilde para recibir confrontación, confesar el pecado y buscar restauración verdadera. Que tu gracia me conduzca a la verdad, la justicia y la fidelidad. Amén."
+    }
+  }
+}

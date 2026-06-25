@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel Devocional & Áudio — Agenda 2027</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-base: #0B0F19;
+            --bg-surface: #151B2C;
+            --bg-card: #1E2640;
+            --border-color: #2E3A5F;
+            --text-primary: #F3F4F6;
+            --text-secondary: #9CA3AF;
+            --primary: #6366F1;
+            --primary-hover: #4F46E5;
+            --success: #10B981;
+            --success-bg: rgba(16, 185, 129, 0.15);
+            --danger: #EF4444;
+            --warning: #F59E0B;
+            --accent: #06B6D4;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 600;
+        }
+
+        /* Header */
+        header {
+            background-color: var(--bg-surface);
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .header-title h1 {
+            font-size: 1.4rem;
+            background: linear-gradient(135deg, #FFF 0%, #A5B4FC 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 16px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+            transform: translateY(-1px);
+        }
+
+        .btn-success {
+            background-color: var(--success);
+        }
+        .btn-success:hover {
+            background-color: #059669;
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+        }
+        .btn-secondary:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        /* App Container */
+        .app-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 250px;
+            background-color: var(--bg-surface);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .sidebar-header {
+            padding: 16px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .sidebar-list {
+            flex: 1;
+            overflow-y: auto;
+            list-style: none;
+        }
+
+        .sidebar-item {
+            padding: 12px 20px;
+            border-bottom: 1px solid rgba(46, 58, 95, 0.3);
+            cursor: pointer;
+            transition: background-color 0.2s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .sidebar-item:hover {
+            background-color: rgba(99, 102, 241, 0.08);
+        }
+
+        .sidebar-item.active {
+            background-color: rgba(99, 102, 241, 0.15);
+            border-left: 4px solid var(--primary);
+        }
+
+        /* Workspace */
+        .workspace {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            background-color: var(--bg-base);
+        }
+
+        .meta-bar {
+            padding: 16px 24px;
+            background-color: var(--bg-surface);
+            border-bottom: 1px solid var(--border-color);
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+        }
+
+        .meta-field {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .meta-field label {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .meta-field input {
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-family: inherit;
+        }
+
+        /* Language Columns Grid */
+        .columns-container {
+            flex: 1;
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+            padding: 20px;
+            gap: 20px;
+        }
+
+        .lang-column {
+            flex: 1;
+            min-width: 400px;
+            max-width: 500px;
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .column-header {
+            padding: 16px;
+            border-bottom: 1px solid var(--border-color);
+            background-color: rgba(255, 255, 255, 0.02);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .column-header h3 {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .column-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 16px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .form-group label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text-secondary);
+        }
+
+        .form-group input, .form-group textarea {
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            border-radius: 6px;
+            padding: 10px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+
+        .form-group textarea {
+            resize: vertical;
+            min-height: 80px;
+        }
+
+        /* Audio Generator Panel inside columns */
+        .audio-panel {
+            background-color: rgba(99, 102, 241, 0.05);
+            border: 1px dashed var(--border-color);
+            border-radius: 8px;
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .audio-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 10px;
+        }
+
+        .audio-label {
+            font-size: 0.8rem;
+            font-weight: 500;
+        }
+
+        .audio-controls {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        audio {
+            height: 32px;
+            width: 150px;
+        }
+
+        /* Sections Manager */
+        .sections-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .section-item {
+            background-color: rgba(255, 255, 255, 0.02);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .section-item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.8rem;
+            color: var(--accent);
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="header-title">
+            <h1>Painel Devocional & Áudio (Edge-TTS)</h1>
+        </div>
+        <div class="header-actions">
+            <button class="btn btn-secondary" onclick="window.location.href='/index.html'">Aba Agenda</button>
+            <button class="btn" onclick="salvarDevocional()">Salvar JSON Local</button>
+            <button class="btn btn-success" onclick="sincronizarFirestore()">Sincronizar Firestore</button>
+        </div>
+    </header>
+
+    <div class="app-container">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>Dias do Plano</h2>
+            </div>
+            <ul class="sidebar-list" id="diasList">
+                <!-- Days will be loaded dynamically -->
+            </ul>
+        </aside>
+
+        <main class="workspace">
+            <div class="meta-bar">
+                <div class="meta-field">
+                    <label>Dia</label>
+                    <input type="number" id="metaDia" readonly>
+                </div>
+                <div class="meta-field">
+                    <label>Data de Publicação</label>
+                    <input type="date" id="metaData">
+                </div>
+                <div class="meta-field">
+                    <label>ID do Livro (Leitura)</label>
+                    <input type="text" id="metaBookId" placeholder="ex: GEN">
+                </div>
+            </div>
+
+            <div class="columns-container">
+                <!-- Português -->
+                <div class="lang-column">
+                    <div class="column-header">
+                        <h3>🇧🇷 Português</h3>
+                    </div>
+                    <div class="column-body">
+                        <div class="audio-panel">
+                            <div style="display: flex; gap: 8px; margin-bottom: 8px; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; flex-wrap: wrap;">
+                                <label style="font-size: 0.75rem; color: var(--text-secondary);">Voz:</label>
+                                <select id="voice_pt" onchange="preencherCampos()" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="pt-BR-FranciscaNeural">Francisca (Feminina - BR)</option>
+                                    <option value="pt-BR-ThalitaNeural">Thalita (Feminina - BR)</option>
+                                    <option value="pt-BR-AntonioNeural" selected>Antonio (Masculino - BR)</option>
+                                    <option value="pt-PT-DuarteNeural">Duarte (Masculino - PT)</option>
+                                </select>
+                                <label style="font-size: 0.75rem; color: var(--text-secondary); margin-left: 8px;">Velocidade:</label>
+                                <select id="rate_pt" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="-20%">Lento (-20%)</option>
+                                    <option value="-15%">Lento (-15%)</option>
+                                    <option value="-10%" selected>Lento (-10%)</option>
+                                    <option value="+0%">Normal (0%)</option>
+                                    <option value="+10%">Rápido (+10%)</option>
+                                    <option value="+20%">Rápido (+20%)</option>
+                                </select>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Devocional</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_pt_devocional" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('pt', 'devocional')">Gerar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Versículo</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_pt_versiculo_central" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('pt', 'versiculo_central')">Gerar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Oração</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_pt_oracao" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('pt', 'oracao')">Gerar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Bíblia</span>
+                                <div class="audio-controls">
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('pt', 'biblia')">Gerar Capítulos</button>
+                                </div>
+                            </div>
+                            <div id="bible_chapters_pt" style="display: flex; flex-direction: column; gap: 8px; padding-left: 12px; margin-top: 4px; width: 100%;">
+                                <!-- Dynamically populated -->
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Título do Dia</label>
+                            <input type="text" id="pt_titulo">
+                        </div>
+
+                        <div class="form-group">
+                            <label>Contexto Teológico</label>
+                            <textarea id="pt_contexto"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Oracão Final</label>
+                            <textarea id="pt_oracao"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Inglês -->
+                <div class="lang-column">
+                    <div class="column-header">
+                        <h3>🇺🇸 English</h3>
+                    </div>
+                    <div class="column-body">
+                        <div class="audio-panel">
+                            <div style="display: flex; gap: 8px; margin-bottom: 8px; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; flex-wrap: wrap;">
+                                <label style="font-size: 0.75rem; color: var(--text-secondary);">Voice:</label>
+                                <select id="voice_en" onchange="preencherCampos()" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="en-US-AriaNeural">Aria (Female - US)</option>
+                                    <option value="en-US-JennyNeural">Jenny (Female - US)</option>
+                                    <option value="en-US-GuyNeural" selected>Guy (Male - US)</option>
+                                    <option value="en-US-BrianNeural">Brian (Male - US)</option>
+                                </select>
+                                <label style="font-size: 0.75rem; color: var(--text-secondary); margin-left: 8px;">Speed:</label>
+                                <select id="rate_en" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="-20%">Slow (-20%)</option>
+                                    <option value="-15%">Slow (-15%)</option>
+                                    <option value="-10%">Slow (-10%)</option>
+                                    <option value="+0%" selected>Normal (0%)</option>
+                                    <option value="+10%">Fast (+10%)</option>
+                                    <option value="+20%">Fast (+20%)</option>
+                                </select>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Devotional</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_en_devocional" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('en', 'devocional')">Generate</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Verse</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_en_versiculo_central" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('en', 'versiculo_central')">Generate</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Prayer</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_en_oracao" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('en', 'oracao')">Generate</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Bible</span>
+                                <div class="audio-controls">
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('en', 'biblia')">Generate Chapters</button>
+                                </div>
+                            </div>
+                            <div id="bible_chapters_en" style="display: flex; flex-direction: column; gap: 8px; padding-left: 12px; margin-top: 4px; width: 100%;">
+                                <!-- Dynamically populated -->
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Title</label>
+                            <input type="text" id="en_titulo">
+                        </div>
+
+                        <div class="form-group">
+                            <label>Theological Context</label>
+                            <textarea id="en_contexto"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Closing Prayer</label>
+                            <textarea id="en_oracao"></textarea>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Espanhol -->
+                <div class="lang-column">
+                    <div class="column-header">
+                        <h3>🇪🇸 Español</h3>
+                    </div>
+                    <div class="column-body">
+                        <div class="audio-panel">
+                            <div style="display: flex; gap: 8px; margin-bottom: 8px; align-items: center; border-bottom: 1px solid var(--border-color); padding-bottom: 8px; flex-wrap: wrap;">
+                                <label style="font-size: 0.75rem; color: var(--text-secondary);">Voz:</label>
+                                <select id="voice_es" onchange="preencherCampos()" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="es-ES-ElviraNeural">Elvira (Feminina - ES)</option>
+                                    <option value="es-MX-DaliaNeural">Dalia (Feminina - MX)</option>
+                                    <option value="es-ES-AlvaroNeural" selected>Alvaro (Masculino - ES)</option>
+                                    <option value="es-MX-JorgeNeural">Jorge (Masculino - MX)</option>
+                                </select>
+                                <label style="font-size: 0.75rem; color: var(--text-secondary); margin-left: 8px;">Velocidad:</label>
+                                <select id="rate_es" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px; font-size: 0.8rem;">
+                                    <option value="-20%">Lento (-20%)</option>
+                                    <option value="-15%">Lento (-15%)</option>
+                                    <option value="-10%">Lento (-10%)</option>
+                                    <option value="+0%" selected>Normal (0%)</option>
+                                    <option value="+10%">Rápido (+10%)</option>
+                                    <option value="+20%">Rápido (+20%)</option>
+                                </select>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Devocional</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_es_devocional" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('es', 'devocional')">Generar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Versículo</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_es_versiculo_central" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('es', 'versiculo_central')">Generar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Oración</span>
+                                <div class="audio-controls">
+                                    <audio id="audio_es_oracao" controls></audio>
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('es', 'oracao')">Generar</button>
+                                </div>
+                            </div>
+                            <div class="audio-row">
+                                <span class="audio-label">Biblia</span>
+                                <div class="audio-controls">
+                                    <button class="btn btn-secondary btn-sm" onclick="gerarAudio('es', 'biblia')">Generar Capítulos</button>
+                                </div>
+                            </div>
+                            <div id="bible_chapters_es" style="display: flex; flex-direction: column; gap: 8px; padding-left: 12px; margin-top: 4px; width: 100%;">
+                                <!-- Dynamically populated -->
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Título</label>
+                            <input type="text" id="es_titulo">
+                        </div>
+
+                        <div class="form-group">
+                            <label>Contexto Teológico</label>
+                            <textarea id="es_contexto"></textarea>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Oración Final</label>
+                            <textarea id="es_oracao"></textarea>
+                    </div>
+                </div>
+
+                <!-- Leitura da Bíblia -->
+                <div class="lang-column" style="min-width: 450px; max-width: 600px; border-color: var(--accent);">
+                    <div class="column-header" style="border-bottom: 1px solid var(--border-color); background-color: rgba(6, 182, 212, 0.05);">
+                        <h3 style="color: var(--accent);"><span style="font-size: 1.2rem;">📖</span> Bíblia em um Ano</h3>
+                        <div>
+                            <select id="bible_reading_lang" onchange="atualizarTextoBiblia()" style="background-color: var(--bg-base); color: var(--text-primary); border: 1px solid var(--border-color); border-radius: 4px; padding: 4px 8px; font-size: 0.8rem; cursor: pointer;">
+                                <option value="pt" selected>Português (ARC)</option>
+                                <option value="en">English (WEB)</option>
+                                <option value="es">Español (RV1960)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="column-body" id="bible_reading_chapters" style="gap: 16px; overflow-y: auto; max-height: calc(100vh - 220px);">
+                        <!-- Chapters will be dynamically populated -->
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let currentDayId = 1;
+        let devotionalData = {};
+
+        // On Load
+        document.addEventListener("DOMContentLoaded", () => {
+            initDiasList();
+            carregarDia(1);
+        });
+
+        function initDiasList() {
+            const list = document.getElementById("diasList");
+            list.innerHTML = "";
+            for (let i = 1; i <= 365; i++) {
+                const li = document.createElement("li");
+                li.className = `sidebar-item ${i === 1 ? 'active' : ''}`;
+                li.id = `dia-item-${i}`;
+                li.onclick = () => {
+                    document.querySelectorAll(".sidebar-item").forEach(el => el.classList.remove("active"));
+                    li.classList.add("active");
+                    carregarDia(i);
+                };
+                li.innerHTML = `<span>Dia ${i}</span> <span style="font-size: 0.8rem; color: var(--text-secondary)">GEN 1-3</span>`;
+                list.appendChild(li);
+            }
+        }
+
+        async function carregarDia(id) {
+            currentDayId = id;
+            document.getElementById("metaDia").value = id;
+            try {
+                const res = await fetch(`/api/devocionais/dia/${id}`);
+                if (res.ok) {
+                    devotionalData = await res.json();
+                } else {
+                    // Fallback para novo dia
+                    devotionalData = {
+                        dia: id,
+                        data: new Date(2027, 0, id).toISOString().split('T')[0],
+                        conteudo: { pt: {}, en: {}, es: {} }
+                    };
+                }
+                preencherCampos();
+                atualizarTextoBiblia();
+            } catch (err) {
+                console.error("Erro ao carregar dia:", err);
+            }
+        }
+
+        function preencherCampos() {
+            document.getElementById("metaData").value = devotionalData.data || "";
+            document.getElementById("metaBookId").value = (devotionalData.leitura && devotionalData.leitura[0]) ? devotionalData.leitura[0].book_id : "GEN";
+
+            const langs = ["pt", "en", "es"];
+            const audioTypes = ["devocional", "versiculo_central", "oracao"];
+            
+            langs.forEach(lang => {
+                const content = devotionalData.conteudo[lang] || {};
+                document.getElementById(`${lang}_titulo`).value = content.titulo || "";
+                document.getElementById(`${lang}_contexto`).value = content.contexto || "";
+                document.getElementById(`${lang}_oracao`).value = content.oracao || "";
+                
+                const voice = document.getElementById(`voice_${lang}`).value;
+                const voiceAudios = (devotionalData.audio && devotionalData.audio[lang]) ? devotionalData.audio[lang][voice] : null;
+
+                // Load standard audio previews
+                audioTypes.forEach(type => {
+                    const audioPlayer = document.getElementById(`audio_${lang}_${type}`);
+                    if (audioPlayer) {
+                        if (voiceAudios && voiceAudios[type]) {
+                            const path = voiceAudios[type];
+                            audioPlayer.src = path.startsWith("/") ? path : "/" + path;
+                            audioPlayer.load();
+                        } else {
+                            audioPlayer.src = "";
+                        }
+                    }
+                });
+
+                // Dynamically load Bible chapters
+                const chContainer = document.getElementById(`bible_chapters_${lang}`);
+                chContainer.innerHTML = "";
+                
+                const leitura = devotionalData.leitura || [];
+                leitura.forEach(item => {
+                    const book_id = item.book_id;
+                    const ch_start = item.chapter_start || 1;
+                    const ch_end = item.chapter_end || 1;
+                    
+                    for (let ch = ch_start; ch <= ch_end; ch++) {
+                        const chapterKey = `${book_id}_${ch}`;
+                        const hasAudio = (voiceAudios && voiceAudios.biblia && voiceAudios.biblia[chapterKey]);
+                        let srcUrl = "";
+                        if (hasAudio) {
+                            const path = voiceAudios.biblia[chapterKey];
+                            srcUrl = path.startsWith("/") ? path : "/" + path;
+                        }
+                        
+                        const row = document.createElement("div");
+                        row.className = "audio-row";
+                        row.style.marginTop = "4px";
+                        row.innerHTML = `
+                            <span class="audio-label" style="font-size: 0.75rem; color: var(--text-secondary); min-width: 80px;">${book_id} ${ch}</span>
+                            <div class="audio-controls">
+                                <audio id="audio_${lang}_biblia_${book_id}_${ch}" controls src="${srcUrl}"></audio>
+                            </div>
+                        `;
+                        chContainer.appendChild(row);
+                    }
+                });
+            });
+        }
+
+        function coletarCampos() {
+            devotionalData.data = document.getElementById("metaData").value;
+            const bookId = document.getElementById("metaBookId").value.toUpperCase();
+            
+            if (!devotionalData.leitura) devotionalData.leitura = [{}];
+            devotionalData.leitura[0].book_id = bookId;
+
+            const langs = ["pt", "en", "es"];
+            langs.forEach(lang => {
+                if (!devotionalData.conteudo[lang]) devotionalData.conteudo[lang] = {};
+                devotionalData.conteudo[lang].titulo = document.getElementById(`${lang}_titulo`).value;
+                devotionalData.conteudo[lang].contexto = document.getElementById(`${lang}_contexto`).value;
+                devotionalData.conteudo[lang].oracao = document.getElementById(`${lang}_oracao`).value;
+            });
+        }
+
+        async function salvarDevocional() {
+            coletarCampos();
+            try {
+                const res = await fetch(`/api/devocionais/dia/${currentDayId}/salvar`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(devotionalData)
+                });
+                if (res.ok) {
+                    alert("JSON do devocional salvo localmente com sucesso!");
+                } else {
+                    alert("Falha ao salvar JSON localmente.");
+                }
+            } catch (err) {
+                alert("Erro ao salvar: " + err);
+            }
+        }
+
+        async function gerarAudio(lang, type) {
+            coletarCampos();
+            const voice = document.getElementById("voice_" + lang).value;
+            const rate = document.getElementById("rate_" + lang).value;
+
+            try {
+                const res = await fetch(`/api/devocionais/dia/${currentDayId}/gerar-audio`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ lang, type, voice, rate })
+                });
+
+                if (res.ok) {
+                    alert(`Áudio gerado com sucesso!`);
+                    
+                    // Force reload player from the new JSON data
+                    const reloadRes = await fetch(`/api/devocionais/dia/${currentDayId}`);
+                    if (reloadRes.ok) {
+                        devotionalData = await reloadRes.json();
+                        preencherCampos();
+                    }
+                } else {
+                    const errRes = await res.json();
+                    alert("Falha ao gerar o áudio: " + (errRes.error || "Erro desconhecido"));
+                }
+            } catch (err) {
+                alert("Erro ao gerar áudio: " + err);
+            }
+        }
+
+        async function sincronizarFirestore() {
+            coletarCampos();
+            alert("Sincronização com Firestore aprovada e simulada com sucesso!");
+        }
+
+        async function atualizarTextoBiblia() {
+            const lang = document.getElementById("bible_reading_lang").value;
+            const container = document.getElementById("bible_reading_chapters");
+            container.innerHTML = `<div style="color: var(--text-secondary); text-align: center; padding: 16px;">Carregando leitura do dia...</div>`;
+            
+            const leitura = devotionalData.leitura || [];
+            if (leitura.length === 0) {
+                container.innerHTML = `<div style="color: var(--text-secondary); text-align: center; padding: 16px;">Nenhuma leitura programada para este dia.</div>`;
+                return;
+            }
+            
+            let html = "";
+            for (const item of leitura) {
+                const book_id = item.book_id;
+                const ch_start = item.chapter_start || 1;
+                const ch_end = item.chapter_end || 1;
+                
+                for (let ch = ch_start; ch <= ch_end; ch++) {
+                    try {
+                        const res = await fetch(`/api/biblia/${lang}/${book_id}/${ch}`);
+                        if (res.ok) {
+                            const data = await res.json();
+                            html += `
+                                <div style="background-color: var(--bg-card); border: 1px solid var(--border-color); border-radius: 8px; padding: 16px;">
+                                    <h4 style="font-size: 1.1rem; color: var(--accent); margin-bottom: 12px; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 6px; display: flex; justify-content: space-between;">
+                                        <span>${book_id} ${ch}</span>
+                                        <span style="font-size: 0.8rem; color: var(--text-secondary); text-transform: uppercase;">${lang}</span>
+                                    </h4>
+                                    <div style="font-family: 'Lora', serif; font-size: 1.05rem; line-height: 1.7; color: var(--text-primary); text-align: justify; max-height: 350px; overflow-y: auto; padding-right: 8px;">
+                                        ${data.text}
+                                    </div>
+                                </div>
+                            `;
+                        } else {
+                            html += `
+                                <div style="color: var(--danger); padding: 8px;">
+                                    Erro ao carregar o capítulo ${book_id} ${ch}.
+                                </div>
+                            `;
+                        }
+                    } catch (err) {
+                        console.error(err);
+                        html += `
+                            <div style="color: var(--danger); padding: 8px;">
+                                Erro de conexão ao carregar o capítulo ${book_id} ${ch}.
+                            </div>
+                        `;
+                    }
+                }
+            }
+            container.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

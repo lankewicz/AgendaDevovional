@@ -1,0 +1,536 @@
+{
+  "dia": 20,
+  "data": "2027-01-20",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 2–4",
+    "en": "Exodus 2–4",
+    "es": "Éxodo 2–4"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 2,
+      "chapter_end": 4
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 3,
+    "verse_start": 7,
+    "verse_end": 7,
+    "referencia": {
+      "pt": "Êxodo 3:7",
+      "en": "Exodus 3:7",
+      "es": "Éxodo 3:7"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_020.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_020.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/020/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/004.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/020/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/004.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/020/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/004.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/020/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/004.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_020.mp3",
+      "versiculo_central": "audio/en/verses/day_020.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/020/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/en/en-US-AriaNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/en/en-US-AriaNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/en/en-US-AriaNeural/004.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/020/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/en/en-US-JennyNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/en/en-US-JennyNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/en/en-US-JennyNeural/004.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/020/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/en/en-US-GuyNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/en/en-US-GuyNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/en/en-US-GuyNeural/004.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/020/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/en/en-US-BrianNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/en/en-US-BrianNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/en/en-US-BrianNeural/004.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_020.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_020.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/020/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/es/es-ES-ElviraNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/es/es-ES-ElviraNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/es/es-ES-ElviraNeural/004.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/020/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/es/es-MX-DaliaNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/es/es-MX-DaliaNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/es/es-MX-DaliaNeural/004.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/020/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/es/es-ES-AlvaroNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/es/es-ES-AlvaroNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/es/es-ES-AlvaroNeural/004.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/020/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/020/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/020/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_2": "audio/biblia/EXO/es/es-MX-JorgeNeural/002.m4a",
+          "EXO_3": "audio/biblia/EXO/es/es-MX-JorgeNeural/003.m4a",
+          "EXO_4": "audio/biblia/EXO/es/es-MX-JorgeNeural/004.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 2–4 — Deus Vê, Chama e Envia",
+      "contexto": "Êxodo 2 a 4 apresenta o nascimento e a preservação de Moisés, sua fuga para Midiã e o chamado de Deus na sarça ardente. O Senhor vê a aflição do seu povo, ouve seu clamor e chama Moisés para participar da obra de libertação.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Moisés preservado em meio ao perigo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Moisés nasce em um tempo de ameaça, mas Deus preserva sua vida e conduz sua história mesmo antes de seu chamado público.",
+          "aplicacao": "Deus pode estar preparando livramento mesmo quando o cenário parece dominado pelo medo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O Deus que se revela e chama",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "Na sarça ardente, Deus se revela como santo, atento ao sofrimento do seu povo e fiel à aliança feita com os patriarcas.",
+          "aplicacao": "O chamado de Deus nasce da sua compaixão e da sua fidelidade, não da autoconfiança humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Moisés diante da missão",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 31
+          },
+          "comentario": "Moisés apresenta objeções, mas Deus responde com sinais, direção e auxílio. A missão não depende da força de Moisés, mas da presença do Senhor.",
+          "aplicacao": "A obediência começa quando confiamos mais na presença de Deus do que nas nossas limitações."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 6,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Êxodo 6:5-8",
+            "nota": "Reafirma que Deus ouviu o gemido do povo e se lembrou da sua aliança."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 20,
+            "verse_end": 34,
+            "referencia": "Atos 7:20-34",
+            "nota": "Resume a preservação de Moisés e seu chamado por Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 23,
+            "verse_end": 27,
+            "referencia": "Hebreus 11:23-27",
+            "nota": "Apresenta a fé relacionada à vida de Moisés."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Creio que Deus vê aflições que outras pessoas não percebem?",
+        "Tenho respondido ao chamado de Deus com fé e obediência?",
+        "Minhas limitações me levam à dependência ou à fuga?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 3:7 revela o coração do bloco: Deus vê a aflição do seu povo, ouve seu clamor e inicia a libertação."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 2,
+          "verse_start": 24,
+          "verse_end": 25,
+          "referencia": "Êxodo 2:24-25",
+          "nota": "Mostra Deus ouvindo e atentando para o sofrimento do povo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 3,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Êxodo 3:7",
+          "nota": "Declara que Deus viu a aflição de Israel."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 4,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Êxodo 4:12",
+          "nota": "Mostra Deus prometendo estar com Moisés em sua missão."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Chamado",
+          "significado": "Convocação de Deus para participar de sua obra."
+        },
+        {
+          "termo": "Libertação",
+          "significado": "Ação de Deus para tirar seu povo da opressão."
+        },
+        {
+          "termo": "Presença",
+          "significado": "Garantia de que Deus acompanha aqueles que ele envia."
+        }
+      ],
+      "oracao": "Senhor, obrigado porque tu vês, ouves e ages. Ajuda-me a confiar no teu chamado, a depender da tua presença e a obedecer mesmo diante das minhas limitações. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 2–4 — God Sees, Calls, and Sends",
+      "contexto": "Exodus 2 to 4 presents the birth and preservation of Moses, his flight to Midian, and God’s call at the burning bush. The Lord sees the affliction of his people, hears their cry, and calls Moses to take part in the work of deliverance.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Moses preserved amid danger",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Moses is born in a time of threat, but God preserves his life and guides his story even before his public calling.",
+          "aplicacao": "God may be preparing deliverance even when the setting seems dominated by fear."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The God who reveals himself and calls",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "At the burning bush, God reveals himself as holy, attentive to his people’s suffering, and faithful to the covenant made with the patriarchs.",
+          "aplicacao": "God’s call arises from his compassion and faithfulness, not from human self-confidence."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Moses before the mission",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 31
+          },
+          "comentario": "Moses raises objections, but God responds with signs, direction, and help. The mission does not depend on Moses’ strength, but on the Lord’s presence.",
+          "aplicacao": "Obedience begins when we trust God’s presence more than our limitations."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 6,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Exodus 6:5-8",
+            "nota": "Reaffirms that God heard the people’s groaning and remembered his covenant."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 20,
+            "verse_end": 34,
+            "referencia": "Acts 7:20-34",
+            "nota": "Summarizes Moses’ preservation and God’s call."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 23,
+            "verse_end": 27,
+            "referencia": "Hebrews 11:23-27",
+            "nota": "Presents faith in relation to Moses’ life."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I believe God sees afflictions others do not notice?",
+        "Have I responded to God’s call with faith and obedience?",
+        "Do my limitations lead me to dependence or to escape?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 3:7 reveals the heart of the passage: God sees his people’s affliction, hears their cry, and begins deliverance."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 2,
+          "verse_start": 24,
+          "verse_end": 25,
+          "referencia": "Exodus 2:24-25",
+          "nota": "Shows God hearing and paying attention to the people’s suffering."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 3,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Exodus 3:7",
+          "nota": "Declares that God saw Israel’s affliction."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 4,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Exodus 4:12",
+          "nota": "Shows God promising to be with Moses in his mission."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Calling",
+          "significado": "God’s summons to participate in his work."
+        },
+        {
+          "termo": "Deliverance",
+          "significado": "God’s action to bring his people out of oppression."
+        },
+        {
+          "termo": "Presence",
+          "significado": "The assurance that God accompanies those he sends."
+        }
+      ],
+      "oracao": "Lord, thank you because you see, hear, and act. Help me trust your call, depend on your presence, and obey even in the face of my limitations. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 2–4 — Dios Ve, Llama y Envía",
+      "contexto": "Éxodo 2 al 4 presenta el nacimiento y la preservación de Moisés, su huida a Madián y el llamado de Dios en la zarza ardiente. El Señor ve la aflicción de su pueblo, oye su clamor y llama a Moisés para participar en la obra de liberación.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Moisés preservado en medio del peligro",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Moisés nace en un tiempo de amenaza, pero Dios preserva su vida y conduce su historia aun antes de su llamado público.",
+          "aplicacao": "Dios puede estar preparando liberación incluso cuando el escenario parece dominado por el miedo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El Dios que se revela y llama",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "En la zarza ardiente, Dios se revela como santo, atento al sufrimiento de su pueblo y fiel a la alianza hecha con los patriarcas.",
+          "aplicacao": "El llamado de Dios nace de su compasión y fidelidad, no de la autoconfianza humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Moisés delante de la misión",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 31
+          },
+          "comentario": "Moisés presenta objeciones, pero Dios responde con señales, dirección y ayuda. La misión no depende de la fuerza de Moisés, sino de la presencia del Señor.",
+          "aplicacao": "La obediencia comienza cuando confiamos más en la presencia de Dios que en nuestras limitaciones."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 6,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Éxodo 6:5-8",
+            "nota": "Reafirma que Dios oyó el gemido del pueblo y se acordó de su alianza."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 20,
+            "verse_end": 34,
+            "referencia": "Hechos 7:20-34",
+            "nota": "Resume la preservación de Moisés y su llamado por Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 23,
+            "verse_end": 27,
+            "referencia": "Hebreos 11:23-27",
+            "nota": "Presenta la fe relacionada con la vida de Moisés."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Creo que Dios ve aflicciones que otras personas no perciben?",
+        "¿He respondido al llamado de Dios con fe y obediencia?",
+        "¿Mis limitaciones me llevan a depender de Dios o a huir?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 3:7 revela el corazón del bloque: Dios ve la aflicción de su pueblo, oye su clamor e inicia la liberación."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 2,
+          "verse_start": 24,
+          "verse_end": 25,
+          "referencia": "Éxodo 2:24-25",
+          "nota": "Muestra a Dios oyendo y atendiendo el sufrimiento del pueblo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 3,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Éxodo 3:7",
+          "nota": "Declara que Dios vio la aflicción de Israel."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 4,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Éxodo 4:12",
+          "nota": "Muestra a Dios prometiendo estar con Moisés en su misión."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Llamado",
+          "significado": "Convocación de Dios para participar en su obra."
+        },
+        {
+          "termo": "Liberación",
+          "significado": "Acción de Dios para sacar a su pueblo de la opresión."
+        },
+        {
+          "termo": "Presencia",
+          "significado": "Garantía de que Dios acompaña a aquellos que envía."
+        }
+      ],
+      "oracao": "Señor, gracias porque tú ves, oyes y actúas. Ayúdame a confiar en tu llamado, depender de tu presencia y obedecer aun frente a mis limitaciones. Amén."
+    }
+  }
+}

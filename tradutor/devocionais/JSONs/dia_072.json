@@ -1,0 +1,416 @@
+{
+  "dia": 72,
+  "data": "2027-03-13",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 9–11",
+    "en": "Joshua 9–11",
+    "es": "Josué 9–11"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 9,
+      "chapter_end": 11
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 10,
+    "verse_start": 14,
+    "verse_end": 14,
+    "referencia": {
+      "pt": "Josué 10:14",
+      "en": "Joshua 10:14",
+      "es": "Josué 10:14"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_072.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_072.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_072.mp3",
+      "versiculo_central": "audio/en/verses/day_072.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_072.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_072.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 9–11 — Discernimento, Vitória e Obediência",
+      "contexto": "Josué 9 a 11 mostra Israel avançando na terra prometida, mas também enfrentando o perigo de decidir sem consultar o Senhor. A aliança com os gibeonitas revela a necessidade de discernimento, enquanto as vitórias contra reis poderosos mostram que Deus sustenta o seu povo quando este caminha em obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O engano dos gibeonitas",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "Os gibeonitas usam aparência, palavras calculadas e sinais externos para convencer Israel. O erro do povo não foi cumprir uma aliança depois de feita, mas decidir sem buscar claramente a direção do Senhor.",
+          "aplicacao": "Nem toda decisão correta aos olhos humanos é sábia diante de Deus. O discernimento espiritual exige oração, prudência e dependência do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O Senhor peleja por Israel",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 43
+          },
+          "comentario": "A batalha contra os reis amorreus revela que a vitória de Israel não depende apenas de força militar. Deus intervém, conduz o tempo e confirma que a conquista é sustentada por sua mão.",
+          "aplicacao": "A obediência não elimina lutas, mas nos coloca no caminho em que Deus fortalece, guia e sustenta o seu povo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A conquista do norte e a obediência de Josué",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 23
+          },
+          "comentario": "A coalizão do norte parece numerosa e ameaçadora, mas Josué permanece obediente à palavra recebida. O texto destaca que ele não deixou de cumprir o que o Senhor havia ordenado.",
+          "aplicacao": "A fidelidade se manifesta quando continuamos obedecendo, mesmo diante de oposição prolongada e desafios maiores que nossa capacidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 7,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Deuteronômio 7:1-2",
+            "nota": "Recorda as instruções dadas a Israel antes da entrada na terra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Tiago 1:5",
+            "nota": "Ensina a buscar sabedoria em Deus diante das decisões."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 18,
+            "referencia": "Efésios 6:10-18",
+            "nota": "Aponta para a dependência espiritual na batalha da fé."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho consultado o Senhor antes de tomar decisões importantes?",
+        "Confundo aparência convincente com direção divina?",
+        "Permaneço obediente mesmo quando as lutas se tornam maiores?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 10:14 resume o ponto principal da leitura: a vitória de Israel vem da intervenção do Senhor, não apenas da capacidade humana."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 9,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Josué 9:14",
+          "nota": "Mostra o perigo de decidir sem buscar a direção do Senhor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 10,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Josué 10:14",
+          "nota": "Destaca que o Senhor pelejava por Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 11,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Josué 11:15",
+          "nota": "Ressalta a obediência completa de Josué às ordens recebidas."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Discernimento",
+          "significado": "Capacidade de avaliar decisões à luz da direção de Deus."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta fiel à palavra do Senhor, mesmo quando há oposição."
+        },
+        {
+          "termo": "Conquista",
+          "significado": "Avanço do povo de Deus naquilo que o Senhor havia prometido."
+        }
+      ],
+      "oracao": "Senhor, dá-me discernimento para não decidir apenas pela aparência. Ensina-me a buscar tua direção, obedecer à tua palavra e confiar que tu sustentas o teu povo. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 9–11 — Discernment, Victory, and Obedience",
+      "contexto": "Joshua 9 to 11 shows Israel advancing in the promised land while also facing the danger of making decisions without seeking the Lord. The covenant with the Gibeonites reveals the need for discernment, while the victories over powerful kings show that God sustains his people when they walk in obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The deception of the Gibeonites",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "The Gibeonites use appearance, carefully chosen words, and outward signs to persuade Israel. The people’s error was not keeping a covenant once made, but deciding without clearly seeking the Lord’s direction.",
+          "aplicacao": "Not every decision that seems right to human eyes is wise before God. Spiritual discernment requires prayer, prudence, and dependence on the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The Lord fights for Israel",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 43
+          },
+          "comentario": "The battle against the Amorite kings reveals that Israel’s victory does not depend merely on military strength. God intervenes, governs time, and confirms that the conquest is sustained by his hand.",
+          "aplicacao": "Obedience does not remove struggles, but it places us on the path where God strengthens, guides, and sustains his people."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The northern conquest and Joshua’s obedience",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 23
+          },
+          "comentario": "The northern coalition appears numerous and threatening, but Joshua remains obedient to the word he received. The text emphasizes that he did not leave undone what the Lord had commanded.",
+          "aplicacao": "Faithfulness is shown when we continue obeying, even in the face of prolonged opposition and challenges greater than our strength."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 7,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Deuteronomy 7:1-2",
+            "nota": "Recalls the instructions given to Israel before entering the land."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "James 1:5",
+            "nota": "Teaches believers to seek wisdom from God in decisions."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 18,
+            "referencia": "Ephesians 6:10-18",
+            "nota": "Points to spiritual dependence in the battle of faith."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek the Lord before making important decisions?",
+        "Do I confuse convincing appearances with divine direction?",
+        "Do I remain obedient when the struggles become greater?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 10:14 summarizes the main point of the reading: Israel’s victory comes from the Lord’s intervention, not merely from human ability."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 9,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Joshua 9:14",
+          "nota": "Shows the danger of deciding without seeking the Lord’s direction."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 10,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Joshua 10:14",
+          "nota": "Highlights that the Lord fought for Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 11,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Joshua 11:15",
+          "nota": "Emphasizes Joshua’s complete obedience to the commands he received."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Discernment",
+          "significado": "The ability to evaluate decisions in light of God’s direction."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "A faithful response to the Lord’s word, even when there is opposition."
+        },
+        {
+          "termo": "Conquest",
+          "significado": "The advance of God’s people into what the Lord had promised."
+        }
+      ],
+      "oracao": "Lord, give me discernment so I do not decide by appearance alone. Teach me to seek your direction, obey your word, and trust that you sustain your people. Amen."
+    },
+    "es": {
+      "titulo": "Josué 9–11 — Discernimiento, Victoria y Obediencia",
+      "contexto": "Josué 9 al 11 muestra a Israel avanzando en la tierra prometida, pero también enfrentando el peligro de decidir sin consultar al Señor. La alianza con los gabaonitas revela la necesidad de discernimiento, mientras que las victorias sobre reyes poderosos muestran que Dios sostiene a su pueblo cuando camina en obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El engaño de los gabaonitas",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "Los gabaonitas usan apariencia, palabras calculadas y señales externas para convencer a Israel. El error del pueblo no fue cumplir una alianza ya hecha, sino decidir sin buscar claramente la dirección del Señor.",
+          "aplicacao": "No toda decisión que parece correcta a los ojos humanos es sabia delante de Dios. El discernimiento espiritual requiere oración, prudencia y dependencia del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El Señor pelea por Israel",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 43
+          },
+          "comentario": "La batalla contra los reyes amorreos revela que la victoria de Israel no depende solo de fuerza militar. Dios interviene, gobierna el tiempo y confirma que la conquista es sostenida por su mano.",
+          "aplicacao": "La obediencia no elimina las luchas, pero nos pone en el camino donde Dios fortalece, guía y sostiene a su pueblo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La conquista del norte y la obediencia de Josué",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 23
+          },
+          "comentario": "La coalición del norte parece numerosa y amenazante, pero Josué permanece obediente a la palabra recibida. El texto destaca que no dejó de cumplir lo que el Señor había ordenado.",
+          "aplicacao": "La fidelidad se manifiesta cuando seguimos obedeciendo, incluso ante oposición prolongada y desafíos mayores que nuestra capacidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 7,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Deuteronomio 7:1-2",
+            "nota": "Recuerda las instrucciones dadas a Israel antes de entrar en la tierra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Santiago 1:5",
+            "nota": "Enseña a buscar sabiduría en Dios al tomar decisiones."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 18,
+            "referencia": "Efesios 6:10-18",
+            "nota": "Señala la dependencia espiritual en la batalla de la fe."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Consulto al Señor antes de tomar decisiones importantes?",
+        "¿Confundo una apariencia convincente con dirección divina?",
+        "¿Permanezco obediente cuando las luchas se vuelven mayores?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 10:14 resume el punto principal de la lectura: la victoria de Israel viene de la intervención del Señor, no solo de la capacidad humana."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 9,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Josué 9:14",
+          "nota": "Muestra el peligro de decidir sin buscar la dirección del Señor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 10,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Josué 10:14",
+          "nota": "Destaca que el Señor peleaba por Israel."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 11,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Josué 11:15",
+          "nota": "Resalta la obediencia completa de Josué a las órdenes recibidas."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Discernimiento",
+          "significado": "Capacidad de evaluar decisiones a la luz de la dirección de Dios."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta fiel a la palabra del Señor, incluso cuando hay oposición."
+        },
+        {
+          "termo": "Conquista",
+          "significado": "Avance del pueblo de Dios hacia lo que el Señor había prometido."
+        }
+      ],
+      "oracao": "Señor, dame discernimiento para no decidir solo por la apariencia. Enséñame a buscar tu dirección, obedecer tu palabra y confiar en que tú sostienes a tu pueblo. Amén."
+    }
+  }
+}

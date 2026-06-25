@@ -1,0 +1,416 @@
+{
+  "dia": 51,
+  "data": "2027-02-20",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 16–18",
+    "en": "Numbers 16–18",
+    "es": "Números 16–18"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 16,
+      "chapter_end": 18
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 18,
+    "verse_start": 20,
+    "verse_end": 20,
+    "referencia": {
+      "pt": "Números 18:20",
+      "en": "Numbers 18:20",
+      "es": "Números 18:20"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_051.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_051.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_051.mp3",
+      "versiculo_central": "audio/en/verses/day_051.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_051.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_051.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 16–18 — Rebelião, Sacerdócio e Herança",
+      "contexto": "Números 16 a 18 registra a rebelião de Corá, a confirmação do sacerdócio de Arão e as responsabilidades dos sacerdotes e levitas. O texto mostra que servir a Deus não é questão de ambição, mas de chamado, reverência e dependência do próprio Senhor como herança.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A rebelião de Corá",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 50
+          },
+          "comentario": "Corá e seus aliados contestam a liderança estabelecida por Deus. A rebelião é apresentada como afronta ao próprio Senhor.",
+          "aplicacao": "O desejo de posição pode corromper o serviço espiritual quando perde a reverência diante de Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A vara de Arão floresce",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 13
+          },
+          "comentario": "Deus confirma o sacerdócio de Arão por meio de um sinal de vida. Aquilo que parecia seco floresce pela escolha e pelo poder do Senhor.",
+          "aplicacao": "A autoridade verdadeira no serviço de Deus não nasce da disputa, mas da confirmação do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Responsabilidades e herança dos levitas",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 32
+          },
+          "comentario": "Sacerdotes e levitas recebem responsabilidades específicas, sustento e limites. Sua maior herança não é a terra, mas o próprio Senhor.",
+          "aplicacao": "Quem serve a Deus precisa aprender que a maior recompensa é pertencer a ele."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 16,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Salmos 16:5",
+            "nota": "Expressa o Senhor como porção e herança do seu povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 5,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Hebreus 5:4",
+            "nota": "Ensina que o chamado sacerdotal não é assumido por ambição humana."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Aplica ao povo de Cristo a linguagem de sacerdócio e serviço santo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Sirvo a Deus por reverência ou por desejo de reconhecimento?",
+        "Consigo aceitar os limites e responsabilidades que Deus me confiou?",
+        "Tenho tratado o próprio Senhor como minha maior herança?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 18:20 resume o coração do serviço sacerdotal: o Senhor é a porção e a herança daqueles que pertencem a ele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 16,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Números 16:11",
+          "nota": "Mostra que a rebelião contra a liderança de Deus é, em última análise, contra o Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 17,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Números 17:8",
+          "nota": "Apresenta a confirmação divina sobre o sacerdócio de Arão."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 18,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Números 18:20",
+          "nota": "Revela o Senhor como herança dos sacerdotes e levitas."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rebelião",
+          "significado": "Resistência orgulhosa à ordem e ao chamado estabelecidos por Deus."
+        },
+        {
+          "termo": "Sacerdócio",
+          "significado": "Serviço santo diante de Deus em favor do povo."
+        },
+        {
+          "termo": "Herança",
+          "significado": "Aquilo que sustenta e identifica o povo de Deus; neste texto, o próprio Senhor."
+        }
+      ],
+      "oracao": "Senhor, purifica minhas motivações no serviço. Livra-me da ambição orgulhosa e ensina-me a encontrar em ti minha porção, minha segurança e minha maior herança. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 16–18 — Rebellion, Priesthood, and Inheritance",
+      "contexto": "Numbers 16 to 18 records Korah’s rebellion, the confirmation of Aaron’s priesthood, and the responsibilities of priests and Levites. The text shows that serving God is not a matter of ambition, but of calling, reverence, and dependence on the Lord himself as inheritance.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The rebellion of Korah",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 50
+          },
+          "comentario": "Korah and his allies challenge the leadership established by God. The rebellion is presented as an offense against the Lord himself.",
+          "aplicacao": "The desire for position can corrupt spiritual service when reverence before God is lost."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Aaron’s staff blossoms",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 13
+          },
+          "comentario": "God confirms Aaron’s priesthood through a sign of life. What seemed dry blossoms by the Lord’s choice and power.",
+          "aplicacao": "True authority in God’s service does not come from rivalry, but from the Lord’s confirmation."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Responsibilities and inheritance of the Levites",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 32
+          },
+          "comentario": "Priests and Levites receive specific responsibilities, provision, and limits. Their greatest inheritance is not land, but the Lord himself.",
+          "aplicacao": "Those who serve God must learn that the greatest reward is belonging to him."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 16,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Psalm 16:5",
+            "nota": "Expresses the Lord as the portion and inheritance of his people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 5,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Hebrews 5:4",
+            "nota": "Teaches that the priestly calling is not taken up by human ambition."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Peter 2:9",
+            "nota": "Applies the language of priesthood and holy service to the people of Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I serve God out of reverence or out of a desire for recognition?",
+        "Can I accept the limits and responsibilities God has entrusted to me?",
+        "Have I treated the Lord himself as my greatest inheritance?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 18:20 summarizes the heart of priestly service: the Lord is the portion and inheritance of those who belong to him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 16,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Numbers 16:11",
+          "nota": "Shows that rebellion against God’s appointed leadership is ultimately against the Lord."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 17,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Numbers 17:8",
+          "nota": "Presents God’s confirmation of Aaron’s priesthood."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 18,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Numbers 18:20",
+          "nota": "Reveals the Lord as the inheritance of the priests and Levites."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rebellion",
+          "significado": "Proud resistance to the order and calling established by God."
+        },
+        {
+          "termo": "Priesthood",
+          "significado": "Holy service before God on behalf of the people."
+        },
+        {
+          "termo": "Inheritance",
+          "significado": "What sustains and identifies God’s people; in this text, the Lord himself."
+        }
+      ],
+      "oracao": "Lord, purify my motives in service. Deliver me from proud ambition and teach me to find in you my portion, my security, and my greatest inheritance. Amen."
+    },
+    "es": {
+      "titulo": "Números 16–18 — Rebelión, Sacerdocio y Herencia",
+      "contexto": "Números 16 al 18 registra la rebelión de Coré, la confirmación del sacerdocio de Aarón y las responsabilidades de sacerdotes y levitas. El texto muestra que servir a Dios no es cuestión de ambición, sino de llamado, reverencia y dependencia del propio Señor como herencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La rebelión de Coré",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 50
+          },
+          "comentario": "Coré y sus aliados cuestionan el liderazgo establecido por Dios. La rebelión es presentada como una afrenta contra el propio Señor.",
+          "aplicacao": "El deseo de posición puede corromper el servicio espiritual cuando se pierde la reverencia delante de Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La vara de Aarón florece",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 13
+          },
+          "comentario": "Dios confirma el sacerdocio de Aarón por medio de una señal de vida. Aquello que parecía seco florece por la elección y el poder del Señor.",
+          "aplicacao": "La autoridad verdadera en el servicio de Dios no nace de la disputa, sino de la confirmación del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Responsabilidades y herencia de los levitas",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 32
+          },
+          "comentario": "Sacerdotes y levitas reciben responsabilidades específicas, sustento y límites. Su mayor herencia no es la tierra, sino el propio Señor.",
+          "aplicacao": "Quien sirve a Dios necesita aprender que la mayor recompensa es pertenecer a él."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 16,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Salmos 16:5",
+            "nota": "Expresa al Señor como porción y herencia de su pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 5,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Hebreos 5:4",
+            "nota": "Enseña que el llamado sacerdotal no se asume por ambición humana."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Aplica al pueblo de Cristo el lenguaje de sacerdocio y servicio santo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Sirvo a Dios por reverencia o por deseo de reconocimiento?",
+        "¿Puedo aceptar los límites y responsabilidades que Dios me ha confiado?",
+        "¿He tratado al propio Señor como mi mayor herencia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 18:20 resume el corazón del servicio sacerdotal: el Señor es la porción y la herencia de aquellos que le pertenecen."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 16,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Números 16:11",
+          "nota": "Muestra que la rebelión contra el liderazgo de Dios es, en última instancia, contra el Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 17,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Números 17:8",
+          "nota": "Presenta la confirmación divina sobre el sacerdocio de Aarón."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 18,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Números 18:20",
+          "nota": "Revela al Señor como herencia de los sacerdotes y levitas."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rebelión",
+          "significado": "Resistencia orgullosa al orden y al llamado establecidos por Dios."
+        },
+        {
+          "termo": "Sacerdocio",
+          "significado": "Servicio santo delante de Dios en favor del pueblo."
+        },
+        {
+          "termo": "Herencia",
+          "significado": "Aquello que sostiene e identifica al pueblo de Dios; en este texto, el propio Señor."
+        }
+      ],
+      "oracao": "Señor, purifica mis motivaciones en el servicio. Líbrame de la ambición orgullosa y enséñame a encontrar en ti mi porción, mi seguridad y mi mayor herencia. Amén."
+    }
+  }
+}

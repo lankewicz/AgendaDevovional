@@ -1,0 +1,548 @@
+{
+  "dia": 38,
+  "data": "2027-02-07",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 12–13",
+    "en": "Leviticus 12–13",
+    "es": "Levítico 12–13"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 12,
+      "chapter_end": 13
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 13,
+    "verse_start": 3,
+    "verse_end": 3,
+    "referencia": {
+      "pt": "Levítico 13:3",
+      "en": "Leviticus 13:3",
+      "es": "Levítico 13:3"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_038.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_038.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/038/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/013.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/038/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/013.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/038/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/013.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/038/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/013.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_038.mp3",
+      "versiculo_central": "audio/en/verses/day_038.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/038/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/en/en-US-AriaNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/en/en-US-AriaNeural/013.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/038/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/en/en-US-JennyNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/en/en-US-JennyNeural/013.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/038/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/en/en-US-GuyNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/en/en-US-GuyNeural/013.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/038/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/en/en-US-BrianNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/en/en-US-BrianNeural/013.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_038.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_038.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/038/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/es/es-ES-ElviraNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/es/es-ES-ElviraNeural/013.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/038/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/es/es-MX-DaliaNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/es/es-MX-DaliaNeural/013.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/038/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/es/es-ES-AlvaroNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/es/es-ES-AlvaroNeural/013.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/038/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/038/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/038/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_12": "audio/biblia/LEV/es/es-MX-JorgeNeural/012.m4a",
+          "LEV_13": "audio/biblia/LEV/es/es-MX-JorgeNeural/013.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 12–13 — Pureza, Discernimento e Cuidado",
+      "contexto": "Levítico 12 e 13 trata de purificação após o nascimento e da avaliação de enfermidades visíveis na pele e nas roupas. Embora esses regulamentos pertençam ao contexto cerimonial de Israel, eles ensinam que Deus se importa com pureza, cuidado comunitário, discernimento responsável e restauração.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purificação e retorno à comunhão",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 8
+          },
+          "comentario": "As instruções após o nascimento mostram que a vida familiar e a adoração estavam integradas ao chamado de santidade do povo.",
+          "aplicacao": "A fé não separa a vida espiritual da vida cotidiana. Deus deseja orientar também os ciclos comuns da existência."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernimento no cuidado da comunidade",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 46
+          },
+          "comentario": "A avaliação das enfermidades exigia atenção, prudência e responsabilidade. O sacerdote deveria discernir a situação para proteger a comunidade e conduzir a pessoa ao tratamento adequado.",
+          "aplicacao": "Nem todo cuidado é exclusão. Discernimento espiritual e responsabilidade comunitária devem caminhar com compaixão."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sinais externos e seriedade da contaminação",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 47,
+            "chapter_end": 13,
+            "verse_end": 59
+          },
+          "comentario": "As instruções sobre roupas contaminadas mostram que a impureza era tratada com seriedade, sem negligenciar aquilo que podia afetar o povo.",
+          "aplicacao": "A santidade envolve atenção ao que parece pequeno, mas pode influenciar a vida inteira se for ignorado."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 15,
+            "referencia": "Números 12:10-15",
+            "nota": "Mostra a seriedade da impureza e o cuidado de Deus em restaurar."
+          },
+          {
+            "book_id": "2KI",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 14,
+            "referencia": "2 Reis 5:1-14",
+            "nota": "Relata a purificação de Naamã, apontando para obediência e graça."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 2,
+            "verse_start": 22,
+            "verse_end": 24,
+            "referencia": "Lucas 2:22-24",
+            "nota": "Mostra José e Maria cumprindo as prescrições de purificação após o nascimento de Jesus."
+          },
+          {
+            "book_id": "MRK",
+            "chapter": 1,
+            "verse_start": 40,
+            "verse_end": 42,
+            "referencia": "Marcos 1:40-42",
+            "nota": "Jesus toca e purifica um homem enfermo, revelando compaixão e autoridade."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado discernimento sem perder a compaixão?",
+        "Sou cuidadoso com aquilo que pode contaminar minha vida espiritual?",
+        "Trato pessoas feridas com dignidade, paciência e esperança de restauração?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 13:3 representa a responsabilidade de discernir com cuidado aquilo que afeta a pureza e a vida comunitária."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 12,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Levítico 12:8",
+          "nota": "Mostra provisão para quem tinha menos recursos dentro do processo de purificação."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 13:3",
+          "nota": "Destaca o discernimento cuidadoso no diagnóstico cerimonial."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 46,
+          "verse_end": 46,
+          "referencia": "Levítico 13:46",
+          "nota": "Mostra a seriedade da separação enquanto durasse a impureza cerimonial."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Pureza cerimonial",
+          "significado": "Condição de adequação ao culto conforme as prescrições dadas a Israel."
+        },
+        {
+          "termo": "Discernimento",
+          "significado": "Capacidade de avaliar com responsabilidade diante de Deus e da comunidade."
+        },
+        {
+          "termo": "Restauração",
+          "significado": "Retorno à comunhão, ao cuidado e à participação na vida do povo."
+        }
+      ],
+      "oracao": "Senhor, dá-me discernimento, pureza e compaixão. Ensina-me a cuidar da minha vida e a tratar o próximo com responsabilidade, dignidade e esperança. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 12–13 — Purity, Discernment, and Care",
+      "contexto": "Leviticus 12 and 13 deals with purification after childbirth and the evaluation of visible conditions on skin and garments. Although these regulations belong to Israel’s ceremonial context, they teach that God cares about purity, communal care, responsible discernment, and restoration.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purification and return to communion",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 8
+          },
+          "comentario": "The instructions after childbirth show that family life and worship were integrated into the people’s call to holiness.",
+          "aplicacao": "Faith does not separate spiritual life from daily life. God also desires to guide the ordinary cycles of existence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernment in the care of the community",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 46
+          },
+          "comentario": "The evaluation of illnesses required attention, prudence, and responsibility. The priest had to discern the situation to protect the community and guide the person appropriately.",
+          "aplicacao": "Not every form of care is rejection. Spiritual discernment and communal responsibility should walk together with compassion."
+        },
+        {
+          "ordem": 3,
+          "titulo": "External signs and the seriousness of contamination",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 47,
+            "chapter_end": 13,
+            "verse_end": 59
+          },
+          "comentario": "The instructions about contaminated garments show that impurity was treated seriously, without ignoring what could affect the people.",
+          "aplicacao": "Holiness includes attention to what may seem small but can influence the whole life if ignored."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 15,
+            "referencia": "Numbers 12:10-15",
+            "nota": "Shows the seriousness of impurity and God’s care in restoration."
+          },
+          {
+            "book_id": "2KI",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 14,
+            "referencia": "2 Kings 5:1-14",
+            "nota": "Tells of Naaman’s cleansing, pointing to obedience and grace."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 2,
+            "verse_start": 22,
+            "verse_end": 24,
+            "referencia": "Luke 2:22-24",
+            "nota": "Shows Joseph and Mary fulfilling the purification requirements after Jesus’ birth."
+          },
+          {
+            "book_id": "MRK",
+            "chapter": 1,
+            "verse_start": 40,
+            "verse_end": 42,
+            "referencia": "Mark 1:40-42",
+            "nota": "Jesus touches and cleanses a sick man, revealing compassion and authority."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek discernment without losing compassion?",
+        "Am I careful with what may contaminate my spiritual life?",
+        "Do I treat wounded people with dignity, patience, and hope for restoration?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 13:3 represents the responsibility to discern carefully what affects purity and community life."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 12,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Leviticus 12:8",
+          "nota": "Shows provision for those with fewer resources within the purification process."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Leviticus 13:3",
+          "nota": "Highlights careful discernment in ceremonial diagnosis."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 46,
+          "verse_end": 46,
+          "referencia": "Leviticus 13:46",
+          "nota": "Shows the seriousness of separation while ceremonial uncleanness remained."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Ceremonial purity",
+          "significado": "A condition of fitness for worship according to the prescriptions given to Israel."
+        },
+        {
+          "termo": "Discernment",
+          "significado": "The ability to evaluate responsibly before God and the community."
+        },
+        {
+          "termo": "Restoration",
+          "significado": "A return to communion, care, and participation in the life of the people."
+        }
+      ],
+      "oracao": "Lord, give me discernment, purity, and compassion. Teach me to care for my life and to treat others with responsibility, dignity, and hope. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 12–13 — Pureza, Discernimiento y Cuidado",
+      "contexto": "Levítico 12 y 13 trata de la purificación después del nacimiento y de la evaluación de condiciones visibles en la piel y en las vestiduras. Aunque estas normas pertenecen al contexto ceremonial de Israel, enseñan que Dios se interesa por la pureza, el cuidado comunitario, el discernimiento responsable y la restauración.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purificación y regreso a la comunión",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 8
+          },
+          "comentario": "Las instrucciones después del nacimiento muestran que la vida familiar y la adoración estaban integradas al llamado de santidad del pueblo.",
+          "aplicacao": "La fe no separa la vida espiritual de la vida cotidiana. Dios también desea orientar los ciclos comunes de la existencia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernimiento en el cuidado de la comunidad",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 46
+          },
+          "comentario": "La evaluación de enfermedades exigía atención, prudencia y responsabilidad. El sacerdote debía discernir la situación para proteger a la comunidad y orientar a la persona de manera adecuada.",
+          "aplicacao": "No todo cuidado es rechazo. El discernimiento espiritual y la responsabilidad comunitaria deben caminar junto con la compasión."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Señales externas y seriedad de la contaminación",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 13,
+            "verse_start": 47,
+            "chapter_end": 13,
+            "verse_end": 59
+          },
+          "comentario": "Las instrucciones sobre vestiduras contaminadas muestran que la impureza era tratada con seriedad, sin descuidar aquello que podía afectar al pueblo.",
+          "aplicacao": "La santidad incluye atención a lo que parece pequeño, pero puede influir en toda la vida si se ignora."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 15,
+            "referencia": "Números 12:10-15",
+            "nota": "Muestra la seriedad de la impureza y el cuidado de Dios al restaurar."
+          },
+          {
+            "book_id": "2KI",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 14,
+            "referencia": "2 Reyes 5:1-14",
+            "nota": "Relata la purificación de Naamán, apuntando a obediencia y gracia."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 2,
+            "verse_start": 22,
+            "verse_end": 24,
+            "referencia": "Lucas 2:22-24",
+            "nota": "Muestra a José y María cumpliendo las prescripciones de purificación después del nacimiento de Jesús."
+          },
+          {
+            "book_id": "MRK",
+            "chapter": 1,
+            "verse_start": 40,
+            "verse_end": 42,
+            "referencia": "Marcos 1:40-42",
+            "nota": "Jesús toca y purifica a un hombre enfermo, revelando compasión y autoridad."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco discernimiento sin perder la compasión?",
+        "¿Soy cuidadoso con aquello que puede contaminar mi vida espiritual?",
+        "¿Trato a las personas heridas con dignidad, paciencia y esperanza de restauración?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 13:3 representa la responsabilidad de discernir cuidadosamente aquello que afecta la pureza y la vida comunitaria."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 12,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Levítico 12:8",
+          "nota": "Muestra provisión para quien tenía menos recursos dentro del proceso de purificación."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 13:3",
+          "nota": "Destaca el discernimiento cuidadoso en el diagnóstico ceremonial."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 13,
+          "verse_start": 46,
+          "verse_end": 46,
+          "referencia": "Levítico 13:46",
+          "nota": "Muestra la seriedad de la separación mientras duraba la impureza ceremonial."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Pureza ceremonial",
+          "significado": "Condición de adecuación al culto conforme a las prescripciones dadas a Israel."
+        },
+        {
+          "termo": "Discernimiento",
+          "significado": "Capacidad de evaluar con responsabilidad delante de Dios y de la comunidad."
+        },
+        {
+          "termo": "Restauración",
+          "significado": "Regreso a la comunión, al cuidado y a la participación en la vida del pueblo."
+        }
+      ],
+      "oracao": "Señor, dame discernimiento, pureza y compasión. Enséñame a cuidar mi vida y a tratar al prójimo con responsabilidad, dignidad y esperanza. Amén."
+    }
+  }
+}

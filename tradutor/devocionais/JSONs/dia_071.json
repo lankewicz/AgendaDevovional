@@ -1,0 +1,416 @@
+{
+  "dia": 71,
+  "data": "2027-03-12",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 6–8",
+    "en": "Joshua 6–8",
+    "es": "Josué 6–8"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 6,
+      "chapter_end": 8
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 7,
+    "verse_start": 13,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "Josué 7:13",
+      "en": "Joshua 7:13",
+      "es": "Josué 7:13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_071.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_071.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_071.mp3",
+      "versiculo_central": "audio/en/verses/day_071.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_071.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_071.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 6–8 — Vitória, Pecado Oculto e Restauração",
+      "contexto": "Josué 6 a 8 mostra a queda de Jericó, a derrota em Ai causada pelo pecado de Acã, e a restauração do povo após o tratamento da desobediência. A leitura ensina que a vitória pertence ao Senhor, mas a santidade do povo não pode ser desprezada.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jericó cai pela obediência à palavra de Deus",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "A conquista de Jericó não acontece por estratégia humana comum, mas pela confiança obediente na ordem do Senhor.",
+          "aplicacao": "Nem toda vitória vem por força visível; muitas vezes Deus chama seu povo a obedecer antes de entender completamente."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O pecado oculto e a derrota em Ai",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "A desobediência de Acã afeta toda a comunidade. O texto mostra que Deus leva a santidade a sério e não ignora o pecado escondido.",
+          "aplicacao": "O que é oculto aos olhos humanos continua diante de Deus. Arrependimento e verdade são necessários para restauração."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Restauração, vitória e renovação da aliança",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "Após tratar o pecado, Deus conduz Israel à vitória em Ai. O povo renova a aliança e ouve novamente as palavras da lei.",
+          "aplicacao": "A restauração de Deus não ignora a santidade; ela reconduz o povo à obediência e à Palavra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Deuteronômio 27:1-8",
+            "nota": "Antecipava a renovação da lei em pedras ao entrar na terra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Atos 5:1-11",
+            "nota": "Mostra outro exemplo de pecado oculto tratado com seriedade na comunidade da fé."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 João 1:9",
+            "nota": "Aponta para a confissão e purificação concedidas por Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado vitórias sem cultivar obediência e santidade?",
+        "Existe algo escondido que precisa ser confessado diante de Deus?",
+        "Permito que a restauração do Senhor me reconduza à sua Palavra?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 7:13 expressa o ponto decisivo da leitura: antes de avançar, o povo precisava tratar o pecado e voltar à santidade diante de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 6,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Josué 6:2",
+          "nota": "Mostra que a vitória de Jericó foi entregue pelo Senhor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 7,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Josué 7:13",
+          "nota": "Chama o povo à santificação diante do pecado oculto."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 8,
+          "verse_start": 34,
+          "verse_end": 35,
+          "referencia": "Josué 8:34-35",
+          "nota": "Mostra a renovação da aliança pela leitura da lei."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidade",
+          "significado": "Separação para Deus que molda atitudes pessoais e comunitárias."
+        },
+        {
+          "termo": "Confissão",
+          "significado": "Exposição sincera do pecado diante de Deus para restauração."
+        },
+        {
+          "termo": "Restauração",
+          "significado": "Ação de Deus que reconduz seu povo à comunhão e à obediência."
+        }
+      ],
+      "oracao": "Senhor, mostra o que precisa ser tratado em mim. Conduz-me ao arrependimento sincero, restaura minha comunhão contigo e ensina-me a obedecer à tua Palavra. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 6–8 — Victory, Hidden Sin, and Restoration",
+      "contexto": "Joshua 6 to 8 shows the fall of Jericho, the defeat at Ai caused by Achan's sin, and the restoration of the people after disobedience is dealt with. The reading teaches that victory belongs to the Lord, but the holiness of the people must not be neglected.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jericho falls through obedience to God's word",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "The conquest of Jericho does not happen through ordinary human strategy, but through obedient trust in the Lord's command.",
+          "aplicacao": "Not every victory comes through visible strength; often God calls his people to obey before they fully understand."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Hidden sin and defeat at Ai",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "Achan's disobedience affects the whole community. The text shows that God takes holiness seriously and does not ignore hidden sin.",
+          "aplicacao": "What is hidden from human eyes remains before God. Repentance and truth are necessary for restoration."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Restoration, victory, and covenant renewal",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "After dealing with sin, God leads Israel to victory at Ai. The people renew the covenant and hear again the words of the law.",
+          "aplicacao": "God's restoration does not ignore holiness; it brings his people back to obedience and to the Word."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Deuteronomy 27:1-8",
+            "nota": "Anticipated the renewal of the law on stones upon entering the land."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Acts 5:1-11",
+            "nota": "Shows another example of hidden sin treated seriously in the community of faith."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 John 1:9",
+            "nota": "Points to the confession and cleansing given by God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I seeking victories without cultivating obedience and holiness?",
+        "Is there something hidden that needs to be confessed before God?",
+        "Do I allow the Lord's restoration to lead me back to his Word?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 7:13 expresses the decisive point of the reading: before moving forward, the people needed to deal with sin and return to holiness before God."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 6,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Joshua 6:2",
+          "nota": "Shows that the victory of Jericho was given by the Lord."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 7,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Joshua 7:13",
+          "nota": "Calls the people to consecration in the face of hidden sin."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 8,
+          "verse_start": 34,
+          "verse_end": 35,
+          "referencia": "Joshua 8:34-35",
+          "nota": "Shows covenant renewal through the reading of the law."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holiness",
+          "significado": "Being set apart for God in ways that shape personal and communal actions."
+        },
+        {
+          "termo": "Confession",
+          "significado": "The sincere exposure of sin before God for restoration."
+        },
+        {
+          "termo": "Restoration",
+          "significado": "God's action that brings his people back to communion and obedience."
+        }
+      ],
+      "oracao": "Lord, show me what needs to be dealt with in me. Lead me to sincere repentance, restore my communion with you, and teach me to obey your Word. Amen."
+    },
+    "es": {
+      "titulo": "Josué 6–8 — Victoria, Pecado Oculto y Restauración",
+      "contexto": "Josué 6 al 8 muestra la caída de Jericó, la derrota en Hai causada por el pecado de Acán, y la restauración del pueblo después de tratar la desobediencia. La lectura enseña que la victoria pertenece al Señor, pero la santidad del pueblo no puede ser despreciada.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jericó cae por la obediencia a la palabra de Dios",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "La conquista de Jericó no ocurre por una estrategia humana común, sino por la confianza obediente en la orden del Señor.",
+          "aplicacao": "No toda victoria viene por fuerza visible; muchas veces Dios llama a su pueblo a obedecer antes de entender completamente."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El pecado oculto y la derrota en Hai",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "La desobediencia de Acán afecta a toda la comunidad. El texto muestra que Dios toma la santidad en serio y no ignora el pecado escondido.",
+          "aplicacao": "Lo que está oculto a los ojos humanos sigue delante de Dios. Arrepentimiento y verdad son necesarios para la restauración."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Restauración, victoria y renovación de la alianza",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "Después de tratar el pecado, Dios conduce a Israel a la victoria en Hai. El pueblo renueva la alianza y escucha nuevamente las palabras de la ley.",
+          "aplicacao": "La restauración de Dios no ignora la santidad; reconduce a su pueblo a la obediencia y a la Palabra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Deuteronomio 27:1-8",
+            "nota": "Anticipaba la renovación de la ley en piedras al entrar en la tierra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Hechos 5:1-11",
+            "nota": "Muestra otro ejemplo de pecado oculto tratado con seriedad en la comunidad de la fe."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Juan 1:9",
+            "nota": "Apunta a la confesión y purificación concedidas por Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Estoy buscando victorias sin cultivar obediencia y santidad?",
+        "¿Hay algo escondido que necesita ser confesado delante de Dios?",
+        "¿Permito que la restauración del Señor me reconduzca a su Palabra?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 7:13 expresa el punto decisivo de la lectura: antes de avanzar, el pueblo necesitaba tratar el pecado y volver a la santidad delante de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 6,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Josué 6:2",
+          "nota": "Muestra que la victoria de Jericó fue entregada por el Señor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 7,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Josué 7:13",
+          "nota": "Llama al pueblo a la santificación ante el pecado oculto."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 8,
+          "verse_start": 34,
+          "verse_end": 35,
+          "referencia": "Josué 8:34-35",
+          "nota": "Muestra la renovación de la alianza por la lectura de la ley."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidad",
+          "significado": "Separación para Dios que moldea actitudes personales y comunitarias."
+        },
+        {
+          "termo": "Confesión",
+          "significado": "Exposición sincera del pecado delante de Dios para restauración."
+        },
+        {
+          "termo": "Restauración",
+          "significado": "Acción de Dios que reconduce a su pueblo a la comunión y a la obediencia."
+        }
+      ],
+      "oracao": "Señor, muestra lo que necesita ser tratado en mí. Condúceme al arrepentimiento sincero, restaura mi comunión contigo y enséñame a obedecer tu Palabra. Amén."
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "dia": 68,
+  "data": "2027-03-09",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 29–31",
+    "en": "Deuteronomy 29–31",
+    "es": "Deuteronomio 29–31"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 29,
+      "chapter_end": 31
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 30,
+    "verse_start": 19,
+    "verse_end": 20,
+    "referencia": {
+      "pt": "Deuteronômio 30:19-20",
+      "en": "Deuteronomy 30:19-20",
+      "es": "Deuteronomio 30:19-20"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_068.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_068.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_068.mp3",
+      "versiculo_central": "audio/en/verses/day_068.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_068.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_068.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 29–31 — Escolher a Vida e Confiar no Senhor",
+      "contexto": "Deuteronômio 29 a 31 apresenta a renovação da aliança, o chamado para escolher a vida e a transição da liderança de Moisés para Josué. O povo é lembrado de que a fidelidade a Deus envolve coração, memória, obediência e confiança nas promessas do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A aliança renovada diante do povo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 29
+          },
+          "comentario": "Moisés convoca Israel a reconhecer a obra de Deus e a permanecer fiel à aliança, evitando a ilusão de viver em pecado sem consequências.",
+          "aplicacao": "A memória do que Deus fez deve fortalecer a fidelidade e impedir que o coração se afaste em silêncio."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O chamado para escolher a vida",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 20
+          },
+          "comentario": "Deus apresenta o caminho da vida e da morte, da bênção e da maldição. O povo é chamado a amar o Senhor e apegar-se a ele.",
+          "aplicacao": "Cada geração precisa responder pessoalmente ao chamado de Deus com amor, fé e obediência."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Josué é preparado para liderar",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 30
+          },
+          "comentario": "Moisés encoraja Josué e o povo, lembrando que o Senhor irá adiante deles e não os abandonará.",
+          "aplicacao": "Mudanças de etapa não anulam a fidelidade de Deus. O Senhor continua conduzindo seu povo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 9,
+            "referencia": "Josué 1:5-9",
+            "nota": "Retoma o encorajamento dado a Josué para liderar com coragem e fidelidade."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 10,
+            "referencia": "Romanos 10:6-10",
+            "nota": "Usa a linguagem de Deuteronômio para falar da fé e da palavra próxima."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Hebreus 13:5-6",
+            "nota": "Reafirma a promessa de que Deus não abandona os seus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho escolhido o caminho da vida, amando e ouvindo o Senhor?",
+        "Minha fé se apoia na presença de Deus em tempos de transição?",
+        "Guardo a Palavra de Deus como orientação para as próximas gerações?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 30:19-20 concentra o apelo da leitura: escolher a vida, amar o Senhor e apegar-se a ele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 29,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Deuteronômio 29:29",
+          "nota": "Mostra que a revelação de Deus chama o povo à obediência."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 30,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Deuteronômio 30:19-20",
+          "nota": "Apresenta a escolha entre vida e morte diante da aliança."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 31,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronômio 31:8",
+          "nota": "Encoraja o povo com a presença fiel do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Escolha",
+          "significado": "Resposta responsável do ser humano diante da Palavra de Deus."
+        },
+        {
+          "termo": "Vida",
+          "significado": "Comunhão com Deus, obediência e permanência em sua promessa."
+        },
+        {
+          "termo": "Presença",
+          "significado": "Certeza de que Deus conduz seu povo nas transições e desafios."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a escolher a vida, amar tua Palavra e confiar na tua presença. Dá-me coragem para seguir em fidelidade em cada nova etapa. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 29–31 — Choosing Life and Trusting the Lord",
+      "contexto": "Deuteronomy 29 to 31 presents the renewal of the covenant, the call to choose life, and the transition of leadership from Moses to Joshua. The people are reminded that faithfulness to God involves the heart, memory, obedience, and trust in the Lord's promises.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The covenant renewed before the people",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 29
+          },
+          "comentario": "Moses calls Israel to recognize God's work and remain faithful to the covenant, avoiding the illusion of living in sin without consequences.",
+          "aplicacao": "The memory of what God has done should strengthen faithfulness and keep the heart from drifting away silently."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The call to choose life",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 20
+          },
+          "comentario": "God sets before the people the way of life and death, blessing and curse. They are called to love the Lord and cling to him.",
+          "aplicacao": "Every generation must personally respond to God's call with love, faith, and obedience."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joshua is prepared to lead",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 30
+          },
+          "comentario": "Moses encourages Joshua and the people, reminding them that the Lord will go before them and will not abandon them.",
+          "aplicacao": "New seasons do not cancel God's faithfulness. The Lord continues to lead his people."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 9,
+            "referencia": "Joshua 1:5-9",
+            "nota": "Echoes the encouragement given to Joshua to lead with courage and faithfulness."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 10,
+            "referencia": "Romans 10:6-10",
+            "nota": "Uses the language of Deuteronomy to speak of faith and the word that is near."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Hebrews 13:5-6",
+            "nota": "Reaffirms the promise that God does not abandon his people."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I choosing the way of life by loving and listening to the Lord?",
+        "Does my faith rest on God's presence in times of transition?",
+        "Do I keep God's Word as guidance for future generations?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 30:19-20 gathers the appeal of the reading: choose life, love the Lord, and cling to him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 29,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Deuteronomy 29:29",
+          "nota": "Shows that God's revelation calls the people to obedience."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 30,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Deuteronomy 30:19-20",
+          "nota": "Presents the choice between life and death before the covenant."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 31,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronomy 31:8",
+          "nota": "Encourages the people with the Lord's faithful presence."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Choice",
+          "significado": "The responsible response of humanity before God's Word."
+        },
+        {
+          "termo": "Life",
+          "significado": "Communion with God, obedience, and remaining in his promise."
+        },
+        {
+          "termo": "Presence",
+          "significado": "The certainty that God leads his people through transitions and challenges."
+        }
+      ],
+      "oracao": "Lord, teach me to choose life, love your Word, and trust your presence. Give me courage to walk in faithfulness through every new season. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 29–31 — Escoger la Vida y Confiar en el Señor",
+      "contexto": "Deuteronomio 29 al 31 presenta la renovación de la alianza, el llamado a escoger la vida y la transición del liderazgo de Moisés a Josué. El pueblo es recordado de que la fidelidad a Dios implica corazón, memoria, obediencia y confianza en las promesas del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La alianza renovada delante del pueblo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 29
+          },
+          "comentario": "Moisés convoca a Israel a reconocer la obra de Dios y permanecer fiel a la alianza, evitando la ilusión de vivir en pecado sin consecuencias.",
+          "aplicacao": "La memoria de lo que Dios hizo debe fortalecer la fidelidad e impedir que el corazón se aparte en silencio."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El llamado a escoger la vida",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 20
+          },
+          "comentario": "Dios presenta el camino de la vida y de la muerte, de la bendición y de la maldición. El pueblo es llamado a amar al Señor y aferrarse a él.",
+          "aplicacao": "Cada generación necesita responder personalmente al llamado de Dios con amor, fe y obediencia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Josué es preparado para liderar",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 30
+          },
+          "comentario": "Moisés anima a Josué y al pueblo, recordando que el Señor irá delante de ellos y no los abandonará.",
+          "aplicacao": "Los cambios de etapa no anulan la fidelidad de Dios. El Señor sigue conduciendo a su pueblo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 9,
+            "referencia": "Josué 1:5-9",
+            "nota": "Retoma el ánimo dado a Josué para liderar con valentía y fidelidad."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 10,
+            "referencia": "Romanos 10:6-10",
+            "nota": "Usa el lenguaje de Deuteronomio para hablar de la fe y de la palabra cercana."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 13,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Hebreos 13:5-6",
+            "nota": "Reafirma la promesa de que Dios no abandona a los suyos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Estoy escogiendo el camino de la vida, amando y escuchando al Señor?",
+        "¿Mi fe se apoya en la presencia de Dios en tiempos de transición?",
+        "¿Guardo la Palabra de Dios como guía para las próximas generaciones?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 30:19-20 concentra el llamado de la lectura: escoger la vida, amar al Señor y aferrarse a él."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 29,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Deuteronomio 29:29",
+          "nota": "Muestra que la revelación de Dios llama al pueblo a la obediencia."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 30,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Deuteronomio 30:19-20",
+          "nota": "Presenta la elección entre vida y muerte delante de la alianza."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 31,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronomio 31:8",
+          "nota": "Anima al pueblo con la presencia fiel del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Elección",
+          "significado": "Respuesta responsable del ser humano delante de la Palabra de Dios."
+        },
+        {
+          "termo": "Vida",
+          "significado": "Comunión con Dios, obediencia y permanencia en su promesa."
+        },
+        {
+          "termo": "Presencia",
+          "significado": "Certeza de que Dios conduce a su pueblo en transiciones y desafíos."
+        }
+      ],
+      "oracao": "Señor, enséñame a escoger la vida, amar tu Palabra y confiar en tu presencia. Dame valentía para seguir en fidelidad en cada nueva etapa. Amén."
+    }
+  }
+}

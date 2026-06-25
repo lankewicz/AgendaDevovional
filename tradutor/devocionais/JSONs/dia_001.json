@@ -1,0 +1,540 @@
+{
+  "dia": 1,
+  "data": "2027-01-01",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 1–3",
+    "en": "Genesis 1–3",
+    "es": "Génesis 1–3"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 1,
+      "chapter_end": 3
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 3,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Gênesis 3:15",
+      "en": "Genesis 3:15",
+      "es": "Génesis 3:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/dia/1/pt.m4a",
+      "versiculo_central": "audio/pt/versiculos/dia_001.mp3",
+      "oracao": "audio/dia/1/pt/oracao.m4a",
+      "biblia": "audio/dia/1/pt/biblia.m4a",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/001/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/003.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/001/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/003.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/001/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/003.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/001/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/003.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/dia/1/en/devocional.m4a",
+      "versiculo_central": "audio/dia/1/en/versiculo_central.m4a",
+      "oracao": "audio/dia/1/en/oracao.m4a",
+      "biblia": "audio/dia/1/en/biblia.m4a",
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/001/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/en/en-US-GuyNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/en/en-US-GuyNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/en/en-US-GuyNeural/003.m4a"
+        }
+      },
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/001/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/en/en-US-AriaNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/en/en-US-AriaNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/en/en-US-AriaNeural/003.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/001/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/en/en-US-JennyNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/en/en-US-JennyNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/en/en-US-JennyNeural/003.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/001/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/en/en-US-BrianNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/en/en-US-BrianNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/en/en-US-BrianNeural/003.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/dia/1/es.m4a",
+      "versiculo_central": "audio/es/versiculos/dia_001.mp3",
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/001/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/es/es-ES-AlvaroNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/es/es-ES-AlvaroNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/es/es-ES-AlvaroNeural/003.m4a"
+        }
+      },
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/001/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/es/es-ES-ElviraNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/es/es-ES-ElviraNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/es/es-ES-ElviraNeural/003.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/001/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/es/es-MX-DaliaNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/es/es-MX-DaliaNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/es/es-MX-DaliaNeural/003.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/001/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/001/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/001/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_1": "audio/biblia/GEN/es/es-MX-JorgeNeural/001.m4a",
+          "GEN_2": "audio/biblia/GEN/es/es-MX-JorgeNeural/002.m4a",
+          "GEN_3": "audio/biblia/GEN/es/es-MX-JorgeNeural/003.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 1–3 — Criação, Queda e Promessa",
+      "contexto": "Gênesis 1 a 3 apresenta os fundamentos de toda a história bíblica. Deus cria todas as coisas com ordem e bondade, forma o ser humano à sua imagem e revela as consequências da desobediência. Mesmo após a queda, o Senhor não abandona sua criação, mas anuncia esperança e restauração.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A criação dos céus e da terra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 25
+          },
+          "comentario": "Deus cria pela sua palavra, separa, organiza e dá forma ao mundo. A criação não é apresentada como acaso, mas como obra intencional do Criador.",
+          "aplicacao": "A vida deve ser compreendida a partir do propósito de Deus. Ele continua sendo Senhor sobre a ordem, o tempo e a existência."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O ser humano criado à imagem de Deus",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 26,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Homem e mulher recebem dignidade, identidade e responsabilidade diante de Deus. A vida humana tem valor porque procede do Criador.",
+          "aplicacao": "Nossa identidade começa em Deus e deve orientar nossos relacionamentos, decisões e responsabilidades."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A queda e a promessa de redenção",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 24
+          },
+          "comentario": "A desobediência rompe a comunhão com Deus e introduz culpa, medo e morte. Porém, no meio do juízo, Deus anuncia a esperança de vitória sobre o mal.",
+          "aplicacao": "Mesmo quando o pecado desorganiza a vida, Deus continua chamando o ser humano à restauração."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 104,
+            "verse_start": 1,
+            "verse_end": 31,
+            "referencia": "Salmos 104:1-31",
+            "nota": "Celebra a grandeza de Deus manifestada na criação."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 3,
+            "referencia": "João 1:1-3",
+            "nota": "Apresenta Cristo como a Palavra eterna por meio de quem todas as coisas foram feitas."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 21,
+            "referencia": "Romanos 5:12-21",
+            "nota": "Mostra o contraste entre a queda em Adão e a redenção em Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Reconheço Deus como Criador e Senhor da minha vida?",
+        "Tenho vivido minha identidade a partir da imagem de Deus?",
+        "Levo a sério as consequências do pecado e a esperança da redenção?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 3:15 aponta para a primeira promessa de redenção após a queda, mostrando que Deus não abandonou a humanidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Gênesis 1:1",
+          "nota": "Apresenta Deus como Criador de todas as coisas."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Gênesis 1:27",
+          "nota": "Revela a dignidade humana como imagem de Deus."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 3,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Gênesis 3:15",
+          "nota": "Anuncia a esperança de vitória sobre o mal."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "בָּרָא (bara)",
+          "significado": "Verbo hebraico usado para a ação criadora de Deus."
+        },
+        {
+          "termo": "Imagem de Deus",
+          "significado": "Dignidade, identidade e vocação dadas ao ser humano pelo Criador."
+        },
+        {
+          "termo": "Redenção",
+          "significado": "A ação de Deus para restaurar aquilo que foi afetado pelo pecado."
+        }
+      ],
+      "oracao": "Senhor Deus, reconheço que tudo começa em ti. Ajuda-me a viver segundo o teu propósito, a valorizar a vida que vem de ti e a confiar na tua promessa de restauração. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 1–3 — Creation, Fall, and Promise",
+      "contexto": "Genesis 1 to 3 presents the foundation of the whole biblical story. God creates all things with order and goodness, forms humanity in his image, and reveals the consequences of disobedience. Even after the fall, the Lord does not abandon his creation but announces hope and restoration.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The creation of the heavens and the earth",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 25
+          },
+          "comentario": "God creates by his word, separates, orders, and gives shape to the world. Creation is not presented as chance, but as the intentional work of the Creator.",
+          "aplicacao": "Life must be understood from God's purpose. He remains Lord over order, time, and existence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Humanity created in God's image",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 26,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Man and woman receive dignity, identity, and responsibility before God. Human life has value because it comes from the Creator.",
+          "aplicacao": "Our identity begins in God and should shape our relationships, decisions, and responsibilities."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The fall and the promise of redemption",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 24
+          },
+          "comentario": "Disobedience breaks communion with God and brings guilt, fear, and death. Yet in the midst of judgment, God announces the hope of victory over evil.",
+          "aplicacao": "Even when sin disrupts life, God continues to call humanity toward restoration."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 104,
+            "verse_start": 1,
+            "verse_end": 31,
+            "referencia": "Psalm 104:1-31",
+            "nota": "Celebrates God's greatness displayed in creation."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 3,
+            "referencia": "John 1:1-3",
+            "nota": "Presents Christ as the eternal Word through whom all things were made."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 21,
+            "referencia": "Romans 5:12-21",
+            "nota": "Shows the contrast between the fall in Adam and redemption in Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I recognize God as Creator and Lord of my life?",
+        "Am I living my identity from the image of God?",
+        "Do I take seriously the consequences of sin and the hope of redemption?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 3:15 points to the first promise of redemption after the fall, showing that God did not abandon humanity."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Genesis 1:1",
+          "nota": "Presents God as Creator of all things."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Genesis 1:27",
+          "nota": "Reveals human dignity as the image of God."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 3,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Genesis 3:15",
+          "nota": "Announces the hope of victory over evil."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "בָּרָא (bara)",
+          "significado": "Hebrew verb used for God's creative action."
+        },
+        {
+          "termo": "Image of God",
+          "significado": "The dignity, identity, and calling given to humanity by the Creator."
+        },
+        {
+          "termo": "Redemption",
+          "significado": "God's action to restore what has been affected by sin."
+        }
+      ],
+      "oracao": "Lord God, I recognize that everything begins in you. Help me live according to your purpose, value the life that comes from you, and trust your promise of restoration. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 1–3 — Creación, Caída y Promesa",
+      "contexto": "Génesis 1 al 3 presenta los fundamentos de toda la historia bíblica. Dios crea todas las cosas con orden y bondad, forma al ser humano a su imagen y revela las consecuencias de la desobediencia. Aun después de la caída, el Señor no abandona su creación, sino que anuncia esperanza y restauración.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La creación de los cielos y la tierra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 25
+          },
+          "comentario": "Dios crea por su palabra, separa, ordena y da forma al mundo. La creación no se presenta como casualidad, sino como obra intencional del Creador.",
+          "aplicacao": "La vida debe comprenderse a partir del propósito de Dios. Él sigue siendo Señor sobre el orden, el tiempo y la existencia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El ser humano creado a imagen de Dios",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 1,
+            "verse_start": 26,
+            "chapter_end": 2,
+            "verse_end": 25
+          },
+          "comentario": "Hombre y mujer reciben dignidad, identidad y responsabilidad delante de Dios. La vida humana tiene valor porque procede del Creador.",
+          "aplicacao": "Nuestra identidad comienza en Dios y debe orientar nuestras relaciones, decisiones y responsabilidades."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La caída y la promesa de redención",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 24
+          },
+          "comentario": "La desobediencia rompe la comunión con Dios e introduce culpa, miedo y muerte. Sin embargo, en medio del juicio, Dios anuncia la esperanza de victoria sobre el mal.",
+          "aplicacao": "Aun cuando el pecado desordena la vida, Dios sigue llamando al ser humano a la restauración."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 104,
+            "verse_start": 1,
+            "verse_end": 31,
+            "referencia": "Salmos 104:1-31",
+            "nota": "Celebra la grandeza de Dios manifestada en la creación."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 3,
+            "referencia": "Juan 1:1-3",
+            "nota": "Presenta a Cristo como la Palabra eterna por medio de quien fueron hechas todas las cosas."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 21,
+            "referencia": "Romanos 5:12-21",
+            "nota": "Muestra el contraste entre la caída en Adán y la redención en Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Reconozco a Dios como Creador y Señor de mi vida?",
+        "¿Vivo mi identidad a partir de la imagen de Dios?",
+        "¿Tomo en serio las consecuencias del pecado y la esperanza de la redención?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 3:15 apunta a la primera promesa de redención después de la caída, mostrando que Dios no abandonó a la humanidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Génesis 1:1",
+          "nota": "Presenta a Dios como Creador de todas las cosas."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 1,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Génesis 1:27",
+          "nota": "Revela la dignidad humana como imagen de Dios."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 3,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Génesis 3:15",
+          "nota": "Anuncia la esperanza de victoria sobre el mal."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "בָּרָא (bara)",
+          "significado": "Verbo hebreo usado para la acción creadora de Dios."
+        },
+        {
+          "termo": "Imagen de Dios",
+          "significado": "Dignidad, identidad y vocación dadas al ser humano por el Creador."
+        },
+        {
+          "termo": "Redención",
+          "significado": "La acción de Dios para restaurar lo que fue afectado por el pecado."
+        }
+      ],
+      "oracao": "Señor Dios, reconozco que todo comienza en ti. Ayúdame a vivir según tu propósito, valorar la vida que viene de ti y confiar en tu promesa de restauración. Amén."
+    }
+  }
+}

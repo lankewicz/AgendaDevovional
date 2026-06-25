@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparador e Corretor ARC — Agenda Devocional 2027</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Playfair+Display:ital,wght@0,400;0,600;1,400&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-base: #0B0F19;
+            --bg-surface: #151B2C;
+            --bg-card: #1E2640;
+            --border-color: #2E3A5F;
+            --text-primary: #F3F4F6;
+            --text-secondary: #9CA3AF;
+            --primary: #6366F1;
+            --primary-hover: #4F46E5;
+            --success: #10B981;
+            --success-bg: rgba(16, 185, 129, 0.15);
+            --danger: #EF4444;
+            --danger-bg: rgba(239, 68, 68, 0.15);
+            --warning: #F59E0B;
+            --warning-bg: rgba(245, 158, 11, 0.15);
+            --accent: #06B6D4;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            height: 100vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1, h2, h3, h4 {
+            font-family: 'Outfit', sans-serif;
+            font-weight: 600;
+        }
+
+        /* Scrollbar styles */
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: var(--bg-base);
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-color);
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--primary);
+        }
+
+        /* Header */
+        header {
+            background-color: var(--bg-surface);
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px 24px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 10;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        }
+
+        .header-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .header-title h1 {
+            font-size: 1.4rem;
+            background: linear-gradient(135deg, #FFF 0%, #A5B4FC 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .badge-ver {
+            font-size: 0.75rem;
+            background-color: var(--border-color);
+            padding: 4px 8px;
+            border-radius: 9999px;
+            color: var(--accent);
+            font-weight: 600;
+            letter-spacing: 0.5px;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .stats-badge {
+            background-color: rgba(255, 255, 255, 0.05);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 6px 12px;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .stats-badge strong {
+            color: var(--text-primary);
+        }
+
+        .btn {
+            background-color: var(--primary);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+        }
+
+        .btn:hover {
+            background-color: var(--primary-hover);
+            transform: translateY(-1px);
+            box-shadow: 0 6px 20px rgba(99, 102, 241, 0.4);
+        }
+
+        .btn:active {
+            transform: translateY(0);
+        }
+
+        .btn-success {
+            background-color: var(--success);
+            box-shadow: 0 4px 12px rgba(16, 185, 129, 0.3);
+        }
+        .btn-success:hover {
+            background-color: #059669;
+            box-shadow: 0 6px 20px rgba(16, 185, 129, 0.4);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            box-shadow: none;
+        }
+        .btn-secondary:hover {
+            background-color: rgba(255, 255, 255, 0.05);
+        }
+
+        /* App Container */
+        .app-container {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 350px;
+            background-color: var(--bg-surface);
+            border-right: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .search-container {
+            padding: 16px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .search-input-wrapper {
+            position: relative;
+        }
+
+        .search-input {
+            width: 100%;
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 12px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .search-input:focus {
+            border-color: var(--primary);
+        }
+
+        .filter-tabs {
+            display: flex;
+            background-color: var(--bg-base);
+            border-radius: 8px;
+            padding: 2px;
+            border: 1px solid var(--border-color);
+        }
+
+        .tab-btn {
+            flex: 1;
+            background: none;
+            border: none;
+            color: var(--text-secondary);
+            padding: 8px;
+            font-size: 0.75rem;
+            font-weight: 600;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-align: center;
+        }
+
+        .tab-btn.active {
+            background-color: var(--bg-card);
+            color: var(--text-primary);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .days-list {
+            flex: 1;
+            overflow-y: auto;
+        }
+
+        .day-item {
+            padding: 14px 16px;
+            border-bottom: 1px solid rgba(46, 58, 95, 0.4);
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .day-item:hover {
+            background-color: rgba(255, 255, 255, 0.02);
+        }
+
+        .day-item.active {
+            background-color: rgba(99, 102, 241, 0.08);
+            border-left: 4px solid var(--primary);
+        }
+
+        .day-item-info {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .day-item-date {
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--text-primary);
+        }
+
+        .day-item-ref {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+
+        .status-dot.success {
+            background-color: var(--success);
+            box-shadow: 0 0 8px var(--success);
+        }
+
+        .status-dot.warning {
+            background-color: var(--warning);
+            box-shadow: 0 0 8px var(--warning);
+        }
+
+        .status-dot.info {
+            background-color: var(--accent);
+            box-shadow: 0 0 8px var(--accent);
+        }
+
+        /* Main Workspace */
+        .workspace {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            background-color: var(--bg-base);
+        }
+
+        .workspace-header {
+            padding: 24px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: rgba(21, 27, 44, 0.3);
+            backdrop-filter: blur(10px);
+        }
+
+        .workspace-title h2 {
+            font-size: 1.6rem;
+            margin-bottom: 4px;
+            color: white;
+        }
+
+        .workspace-subtitle {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .workspace-subtitle .ref-badge {
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            color: var(--accent);
+            padding: 2px 8px;
+            border-radius: 6px;
+            font-weight: 500;
+        }
+
+        .workspace-body {
+            flex: 1;
+            padding: 24px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        /* Compare Grid */
+        .compare-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .compare-card {
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            position: relative;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+
+        .compare-card.highlight {
+            border-color: var(--primary);
+            box-shadow: 0 4px 20px rgba(99, 102, 241, 0.15);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(46, 58, 95, 0.5);
+            padding-bottom: 12px;
+        }
+
+        .card-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .card-title.current {
+            color: var(--warning);
+        }
+
+        .card-title.arc {
+            color: var(--success);
+        }
+
+        .verse-textarea {
+            width: 100%;
+            height: 120px;
+            background-color: rgba(11, 15, 25, 0.5);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 12px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 1rem;
+            line-height: 1.5;
+            resize: none;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .verse-textarea:focus {
+            border-color: var(--primary);
+            background-color: rgba(11, 15, 25, 0.8);
+        }
+
+        .verse-display-arc {
+            background-color: rgba(16, 185, 129, 0.05);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 1rem;
+            line-height: 1.5;
+            min-height: 120px;
+            color: var(--text-primary);
+        }
+
+        /* Visual Diff */
+        .diff-container {
+            grid-column: 1 / span 2;
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+
+        .diff-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--accent);
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            border-bottom: 1px solid rgba(46, 58, 95, 0.5);
+            padding-bottom: 8px;
+        }
+
+        .diff-content {
+            font-size: 1.05rem;
+            line-height: 1.6;
+            white-space: pre-wrap;
+            padding: 12px;
+            background-color: var(--bg-base);
+            border-radius: 8px;
+            border: 1px solid rgba(46, 58, 95, 0.3);
+        }
+
+        .diff-add {
+            background-color: rgba(16, 185, 129, 0.25);
+            color: #A7F3D0;
+            padding: 2px 4px;
+            border-radius: 4px;
+            text-decoration: underline;
+        }
+
+        .diff-del {
+            background-color: rgba(239, 68, 68, 0.25);
+            color: #FECACA;
+            padding: 2px 4px;
+            border-radius: 4px;
+            text-decoration: line-through;
+        }
+
+        /* Metadata Details */
+        .meta-container {
+            background-color: var(--bg-surface);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+        }
+
+        .meta-title {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: white;
+            border-bottom: 1px solid rgba(46, 58, 95, 0.5);
+            padding-bottom: 10px;
+        }
+
+        .meta-row {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .meta-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: var(--text-secondary);
+            letter-spacing: 0.5px;
+        }
+
+        .meta-textarea {
+            width: 100%;
+            background-color: var(--bg-base);
+            border: 1px solid var(--border-color);
+            color: var(--text-primary);
+            padding: 10px 12px;
+            border-radius: 8px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            resize: vertical;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        .meta-textarea:focus {
+            border-color: var(--primary);
+        }
+
+        /* Save Banner */
+        .save-banner {
+            position: absolute;
+            bottom: 24px;
+            right: 24px;
+            display: flex;
+            gap: 12px;
+        }
+
+        /* Toast Notification */
+        .toast {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background-color: var(--bg-card);
+            border: 1.5px solid var(--primary);
+            padding: 12px 24px;
+            border-radius: 9999px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+            transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            z-index: 100;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+        }
+
+        .toast-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background-color: var(--primary);
+        }
+
+        /* Modal / Empty State */
+        .empty-state {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            flex: 1;
+            color: var(--text-secondary);
+            gap: 16px;
+            text-align: center;
+        }
+
+        .empty-icon {
+            font-size: 3rem;
+            color: var(--border-color);
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="header-title">
+            <h1>Comparador e Corretor ARC</h1>
+            <span class="badge-ver">BÍBLIA 2027</span>
+        </div>
+        <div class="header-actions">
+            <div style="display: flex; align-items: center; gap: 8px;">
+                <span style="font-size: 0.8rem; color: var(--text-secondary); font-weight: 500;">Arquivo Fonte:</span>
+                <div style="display: flex; flex-direction: column; position: relative;">
+                    <select class="search-input" id="source-selector" onchange="changeSourceFile(this.value)" style="width: 280px; background-color: var(--bg-card); border-color: var(--border-color); padding: 6px 12px; height: 38px;">
+                        <option value="agenda_2027">tradutor/2027/Agenda_2027.json</option>
+                        <option value="devocionais_2027">tradutor/2027/devocionais_2027_unificado_internacional.json</option>
+                        <option value="dados_2027">dados/agenda_2027_pt.json</option>
+                        <option value="custom">Outro Arquivo (Caminho Manual)...</option>
+                    </select>
+                    <input type="text" id="custom-source-input" class="search-input" placeholder="Ex: dados/agenda_2026_pt.json" style="display: none; width: 280px; margin-top: 4px; font-size: 0.8rem; height: 32px;" onchange="applyCustomSource(this.value)" />
+                </div>
+            </div>
+            <div class="stats-badge" id="stats-badge">
+                Divergentes: <strong id="divergent-count">0</strong> / <span id="total-count">0</span>
+            </div>
+            <button class="btn btn-secondary" onclick="window.location.href='/devocionais.html'">
+                Aba Devocional & Áudio
+            </button>
+            <button class="btn btn-success" id="btn-save-disk" onclick="saveToDisk()">
+                Salvar Alterações no Disco
+            </button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="app-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="search-container">
+                <div class="search-input-wrapper">
+                    <input type="text" class="search-input" id="search-bar" placeholder="Buscar por data, ref ou texto..." oninput="filterDays()">
+                </div>
+                <div class="filter-tabs">
+                    <button class="tab-btn active" id="tab-all" onclick="setFilter('all')">Todos</button>
+                    <button class="tab-btn" id="tab-divergent" onclick="setFilter('divergent')">Divergentes ⚠️</button>
+                    <button class="tab-btn" id="tab-correct" onclick="setFilter('correct')">Corretos ✅</button>
+                    <button class="tab-btn" id="tab-kept" onclick="setFilter('kept')">Mantidos 💾</button>
+                </div>
+            </div>
+            <div class="days-list" id="days-list">
+                <!-- Days will be dynamically rendered here -->
+            </div>
+        </div>
+
+        <!-- Workspace -->
+        <div class="workspace" id="workspace">
+            <div class="empty-state" id="empty-state">
+                <div class="empty-icon">📖</div>
+                <h3>Selecione um dia na barra lateral para começar a comparação</h3>
+                <p>Você poderá ver as diferenças contra o texto oficial da ARC e corrigir com um clique.</p>
+            </div>
+
+            <div id="workspace-content" style="display: none; height: 100%; display: flex; flex-direction: column; overflow: hidden;">
+                <!-- Workspace Header -->
+                <div class="workspace-header">
+                    <div class="workspace-title">
+                        <h2 id="current-day-title">01 de Janeiro de 2027</h2>
+                        <div class="workspace-subtitle">
+                            Referência atual: <span class="ref-badge" id="current-day-ref">2 Coríntios 13:13</span>
+                        </div>
+                    </div>
+                    <div>
+                        <button class="btn btn-secondary" onclick="applyARC()">
+                            ✨ Copiar ARC para o Atual
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Workspace Body -->
+                <div class="workspace-body">
+                    <!-- Compare Grid -->
+                    <div class="compare-grid">
+                        <!-- Left Card: Current -->
+                        <div class="compare-card highlight">
+                            <div class="card-header" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                                <span class="card-title current">⚠️ Versículo Atual na Agenda</span>
+                                <label style="display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 600; color: var(--text-primary);">
+                                    <input type="checkbox" id="checkbox-keep-current" onchange="toggleKeepCurrent(this.checked)" style="width: 18px; height: 18px; cursor: pointer; accent-color: var(--primary);" />
+                                    Manter esse
+                                </label>
+                            </div>
+                            <textarea class="verse-textarea verse-font-style" id="textarea-current-verse" oninput="updateCurrentVerseText(this.value)" placeholder="Texto do versículo na agenda..."></textarea>
+                        </div>
+
+                        <!-- Right Card: ARC -->
+                        <div class="compare-card">
+                            <div class="card-header" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+                                <span class="card-title arc">✅ Versículo Oficial na ARC</span>
+                                <label style="display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 0.9rem; font-weight: 600; color: var(--text-primary);">
+                                    <input type="checkbox" id="checkbox-keep-arc" onchange="toggleKeepARC(this.checked)" style="width: 18px; height: 18px; cursor: pointer; accent-color: var(--success);" />
+                                    Manter esse
+                                </label>
+                            </div>
+                            <div class="verse-display-arc verse-font-style" id="display-arc-verse">
+                                Carregando...
+                            </div>
+                        </div>
+
+                        <!-- Visual Diff -->
+                        <div class="diff-container">
+                            <div class="diff-title">Diferença Visual (Comparando com ARC)</div>
+                            <div class="diff-content verse-font-style" id="diff-box"></div>
+                        </div>
+                    </div>
+
+                    <!-- Metadata details -->
+                    <div class="meta-container">
+                        <div class="meta-title">Metadados e Mensagem Devocional</div>
+                        
+                        <div class="meta-row">
+                            <label class="meta-label">Mensagem Prática</label>
+                            <textarea class="meta-textarea" id="textarea-mensagem" rows="3" oninput="updateMeta('mensagem', this.value)"></textarea>
+                        </div>
+
+                        <div class="meta-row">
+                            <label class="meta-label">Contexto Histórico</label>
+                            <textarea class="meta-textarea" id="textarea-contexto" rows="2" oninput="updateMeta('contexto', this.value)"></textarea>
+                        </div>
+
+                        <div class="meta-row">
+                            <label class="meta-label">Significado Prático</label>
+                            <textarea class="meta-textarea" id="textarea-significado" rows="2" oninput="updateMeta('significado', this.value)"></textarea>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div class="toast" id="toast-notification">
+        <div class="toast-dot"></div>
+        <span id="toast-text">Alterações salvas!</span>
+    </div>
+
+    <script>
+        let devocionais = [];
+        let selectedIndex = -1;
+        let currentFilter = 'all'; // all, divergent, correct
+        let searchQuery = '';
+        let currentSource = localStorage.getItem('agenda-source') || 'agenda_2027';
+
+        // Load data from backend API
+        async function loadData() {
+            try {
+                const res = await fetch(`/api/devocionais?source=${currentSource}`);
+                devocionais = await res.json();
+                
+                // Precompute matches
+                devocionais.forEach(item => {
+                    item.is_correct = normalizeText(item.versiculo) === normalizeText(item.arc_versiculo);
+                    item.is_kept = !!item.mantido;
+                });
+
+                updateStats();
+                renderDaysList();
+                
+                if (devocionais.length > 0) {
+                    if (selectedIndex === -1 || selectedIndex >= devocionais.length) {
+                        selectDay(0);
+                    } else {
+                        selectDay(selectedIndex);
+                    }
+                }
+            } catch (err) {
+                console.error("Error loading data:", err);
+                showToast("Erro ao carregar dados do servidor.");
+            }
+        }
+
+        function normalizeText(text) {
+            if (!text) return "";
+            return text.toLowerCase()
+                .normalize("NFD")
+                .replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9]/g, "");
+        }
+
+        function updateStats() {
+            const total = devocionais.length;
+            const divergent = devocionais.filter(d => !d.is_correct && !d.mantido).length;
+            const correct = devocionais.filter(d => d.is_correct).length;
+            const kept = devocionais.filter(d => d.mantido).length;
+            
+            document.getElementById('total-count').innerText = total;
+            document.getElementById('divergent-count').innerText = divergent;
+            
+            // Update counts on tab buttons if exists
+            const tabDiv = document.getElementById('tab-divergent');
+            const tabCorr = document.getElementById('tab-correct');
+            const tabKept = document.getElementById('tab-kept');
+            if (tabDiv) tabDiv.innerHTML = `Divergentes (${divergent}) ⚠️`;
+            if (tabCorr) tabCorr.innerHTML = `Corretos (${correct}) ✅`;
+            if (tabKept) tabKept.innerHTML = `Mantidos (${kept}) 💾`;
+        }
+
+        function setFilter(filter) {
+            currentFilter = filter;
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            document.getElementById(`tab-${filter}`).classList.add('active');
+            renderDaysList();
+        }
+
+        function filterDays() {
+            searchQuery = document.getElementById('search-bar').value.toLowerCase();
+            renderDaysList();
+        }
+
+        function renderDaysList() {
+            const listEl = document.getElementById('days-list');
+            listEl.innerHTML = '';
+
+            devocionais.forEach((item, index) => {
+                // Apply search filter
+                const dateMatch = item.data.toLowerCase().includes(searchQuery);
+                const refMatch = item.referencia.toLowerCase().includes(searchQuery);
+                const textMatch = item.versiculo.toLowerCase().includes(searchQuery);
+                const matchesSearch = dateMatch || refMatch || textMatch;
+
+                // Apply tab filter
+                let matchesTab = true;
+                if (currentFilter === 'divergent') {
+                    matchesTab = !item.is_correct && !item.mantido;
+                } else if (currentFilter === 'correct') {
+                    matchesTab = item.is_correct;
+                } else if (currentFilter === 'kept') {
+                    matchesTab = !!item.mantido;
+                }
+
+                if (matchesSearch && matchesTab) {
+                    const itemEl = document.createElement('div');
+                    itemEl.className = `day-item ${index === selectedIndex ? 'active' : ''}`;
+                    itemEl.onclick = () => selectDay(index);
+
+                    const infoEl = document.createElement('div');
+                    infoEl.className = 'day-item-info';
+
+                    const dateEl = document.createElement('span');
+                    dateEl.className = 'day-item-date';
+                    dateEl.innerText = item.data;
+
+                    const refEl = document.createElement('span');
+                    refEl.className = 'day-item-ref';
+                    refEl.innerText = item.referencia;
+
+                    infoEl.appendChild(dateEl);
+                    infoEl.appendChild(refEl);
+
+                    const dotEl = document.createElement('span');
+                    dotEl.className = `status-dot ${item.is_correct ? 'success' : (item.mantido ? 'info' : 'warning')}`;
+
+                    itemEl.appendChild(infoEl);
+                    itemEl.appendChild(dotEl);
+                    listEl.appendChild(itemEl);
+                }
+            });
+        }
+
+        function selectDay(index) {
+            selectedIndex = index;
+            
+            // Highlight active in list
+            document.querySelectorAll('.day-item').forEach((item, i) => {
+                item.classList.remove('active');
+            });
+            renderDaysList();
+
+            const item = devocionais[index];
+            if (!item) return;
+
+            document.getElementById('empty-state').style.display = 'none';
+            document.getElementById('workspace-content').style.display = 'flex';
+
+            document.getElementById('current-day-title').innerText = item.data;
+            document.getElementById('current-day-ref').innerText = item.referencia;
+            
+            document.getElementById('textarea-current-verse').value = item.versiculo;
+            document.getElementById('display-arc-verse').innerText = item.arc_versiculo || "(Versículo não encontrado na ARC)";
+
+            // Update checkboxes
+            const isCorrect = normalizeText(item.versiculo) === normalizeText(item.arc_versiculo);
+            document.getElementById('checkbox-keep-current').checked = !!item.mantido;
+            document.getElementById('checkbox-keep-arc').checked = isCorrect && !item.mantido;
+
+            // Metadados
+            document.getElementById('textarea-mensagem').value = item.mensagem || "";
+            document.getElementById('textarea-contexto').value = item.contexto || "";
+            document.getElementById('textarea-significado').value = item.significado || "";
+
+            generateDiff(item.versiculo, item.arc_versiculo || "");
+        }
+
+        function toggleKeepCurrent(checked) {
+            if (selectedIndex === -1) return;
+            const item = devocionais[selectedIndex];
+            item.mantido = checked;
+            
+            if (checked) {
+                document.getElementById('checkbox-keep-arc').checked = false;
+            }
+            
+            updateStats();
+            renderDaysList();
+            saveToDisk();
+        }
+
+        function toggleKeepARC(checked) {
+            if (selectedIndex === -1) return;
+            const item = devocionais[selectedIndex];
+            if (checked) {
+                item.versiculo = item.arc_versiculo;
+                document.getElementById('textarea-current-verse').value = item.arc_versiculo;
+                item.mantido = false;
+                
+                document.getElementById('checkbox-keep-current').checked = false;
+                
+                updateCurrentVerseText(item.arc_versiculo);
+                showToast("ARC aplicada!");
+                saveToDisk();
+            }
+        }
+
+        function updateCurrentVerseText(val) {
+            if (selectedIndex === -1) return;
+            devocionais[selectedIndex].versiculo = val;
+            
+            // Update correctness
+            const item = devocionais[selectedIndex];
+            item.is_correct = normalizeText(val) === normalizeText(item.arc_versiculo);
+            
+            // If text is modified manually and no longer matches ARC, uncheck keep-arc
+            if (!item.is_correct) {
+                document.getElementById('checkbox-keep-arc').checked = false;
+            } else {
+                item.mantido = false;
+                document.getElementById('checkbox-keep-current').checked = false;
+                document.getElementById('checkbox-keep-arc').checked = true;
+            }
+            
+            updateStats();
+            generateDiff(val, item.arc_versiculo || "");
+        }
+
+        function updateMeta(field, val) {
+            if (selectedIndex === -1) return;
+            devocionais[selectedIndex][field] = val;
+        }
+
+        function applyARC() {
+            if (selectedIndex === -1) return;
+            const item = devocionais[selectedIndex];
+            if (!item.arc_versiculo) {
+                showToast("Erro: ARC oficial indisponível para este dia.");
+                return;
+            }
+            
+            item.versiculo = item.arc_versiculo;
+            document.getElementById('textarea-current-verse').value = item.arc_versiculo;
+            
+            updateCurrentVerseText(item.arc_versiculo);
+            showToast("ARC aplicada!");
+        }
+
+        // Extremely Premium Word-by-Word Diff Algorithm using LCS
+        function generateDiff(current, arc) {
+            const diffEl = document.getElementById('diff-box');
+            if (!current) {
+                diffEl.innerText = "Versículo atual está vazio.";
+                return;
+            }
+
+            // Split both strings into words, ignoring punctuation attached to them during LCS comparison
+            const cWords = current.split(/\s+/).filter(w => w.length > 0);
+            const aWords = arc.split(/\s+/).filter(w => w.length > 0);
+
+            const n = cWords.length;
+            const m = aWords.length;
+
+            // DP Table initialization
+            const dp = Array(n + 1).fill(0).map(() => Array(m + 1).fill(0));
+
+            // Fill DP Table
+            for (let i = 1; i <= n; i++) {
+                for (let j = 1; j <= m; j++) {
+                    if (normalizeText(cWords[i-1]) === normalizeText(aWords[j-1])) {
+                        dp[i][j] = dp[i-1][j-1] + 1;
+                    } else {
+                        dp[i][j] = Math.max(dp[i-1][j], dp[i][j-1]);
+                    }
+                }
+            }
+
+            // Backtrack to build the diff
+            let i = n;
+            let j = m;
+            const diff = [];
+
+            while (i > 0 || j > 0) {
+                if (i > 0 && j > 0 && normalizeText(cWords[i-1]) === normalizeText(aWords[j-1])) {
+                    diff.push({ type: 'match', word: cWords[i-1] });
+                    i--;
+                    j--;
+                } else if (j > 0 && (i === 0 || dp[i][j-1] >= dp[i-1][j])) {
+                    diff.push({ type: 'add', word: aWords[j-1] });
+                    j--;
+                } else {
+                    diff.push({ type: 'del', word: cWords[i-1] });
+                    i--;
+                }
+            }
+
+            diff.reverse();
+
+            // Render output HTML
+            let resultHTML = '';
+            diff.forEach((item, index) => {
+                const space = index === 0 ? '' : ' ';
+                if (item.type === 'match') {
+                    resultHTML += space + item.word;
+                } else if (item.type === 'add') {
+                    resultHTML += space + `<span class="diff-add">${item.word}</span>`;
+                } else if (item.type === 'del') {
+                    resultHTML += space + `<span class="diff-del">${item.word}</span>`;
+                }
+            });
+
+            diffEl.innerHTML = resultHTML || 'Nenhuma diferença detectada.';
+        }
+
+        async function saveToDisk() {
+            try {
+                showToast("Salvando dados no servidor...");
+                const response = await fetch(`/api/salvar?source=${currentSource}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(devocionais)
+                });
+                
+                const result = await response.json();
+                if (result.success) {
+                    showToast("Salvo com sucesso no disco!");
+                    loadData(); // Reload to refresh statuses
+                } else {
+                    showToast("Erro ao salvar: " + result.error);
+                }
+            } catch (err) {
+                console.error("Error saving data:", err);
+                showToast("Erro de comunicação com o servidor.");
+            }
+        }
+
+        function showToast(message) {
+            const toast = document.getElementById('toast-notification');
+            document.getElementById('toast-text').innerText = message;
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+
+        function changeSourceFile(val) {
+            const customInput = document.getElementById('custom-source-input');
+            if (val === 'custom') {
+                customInput.style.display = 'block';
+                const savedCustom = localStorage.getItem('agenda-source-custom') || '';
+                customInput.value = savedCustom;
+                if (savedCustom) {
+                    currentSource = savedCustom;
+                    loadData();
+                }
+            } else {
+                customInput.style.display = 'none';
+                currentSource = val;
+                localStorage.setItem('agenda-source', val);
+                loadData();
+            }
+        }
+
+        function applyCustomSource(val) {
+            val = val.trim();
+            if (val) {
+                currentSource = val;
+                localStorage.setItem('agenda-source', 'custom');
+                localStorage.setItem('agenda-source-custom', val);
+                loadData();
+            }
+        }
+
+        // Initialize source selector on load
+        setTimeout(() => {
+            const selector = document.getElementById('source-selector');
+            const customInput = document.getElementById('custom-source-input');
+            const savedSource = localStorage.getItem('agenda-source') || 'agenda_2027';
+            
+            if (savedSource === 'custom' || (!['agenda_2027', 'devocionais_2027', 'dados_2027'].includes(savedSource) && savedSource)) {
+                selector.value = 'custom';
+                customInput.style.display = 'block';
+                const customVal = localStorage.getItem('agenda-source-custom') || savedSource;
+                customInput.value = customVal;
+                currentSource = customVal;
+            } else {
+                selector.value = savedSource;
+                currentSource = savedSource;
+            }
+            loadData();
+        }, 100);
+    </script>
+</body>
+</html>

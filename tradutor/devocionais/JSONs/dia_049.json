@@ -1,0 +1,416 @@
+{
+  "dia": 49,
+  "data": "2027-02-18",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 11–13",
+    "en": "Numbers 11–13",
+    "es": "Números 11–13"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 11,
+      "chapter_end": 13
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 13,
+    "verse_start": 30,
+    "verse_end": 30,
+    "referencia": {
+      "pt": "Números 13:30",
+      "en": "Numbers 13:30",
+      "es": "Números 13:30"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_049.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_049.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_049.mp3",
+      "versiculo_central": "audio/en/verses/day_049.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_049.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_049.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 11–13 — Queixas, Liderança e Fé",
+      "contexto": "Números 11 a 13 revela tensões profundas no caminho pelo deserto: murmuração do povo, peso da liderança de Moisés, questionamentos contra sua autoridade e o relatório dos espias sobre Canaã. No meio do medo coletivo, a fé chama o povo a confiar na promessa de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Murmuração e desejo pelo passado",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 35
+          },
+          "comentario": "O povo reclama da provisão de Deus e idealiza o Egito. Moisés sente o peso da liderança, e Deus provê auxílio por meio dos anciãos.",
+          "aplicacao": "A ingratidão distorce a memória; a fé aprende a reconhecer a provisão de Deus no presente."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Questionamento contra Moisés",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 16
+          },
+          "comentario": "Miriã e Arão questionam Moisés, mas Deus defende seu servo. A autoridade espiritual não deve ser tratada com inveja ou presunção.",
+          "aplicacao": "Deus nos chama a lidar com liderança, diferenças e correções com humildade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Os espias e o desafio da fé",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "Os espias veem a mesma terra, mas interpretam a realidade de formas diferentes. A incredulidade enxerga obstáculos maiores que Deus; a fé confia na promessa.",
+          "aplicacao": "A fé não nega os desafios, mas se recusa a esquecer quem Deus é."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 1,
+            "verse_start": 21,
+            "verse_end": 32,
+            "referencia": "Deuteronômio 1:21-32",
+            "nota": "Relembra a crise dos espias e a falta de confiança do povo na promessa de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebreus 3:16-19",
+            "nota": "Usa a incredulidade de Israel como advertência para perseverar na fé."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "Tiago 4:11-12",
+            "nota": "Adverte contra atitudes de julgamento orgulhoso entre irmãos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho permitido que queixas apaguem a memória da bondade de Deus?",
+        "Lido com liderança e correção com humildade?",
+        "Diante de grandes desafios, minha avaliação nasce do medo ou da fé?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 13:30 expressa a voz da fé em meio ao medo coletivo, chamando o povo a confiar na promessa de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 11,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 11:23",
+          "nota": "Afirma que o poder do Senhor não é limitado pelas circunstâncias."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 12,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 12:3",
+          "nota": "Destaca a mansidão de Moisés diante da oposição."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 13,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Números 13:30",
+          "nota": "Mostra a confiança de Calebe diante da promessa."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Murmuração",
+          "significado": "Queixa persistente que revela desconfiança diante da provisão de Deus."
+        },
+        {
+          "termo": "Mansidão",
+          "significado": "Postura humilde e confiante diante de Deus, mesmo sob oposição."
+        },
+        {
+          "termo": "Fé",
+          "significado": "Confiança na palavra de Deus acima do medo e das aparências."
+        }
+      ],
+      "oracao": "Senhor, livra meu coração da murmuração e do medo. Dá-me fé para confiar na tua promessa, humildade para ser corrigido e gratidão para reconhecer tua provisão. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 11–13 — Complaints, Leadership, and Faith",
+      "contexto": "Numbers 11 to 13 reveals deep tensions on the journey through the wilderness: the people’s complaining, the burden of Moses’ leadership, challenges against his authority, and the spies’ report about Canaan. In the midst of collective fear, faith calls the people to trust God’s promise.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Complaining and longing for the past",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 35
+          },
+          "comentario": "The people complain about God’s provision and idealize Egypt. Moses feels the weight of leadership, and God provides help through the elders.",
+          "aplicacao": "Ingratitude distorts memory; faith learns to recognize God’s provision in the present."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A challenge against Moses",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 16
+          },
+          "comentario": "Miriam and Aaron question Moses, but God defends his servant. Spiritual authority should not be treated with envy or presumption.",
+          "aplicacao": "God calls us to handle leadership, differences, and correction with humility."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The spies and the challenge of faith",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "The spies see the same land but interpret reality differently. Unbelief sees obstacles as greater than God; faith trusts the promise.",
+          "aplicacao": "Faith does not deny challenges, but refuses to forget who God is."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 1,
+            "verse_start": 21,
+            "verse_end": 32,
+            "referencia": "Deuteronomy 1:21-32",
+            "nota": "Recalls the crisis of the spies and the people’s failure to trust God’s promise."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebrews 3:16-19",
+            "nota": "Uses Israel’s unbelief as a warning to persevere in faith."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "James 4:11-12",
+            "nota": "Warns against proud judgment among brothers and sisters."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I allowed complaints to erase the memory of God’s goodness?",
+        "Do I handle leadership and correction with humility?",
+        "When facing great challenges, does my response come from fear or faith?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 13:30 expresses the voice of faith amid collective fear, calling the people to trust God’s promise."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 11,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Numbers 11:23",
+          "nota": "Affirms that the Lord’s power is not limited by circumstances."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 12,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Numbers 12:3",
+          "nota": "Highlights Moses’ meekness in the face of opposition."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 13,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Numbers 13:30",
+          "nota": "Shows Caleb’s confidence before the promise."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Complaining",
+          "significado": "Persistent grumbling that reveals distrust toward God’s provision."
+        },
+        {
+          "termo": "Meekness",
+          "significado": "A humble and trusting posture before God, even under opposition."
+        },
+        {
+          "termo": "Faith",
+          "significado": "Trust in God’s word above fear and appearances."
+        }
+      ],
+      "oracao": "Lord, free my heart from complaining and fear. Give me faith to trust your promise, humility to receive correction, and gratitude to recognize your provision. Amen."
+    },
+    "es": {
+      "titulo": "Números 11–13 — Quejas, Liderazgo y Fe",
+      "contexto": "Números 11 al 13 revela tensiones profundas en el camino por el desierto: la murmuración del pueblo, el peso del liderazgo de Moisés, los cuestionamientos contra su autoridad y el informe de los espías sobre Canaán. En medio del miedo colectivo, la fe llama al pueblo a confiar en la promesa de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Murmuración y deseo por el pasado",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 35
+          },
+          "comentario": "El pueblo se queja de la provisión de Dios e idealiza Egipto. Moisés siente el peso del liderazgo, y Dios provee ayuda por medio de los ancianos.",
+          "aplicacao": "La ingratitud distorsiona la memoria; la fe aprende a reconocer la provisión de Dios en el presente."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Cuestionamiento contra Moisés",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 16
+          },
+          "comentario": "María y Aarón cuestionan a Moisés, pero Dios defiende a su siervo. La autoridad espiritual no debe tratarse con envidia o presunción.",
+          "aplicacao": "Dios nos llama a tratar el liderazgo, las diferencias y la corrección con humildad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Los espías y el desafío de la fe",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "Los espías ven la misma tierra, pero interpretan la realidad de formas diferentes. La incredulidad ve obstáculos mayores que Dios; la fe confía en la promesa.",
+          "aplicacao": "La fe no niega los desafíos, pero se niega a olvidar quién es Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 1,
+            "verse_start": 21,
+            "verse_end": 32,
+            "referencia": "Deuteronomio 1:21-32",
+            "nota": "Recuerda la crisis de los espías y la falta de confianza del pueblo en la promesa de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebreos 3:16-19",
+            "nota": "Usa la incredulidad de Israel como advertencia para perseverar en la fe."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "Santiago 4:11-12",
+            "nota": "Advierte contra actitudes de juicio orgulloso entre hermanos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He permitido que las quejas borren la memoria de la bondad de Dios?",
+        "¿Trato el liderazgo y la corrección con humildad?",
+        "Ante grandes desafíos, ¿mi evaluación nace del miedo o de la fe?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 13:30 expresa la voz de la fe en medio del miedo colectivo, llamando al pueblo a confiar en la promesa de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 11,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 11:23",
+          "nota": "Afirma que el poder del Señor no está limitado por las circunstancias."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 12,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 12:3",
+          "nota": "Destaca la mansedumbre de Moisés ante la oposición."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 13,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Números 13:30",
+          "nota": "Muestra la confianza de Caleb ante la promesa."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Murmuración",
+          "significado": "Queja persistente que revela desconfianza ante la provisión de Dios."
+        },
+        {
+          "termo": "Mansedumbre",
+          "significado": "Postura humilde y confiada delante de Dios, incluso bajo oposición."
+        },
+        {
+          "termo": "Fe",
+          "significado": "Confianza en la palabra de Dios por encima del miedo y las apariencias."
+        }
+      ],
+      "oracao": "Señor, libra mi corazón de la murmuración y del miedo. Dame fe para confiar en tu promesa, humildad para recibir corrección y gratitud para reconocer tu provisión. Amén."
+    }
+  }
+}

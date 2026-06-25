@@ -1,0 +1,548 @@
+{
+  "dia": 29,
+  "data": "2027-01-29",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 28–29",
+    "en": "Exodus 28–29",
+    "es": "Éxodo 28–29"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 28,
+      "chapter_end": 29
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 29,
+    "verse_start": 45,
+    "verse_end": 46,
+    "referencia": {
+      "pt": "Êxodo 29:45-46",
+      "en": "Exodus 29:45-46",
+      "es": "Éxodo 29:45-46"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_029.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_029.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/029/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/029.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/029/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/029.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/029/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/029.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/029/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/029.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_029.mp3",
+      "versiculo_central": "audio/en/verses/day_029.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/029/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/en/en-US-AriaNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/en/en-US-AriaNeural/029.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/029/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/en/en-US-JennyNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/en/en-US-JennyNeural/029.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/029/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/en/en-US-GuyNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/en/en-US-GuyNeural/029.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/029/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/en/en-US-BrianNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/en/en-US-BrianNeural/029.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_029.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_029.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/029/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/es/es-ES-ElviraNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/es/es-ES-ElviraNeural/029.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/029/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/es/es-MX-DaliaNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/es/es-MX-DaliaNeural/029.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/029/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/es/es-ES-AlvaroNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/es/es-ES-AlvaroNeural/029.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/029/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/029/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/029/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_28": "audio/biblia/EXO/es/es-MX-JorgeNeural/028.m4a",
+          "EXO_29": "audio/biblia/EXO/es/es-MX-JorgeNeural/029.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 28–29 — Sacerdócio, Consagração e Presença",
+      "contexto": "Êxodo 28 a 29 apresenta as vestes sacerdotais e a consagração de Arão e seus filhos. A adoração de Israel exigia mediação, santidade e dedicação. O objetivo final não era apenas o ritual, mas a presença de Deus habitando no meio do povo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As vestes para servir diante do Senhor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 43
+          },
+          "comentario": "As vestes sacerdotais comunicam honra, responsabilidade e separação para o serviço. O sacerdote representa o povo diante de Deus e precisa servir conforme a ordem do Senhor.",
+          "aplicacao": "Servir a Deus exige reverência, responsabilidade e consciência de que a obra é santa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A consagração dos sacerdotes",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 37
+          },
+          "comentario": "A consagração envolve sacrifício, purificação e dedicação completa. Ninguém se aproxima de Deus por iniciativa própria, mas pelo caminho que Ele estabelece.",
+          "aplicacao": "Nossa aproximação de Deus depende da graça e da mediação que Ele providencia, não de mérito pessoal."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Oferta contínua e presença permanente",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 38,
+            "chapter_end": 29,
+            "verse_end": 46
+          },
+          "comentario": "O sacrifício diário e a promessa da presença de Deus mostram que a vida do povo deveria ser sustentada pela comunhão constante com o Senhor.",
+          "aplicacao": "A adoração não é um evento isolado; é uma vida continuamente orientada pela presença de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 110,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 110:4",
+            "nota": "Anuncia um sacerdócio associado ao rei prometido."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 10,
+            "verse_end": 10,
+            "referencia": "Isaías 61:10",
+            "nota": "Usa a imagem das vestes de salvação e justiça diante de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 14,
+            "verse_end": 16,
+            "referencia": "Hebreus 4:14-16",
+            "nota": "Apresenta Jesus como o grande sumo sacerdote que nos conduz ao trono da graça."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Aplica ao povo de Deus a linguagem de sacerdócio santo e propriedade do Senhor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho servido a Deus com reverência e responsabilidade?",
+        "Reconheço que preciso da mediação de Cristo para me aproximar de Deus?",
+        "Minha vida diária é marcada por comunhão constante com o Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 29:45-46 mostra o propósito da consagração e da adoração: Deus habitar no meio do seu povo e ser conhecido como o Senhor que liberta."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Êxodo 28:12",
+          "nota": "Mostra o sacerdote levando os nomes do povo diante do Senhor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 44,
+          "verse_end": 44,
+          "referencia": "Êxodo 29:44",
+          "nota": "Destaca a santificação do altar e dos sacerdotes."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 45,
+          "verse_end": 46,
+          "referencia": "Êxodo 29:45-46",
+          "nota": "Revela a promessa da presença de Deus no meio de Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sacerdócio",
+          "significado": "Serviço de mediação e representação diante de Deus."
+        },
+        {
+          "termo": "Consagração",
+          "significado": "Separação e dedicação ao Senhor para uma finalidade santa."
+        },
+        {
+          "termo": "Mediação",
+          "significado": "Caminho estabelecido por Deus para que o povo se aproxime dele."
+        }
+      ],
+      "oracao": "Senhor, obrigado porque abriste um caminho para nos aproximarmos de ti. Ensina-me a viver consagrado, servir com reverência e depender da tua presença. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 28–29 — Priesthood, Consecration, and Presence",
+      "contexto": "Exodus 28 to 29 presents the priestly garments and the consecration of Aaron and his sons. Israel’s worship required mediation, holiness, and dedication. The final goal was not merely ritual, but the presence of God dwelling among the people.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Garments for serving before the Lord",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 43
+          },
+          "comentario": "The priestly garments communicate honor, responsibility, and separation for service. The priest represents the people before God and must serve according to the Lord’s order.",
+          "aplicacao": "Serving God requires reverence, responsibility, and awareness that the work is holy."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The consecration of the priests",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 37
+          },
+          "comentario": "Consecration involves sacrifice, purification, and complete dedication. No one approaches God by personal initiative, but by the way he establishes.",
+          "aplicacao": "Our approach to God depends on the grace and mediation he provides, not on personal merit."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Continual offering and permanent presence",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 38,
+            "chapter_end": 29,
+            "verse_end": 46
+          },
+          "comentario": "The daily sacrifice and the promise of God’s presence show that the life of the people was to be sustained by constant communion with the Lord.",
+          "aplicacao": "Worship is not an isolated event; it is a life continually oriented by God’s presence."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 110,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Psalm 110:4",
+            "nota": "Announces a priesthood associated with the promised king."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 10,
+            "verse_end": 10,
+            "referencia": "Isaiah 61:10",
+            "nota": "Uses the image of garments of salvation and righteousness before God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 14,
+            "verse_end": 16,
+            "referencia": "Hebrews 4:14-16",
+            "nota": "Presents Jesus as the great high priest who leads us to the throne of grace."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Peter 2:9",
+            "nota": "Applies to God’s people the language of a holy priesthood and the Lord’s possession."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I serve God with reverence and responsibility?",
+        "Do I recognize that I need Christ’s mediation to draw near to God?",
+        "Is my daily life marked by constant communion with the Lord?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 29:45-46 shows the purpose of consecration and worship: God dwelling among his people and being known as the Lord who delivers."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Exodus 28:12",
+          "nota": "Shows the priest carrying the names of the people before the Lord."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 44,
+          "verse_end": 44,
+          "referencia": "Exodus 29:44",
+          "nota": "Highlights the sanctification of the altar and the priests."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 45,
+          "verse_end": 46,
+          "referencia": "Exodus 29:45-46",
+          "nota": "Reveals the promise of God’s presence among Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Priesthood",
+          "significado": "Service of mediation and representation before God."
+        },
+        {
+          "termo": "Consecration",
+          "significado": "Being set apart and dedicated to the Lord for a holy purpose."
+        },
+        {
+          "termo": "Mediation",
+          "significado": "The way established by God for his people to draw near to him."
+        }
+      ],
+      "oracao": "Lord, thank you because you opened a way for us to draw near to you. Teach me to live consecrated, serve with reverence, and depend on your presence. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 28–29 — Sacerdocio, Consagración y Presencia",
+      "contexto": "Éxodo 28 al 29 presenta las vestiduras sacerdotales y la consagración de Aarón y sus hijos. La adoración de Israel requería mediación, santidad y dedicación. El objetivo final no era solo el ritual, sino la presencia de Dios habitando en medio del pueblo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las vestiduras para servir delante del Señor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 43
+          },
+          "comentario": "Las vestiduras sacerdotales comunican honra, responsabilidad y separación para el servicio. El sacerdote representa al pueblo delante de Dios y debe servir conforme al orden del Señor.",
+          "aplicacao": "Servir a Dios requiere reverencia, responsabilidad y conciencia de que la obra es santa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La consagración de los sacerdotes",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 37
+          },
+          "comentario": "La consagración incluye sacrificio, purificación y dedicación completa. Nadie se acerca a Dios por iniciativa propia, sino por el camino que Él establece.",
+          "aplicacao": "Nuestro acercamiento a Dios depende de la gracia y la mediación que Él provee, no del mérito personal."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofrenda continua y presencia permanente",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 29,
+            "verse_start": 38,
+            "chapter_end": 29,
+            "verse_end": 46
+          },
+          "comentario": "El sacrificio diario y la promesa de la presencia de Dios muestran que la vida del pueblo debía ser sostenida por la comunión constante con el Señor.",
+          "aplicacao": "La adoración no es un evento aislado; es una vida continuamente orientada por la presencia de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 110,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 110:4",
+            "nota": "Anuncia un sacerdocio asociado al rey prometido."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 10,
+            "verse_end": 10,
+            "referencia": "Isaías 61:10",
+            "nota": "Usa la imagen de vestiduras de salvación y justicia delante de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 14,
+            "verse_end": 16,
+            "referencia": "Hebreos 4:14-16",
+            "nota": "Presenta a Jesús como el gran sumo sacerdote que nos conduce al trono de la gracia."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Aplica al pueblo de Dios el lenguaje de sacerdocio santo y propiedad del Señor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He servido a Dios con reverencia y responsabilidad?",
+        "¿Reconozco que necesito la mediación de Cristo para acercarme a Dios?",
+        "¿Mi vida diaria está marcada por comunión constante con el Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 29:45-46 muestra el propósito de la consagración y la adoración: Dios habitando en medio de su pueblo y siendo conocido como el Señor que libera."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Éxodo 28:12",
+          "nota": "Muestra al sacerdote llevando los nombres del pueblo delante del Señor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 44,
+          "verse_end": 44,
+          "referencia": "Éxodo 29:44",
+          "nota": "Destaca la santificación del altar y de los sacerdotes."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 29,
+          "verse_start": 45,
+          "verse_end": 46,
+          "referencia": "Éxodo 29:45-46",
+          "nota": "Revela la promesa de la presencia de Dios en medio de Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sacerdocio",
+          "significado": "Servicio de mediación y representación delante de Dios."
+        },
+        {
+          "termo": "Consagración",
+          "significado": "Separación y dedicación al Señor para un propósito santo."
+        },
+        {
+          "termo": "Mediación",
+          "significado": "Camino establecido por Dios para que su pueblo se acerque a Él."
+        }
+      ],
+      "oracao": "Señor, gracias porque abriste un camino para acercarnos a ti. Enséñame a vivir consagrado, servir con reverencia y depender de tu presencia. Amén."
+    }
+  }
+}

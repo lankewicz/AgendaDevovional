@@ -1,0 +1,536 @@
+{
+  "dia": 4,
+  "data": "2027-01-04",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 10–12",
+    "en": "Genesis 10–12",
+    "es": "Génesis 10–12"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 10,
+      "chapter_end": 12
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 12,
+    "verse_start": 2,
+    "verse_end": 3,
+    "referencia": {
+      "pt": "Gênesis 12:2-3",
+      "en": "Genesis 12:2-3",
+      "es": "Génesis 12:2-3"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_004.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_004.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/004/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/012.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/004/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/012.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/004/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/012.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/004/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/012.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_004.mp3",
+      "versiculo_central": "audio/en/verses/day_004.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/004/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/en/en-US-AriaNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/en/en-US-AriaNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/en/en-US-AriaNeural/012.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/004/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/en/en-US-JennyNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/en/en-US-JennyNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/en/en-US-JennyNeural/012.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/004/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/en/en-US-GuyNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/en/en-US-GuyNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/en/en-US-GuyNeural/012.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/004/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/en/en-US-BrianNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/en/en-US-BrianNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/en/en-US-BrianNeural/012.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_004.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_004.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/004/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/es/es-ES-ElviraNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/es/es-ES-ElviraNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/es/es-ES-ElviraNeural/012.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/004/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/es/es-MX-DaliaNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/es/es-MX-DaliaNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/es/es-MX-DaliaNeural/012.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/004/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/es/es-ES-AlvaroNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/es/es-ES-AlvaroNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/es/es-ES-AlvaroNeural/012.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/004/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/004/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/004/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_10": "audio/biblia/GEN/es/es-MX-JorgeNeural/010.m4a",
+          "GEN_11": "audio/biblia/GEN/es/es-MX-JorgeNeural/011.m4a",
+          "GEN_12": "audio/biblia/GEN/es/es-MX-JorgeNeural/012.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 10–12 — Nações, Babel e o Chamado de Abraão",
+      "contexto": "Gênesis 10 a 12 mostra a expansão das nações depois do dilúvio, a soberba humana em Babel e o início de uma nova etapa na história bíblica com o chamado de Abraão. Em meio à dispersão e à confusão, Deus chama um homem e promete abençoar todas as famílias da terra por meio dele.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A formação das nações",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 32
+          },
+          "comentario": "As genealogias mostram que a humanidade se espalha pela terra conforme a ordem de Deus. A história bíblica não se limita a uma família isolada; ela se desenvolve diante de todas as nações.",
+          "aplicacao": "Deus governa a história dos povos e conhece cada geração. Nenhuma vida, família ou nação está fora do seu olhar soberano."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Babel e a soberba humana",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 9
+          },
+          "comentario": "Em Babel, a humanidade busca grandeza própria e unidade sem submissão a Deus. O resultado é confusão, dispersão e limite imposto pelo Senhor ao orgulho humano.",
+          "aplicacao": "Quando buscamos segurança e nome longe de Deus, construímos fundamentos frágeis. A verdadeira direção começa com humildade diante do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O chamado de Abraão",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 10,
+            "chapter_end": 12,
+            "verse_end": 20
+          },
+          "comentario": "Deus chama Abraão para sair de sua terra e seguir pela fé. A promessa feita a ele aponta para bênção, descendência, terra e alcance universal.",
+          "aplicacao": "A fé responde ao chamado de Deus mesmo sem controlar todos os detalhes do caminho. Obedecer é confiar que o Senhor conduz a história."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 49,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Isaías 49:6",
+            "nota": "Aponta para a salvação alcançando as nações."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 8,
+            "verse_end": 9,
+            "referencia": "Gálatas 3:8-9",
+            "nota": "Mostra que a promessa feita a Abraão anunciava a bênção pela fé."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 28,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Mateus 28:18-20",
+            "nota": "Revela o alcance da missão de Deus a todas as nações."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado segurança no meu próprio nome ou na direção de Deus?",
+        "Estou disposto a obedecer mesmo quando o caminho ainda não está completamente claro?",
+        "Compreendo que a bênção de Deus também me chama a abençoar outras pessoas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 12:2-3 resume o chamado de Abraão e apresenta a promessa de bênção que alcançaria todas as famílias da terra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 11,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Gênesis 11:4",
+          "nota": "Mostra o desejo humano de construir grandeza sem depender de Deus."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Gênesis 12:1",
+          "nota": "Apresenta o chamado de Deus para Abraão sair e confiar."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Gênesis 12:2-3",
+          "nota": "Anuncia a promessa de bênção para todas as famílias da terra."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Babel",
+          "significado": "Símbolo da soberba humana que busca grandeza sem submissão a Deus."
+        },
+        {
+          "termo": "Chamado",
+          "significado": "Convocação divina para obedecer, confiar e caminhar segundo a promessa."
+        },
+        {
+          "termo": "Bênção",
+          "significado": "Favor de Deus que alcança uma pessoa e transborda para outros."
+        }
+      ],
+      "oracao": "Senhor, livra-me da soberba e ensina-me a confiar no teu chamado. Que minha vida seja guiada pela fé e usada para abençoar outras pessoas. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 10–12 — Nations, Babel, and the Call of Abraham",
+      "contexto": "Genesis 10 to 12 shows the expansion of the nations after the flood, human pride at Babel, and the beginning of a new stage in the biblical story with the call of Abraham. In the midst of dispersion and confusion, God calls one man and promises to bless all the families of the earth through him.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The formation of the nations",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 32
+          },
+          "comentario": "The genealogies show humanity spreading over the earth according to God's command. The biblical story is not limited to one isolated family; it unfolds before all nations.",
+          "aplicacao": "God governs the history of peoples and knows every generation. No life, family, or nation is outside his sovereign sight."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Babel and human pride",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 9
+          },
+          "comentario": "At Babel, humanity seeks its own greatness and unity without submission to God. The result is confusion, dispersion, and the Lord setting limits to human pride.",
+          "aplicacao": "When we seek security and a name apart from God, we build fragile foundations. True direction begins with humility before the Lord."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The call of Abraham",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 10,
+            "chapter_end": 12,
+            "verse_end": 20
+          },
+          "comentario": "God calls Abraham to leave his land and follow by faith. The promise given to him points to blessing, offspring, land, and universal reach.",
+          "aplicacao": "Faith responds to God's call without controlling every detail of the way. To obey is to trust that the Lord guides history."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 49,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Isaiah 49:6",
+            "nota": "Points to salvation reaching the nations."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 8,
+            "verse_end": 9,
+            "referencia": "Galatians 3:8-9",
+            "nota": "Shows that the promise made to Abraham announced blessing by faith."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 28,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Matthew 28:18-20",
+            "nota": "Reveals the reach of God's mission to all nations."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I seeking security in my own name or in God's direction?",
+        "Am I willing to obey even when the path is not fully clear?",
+        "Do I understand that God's blessing also calls me to bless others?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 12:2-3 summarizes Abraham's call and presents the promise of blessing that would reach all the families of the earth."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 11,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Genesis 11:4",
+          "nota": "Shows the human desire to build greatness without depending on God."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Genesis 12:1",
+          "nota": "Presents God's call for Abraham to leave and trust."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Genesis 12:2-3",
+          "nota": "Announces the promise of blessing for all the families of the earth."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Babel",
+          "significado": "A symbol of human pride seeking greatness without submission to God."
+        },
+        {
+          "termo": "Calling",
+          "significado": "God's summons to obey, trust, and walk according to the promise."
+        },
+        {
+          "termo": "Blessing",
+          "significado": "God's favor that reaches a person and overflows to others."
+        }
+      ],
+      "oracao": "Lord, deliver me from pride and teach me to trust your call. May my life be guided by faith and used to bless others. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 10–12 — Naciones, Babel y el Llamado de Abraham",
+      "contexto": "Génesis 10 al 12 muestra la expansión de las naciones después del diluvio, la soberbia humana en Babel y el comienzo de una nueva etapa en la historia bíblica con el llamado de Abraham. En medio de la dispersión y la confusión, Dios llama a un hombre y promete bendecir a todas las familias de la tierra por medio de él.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La formación de las naciones",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 32
+          },
+          "comentario": "Las genealogías muestran a la humanidad extendiéndose por la tierra conforme al mandato de Dios. La historia bíblica no se limita a una familia aislada; se desarrolla delante de todas las naciones.",
+          "aplicacao": "Dios gobierna la historia de los pueblos y conoce cada generación. Ninguna vida, familia o nación está fuera de su mirada soberana."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Babel y la soberbia humana",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 9
+          },
+          "comentario": "En Babel, la humanidad busca su propia grandeza y unidad sin someterse a Dios. El resultado es confusión, dispersión y el límite que el Señor pone al orgullo humano.",
+          "aplicacao": "Cuando buscamos seguridad y nombre lejos de Dios, construimos fundamentos frágiles. La verdadera dirección comienza con humildad delante del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El llamado de Abraham",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 11,
+            "verse_start": 10,
+            "chapter_end": 12,
+            "verse_end": 20
+          },
+          "comentario": "Dios llama a Abraham a salir de su tierra y seguir por fe. La promesa dada a él apunta a bendición, descendencia, tierra y alcance universal.",
+          "aplicacao": "La fe responde al llamado de Dios aunque no controle todos los detalles del camino. Obedecer es confiar en que el Señor conduce la historia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 49,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Isaías 49:6",
+            "nota": "Apunta a la salvación alcanzando a las naciones."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 8,
+            "verse_end": 9,
+            "referencia": "Gálatas 3:8-9",
+            "nota": "Muestra que la promesa hecha a Abraham anunciaba la bendición por la fe."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 28,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Mateo 28:18-20",
+            "nota": "Revela el alcance de la misión de Dios a todas las naciones."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco seguridad en mi propio nombre o en la dirección de Dios?",
+        "¿Estoy dispuesto a obedecer aunque el camino aún no esté completamente claro?",
+        "¿Comprendo que la bendición de Dios también me llama a bendecir a otros?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 12:2-3 resume el llamado de Abraham y presenta la promesa de bendición que alcanzaría a todas las familias de la tierra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 11,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Génesis 11:4",
+          "nota": "Muestra el deseo humano de construir grandeza sin depender de Dios."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Génesis 12:1",
+          "nota": "Presenta el llamado de Dios para que Abraham salga y confíe."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 12,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Génesis 12:2-3",
+          "nota": "Anuncia la promesa de bendición para todas las familias de la tierra."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Babel",
+          "significado": "Símbolo de la soberbia humana que busca grandeza sin someterse a Dios."
+        },
+        {
+          "termo": "Llamado",
+          "significado": "Convocación divina para obedecer, confiar y caminar según la promesa."
+        },
+        {
+          "termo": "Bendición",
+          "significado": "Favor de Dios que alcanza a una persona y se extiende a otros."
+        }
+      ],
+      "oracao": "Señor, líbrame de la soberbia y enséñame a confiar en tu llamado. Que mi vida sea guiada por la fe y usada para bendecir a otros. Amén."
+    }
+  }
+}

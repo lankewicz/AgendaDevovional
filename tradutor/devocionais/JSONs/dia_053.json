@@ -1,0 +1,416 @@
+{
+  "dia": 53,
+  "data": "2027-02-22",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 22–24",
+    "en": "Numbers 22–24",
+    "es": "Números 22–24"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 22,
+      "chapter_end": 24
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 23,
+    "verse_start": 19,
+    "verse_end": 19,
+    "referencia": {
+      "pt": "Números 23:19",
+      "en": "Numbers 23:19",
+      "es": "Números 23:19"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_053.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_053.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_053.mp3",
+      "versiculo_central": "audio/en/verses/day_053.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_053.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_053.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 22–24 — Deus Transforma Maldição em Bênção",
+      "contexto": "Números 22 a 24 narra a tentativa de Balaque de amaldiçoar Israel por meio de Balaão. O texto revela que nenhum poder humano ou espiritual pode anular a palavra do Senhor. Deus protege seu povo e transforma a intenção de maldição em declarações de bênção e esperança.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Balaque teme Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 41
+          },
+          "comentario": "O rei de Moabe vê Israel como ameaça e tenta usar meios espirituais para controlar aquilo que Deus estava conduzindo.",
+          "aplicacao": "O medo pode levar pessoas a buscar controle em vez de reconhecer a soberania do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A palavra de Deus prevalece",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 30
+          },
+          "comentario": "Balaão tenta responder ao desejo de Balaque, mas é impedido de dizer além daquilo que Deus determina.",
+          "aplicacao": "A palavra de Deus permanece firme, mesmo quando interesses humanos desejam manipulá-la."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bênção e promessa sobre Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 25
+          },
+          "comentario": "As últimas declarações de Balaão apresentam Israel sob a bênção divina e apontam para esperança futura.",
+          "aplicacao": "A fidelidade de Deus sustenta seu povo e conduz a história para além das ameaças imediatas."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Deuteronômio 23:5",
+            "nota": "Recorda que Deus transformou a maldição em bênção por amor ao seu povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "2 Pedro 2:15-16",
+            "nota": "Usa Balaão como advertência contra o caminho da ganância."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 22,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Apocalipse 22:16",
+            "nota": "Ecoa a esperança real ligada à estrela que procede da linhagem prometida."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Confio que Deus é maior do que as ameaças ao meu redor?",
+        "Uso a Palavra de Deus com reverência ou tento ajustá-la aos meus interesses?",
+        "Descanso na fidelidade de Deus mesmo quando outros desejam o meu mal?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 23:19 afirma a fidelidade imutável de Deus e mostra que sua palavra não pode ser frustrada pela vontade humana."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Números 22:32",
+          "nota": "Mostra que Deus confronta caminhos motivados por intenção errada."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Números 23:19",
+          "nota": "Afirma a fidelidade de Deus à sua própria palavra."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Números 24:17",
+          "nota": "Aponta para uma esperança real futura ligada ao povo de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Bênção",
+          "significado": "Favor de Deus que não pode ser anulado por oposição humana."
+        },
+        {
+          "termo": "Soberania",
+          "significado": "O governo de Deus sobre povos, reis e intenções."
+        },
+        {
+          "termo": "Fidelidade",
+          "significado": "A certeza de que Deus cumpre o que promete."
+        }
+      ],
+      "oracao": "Senhor, firma meu coração na tua Palavra. Livra-me de manipular aquilo que disseste e ajuda-me a descansar na tua fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 22–24 — God Turns Curse into Blessing",
+      "contexto": "Numbers 22 to 24 tells of Balak’s attempt to curse Israel through Balaam. The text reveals that no human or spiritual power can cancel the word of the Lord. God protects his people and turns the intention of curse into declarations of blessing and hope.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Balak fears Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 41
+          },
+          "comentario": "The king of Moab sees Israel as a threat and tries to use spiritual means to control what God was guiding.",
+          "aplicacao": "Fear can lead people to seek control instead of recognizing the Lord’s sovereignty."
+        },
+        {
+          "ordem": 2,
+          "titulo": "God’s word prevails",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 30
+          },
+          "comentario": "Balaam tries to respond to Balak’s desire, but he is restrained from speaking beyond what God determines.",
+          "aplicacao": "God’s word remains firm, even when human interests want to manipulate it."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Blessing and promise over Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 25
+          },
+          "comentario": "Balaam’s final declarations present Israel under divine blessing and point to future hope.",
+          "aplicacao": "God’s faithfulness sustains his people and leads history beyond immediate threats."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Deuteronomy 23:5",
+            "nota": "Recalls that God turned the curse into blessing because he loved his people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "2 Peter 2:15-16",
+            "nota": "Uses Balaam as a warning against the path of greed."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 22,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Revelation 22:16",
+            "nota": "Echoes the royal hope connected to the star from the promised line."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I trust that God is greater than the threats around me?",
+        "Do I handle God’s Word with reverence or try to bend it to my interests?",
+        "Do I rest in God’s faithfulness even when others intend harm?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 23:19 affirms God’s unchanging faithfulness and shows that his word cannot be frustrated by human will."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Numbers 22:32",
+          "nota": "Shows that God confronts paths driven by wrong intention."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Numbers 23:19",
+          "nota": "Affirms God’s faithfulness to his own word."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Numbers 24:17",
+          "nota": "Points to a future royal hope connected to God’s people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Blessing",
+          "significado": "God’s favor that cannot be canceled by human opposition."
+        },
+        {
+          "termo": "Sovereignty",
+          "significado": "God’s rule over peoples, kings, and intentions."
+        },
+        {
+          "termo": "Faithfulness",
+          "significado": "The certainty that God fulfills what he promises."
+        }
+      ],
+      "oracao": "Lord, establish my heart in your Word. Deliver me from manipulating what you have spoken and help me rest in your faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "Números 22–24 — Dios Transforma Maldición en Bendición",
+      "contexto": "Números 22 al 24 narra el intento de Balac de maldecir a Israel por medio de Balaam. El texto revela que ningún poder humano o espiritual puede anular la palabra del Señor. Dios protege a su pueblo y transforma la intención de maldición en declaraciones de bendición y esperanza.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Balac teme a Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 41
+          },
+          "comentario": "El rey de Moab ve a Israel como amenaza e intenta usar medios espirituales para controlar lo que Dios estaba conduciendo.",
+          "aplicacao": "El miedo puede llevar a buscar control en vez de reconocer la soberanía del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La palabra de Dios prevalece",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 30
+          },
+          "comentario": "Balaam intenta responder al deseo de Balac, pero es impedido de decir más allá de lo que Dios determina.",
+          "aplicacao": "La palabra de Dios permanece firme, aunque los intereses humanos quieran manipularla."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bendición y promesa sobre Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 25
+          },
+          "comentario": "Las últimas declaraciones de Balaam presentan a Israel bajo la bendición divina y apuntan hacia una esperanza futura.",
+          "aplicacao": "La fidelidad de Dios sostiene a su pueblo y conduce la historia más allá de las amenazas inmediatas."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Deuteronomio 23:5",
+            "nota": "Recuerda que Dios transformó la maldición en bendición por amor a su pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "2 Pedro 2:15-16",
+            "nota": "Usa a Balaam como advertencia contra el camino de la codicia."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 22,
+            "verse_start": 16,
+            "verse_end": 16,
+            "referencia": "Apocalipsis 22:16",
+            "nota": "Evoca la esperanza real relacionada con la estrella procedente de la línea prometida."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Confío en que Dios es mayor que las amenazas a mi alrededor?",
+        "¿Uso la Palabra de Dios con reverencia o intento ajustarla a mis intereses?",
+        "¿Descanso en la fidelidad de Dios aunque otros deseen mi mal?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 23:19 afirma la fidelidad inmutable de Dios y muestra que su palabra no puede ser frustrada por la voluntad humana."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 22,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Números 22:32",
+          "nota": "Muestra que Dios confronta caminos motivados por intenciones equivocadas."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Números 23:19",
+          "nota": "Afirma la fidelidad de Dios a su propia palabra."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Números 24:17",
+          "nota": "Apunta hacia una esperanza real futura ligada al pueblo de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Bendición",
+          "significado": "Favor de Dios que no puede ser anulado por oposición humana."
+        },
+        {
+          "termo": "Soberanía",
+          "significado": "El gobierno de Dios sobre pueblos, reyes e intenciones."
+        },
+        {
+          "termo": "Fidelidad",
+          "significado": "La certeza de que Dios cumple lo que promete."
+        }
+      ],
+      "oracao": "Señor, afirma mi corazón en tu Palabra. Líbrame de manipular lo que has dicho y ayúdame a descansar en tu fidelidad. Amén."
+    }
+  }
+}

@@ -81,6 +81,34 @@ class AndroidAudioPlayer(private val context: Context) {
         }
     }
 
+    fun playUrl(
+        url: String,
+        onProgress: (currentMs: Int, totalMs: Int) -> Unit,
+        onCompletion: () -> Unit
+    ) {
+        stop()
+        try {
+            MediaPlayer().apply {
+                player = this
+                setDataSource(url)
+                setOnPreparedListener {
+                    start()
+                    startProgressUpdates(onProgress)
+                }
+                setOnCompletionListener {
+                    stopProgressUpdates()
+                    onCompletion()
+                    release()
+                    player = null
+                }
+                prepareAsync()
+            }
+        } catch (e: Exception) {
+            e.printStackTrace()
+            onCompletion()
+        }
+    }
+
     fun pause() {
         player?.let {
             if (it.isPlaying) {

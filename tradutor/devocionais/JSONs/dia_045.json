@@ -1,0 +1,524 @@
+{
+  "dia": 45,
+  "data": "2027-02-14",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 2–3",
+    "en": "Numbers 2–3",
+    "es": "Números 2–3"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 2,
+      "chapter_end": 3
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 2,
+    "verse_start": 17,
+    "verse_end": 17,
+    "referencia": {
+      "pt": "Números 2:17",
+      "en": "Numbers 2:17",
+      "es": "Números 2:17"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_045.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_045.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/045/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/003.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/045/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/003.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/045/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/003.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/045/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/003.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_045.mp3",
+      "versiculo_central": "audio/en/verses/day_045.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/045/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/en/en-US-AriaNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/en/en-US-AriaNeural/003.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/045/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/en/en-US-JennyNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/en/en-US-JennyNeural/003.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/045/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/en/en-US-GuyNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/en/en-US-GuyNeural/003.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/045/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/en/en-US-BrianNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/en/en-US-BrianNeural/003.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_045.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_045.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/045/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/es/es-ES-ElviraNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/es/es-ES-ElviraNeural/003.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/045/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/es/es-MX-DaliaNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/es/es-MX-DaliaNeural/003.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/045/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/es/es-ES-AlvaroNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/es/es-ES-AlvaroNeural/003.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/045/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/045/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/045/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "NUM_2": "audio/biblia/NUM/es/es-MX-JorgeNeural/002.m4a",
+          "NUM_3": "audio/biblia/NUM/es/es-MX-JorgeNeural/003.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 2–3 — Deus no Centro do Acampamento",
+      "contexto": "Números 2 e 3 organiza o acampamento de Israel ao redor do tabernáculo e separa os levitas para o serviço sagrado. A disposição do povo ensina que Deus deve estar no centro da comunidade, da caminhada e da identidade de Israel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As tribos ao redor do tabernáculo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 34
+          },
+          "comentario": "Cada tribo recebe seu lugar no acampamento. A organização não é apenas prática; ela comunica que a presença de Deus governa o movimento do povo.",
+          "aplicacao": "A vida deve ser organizada ao redor da presença de Deus, não apenas de preferências, pressões ou conveniências."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Os levitas separados para o serviço",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "Os levitas são separados para cuidar do tabernáculo e servir em lugar dos primogênitos. O serviço santo exigia proximidade, reverência e responsabilidade.",
+          "aplicacao": "Servir a Deus é privilégio e responsabilidade. Cada função no povo de Deus deve ser realizada com fidelidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Resgate, pertencimento e ordem",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 40,
+            "chapter_end": 3,
+            "verse_end": 51
+          },
+          "comentario": "A contagem dos primogênitos e o resgate mostram que Israel pertence ao Senhor. Deus organiza o povo que ele redimiu.",
+          "aplicacao": "Pertencer a Deus transforma a forma como entendemos identidade, serviço e obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Salmos 84:1-4",
+            "nota": "Expressa o valor de viver perto da presença do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "João 1:14",
+            "nota": "Apresenta Cristo como aquele que habitou entre nós, cumprindo o sentido da presença de Deus no meio do povo."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Mostra o povo de Deus como comunidade chamada para anunciar suas virtudes."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha vida está organizada ao redor da presença de Deus?",
+        "Tenho assumido com fidelidade as responsabilidades que recebi?",
+        "Minha identidade está baseada no fato de pertencer ao Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 2:17 mostra que o tabernáculo deveria estar no meio do acampamento, revelando a centralidade da presença de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Números 2:17",
+          "nota": "Mostra o tabernáculo no centro da caminhada do povo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Números 3:12-13",
+          "nota": "Destaca o pertencimento dos levitas e dos primogênitos ao Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Números 3:45",
+          "nota": "Apresenta o princípio de substituição e resgate no serviço levítico."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernáculo",
+          "significado": "Lugar da presença de Deus no meio do povo durante a jornada."
+        },
+        {
+          "termo": "Levitas",
+          "significado": "Grupo separado para servir no cuidado do santuário."
+        },
+        {
+          "termo": "Pertencimento",
+          "significado": "Identidade do povo que foi separado e resgatado pelo Senhor."
+        }
+      ],
+      "oracao": "Senhor, coloca tua presença no centro da minha vida. Ensina-me a servir com fidelidade e a viver consciente de que pertenço a ti. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 2–3 — God at the Center of the Camp",
+      "contexto": "Numbers 2 and 3 organizes Israel's camp around the tabernacle and sets apart the Levites for sacred service. The arrangement of the people teaches that God must be at the center of the community, the journey, and Israel's identity.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The tribes around the tabernacle",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 34
+          },
+          "comentario": "Each tribe receives its place in the camp. The organization is not only practical; it communicates that God's presence governs the movement of the people.",
+          "aplicacao": "Life should be organized around God's presence, not merely around preferences, pressures, or convenience."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The Levites set apart for service",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "The Levites are set apart to care for the tabernacle and serve in place of the firstborn. Holy service required nearness, reverence, and responsibility.",
+          "aplicacao": "Serving God is both privilege and responsibility. Each function among God's people should be carried out with faithfulness."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Redemption, belonging, and order",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 40,
+            "chapter_end": 3,
+            "verse_end": 51
+          },
+          "comentario": "The counting of the firstborn and their redemption show that Israel belongs to the Lord. God organizes the people he has redeemed.",
+          "aplicacao": "Belonging to God transforms the way we understand identity, service, and obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Psalm 84:1-4",
+            "nota": "Expresses the value of living near the presence of the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "John 1:14",
+            "nota": "Presents Christ as the one who dwelt among us, fulfilling the meaning of God's presence among his people."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Peter 2:9-10",
+            "nota": "Shows God's people as a community called to proclaim his excellencies."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Is my life organized around God's presence?",
+        "Am I faithfully assuming the responsibilities I have received?",
+        "Is my identity grounded in belonging to the Lord?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 2:17 shows that the tabernacle was to be in the middle of the camp, revealing the centrality of God's presence."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Numbers 2:17",
+          "nota": "Shows the tabernacle at the center of the people's journey."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Numbers 3:12-13",
+          "nota": "Highlights the belonging of the Levites and the firstborn to the Lord."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Numbers 3:45",
+          "nota": "Presents the principle of substitution and redemption in Levitical service."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernacle",
+          "significado": "The place of God's presence among the people during the journey."
+        },
+        {
+          "termo": "Levites",
+          "significado": "The group set apart to serve in the care of the sanctuary."
+        },
+        {
+          "termo": "Belonging",
+          "significado": "The identity of the people who were set apart and redeemed by the Lord."
+        }
+      ],
+      "oracao": "Lord, place your presence at the center of my life. Teach me to serve faithfully and to live aware that I belong to you. Amen."
+    },
+    "es": {
+      "titulo": "Números 2–3 — Dios en el Centro del Campamento",
+      "contexto": "Números 2 y 3 organiza el campamento de Israel alrededor del tabernáculo y aparta a los levitas para el servicio sagrado. La disposición del pueblo enseña que Dios debe estar en el centro de la comunidad, de la marcha y de la identidad de Israel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las tribus alrededor del tabernáculo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 34
+          },
+          "comentario": "Cada tribu recibe su lugar en el campamento. La organización no es solo práctica; comunica que la presencia de Dios gobierna el movimiento del pueblo.",
+          "aplicacao": "La vida debe organizarse alrededor de la presencia de Dios, no solo de preferencias, presiones o conveniencias."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Los levitas apartados para el servicio",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "Los levitas son apartados para cuidar el tabernáculo y servir en lugar de los primogénitos. El servicio santo exigía cercanía, reverencia y responsabilidad.",
+          "aplicacao": "Servir a Dios es privilegio y responsabilidad. Cada función en el pueblo de Dios debe realizarse con fidelidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Rescate, pertenencia y orden",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 3,
+            "verse_start": 40,
+            "chapter_end": 3,
+            "verse_end": 51
+          },
+          "comentario": "El censo de los primogénitos y el rescate muestran que Israel pertenece al Señor. Dios organiza al pueblo que redimió.",
+          "aplicacao": "Pertenecer a Dios transforma la forma en que entendemos identidad, servicio y obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Salmos 84:1-4",
+            "nota": "Expresa el valor de vivir cerca de la presencia del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Juan 1:14",
+            "nota": "Presenta a Cristo como aquel que habitó entre nosotros, cumpliendo el sentido de la presencia de Dios en medio del pueblo."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Muestra al pueblo de Dios como comunidad llamada a anunciar sus virtudes."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi vida está organizada alrededor de la presencia de Dios?",
+        "¿Asumo con fidelidad las responsabilidades que recibí?",
+        "¿Mi identidad está basada en el hecho de pertenecer al Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 2:17 muestra que el tabernáculo debía estar en medio del campamento, revelando la centralidad de la presencia de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 2,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "Números 2:17",
+          "nota": "Muestra el tabernáculo en el centro de la marcha del pueblo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Números 3:12-13",
+          "nota": "Destaca la pertenencia de los levitas y de los primogénitos al Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 3,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Números 3:45",
+          "nota": "Presenta el principio de sustitución y rescate en el servicio levítico."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernáculo",
+          "significado": "Lugar de la presencia de Dios en medio del pueblo durante la marcha."
+        },
+        {
+          "termo": "Levitas",
+          "significado": "Grupo apartado para servir en el cuidado del santuario."
+        },
+        {
+          "termo": "Pertenencia",
+          "significado": "Identidad del pueblo que fue apartado y redimido por el Señor."
+        }
+      ],
+      "oracao": "Señor, coloca tu presencia en el centro de mi vida. Enséñame a servir con fidelidad y a vivir consciente de que te pertenezco. Amén."
+    }
+  }
+}

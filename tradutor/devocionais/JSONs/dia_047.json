@@ -1,0 +1,416 @@
+{
+  "dia": 47,
+  "data": "2027-02-16",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 7",
+    "en": "Numbers 7",
+    "es": "Números 7"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 7,
+      "chapter_end": 7
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 7,
+    "verse_start": 89,
+    "verse_end": 89,
+    "referencia": {
+      "pt": "Números 7:89",
+      "en": "Numbers 7:89",
+      "es": "Números 7:89"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_047.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_047.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_047.mp3",
+      "versiculo_central": "audio/en/verses/day_047.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_047.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_047.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 7 — Ofertas, Dedicação e Voz de Deus",
+      "contexto": "Números 7 registra as ofertas dos líderes de Israel na dedicação do altar. A repetição detalhada de cada oferta mostra que Deus valoriza a participação fiel de cada tribo. O capítulo termina com Moisés ouvindo a voz do Senhor, lembrando que a adoração verdadeira nasce da presença e da direção de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As ofertas dos líderes de Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 83
+          },
+          "comentario": "Cada líder apresenta sua oferta diante do altar. A repetição do texto destaca que nenhum serviço fiel passa despercebido diante do Senhor.",
+          "aplicacao": "A fidelidade a Deus também se expressa em entrega concreta, generosa e ordenada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A dedicação do altar",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 84,
+            "chapter_end": 7,
+            "verse_end": 88
+          },
+          "comentario": "As ofertas são reunidas como parte da dedicação do altar. O culto do povo não é improvisado, mas preparado com reverência.",
+          "aplicacao": "Aquilo que oferecemos a Deus deve nascer de um coração reverente, não apenas de obrigação externa."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A voz do Senhor no lugar da comunhão",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 89,
+            "chapter_end": 7,
+            "verse_end": 89
+          },
+          "comentario": "Moisés entra na tenda e ouve a voz de Deus. A dedicação não termina nas ofertas, mas na comunhão com o Senhor que fala ao seu povo.",
+          "aplicacao": "A entrega a Deus deve conduzir à escuta obediente da sua Palavra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 25,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Êxodo 25:22",
+            "nota": "Mostra o lugar onde Deus prometeu falar com Moisés sobre as ordens para Israel."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Apresenta a entrega da vida como culto racional diante de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebreus 9:11-14",
+            "nota": "Aponta para Cristo como sumo sacerdote perfeito e mediador definitivo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho oferecido a Deus o melhor da minha vida com reverência?",
+        "Reconheço que Deus valoriza a fidelidade, mesmo quando ela parece repetitiva ou simples?",
+        "Minha entrega tem me levado a ouvir e obedecer à voz do Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 7:89 mostra que a dedicação do altar culmina na comunhão com Deus, que fala ao seu servo no lugar da presença."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 7:3",
+          "nota": "Apresenta a disposição dos líderes em contribuir para o serviço do tabernáculo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 84,
+          "verse_end": 84,
+          "referencia": "Números 7:84",
+          "nota": "Resume a dedicação do altar por meio das ofertas dos líderes."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 89,
+          "verse_end": 89,
+          "referencia": "Números 7:89",
+          "nota": "Destaca Deus falando a Moisés no lugar da comunhão."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Dedicação",
+          "significado": "Separação de algo para o serviço e a honra de Deus."
+        },
+        {
+          "termo": "Oferta",
+          "significado": "Expressão concreta de entrega, gratidão e reverência ao Senhor."
+        },
+        {
+          "termo": "Comunhão",
+          "significado": "Relacionamento com Deus marcado por presença, escuta e obediência."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a te servir com reverência e generosidade. Que minha entrega não seja apenas exterior, mas me conduza a ouvir tua voz e obedecer à tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 7 — Offerings, Dedication, and God’s Voice",
+      "contexto": "Numbers 7 records the offerings of Israel’s leaders at the dedication of the altar. The detailed repetition of each offering shows that God values the faithful participation of every tribe. The chapter ends with Moses hearing the voice of the Lord, reminding us that true worship flows from God’s presence and direction.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The offerings of Israel’s leaders",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 83
+          },
+          "comentario": "Each leader brings his offering before the altar. The repeated pattern highlights that no faithful service is overlooked before the Lord.",
+          "aplicacao": "Faithfulness to God is also expressed through concrete, generous, and ordered surrender."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The dedication of the altar",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 84,
+            "chapter_end": 7,
+            "verse_end": 88
+          },
+          "comentario": "The offerings are gathered as part of the dedication of the altar. The worship of God’s people is not careless, but prepared with reverence.",
+          "aplicacao": "What we offer to God should come from a reverent heart, not merely from outward duty."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The voice of the Lord in the place of communion",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 89,
+            "chapter_end": 7,
+            "verse_end": 89
+          },
+          "comentario": "Moses enters the tent and hears God’s voice. Dedication does not end with offerings, but with communion with the Lord who speaks to his people.",
+          "aplicacao": "Our surrender to God should lead us to obedient listening to his Word."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 25,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Exodus 25:22",
+            "nota": "Shows the place where God promised to speak with Moses concerning his commands for Israel."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romans 12:1",
+            "nota": "Presents the offering of one’s life as spiritual worship before God."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebrews 9:11-14",
+            "nota": "Points to Christ as the perfect high priest and final mediator."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I offering God the best of my life with reverence?",
+        "Do I recognize that God values faithfulness, even when it seems repetitive or simple?",
+        "Does my surrender lead me to listen to and obey the Lord’s voice?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 7:89 shows that the dedication of the altar culminates in communion with God, who speaks to his servant in the place of his presence."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Numbers 7:3",
+          "nota": "Presents the leaders’ willingness to contribute to the service of the tabernacle."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 84,
+          "verse_end": 84,
+          "referencia": "Numbers 7:84",
+          "nota": "Summarizes the dedication of the altar through the leaders’ offerings."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 89,
+          "verse_end": 89,
+          "referencia": "Numbers 7:89",
+          "nota": "Highlights God speaking to Moses in the place of communion."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Dedication",
+          "significado": "Setting something apart for the service and honor of God."
+        },
+        {
+          "termo": "Offering",
+          "significado": "A concrete expression of surrender, gratitude, and reverence to the Lord."
+        },
+        {
+          "termo": "Communion",
+          "significado": "Relationship with God marked by presence, listening, and obedience."
+        }
+      ],
+      "oracao": "Lord, teach me to serve you with reverence and generosity. May my surrender not be merely outward, but lead me to hear your voice and obey your will. Amen."
+    },
+    "es": {
+      "titulo": "Números 7 — Ofrendas, Dedicación y Voz de Dios",
+      "contexto": "Números 7 registra las ofrendas de los líderes de Israel en la dedicación del altar. La repetición detallada de cada ofrenda muestra que Dios valora la participación fiel de cada tribu. El capítulo termina con Moisés oyendo la voz del Señor, recordando que la adoración verdadera nace de la presencia y dirección de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las ofrendas de los líderes de Israel",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 83
+          },
+          "comentario": "Cada líder presenta su ofrenda delante del altar. La repetición del texto destaca que ningún servicio fiel pasa desapercibido ante el Señor.",
+          "aplicacao": "La fidelidad a Dios también se expresa en una entrega concreta, generosa y ordenada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La dedicación del altar",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 84,
+            "chapter_end": 7,
+            "verse_end": 88
+          },
+          "comentario": "Las ofrendas son reunidas como parte de la dedicación del altar. La adoración del pueblo no es improvisada, sino preparada con reverencia.",
+          "aplicacao": "Lo que ofrecemos a Dios debe nacer de un corazón reverente, no solo de una obligación externa."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La voz del Señor en el lugar de comunión",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 7,
+            "verse_start": 89,
+            "chapter_end": 7,
+            "verse_end": 89
+          },
+          "comentario": "Moisés entra en la tienda y oye la voz de Dios. La dedicación no termina en las ofrendas, sino en la comunión con el Señor que habla a su pueblo.",
+          "aplicacao": "La entrega a Dios debe conducirnos a escuchar y obedecer su Palabra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 25,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Éxodo 25:22",
+            "nota": "Muestra el lugar donde Dios prometió hablar con Moisés sobre sus mandamientos para Israel."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Presenta la entrega de la vida como culto espiritual delante de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebreos 9:11-14",
+            "nota": "Apunta a Cristo como sumo sacerdote perfecto y mediador definitivo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Estoy ofreciendo a Dios lo mejor de mi vida con reverencia?",
+        "¿Reconozco que Dios valora la fidelidad, incluso cuando parece repetitiva o sencilla?",
+        "¿Mi entrega me lleva a escuchar y obedecer la voz del Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 7:89 muestra que la dedicación del altar culmina en la comunión con Dios, que habla a su siervo en el lugar de su presencia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 7:3",
+          "nota": "Presenta la disposición de los líderes para contribuir al servicio del tabernáculo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 84,
+          "verse_end": 84,
+          "referencia": "Números 7:84",
+          "nota": "Resume la dedicación del altar por medio de las ofrendas de los líderes."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 7,
+          "verse_start": 89,
+          "verse_end": 89,
+          "referencia": "Números 7:89",
+          "nota": "Destaca a Dios hablando a Moisés en el lugar de comunión."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Dedicación",
+          "significado": "Separación de algo para el servicio y la honra de Dios."
+        },
+        {
+          "termo": "Ofrenda",
+          "significado": "Expresión concreta de entrega, gratitud y reverencia al Señor."
+        },
+        {
+          "termo": "Comunión",
+          "significado": "Relación con Dios marcada por presencia, escucha y obediencia."
+        }
+      ],
+      "oracao": "Señor, enséñame a servirte con reverencia y generosidad. Que mi entrega no sea solo exterior, sino que me lleve a oír tu voz y obedecer tu voluntad. Amén."
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "dia": 69,
+  "data": "2027-03-10",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 32–34",
+    "en": "Deuteronomy 32–34",
+    "es": "Deuteronomio 32–34"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 32,
+      "chapter_end": 34
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 32,
+    "verse_start": 4,
+    "verse_end": 4,
+    "referencia": {
+      "pt": "Deuteronômio 32:4",
+      "en": "Deuteronomy 32:4",
+      "es": "Deuteronomio 32:4"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_069.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_069.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_069.mp3",
+      "versiculo_central": "audio/en/verses/day_069.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_069.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_069.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 32–34 — A Rocha Fiel e o Fim da Jornada de Moisés",
+      "contexto": "Deuteronômio 32 a 34 encerra o Pentateuco com o cântico de Moisés, a bênção sobre as tribos e a morte do servo do Senhor. O texto destaca a fidelidade de Deus, a fragilidade do povo e a continuidade da promessa além da vida de Moisés.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O cântico que testemunha a fidelidade de Deus",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 47
+          },
+          "comentario": "Moisés proclama que o Senhor é a Rocha, perfeito em suas obras e justo em todos os seus caminhos. O cântico também denuncia a infidelidade do povo.",
+          "aplicacao": "A adoração verdadeira reconhece a fidelidade de Deus e confronta a tendência humana de esquecer seus caminhos."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A bênção final sobre as tribos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 29
+          },
+          "comentario": "Antes de sua morte, Moisés abençoa as tribos e aponta para o cuidado de Deus sobre o povo que entraria na terra.",
+          "aplicacao": "A bênção de Deus sustenta seu povo para prosseguir, mesmo quando uma etapa importante chega ao fim."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A morte de Moisés e a continuidade da promessa",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 12
+          },
+          "comentario": "Moisés vê a terra prometida, morre segundo a palavra do Senhor, e Josué assume a liderança. A missão de Deus continua.",
+          "aplicacao": "Servos passam, mas a promessa de Deus permanece. A obra pertence ao Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 2,
+            "verse_end": 2,
+            "referencia": "Salmos 18:2",
+            "nota": "Também apresenta o Senhor como rocha, fortaleza e libertador."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "1 Coríntios 10:4",
+            "nota": "Relaciona a imagem da rocha ao cuidado de Cristo pelo seu povo."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Hebreus 3:1-6",
+            "nota": "Compara a fidelidade de Moisés com a superioridade de Cristo sobre a casa de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reconhecido Deus como minha Rocha em tempos de mudança?",
+        "Permito que a Palavra corrija meu coração quando me esqueço da fidelidade do Senhor?",
+        "Compreendo que a obra de Deus continua além das minhas limitações?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 32:4 resume a mensagem final de Moisés: Deus é a Rocha fiel, justo e perfeito em todos os seus caminhos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 32,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronômio 32:4",
+          "nota": "Proclama a perfeição e fidelidade de Deus."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 33,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Deuteronômio 33:27",
+          "nota": "Afirma que Deus é refúgio eterno para seu povo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 34,
+          "verse_start": 10,
+          "verse_end": 12,
+          "referencia": "Deuteronômio 34:10-12",
+          "nota": "Destaca a singularidade do ministério de Moisés."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rocha",
+          "significado": "Imagem da firmeza, fidelidade e segurança encontradas em Deus."
+        },
+        {
+          "termo": "Bênção",
+          "significado": "Palavra de favor e cuidado de Deus sobre seu povo."
+        },
+        {
+          "termo": "Continuidade",
+          "significado": "A obra de Deus prossegue mesmo quando líderes e etapas chegam ao fim."
+        }
+      ],
+      "oracao": "Senhor, tu és a Rocha fiel. Firma minha vida em teus caminhos, corrige meu coração e ajuda-me a confiar que tua promessa permanece em cada etapa. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 32–34 — The Faithful Rock and the End of Moses' Journey",
+      "contexto": "Deuteronomy 32 to 34 closes the Pentateuch with the song of Moses, the blessing over the tribes, and the death of the servant of the Lord. The passage highlights God's faithfulness, the people's fragility, and the continuity of the promise beyond Moses' life.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The song that testifies to God's faithfulness",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 47
+          },
+          "comentario": "Moses proclaims that the Lord is the Rock, perfect in his works and just in all his ways. The song also exposes the people's unfaithfulness.",
+          "aplicacao": "True worship recognizes God's faithfulness and confronts the human tendency to forget his ways."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The final blessing over the tribes",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 29
+          },
+          "comentario": "Before his death, Moses blesses the tribes and points to God's care over the people who would enter the land.",
+          "aplicacao": "God's blessing sustains his people to continue, even when an important season comes to an end."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Moses' death and the continuity of the promise",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 12
+          },
+          "comentario": "Moses sees the promised land, dies according to the word of the Lord, and Joshua assumes leadership. God's mission continues.",
+          "aplicacao": "Servants pass away, but God's promise remains. The work belongs to the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 2,
+            "verse_end": 2,
+            "referencia": "Psalm 18:2",
+            "nota": "Also presents the Lord as rock, fortress, and deliverer."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "1 Corinthians 10:4",
+            "nota": "Connects the image of the rock to Christ's care for his people."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Hebrews 3:1-6",
+            "nota": "Compares Moses' faithfulness with Christ's superiority over God's house."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I recognize God as my Rock in times of change?",
+        "Do I allow the Word to correct my heart when I forget the Lord's faithfulness?",
+        "Do I understand that God's work continues beyond my limitations?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 32:4 summarizes Moses' final message: God is the faithful Rock, just and perfect in all his ways."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 32,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronomy 32:4",
+          "nota": "Proclaims God's perfection and faithfulness."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 33,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Deuteronomy 33:27",
+          "nota": "Affirms that God is an eternal refuge for his people."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 34,
+          "verse_start": 10,
+          "verse_end": 12,
+          "referencia": "Deuteronomy 34:10-12",
+          "nota": "Highlights the unique ministry of Moses."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rock",
+          "significado": "An image of the firmness, faithfulness, and security found in God."
+        },
+        {
+          "termo": "Blessing",
+          "significado": "A word of God's favor and care over his people."
+        },
+        {
+          "termo": "Continuity",
+          "significado": "God's work continues even when leaders and seasons come to an end."
+        }
+      ],
+      "oracao": "Lord, you are the faithful Rock. Establish my life in your ways, correct my heart, and help me trust that your promise remains in every season. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 32–34 — La Roca Fiel y el Final del Camino de Moisés",
+      "contexto": "Deuteronomio 32 al 34 cierra el Pentateuco con el cántico de Moisés, la bendición sobre las tribus y la muerte del siervo del Señor. El texto destaca la fidelidad de Dios, la fragilidad del pueblo y la continuidad de la promesa más allá de la vida de Moisés.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El cántico que testifica la fidelidad de Dios",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 47
+          },
+          "comentario": "Moisés proclama que el Señor es la Roca, perfecto en sus obras y justo en todos sus caminos. El cántico también denuncia la infidelidad del pueblo.",
+          "aplicacao": "La adoración verdadera reconoce la fidelidad de Dios y confronta la tendencia humana a olvidar sus caminos."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La bendición final sobre las tribus",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 29
+          },
+          "comentario": "Antes de su muerte, Moisés bendice a las tribus y señala el cuidado de Dios sobre el pueblo que entraría en la tierra.",
+          "aplicacao": "La bendición de Dios sostiene a su pueblo para continuar, aun cuando una etapa importante llega a su fin."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La muerte de Moisés y la continuidad de la promesa",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 12
+          },
+          "comentario": "Moisés ve la tierra prometida, muere según la palabra del Señor, y Josué asume el liderazgo. La misión de Dios continúa.",
+          "aplicacao": "Los siervos pasan, pero la promesa de Dios permanece. La obra pertenece al Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 2,
+            "verse_end": 2,
+            "referencia": "Salmos 18:2",
+            "nota": "También presenta al Señor como roca, fortaleza y libertador."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "1 Corintios 10:4",
+            "nota": "Relaciona la imagen de la roca con el cuidado de Cristo por su pueblo."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Hebreos 3:1-6",
+            "nota": "Compara la fidelidad de Moisés con la superioridad de Cristo sobre la casa de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Reconozco a Dios como mi Roca en tiempos de cambio?",
+        "¿Permito que la Palabra corrija mi corazón cuando olvido la fidelidad del Señor?",
+        "¿Comprendo que la obra de Dios continúa más allá de mis limitaciones?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 32:4 resume el mensaje final de Moisés: Dios es la Roca fiel, justo y perfecto en todos sus caminos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 32,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronomio 32:4",
+          "nota": "Proclama la perfección y fidelidad de Dios."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 33,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Deuteronomio 33:27",
+          "nota": "Afirma que Dios es refugio eterno para su pueblo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 34,
+          "verse_start": 10,
+          "verse_end": 12,
+          "referencia": "Deuteronomio 34:10-12",
+          "nota": "Destaca la singularidad del ministerio de Moisés."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Roca",
+          "significado": "Imagen de la firmeza, fidelidad y seguridad encontradas en Dios."
+        },
+        {
+          "termo": "Bendición",
+          "significado": "Palabra de favor y cuidado de Dios sobre su pueblo."
+        },
+        {
+          "termo": "Continuidad",
+          "significado": "La obra de Dios prosigue aunque líderes y etapas lleguen a su fin."
+        }
+      ],
+      "oracao": "Señor, tú eres la Roca fiel. Afirma mi vida en tus caminos, corrige mi corazón y ayúdame a confiar en que tu promesa permanece en cada etapa. Amén."
+    }
+  }
+}

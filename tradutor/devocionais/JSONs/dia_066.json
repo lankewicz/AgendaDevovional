@@ -1,0 +1,416 @@
+{
+  "dia": 66,
+  "data": "2027-03-07",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 23–26",
+    "en": "Deuteronomy 23–26",
+    "es": "Deuteronomio 23–26"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 23,
+      "chapter_end": 26
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 26,
+    "verse_start": 18,
+    "verse_end": 19,
+    "referencia": {
+      "pt": "Deuteronômio 26:18-19",
+      "en": "Deuteronomy 26:18-19",
+      "es": "Deuteronomio 26:18-19"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_066.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_066.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_066.mp3",
+      "versiculo_central": "audio/en/verses/day_066.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_066.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_066.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 23–26 — Santidade, Gratidão e Aliança",
+      "contexto": "Deuteronômio 23 a 26 apresenta orientações sobre santidade comunitária, votos, justiça nas relações, cuidado com o vulnerável, primícias e confissão da aliança. A vida do povo deveria expressar pureza, misericórdia, gratidão e consciência de pertencer ao Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Santidade no meio do povo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 25
+          },
+          "comentario": "As instruções sobre a assembleia, o acampamento, votos e relações sociais mostram que a presença de Deus exigia reverência e pureza.",
+          "aplicacao": "A presença do Senhor deve moldar tanto a vida interior quanto atitudes práticas no convívio diário."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justiça e cuidado com o vulnerável",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 19
+          },
+          "comentario": "As leis protegem trabalhadores, estrangeiros, órfãos, viúvas e pessoas em situação de fragilidade.",
+          "aplicacao": "A fidelidade a Deus se manifesta em justiça, compaixão e cuidado por quem precisa de proteção."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Primícias, memória e compromisso com a aliança",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 19
+          },
+          "comentario": "Ao trazer as primícias, o povo confessava a história da redenção e renovava o compromisso de obedecer ao Senhor.",
+          "aplicacao": "Gratidão verdadeira reconhece que tudo vem de Deus e responde com entrega, generosidade e obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Miquéias 6:8",
+            "nota": "Resume o chamado a praticar justiça, amar a misericórdia e andar humildemente com Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "Tiago 1:27",
+            "nota": "Apresenta a religião pura como cuidado dos vulneráveis e vida sem corrupção."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica ao povo de Cristo a identidade de povo escolhido e pertencente a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha vida cotidiana reconhece a presença santa de Deus?",
+        "Tenho cuidado de pessoas vulneráveis com justiça e misericórdia?",
+        "Minha gratidão a Deus se traduz em entrega e obediência?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 26:18-19 resume a identidade da aliança: o povo pertence ao Senhor e é chamado a viver como povo santo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Deuteronômio 24:17-18",
+          "nota": "Chama o povo a lembrar da redenção e proteger o vulnerável."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 5,
+          "verse_end": 10,
+          "referencia": "Deuteronômio 26:5-10",
+          "nota": "Confessa a história da salvação e a gratidão pelas primícias."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 18,
+          "verse_end": 19,
+          "referencia": "Deuteronômio 26:18-19",
+          "nota": "Reafirma o pertencimento do povo ao Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidade",
+          "significado": "Vida separada para Deus em reverência e obediência."
+        },
+        {
+          "termo": "Primícias",
+          "significado": "Entrega que reconhece Deus como fonte de toda provisão."
+        },
+        {
+          "termo": "Aliança",
+          "significado": "Relacionamento firmado por Deus que chama o povo à fidelidade."
+        }
+      ],
+      "oracao": "Senhor, recebe minha gratidão e transforma minha vida. Que eu caminhe em santidade, pratique misericórdia e viva como alguém que pertence a ti. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 23–26 — Holiness, Gratitude, and Covenant",
+      "contexto": "Deuteronomy 23 to 26 gives instructions about community holiness, vows, justice in relationships, care for the vulnerable, firstfruits, and covenant confession. The life of the people was to express purity, mercy, gratitude, and awareness of belonging to the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Holiness among the people",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 25
+          },
+          "comentario": "The instructions about the assembly, the camp, vows, and social relationships show that God's presence required reverence and purity.",
+          "aplicacao": "The presence of the Lord should shape both inner life and practical attitudes in daily relationships."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justice and care for the vulnerable",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 19
+          },
+          "comentario": "The laws protect workers, foreigners, orphans, widows, and people in situations of weakness.",
+          "aplicacao": "Faithfulness to God is shown in justice, compassion, and care for those who need protection."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Firstfruits, memory, and covenant commitment",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 19
+          },
+          "comentario": "When bringing the firstfruits, the people confessed the history of redemption and renewed their commitment to obey the Lord.",
+          "aplicacao": "True gratitude recognizes that everything comes from God and responds with surrender, generosity, and obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Micah 6:8",
+            "nota": "Summarizes the call to do justice, love mercy, and walk humbly with God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "James 1:27",
+            "nota": "Presents pure religion as care for the vulnerable and a life unstained by corruption."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Peter 2:9-10",
+            "nota": "Applies to Christ's people the identity of a chosen people belonging to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my daily life recognize the holy presence of God?",
+        "Do I care for vulnerable people with justice and mercy?",
+        "Does my gratitude to God become surrender and obedience?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 26:18-19 summarizes covenant identity: the people belong to the Lord and are called to live as a holy people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Deuteronomy 24:17-18",
+          "nota": "Calls the people to remember redemption and protect the vulnerable."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 5,
+          "verse_end": 10,
+          "referencia": "Deuteronomy 26:5-10",
+          "nota": "Confesses the story of salvation and gratitude through the firstfruits."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 18,
+          "verse_end": 19,
+          "referencia": "Deuteronomy 26:18-19",
+          "nota": "Reaffirms the people's belonging to the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holiness",
+          "significado": "Life set apart for God in reverence and obedience."
+        },
+        {
+          "termo": "Firstfruits",
+          "significado": "An offering that recognizes God as the source of all provision."
+        },
+        {
+          "termo": "Covenant",
+          "significado": "A relationship established by God that calls the people to faithfulness."
+        }
+      ],
+      "oracao": "Lord, receive my gratitude and transform my life. May I walk in holiness, practice mercy, and live as someone who belongs to you. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 23–26 — Santidad, Gratitud y Alianza",
+      "contexto": "Deuteronomio 23 al 26 presenta orientaciones sobre santidad comunitaria, votos, justicia en las relaciones, cuidado del vulnerable, primicias y confesión de la alianza. La vida del pueblo debía expresar pureza, misericordia, gratitud y conciencia de pertenecer al Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Santidad en medio del pueblo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 25
+          },
+          "comentario": "Las instrucciones sobre la asamblea, el campamento, los votos y las relaciones sociales muestran que la presencia de Dios exigía reverencia y pureza.",
+          "aplicacao": "La presencia del Señor debe moldear tanto la vida interior como las actitudes prácticas en la convivencia diaria."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justicia y cuidado del vulnerable",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 19
+          },
+          "comentario": "Las leyes protegen a trabajadores, extranjeros, huérfanos, viudas y personas en situación de fragilidad.",
+          "aplicacao": "La fidelidad a Dios se manifiesta en justicia, compasión y cuidado por quienes necesitan protección."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Primicias, memoria y compromiso con la alianza",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 19
+          },
+          "comentario": "Al traer las primicias, el pueblo confesaba la historia de la redención y renovaba el compromiso de obedecer al Señor.",
+          "aplicacao": "La verdadera gratitud reconoce que todo viene de Dios y responde con entrega, generosidad y obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Miqueas 6:8",
+            "nota": "Resume el llamado a practicar justicia, amar misericordia y andar humildemente con Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "Santiago 1:27",
+            "nota": "Presenta la religión pura como cuidado de los vulnerables y vida sin corrupción."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica al pueblo de Cristo la identidad de pueblo escogido y perteneciente a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi vida cotidiana reconoce la presencia santa de Dios?",
+        "¿Cuido de las personas vulnerables con justicia y misericordia?",
+        "¿Mi gratitud a Dios se traduce en entrega y obediencia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 26:18-19 resume la identidad de la alianza: el pueblo pertenece al Señor y es llamado a vivir como pueblo santo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 24,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Deuteronomio 24:17-18",
+          "nota": "Llama al pueblo a recordar la redención y proteger al vulnerable."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 5,
+          "verse_end": 10,
+          "referencia": "Deuteronomio 26:5-10",
+          "nota": "Confiesa la historia de la salvación y la gratitud por las primicias."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 26,
+          "verse_start": 18,
+          "verse_end": 19,
+          "referencia": "Deuteronomio 26:18-19",
+          "nota": "Reafirma la pertenencia del pueblo al Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidad",
+          "significado": "Vida apartada para Dios en reverencia y obediencia."
+        },
+        {
+          "termo": "Primicias",
+          "significado": "Entrega que reconoce a Dios como fuente de toda provisión."
+        },
+        {
+          "termo": "Alianza",
+          "significado": "Relación establecida por Dios que llama al pueblo a la fidelidad."
+        }
+      ],
+      "oracao": "Señor, recibe mi gratitud y transforma mi vida. Que camine en santidad, practique misericordia y viva como alguien que pertenece a ti. Amén."
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "dia": 7,
+  "data": "2027-01-07",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 20–22",
+    "en": "Genesis 20–22",
+    "es": "Génesis 20–22"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 20,
+      "chapter_end": 22
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 22,
+    "verse_start": 14,
+    "verse_end": 14,
+    "referencia": {
+      "pt": "Gênesis 22:14",
+      "en": "Genesis 22:14",
+      "es": "Génesis 22:14"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_007.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_007.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/007/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/022.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/007/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/022.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/007/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/022.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/007/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/022.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_007.mp3",
+      "versiculo_central": "audio/en/verses/day_007.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/007/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/en/en-US-AriaNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/en/en-US-AriaNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/en/en-US-AriaNeural/022.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/007/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/en/en-US-JennyNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/en/en-US-JennyNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/en/en-US-JennyNeural/022.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/007/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/en/en-US-GuyNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/en/en-US-GuyNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/en/en-US-GuyNeural/022.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/007/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/en/en-US-BrianNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/en/en-US-BrianNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/en/en-US-BrianNeural/022.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_007.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_007.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/007/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/es/es-ES-ElviraNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/es/es-ES-ElviraNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/es/es-ES-ElviraNeural/022.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/007/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/es/es-MX-DaliaNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/es/es-MX-DaliaNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/es/es-MX-DaliaNeural/022.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/007/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/es/es-ES-AlvaroNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/es/es-ES-AlvaroNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/es/es-ES-AlvaroNeural/022.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/007/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/007/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/007/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_20": "audio/biblia/GEN/es/es-MX-JorgeNeural/020.m4a",
+          "GEN_21": "audio/biblia/GEN/es/es-MX-JorgeNeural/021.m4a",
+          "GEN_22": "audio/biblia/GEN/es/es-MX-JorgeNeural/022.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 20–22 — Promessa, Provação e Provisão",
+      "contexto": "Gênesis 20 a 22 acompanha Abraão em momentos de fragilidade, promessa cumprida e profunda provação. Deus protege sua promessa, concede o nascimento de Isaque e conduz Abraão a um teste que revela fé, obediência e dependência da provisão divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A promessa preservada apesar da fragilidade humana",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 18
+          },
+          "comentario": "Abraão age com medo, mas Deus intervém para preservar Sara e proteger a continuidade da promessa. A fidelidade do Senhor não depende da perfeição humana.",
+          "aplicacao": "Nossas falhas devem nos levar ao arrependimento e à confiança na graça de Deus, não à acomodação no erro."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O nascimento de Isaque e o cuidado de Deus",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 34
+          },
+          "comentario": "O nascimento de Isaque confirma que Deus cumpre sua palavra no tempo determinado. O cuidado dado a Hagar e Ismael também revela que o Senhor vê a aflição dos que sofrem.",
+          "aplicacao": "A espera em Deus não é vazia. Ele cumpre suas promessas e continua atento às dores humanas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A provação de Abraão e a provisão do Senhor",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 24
+          },
+          "comentario": "Abraão é chamado a entregar aquilo que recebeu pela promessa. No momento decisivo, Deus provê e reafirma que a fé verdadeira se expressa em obediência.",
+          "aplicacao": "A confiança em Deus se revela quando entregamos a Ele o que é mais precioso, crendo que sua provisão é suficiente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Salmos 34:8-10",
+            "nota": "Afirma a bondade e a provisão do Senhor para os que o buscam."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Hebreus 11:17-19",
+            "nota": "Interpreta a entrega de Isaque como expressão de fé na promessa de Deus."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "Tiago 2:21-23",
+            "nota": "Relaciona a obediência de Abraão à fé que se torna visível em obras."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Confio na fidelidade de Deus mesmo quando minhas limitações aparecem?",
+        "Tenho aprendido a esperar o tempo do Senhor sem perder a fé?",
+        "Estou disposto a entregar a Deus aquilo que considero mais precioso?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 22:14 resume o centro da leitura: no lugar da provação, Deus revela sua provisão e confirma sua fidelidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Gênesis 21:1",
+          "nota": "Mostra o cumprimento da promessa no nascimento de Isaque."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 19,
+          "referencia": "Gênesis 21:17-19",
+          "nota": "Revela o cuidado de Deus por Hagar e Ismael."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Gênesis 22:14",
+          "nota": "Aponta para a provisão divina no momento da obediência."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Provisão",
+          "significado": "O cuidado de Deus que supre no tempo e do modo determinados por Ele."
+        },
+        {
+          "termo": "Provação",
+          "significado": "Situação em que a fé é examinada e amadurecida diante de Deus."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta de fé que confia na palavra de Deus acima das circunstâncias."
+        }
+      ],
+      "oracao": "Senhor, fortalece minha fé para confiar em ti nas promessas, nas esperas e nas provações. Ensina-me a obedecer com reverência e a descansar na tua provisão. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 20–22 — Promise, Testing, and Provision",
+      "contexto": "Genesis 20 to 22 follows Abraham through moments of weakness, fulfilled promise, and deep testing. God protects his promise, grants the birth of Isaac, and leads Abraham into a test that reveals faith, obedience, and dependence on divine provision.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The promise preserved despite human weakness",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 18
+          },
+          "comentario": "Abraham acts out of fear, but God intervenes to preserve Sarah and protect the continuity of the promise. The Lord's faithfulness does not depend on human perfection.",
+          "aplicacao": "Our failures should lead us to repentance and trust in God's grace, not to comfort with what is wrong."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The birth of Isaac and God's care",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 34
+          },
+          "comentario": "Isaac's birth confirms that God fulfills his word at the appointed time. The care given to Hagar and Ishmael also reveals that the Lord sees the affliction of those who suffer.",
+          "aplicacao": "Waiting on God is not empty. He fulfills his promises and remains attentive to human pain."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Abraham's test and the Lord's provision",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 24
+          },
+          "comentario": "Abraham is called to surrender what he received through the promise. At the decisive moment, God provides and reaffirms that true faith is expressed in obedience.",
+          "aplicacao": "Trust in God is revealed when we surrender to him what is most precious, believing that his provision is sufficient."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Psalm 34:8-10",
+            "nota": "Affirms the Lord's goodness and provision for those who seek him."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Hebrews 11:17-19",
+            "nota": "Interprets the offering of Isaac as an expression of faith in God's promise."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "James 2:21-23",
+            "nota": "Connects Abraham's obedience with faith made visible through works."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I trust God's faithfulness even when my limitations appear?",
+        "Am I learning to wait for the Lord's timing without losing faith?",
+        "Am I willing to surrender to God what I consider most precious?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 22:14 summarizes the center of the reading: in the place of testing, God reveals his provision and confirms his faithfulness."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Genesis 21:1",
+          "nota": "Shows the fulfillment of the promise in Isaac's birth."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 19,
+          "referencia": "Genesis 21:17-19",
+          "nota": "Reveals God's care for Hagar and Ishmael."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Genesis 22:14",
+          "nota": "Points to divine provision in the moment of obedience."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Provision",
+          "significado": "God's care that supplies in his appointed time and way."
+        },
+        {
+          "termo": "Testing",
+          "significado": "A situation in which faith is examined and matured before God."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "A response of faith that trusts God's word above circumstances."
+        }
+      ],
+      "oracao": "Lord, strengthen my faith to trust you in promises, waiting, and testing. Teach me to obey with reverence and rest in your provision. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 20–22 — Promesa, Prueba y Provisión",
+      "contexto": "Génesis 20 al 22 acompaña a Abraham en momentos de fragilidad, promesa cumplida y profunda prueba. Dios protege su promesa, concede el nacimiento de Isaac y conduce a Abraham a una prueba que revela fe, obediencia y dependencia de la provisión divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La promesa preservada a pesar de la fragilidad humana",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 18
+          },
+          "comentario": "Abraham actúa con miedo, pero Dios interviene para preservar a Sara y proteger la continuidad de la promesa. La fidelidad del Señor no depende de la perfección humana.",
+          "aplicacao": "Nuestras fallas deben llevarnos al arrepentimiento y a confiar en la gracia de Dios, no a acomodarnos en el error."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El nacimiento de Isaac y el cuidado de Dios",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 34
+          },
+          "comentario": "El nacimiento de Isaac confirma que Dios cumple su palabra en el tiempo señalado. El cuidado dado a Agar e Ismael también revela que el Señor ve la aflicción de los que sufren.",
+          "aplicacao": "Esperar en Dios no es vacío. Él cumple sus promesas y permanece atento al dolor humano."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La prueba de Abraham y la provisión del Señor",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 24
+          },
+          "comentario": "Abraham es llamado a entregar aquello que recibió por la promesa. En el momento decisivo, Dios provee y reafirma que la fe verdadera se expresa en obediencia.",
+          "aplicacao": "La confianza en Dios se revela cuando le entregamos lo más precioso, creyendo que su provisión es suficiente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Salmos 34:8-10",
+            "nota": "Afirma la bondad y la provisión del Señor para quienes lo buscan."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Hebreos 11:17-19",
+            "nota": "Interpreta la entrega de Isaac como expresión de fe en la promesa de Dios."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "Santiago 2:21-23",
+            "nota": "Relaciona la obediencia de Abraham con la fe que se hace visible en obras."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Confío en la fidelidad de Dios incluso cuando aparecen mis limitaciones?",
+        "¿Estoy aprendiendo a esperar el tiempo del Señor sin perder la fe?",
+        "¿Estoy dispuesto a entregar a Dios aquello que considero más precioso?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 22:14 resume el centro de la lectura: en el lugar de la prueba, Dios revela su provisión y confirma su fidelidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Génesis 21:1",
+          "nota": "Muestra el cumplimiento de la promesa en el nacimiento de Isaac."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 19,
+          "referencia": "Génesis 21:17-19",
+          "nota": "Revela el cuidado de Dios por Agar e Ismael."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 22,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Génesis 22:14",
+          "nota": "Señala la provisión divina en el momento de la obediencia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Provisión",
+          "significado": "El cuidado de Dios que suple en el tiempo y de la manera determinados por Él."
+        },
+        {
+          "termo": "Prueba",
+          "significado": "Situación en la que la fe es examinada y madurada delante de Dios."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta de fe que confía en la palabra de Dios por encima de las circunstancias."
+        }
+      ],
+      "oracao": "Señor, fortalece mi fe para confiar en ti en las promesas, las esperas y las pruebas. Enséñame a obedecer con reverencia y a descansar en tu provisión. Amén."
+    }
+  }
+}

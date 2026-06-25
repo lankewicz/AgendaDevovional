@@ -1,0 +1,440 @@
+{
+  "dia": 88,
+  "data": "2027-03-29",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 10–13",
+    "en": "1 Samuel 10–13",
+    "es": "1 Samuel 10–13"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 10,
+      "chapter_end": 13
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 12,
+    "verse_start": 24,
+    "verse_end": 24,
+    "referencia": {
+      "pt": "1 Samuel 12:24",
+      "en": "1 Samuel 12:24",
+      "es": "1 Samuel 12:24"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_088.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_088.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_088.mp3",
+      "versiculo_central": "audio/en/verses/day_088.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_088.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_088.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 10–13 — Chamado, Liderança e Obediência",
+      "contexto": "1 Samuel 10 a 13 acompanha o início do reinado de Saul. Ele é ungido, confirmado diante do povo e usado para trazer livramento, mas logo aparece a fragilidade de uma liderança que precisa depender da Palavra do Senhor. O texto mostra que posição sem obediência não sustenta uma vocação diante de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saul é ungido e apresentado ao povo",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 27
+          },
+          "comentario": "Samuel unge Saul e Deus confirma sua escolha por sinais. Ainda assim, o novo rei demonstra hesitação, e a monarquia nasce sob a necessidade de submissão ao Senhor.",
+          "aplicacao": "Todo chamado precisa ser vivido com humildade, dependência e disposição para obedecer a Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A vitória sobre os amonitas e a renovação do reino",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 25
+          },
+          "comentario": "Saul conduz Israel em livramento, e Samuel relembra ao povo que o rei e a nação continuam responsáveis diante do Senhor. A fidelidade deve permanecer no centro da vida nacional.",
+          "aplicacao": "As vitórias recebidas não devem produzir autossuficiência, mas temor, gratidão e serviço fiel ao Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A impaciência de Saul e o custo da desobediência",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 23
+          },
+          "comentario": "Diante da pressão, Saul age sem esperar a orientação de Samuel. Sua atitude revela um coração mais preocupado com circunstâncias imediatas do que com a obediência ao Senhor.",
+          "aplicacao": "A fé é testada na espera. Pressão não justifica desobedecer aquilo que Deus já ordenou."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Deuteronômio 17:18-20",
+            "nota": "Ensina que o rei deveria governar debaixo da Palavra, com temor e humildade."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Salmos 37:7",
+            "nota": "Chama o povo a descansar no Senhor e esperar nele com paciência."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Atos 13:21-22",
+            "nota": "Recorda Saul e aponta para Davi como homem segundo o coração de Deus."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Tiago 1:4",
+            "nota": "Mostra que a perseverança deve amadurecer o caráter do servo de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho servido a Deus com temor ou apenas confiado em posição e capacidade?",
+        "Como reajo quando preciso esperar pela direção do Senhor?",
+        "Minhas decisões sob pressão revelam fé ou autossuficiência?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 12:24 resume a orientação espiritual para o rei e para o povo: temer ao Senhor, servi-lo fielmente e lembrar suas grandes obras."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 10,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 10:6",
+          "nota": "Mostra a capacitação de Saul para o chamado recebido."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 12,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "1 Samuel 12:24",
+          "nota": "Resume a resposta esperada do povo diante da bondade do Senhor."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 13,
+          "verse_start": 13,
+          "verse_end": 14,
+          "referencia": "1 Samuel 13:13-14",
+          "nota": "Revela a gravidade da desobediência de Saul."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Chamado",
+          "significado": "Responsabilidade recebida de Deus para servir com humildade e fidelidade."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta prática de submissão à Palavra do Senhor."
+        },
+        {
+          "termo": "Espera",
+          "significado": "Confiança perseverante em Deus, mesmo quando há pressão e incerteza."
+        }
+      ],
+      "oracao": "Senhor, guarda-me da impaciência e da autossuficiência. Ajuda-me a servir com temor, lembrar tuas obras e obedecer à tua Palavra mesmo sob pressão. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 10–13 — Calling, Leadership, and Obedience",
+      "contexto": "1 Samuel 10 to 13 follows the beginning of Saul’s reign. He is anointed, confirmed before the people, and used to bring deliverance, yet the weakness of leadership that must depend on the Lord’s Word soon appears. The text shows that position without obedience cannot sustain a calling before God.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saul is anointed and presented to the people",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 27
+          },
+          "comentario": "Samuel anoints Saul, and God confirms his choice through signs. Even so, the new king shows hesitation, and monarchy begins under the need for submission to the Lord.",
+          "aplicacao": "Every calling must be lived with humility, dependence, and willingness to obey God."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Victory over the Ammonites and the renewal of the kingdom",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 25
+          },
+          "comentario": "Saul leads Israel into deliverance, and Samuel reminds the people that both king and nation remain accountable before the Lord. Faithfulness must stay at the center of national life.",
+          "aplicacao": "Victories received should not produce self-reliance, but fear, gratitude, and faithful service to the Lord."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Saul’s impatience and the cost of disobedience",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 23
+          },
+          "comentario": "Under pressure, Saul acts without waiting for Samuel’s direction. His attitude reveals a heart more concerned with immediate circumstances than obedience to the Lord.",
+          "aplicacao": "Faith is tested in waiting. Pressure does not justify disobeying what God has already commanded."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Deuteronomy 17:18-20",
+            "nota": "Teaches that the king was to govern under the Word, with fear and humility."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Psalm 37:7",
+            "nota": "Calls the people to rest in the Lord and wait patiently for him."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Acts 13:21-22",
+            "nota": "Recalls Saul and points to David as a man after God’s heart."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "James 1:4",
+            "nota": "Shows that perseverance should mature the character of God’s servant."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I serve God with reverence or merely rely on position and ability?",
+        "How do I respond when I need to wait for the Lord’s direction?",
+        "Do my decisions under pressure reveal faith or self-reliance?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 12:24 summarizes the spiritual direction for both king and people: fear the Lord, serve him faithfully, and remember his great works."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 10,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 10:6",
+          "nota": "Shows Saul being empowered for the calling he received."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 12,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "1 Samuel 12:24",
+          "nota": "Summarizes the response expected from the people before the Lord’s goodness."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 13,
+          "verse_start": 13,
+          "verse_end": 14,
+          "referencia": "1 Samuel 13:13-14",
+          "nota": "Reveals the seriousness of Saul’s disobedience."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Calling",
+          "significado": "A responsibility received from God to serve with humility and faithfulness."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "The practical response of submission to the Lord’s Word."
+        },
+        {
+          "termo": "Waiting",
+          "significado": "Persevering trust in God, even under pressure and uncertainty."
+        }
+      ],
+      "oracao": "Lord, guard me from impatience and self-reliance. Help me serve with reverence, remember your works, and obey your Word even under pressure. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 10–13 — Llamado, Liderazgo y Obediencia",
+      "contexto": "1 Samuel 10 al 13 acompaña el comienzo del reinado de Saúl. Él es ungido, confirmado delante del pueblo y usado para traer liberación, pero pronto aparece la fragilidad de un liderazgo que necesita depender de la Palabra del Señor. El texto muestra que una posición sin obediencia no sostiene una vocación delante de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saúl es ungido y presentado al pueblo",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 27
+          },
+          "comentario": "Samuel unge a Saúl, y Dios confirma su elección por medio de señales. Aun así, el nuevo rey muestra vacilación, y la monarquía nace bajo la necesidad de sumisión al Señor.",
+          "aplicacao": "Todo llamado debe vivirse con humildad, dependencia y disposición para obedecer a Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La victoria sobre los amonitas y la renovación del reino",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 25
+          },
+          "comentario": "Saúl conduce a Israel a la liberación, y Samuel recuerda al pueblo que tanto el rey como la nación siguen siendo responsables delante del Señor. La fidelidad debe permanecer en el centro de la vida nacional.",
+          "aplicacao": "Las victorias recibidas no deben producir autosuficiencia, sino temor, gratitud y servicio fiel al Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La impaciencia de Saúl y el costo de la desobediencia",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 23
+          },
+          "comentario": "Ante la presión, Saúl actúa sin esperar la dirección de Samuel. Su actitud revela un corazón más preocupado por las circunstancias inmediatas que por la obediencia al Señor.",
+          "aplicacao": "La fe es probada en la espera. La presión no justifica desobedecer lo que Dios ya ha ordenado."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 18,
+            "verse_end": 20,
+            "referencia": "Deuteronomio 17:18-20",
+            "nota": "Enseña que el rey debía gobernar bajo la Palabra, con temor y humildad."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Salmos 37:7",
+            "nota": "Llama al pueblo a descansar en el Señor y esperar en él con paciencia."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Hechos 13:21-22",
+            "nota": "Recuerda a Saúl y apunta a David como hombre conforme al corazón de Dios."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Santiago 1:4",
+            "nota": "Muestra que la perseverancia debe madurar el carácter del siervo de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Sirvo a Dios con temor o solo confío en posición y capacidad?",
+        "¿Cómo reacciono cuando necesito esperar la dirección del Señor?",
+        "¿Mis decisiones bajo presión revelan fe o autosuficiencia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 12:24 resume la orientación espiritual para el rey y para el pueblo: temer al Señor, servirle fielmente y recordar sus grandes obras."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 10,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 10:6",
+          "nota": "Muestra la capacitación de Saúl para el llamado recibido."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 12,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "1 Samuel 12:24",
+          "nota": "Resume la respuesta esperada del pueblo ante la bondad del Señor."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 13,
+          "verse_start": 13,
+          "verse_end": 14,
+          "referencia": "1 Samuel 13:13-14",
+          "nota": "Revela la gravedad de la desobediencia de Saúl."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Llamado",
+          "significado": "Responsabilidad recibida de Dios para servir con humildad y fidelidad."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta práctica de sumisión a la Palabra del Señor."
+        },
+        {
+          "termo": "Espera",
+          "significado": "Confianza perseverante en Dios, aun cuando hay presión e incertidumbre."
+        }
+      ],
+      "oracao": "Señor, guárdame de la impaciencia y de la autosuficiencia. Ayúdame a servir con temor, recordar tus obras y obedecer tu Palabra incluso bajo presión. Amén."
+    }
+  }
+}

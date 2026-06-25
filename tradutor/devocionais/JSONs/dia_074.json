@@ -1,0 +1,416 @@
+{
+  "dia": 74,
+  "data": "2027-03-15",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 15–17",
+    "en": "Joshua 15–17",
+    "es": "Josué 15–17"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 15,
+      "chapter_end": 17
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 17,
+    "verse_start": 18,
+    "verse_end": 18,
+    "referencia": {
+      "pt": "Josué 17:18",
+      "en": "Joshua 17:18",
+      "es": "Josué 17:18"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_074.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_074.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_074.mp3",
+      "versiculo_central": "audio/en/verses/day_074.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_074.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_074.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 15–17 — Herança, Responsabilidade e Coragem",
+      "contexto": "Josué 15 a 17 apresenta a distribuição de territórios a Judá, Efraim e Manassés. O texto mostra que a herança recebida do Senhor precisava ser ocupada com responsabilidade. A promessa era real, mas o povo ainda precisava caminhar com coragem, justiça e obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A herança de Judá",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 63
+          },
+          "comentario": "A descrição da porção de Judá mostra que Deus dá lugar, limites e responsabilidade ao seu povo. A terra não é apenas posse, mas vocação recebida do Senhor.",
+          "aplicacao": "Aquilo que Deus confia a nós deve ser tratado com gratidão, zelo e responsabilidade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A herança dos filhos de José",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 6
+          },
+          "comentario": "Efraim e Manassés recebem sua porção, e as filhas de Zelofeade são lembradas no processo. A distribuição mostra cuidado com continuidade, justiça e fidelidade à promessa.",
+          "aplicacao": "Deus se importa com justiça, família, memória e responsabilidade no meio do seu povo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A promessa exige coragem para avançar",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 17,
+            "verse_start": 7,
+            "chapter_end": 17,
+            "verse_end": 18
+          },
+          "comentario": "Os filhos de José reclamam de espaço, mas Josué os chama a agir com coragem. A herança não deveria produzir passividade, mas fé responsável.",
+          "aplicacao": "Receber uma promessa de Deus não significa cruzar os braços; significa avançar com confiança e obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Números 27:1-11",
+            "nota": "Apresenta o pedido das filhas de Zelofeade e a resposta justa do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Efésios 1:11-14",
+            "nota": "Fala da herança espiritual recebida em Cristo."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Hebreus 4:11",
+            "nota": "Exorta o povo de Deus a entrar no descanso com diligência."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Trato com responsabilidade aquilo que Deus colocou em minhas mãos?",
+        "Confio na promessa de Deus sem me tornar passivo?",
+        "Tenho coragem para avançar nas áreas em que ainda preciso obedecer?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 17:18 resume o chamado do bloco: a herança dada por Deus deve ser recebida com coragem, ação e responsabilidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 15,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Josué 15:13",
+          "nota": "Recorda a porção dada a Calebe conforme a palavra do Senhor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Josué 17:4",
+          "nota": "Mostra a preservação da herança das filhas de Zelofeade."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Josué 17:18",
+          "nota": "Chama o povo a avançar com coragem na herança recebida."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herança",
+          "significado": "Porção concedida por Deus e recebida com responsabilidade."
+        },
+        {
+          "termo": "Responsabilidade",
+          "significado": "Compromisso de administrar fielmente aquilo que foi confiado pelo Senhor."
+        },
+        {
+          "termo": "Coragem",
+          "significado": "Disposição de obedecer a Deus mesmo diante de obstáculos concretos."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a receber com gratidão aquilo que tu me confias. Dá-me coragem para agir com responsabilidade e obedecer sem medo. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 15–17 — Inheritance, Responsibility, and Courage",
+      "contexto": "Joshua 15 to 17 presents the distribution of territories to Judah, Ephraim, and Manasseh. The text shows that the inheritance received from the Lord needed to be occupied with responsibility. The promise was real, but the people still needed to walk with courage, justice, and obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The inheritance of Judah",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 63
+          },
+          "comentario": "The description of Judah’s portion shows that God gives his people place, boundaries, and responsibility. The land is not merely possession, but a calling received from the Lord.",
+          "aplicacao": "What God entrusts to us must be treated with gratitude, care, and responsibility."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The inheritance of Joseph’s descendants",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 6
+          },
+          "comentario": "Ephraim and Manasseh receive their portion, and the daughters of Zelophehad are remembered in the process. The distribution shows concern for continuity, justice, and faithfulness to the promise.",
+          "aplicacao": "God cares about justice, family, memory, and responsibility among his people."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The promise calls for courage to advance",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 17,
+            "verse_start": 7,
+            "chapter_end": 17,
+            "verse_end": 18
+          },
+          "comentario": "Joseph’s descendants complain about space, but Joshua calls them to act with courage. The inheritance was not meant to produce passivity, but responsible faith.",
+          "aplicacao": "Receiving a promise from God does not mean standing still; it means advancing with trust and obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Numbers 27:1-11",
+            "nota": "Presents the request of Zelophehad’s daughters and the Lord’s just response."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Ephesians 1:11-14",
+            "nota": "Speaks of the spiritual inheritance received in Christ."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Hebrews 4:11",
+            "nota": "Calls God’s people to enter the rest with diligence."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I handle responsibly what God has placed in my hands?",
+        "Do I trust God’s promise without becoming passive?",
+        "Do I have courage to move forward in the areas where I still need to obey?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 17:18 summarizes the call of the passage: the inheritance given by God must be received with courage, action, and responsibility."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 15,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Joshua 15:13",
+          "nota": "Recalls the portion given to Caleb according to the word of the Lord."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Joshua 17:4",
+          "nota": "Shows the preservation of the inheritance of Zelophehad’s daughters."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Joshua 17:18",
+          "nota": "Calls the people to advance with courage in the inheritance received."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Inheritance",
+          "significado": "A portion given by God and received with responsibility."
+        },
+        {
+          "termo": "Responsibility",
+          "significado": "The commitment to faithfully steward what the Lord has entrusted."
+        },
+        {
+          "termo": "Courage",
+          "significado": "The willingness to obey God even before concrete obstacles."
+        }
+      ],
+      "oracao": "Lord, teach me to receive with gratitude what you entrust to me. Give me courage to act responsibly and obey without fear. Amen."
+    },
+    "es": {
+      "titulo": "Josué 15–17 — Herencia, Responsabilidad y Valentía",
+      "contexto": "Josué 15 al 17 presenta la distribución de territorios a Judá, Efraín y Manasés. El texto muestra que la herencia recibida del Señor debía ser ocupada con responsabilidad. La promesa era real, pero el pueblo todavía necesitaba caminar con valentía, justicia y obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La herencia de Judá",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 63
+          },
+          "comentario": "La descripción de la porción de Judá muestra que Dios da a su pueblo lugar, límites y responsabilidad. La tierra no es solo posesión, sino vocación recibida del Señor.",
+          "aplicacao": "Aquello que Dios nos confía debe ser tratado con gratitud, cuidado y responsabilidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La herencia de los hijos de José",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 6
+          },
+          "comentario": "Efraín y Manasés reciben su porción, y las hijas de Zelofehad son recordadas en el proceso. La distribución muestra cuidado por la continuidad, la justicia y la fidelidad a la promesa.",
+          "aplicacao": "Dios se interesa por la justicia, la familia, la memoria y la responsabilidad en medio de su pueblo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La promesa exige valentía para avanzar",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 17,
+            "verse_start": 7,
+            "chapter_end": 17,
+            "verse_end": 18
+          },
+          "comentario": "Los hijos de José reclaman espacio, pero Josué los llama a actuar con valentía. La herencia no debía producir pasividad, sino fe responsable.",
+          "aplicacao": "Recibir una promesa de Dios no significa quedarse inmóvil; significa avanzar con confianza y obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 27,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Números 27:1-11",
+            "nota": "Presenta la petición de las hijas de Zelofehad y la respuesta justa del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Efesios 1:11-14",
+            "nota": "Habla de la herencia espiritual recibida en Cristo."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Hebreos 4:11",
+            "nota": "Exhorta al pueblo de Dios a entrar en el reposo con diligencia."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato con responsabilidad aquello que Dios puso en mis manos?",
+        "¿Confío en la promesa de Dios sin volverme pasivo?",
+        "¿Tengo valentía para avanzar en las áreas donde todavía necesito obedecer?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 17:18 resume el llamado del bloque: la herencia dada por Dios debe recibirse con valentía, acción y responsabilidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 15,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Josué 15:13",
+          "nota": "Recuerda la porción dada a Caleb conforme a la palabra del Señor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Josué 17:4",
+          "nota": "Muestra la preservación de la herencia de las hijas de Zelofehad."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 17,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Josué 17:18",
+          "nota": "Llama al pueblo a avanzar con valentía en la herencia recibida."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herencia",
+          "significado": "Porción concedida por Dios y recibida con responsabilidad."
+        },
+        {
+          "termo": "Responsabilidad",
+          "significado": "Compromiso de administrar fielmente lo que el Señor confió."
+        },
+        {
+          "termo": "Valentía",
+          "significado": "Disposición de obedecer a Dios aun delante de obstáculos concretos."
+        }
+      ],
+      "oracao": "Señor, enséñame a recibir con gratitud lo que tú me confías. Dame valentía para actuar con responsabilidad y obedecer sin miedo. Amén."
+    }
+  }
+}

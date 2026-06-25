@@ -1,0 +1,560 @@
+{
+  "dia": 30,
+  "data": "2027-01-30",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 30–32",
+    "en": "Exodus 30–32",
+    "es": "Éxodo 30–32"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 30,
+      "chapter_end": 32
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 32,
+    "verse_start": 11,
+    "verse_end": 11,
+    "referencia": {
+      "pt": "Êxodo 32:11",
+      "en": "Exodus 32:11",
+      "es": "Éxodo 32:11"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_030.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_030.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/030/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/032.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/030/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/032.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/030/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/032.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/030/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/032.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_030.mp3",
+      "versiculo_central": "audio/en/verses/day_030.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/030/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/en/en-US-AriaNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/en/en-US-AriaNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/en/en-US-AriaNeural/032.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/030/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/en/en-US-JennyNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/en/en-US-JennyNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/en/en-US-JennyNeural/032.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/030/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/en/en-US-GuyNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/en/en-US-GuyNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/en/en-US-GuyNeural/032.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/030/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/en/en-US-BrianNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/en/en-US-BrianNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/en/en-US-BrianNeural/032.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_030.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_030.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/030/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/es/es-ES-ElviraNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/es/es-ES-ElviraNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/es/es-ES-ElviraNeural/032.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/030/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/es/es-MX-DaliaNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/es/es-MX-DaliaNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/es/es-MX-DaliaNeural/032.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/030/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/es/es-ES-AlvaroNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/es/es-ES-AlvaroNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/es/es-ES-AlvaroNeural/032.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/030/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/030/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/030/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_30": "audio/biblia/EXO/es/es-MX-JorgeNeural/030.m4a",
+          "EXO_31": "audio/biblia/EXO/es/es-MX-JorgeNeural/031.m4a",
+          "EXO_32": "audio/biblia/EXO/es/es-MX-JorgeNeural/032.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 30–32 — Adoração Santa e Intercessão em Meio ao Pecado",
+      "contexto": "Êxodo 30 a 32 une instruções de adoração com a queda espiritual do bezerro de ouro. Enquanto Deus revela detalhes para o serviço santo, o povo se desvia rapidamente. O contraste mostra a seriedade da idolatria e a necessidade de intercessão diante da misericórdia de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Altar do incenso, purificação e unção",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 38
+          },
+          "comentario": "As instruções sobre incenso, lavatório e óleo da unção destacam pureza, oração e consagração. A adoração do povo deveria ser santa diante do Senhor.",
+          "aplicacao": "A proximidade com Deus exige coração purificado, vida consagrada e reverência na adoração."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Serviço capacitado e descanso santo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 18
+          },
+          "comentario": "Deus capacita artesãos para a obra do tabernáculo e reafirma o sinal do sábado. Habilidade, trabalho e descanso pertencem ao Senhor.",
+          "aplicacao": "Os dons recebidos devem servir ao propósito de Deus, e o descanso nos lembra que não somos sustentados apenas por esforço humano."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O bezerro de ouro e a intercessão de Moisés",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 35
+          },
+          "comentario": "O povo troca a glória de Deus por um ídolo visível. Moisés intercede, e o texto revela tanto a gravidade do pecado quanto a misericórdia do Senhor.",
+          "aplicacao": "A idolatria nasce quando tentamos controlar Deus. Precisamos de arrependimento e da graça que nos chama de volta à fidelidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 19,
+            "verse_end": 23,
+            "referencia": "Salmos 106:19-23",
+            "nota": "Recorda o bezerro de ouro e a intercessão de Moisés pelo povo."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 9,
+            "verse_start": 12,
+            "verse_end": 29,
+            "referencia": "Deuteronômio 9:12-29",
+            "nota": "Moisés relembra a rebeldia de Israel e sua intercessão diante do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 39,
+            "verse_end": 41,
+            "referencia": "Atos 7:39-41",
+            "nota": "Relembra a idolatria do bezerro de ouro como rejeição da direção de Deus."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Coríntios 10:6-7",
+            "nota": "Usa esse episódio como advertência contra a idolatria."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Existe algo ocupando o lugar de Deus no meu coração?",
+        "Uso meus dons para a glória do Senhor ou para reconhecimento próprio?",
+        "Tenho buscado arrependimento verdadeiro quando percebo desvio espiritual?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 32:11 destaca a intercessão de Moisés em um momento de grave pecado, apontando para a necessidade de misericórdia e mediação."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 3,
+          "verse_end": 5,
+          "referencia": "Êxodo 31:3-5",
+          "nota": "Mostra Deus capacitando pessoas para servirem com habilidade e sabedoria."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Êxodo 31:13",
+          "nota": "Reafirma o sábado como sinal de santificação."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 32,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Êxodo 32:11",
+          "nota": "Apresenta Moisés intercedendo pelo povo diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatria",
+          "significado": "Troca da glória de Deus por algo criado, controlável ou conveniente."
+        },
+        {
+          "termo": "Intercessão",
+          "significado": "Oração em favor de outros diante de Deus."
+        },
+        {
+          "termo": "Consagração",
+          "significado": "Dedicação da vida e dos dons ao serviço santo do Senhor."
+        }
+      ],
+      "oracao": "Senhor, livra meu coração da idolatria. Purifica minha adoração, usa meus dons para tua glória e conduz-me ao arrependimento sempre que eu me desviar. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 30–32 — Holy Worship and Intercession Amid Sin",
+      "contexto": "Exodus 30 to 32 joins instructions for worship with the spiritual fall of the golden calf. While God reveals details for holy service, the people quickly turn aside. The contrast shows the seriousness of idolatry and the need for intercession before God’s mercy.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The altar of incense, purification, and anointing",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 38
+          },
+          "comentario": "The instructions about incense, the basin, and the anointing oil highlight purity, prayer, and consecration. The worship of the people was to be holy before the Lord.",
+          "aplicacao": "Nearness to God requires a purified heart, a consecrated life, and reverence in worship."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Empowered service and holy rest",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 18
+          },
+          "comentario": "God equips craftsmen for the work of the tabernacle and reaffirms the sign of the Sabbath. Skill, work, and rest belong to the Lord.",
+          "aplicacao": "The gifts we receive should serve God’s purpose, and rest reminds us that we are not sustained by human effort alone."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The golden calf and Moses’ intercession",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 35
+          },
+          "comentario": "The people exchange God’s glory for a visible idol. Moses intercedes, and the text reveals both the gravity of sin and the mercy of the Lord.",
+          "aplicacao": "Idolatry begins when we try to control God. We need repentance and the grace that calls us back to faithfulness."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 19,
+            "verse_end": 23,
+            "referencia": "Psalm 106:19-23",
+            "nota": "Recalls the golden calf and Moses’ intercession for the people."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 9,
+            "verse_start": 12,
+            "verse_end": 29,
+            "referencia": "Deuteronomy 9:12-29",
+            "nota": "Moses remembers Israel’s rebellion and his intercession before the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 39,
+            "verse_end": 41,
+            "referencia": "Acts 7:39-41",
+            "nota": "Recalls the idolatry of the golden calf as rejection of God’s direction."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Corinthians 10:6-7",
+            "nota": "Uses this episode as a warning against idolatry."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Is anything taking God’s place in my heart?",
+        "Do I use my gifts for the Lord’s glory or for personal recognition?",
+        "Do I seek true repentance when I recognize spiritual wandering?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 32:11 highlights Moses’ intercession in a moment of serious sin, pointing to the need for mercy and mediation."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 3,
+          "verse_end": 5,
+          "referencia": "Exodus 31:3-5",
+          "nota": "Shows God equipping people to serve with skill and wisdom."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Exodus 31:13",
+          "nota": "Reaffirms the Sabbath as a sign of sanctification."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 32,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Exodus 32:11",
+          "nota": "Presents Moses interceding for the people before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatry",
+          "significado": "Exchanging God’s glory for something created, controllable, or convenient."
+        },
+        {
+          "termo": "Intercession",
+          "significado": "Prayer on behalf of others before God."
+        },
+        {
+          "termo": "Consecration",
+          "significado": "The dedication of life and gifts to the Lord’s holy service."
+        }
+      ],
+      "oracao": "Lord, deliver my heart from idolatry. Purify my worship, use my gifts for your glory, and lead me to repentance whenever I turn aside. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 30–32 — Adoración Santa e Intercesión en Medio del Pecado",
+      "contexto": "Éxodo 30 al 32 une instrucciones de adoración con la caída espiritual del becerro de oro. Mientras Dios revela detalles para el servicio santo, el pueblo se desvía rápidamente. El contraste muestra la seriedad de la idolatría y la necesidad de intercesión ante la misericordia de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Altar del incienso, purificación y unción",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 38
+          },
+          "comentario": "Las instrucciones sobre el incienso, la fuente y el aceite de la unción destacan pureza, oración y consagración. La adoración del pueblo debía ser santa delante del Señor.",
+          "aplicacao": "La cercanía con Dios exige corazón purificado, vida consagrada y reverencia en la adoración."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Servicio capacitado y descanso santo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 18
+          },
+          "comentario": "Dios capacita a artesanos para la obra del tabernáculo y reafirma la señal del sábado. Habilidad, trabajo y descanso pertenecen al Señor.",
+          "aplicacao": "Los dones recibidos deben servir al propósito de Dios, y el descanso nos recuerda que no somos sostenidos solo por esfuerzo humano."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El becerro de oro y la intercesión de Moisés",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 35
+          },
+          "comentario": "El pueblo cambia la gloria de Dios por un ídolo visible. Moisés intercede, y el texto revela tanto la gravedad del pecado como la misericordia del Señor.",
+          "aplicacao": "La idolatría nace cuando intentamos controlar a Dios. Necesitamos arrepentimiento y la gracia que nos llama de regreso a la fidelidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 19,
+            "verse_end": 23,
+            "referencia": "Salmos 106:19-23",
+            "nota": "Recuerda el becerro de oro y la intercesión de Moisés por el pueblo."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 9,
+            "verse_start": 12,
+            "verse_end": 29,
+            "referencia": "Deuteronomio 9:12-29",
+            "nota": "Moisés recuerda la rebeldía de Israel y su intercesión delante del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 39,
+            "verse_end": 41,
+            "referencia": "Hechos 7:39-41",
+            "nota": "Recuerda la idolatría del becerro de oro como rechazo de la dirección de Dios."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Corintios 10:6-7",
+            "nota": "Usa este episodio como advertencia contra la idolatría."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Hay algo ocupando el lugar de Dios en mi corazón?",
+        "¿Uso mis dones para la gloria del Señor o para reconocimiento personal?",
+        "¿Busco arrepentimiento verdadero cuando percibo desvío espiritual?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 32:11 destaca la intercesión de Moisés en un momento de grave pecado, apuntando a la necesidad de misericordia y mediación."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 3,
+          "verse_end": 5,
+          "referencia": "Éxodo 31:3-5",
+          "nota": "Muestra a Dios capacitando personas para servir con habilidad y sabiduría."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 31,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Éxodo 31:13",
+          "nota": "Reafirma el sábado como señal de santificación."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 32,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Éxodo 32:11",
+          "nota": "Presenta a Moisés intercediendo por el pueblo delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatría",
+          "significado": "Cambio de la gloria de Dios por algo creado, controlable o conveniente."
+        },
+        {
+          "termo": "Intercesión",
+          "significado": "Oración a favor de otros delante de Dios."
+        },
+        {
+          "termo": "Consagración",
+          "significado": "Dedicación de la vida y de los dones al servicio santo del Señor."
+        }
+      ],
+      "oracao": "Señor, libra mi corazón de la idolatría. Purifica mi adoración, usa mis dones para tu gloria y condúceme al arrepentimiento siempre que me desvíe. Amén."
+    }
+  }
+}

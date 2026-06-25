@@ -1,0 +1,500 @@
+{
+  "dia": 11,
+  "data": "2027-01-11",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 29–30",
+    "en": "Genesis 29–30",
+    "es": "Génesis 29–30"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 29,
+      "chapter_end": 30
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 30,
+    "verse_start": 22,
+    "verse_end": 22,
+    "referencia": {
+      "pt": "Gênesis 30:22",
+      "en": "Genesis 30:22",
+      "es": "Génesis 30:22"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_011.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_011.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/011/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/030.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/011/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/030.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/011/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/030.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/011/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/030.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_011.mp3",
+      "versiculo_central": "audio/en/verses/day_011.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/011/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/en/en-US-AriaNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/en/en-US-AriaNeural/030.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/011/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/en/en-US-JennyNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/en/en-US-JennyNeural/030.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/011/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/en/en-US-GuyNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/en/en-US-GuyNeural/030.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/011/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/en/en-US-BrianNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/en/en-US-BrianNeural/030.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_011.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_011.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/011/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/es/es-ES-ElviraNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/es/es-ES-ElviraNeural/030.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/011/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/es/es-MX-DaliaNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/es/es-MX-DaliaNeural/030.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/011/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/es/es-ES-AlvaroNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/es/es-ES-AlvaroNeural/030.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/011/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/011/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/011/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_29": "audio/biblia/GEN/es/es-MX-JorgeNeural/029.m4a",
+          "GEN_30": "audio/biblia/GEN/es/es-MX-JorgeNeural/030.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 29–30 — Família, Espera e Misericórdia",
+      "contexto": "Gênesis 29 e 30 acompanha Jacó na casa de Labão. O texto mostra trabalho, engano, disputas familiares, dor e espera. Apesar das tensões humanas, Deus vê os aflitos, abre caminhos e continua conduzindo a linhagem da promessa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jacó trabalha e é enganado",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 30
+          },
+          "comentario": "Jacó chega à casa de Labão, trabalha por Raquel e experimenta o peso do engano que também havia praticado.",
+          "aplicacao": "Deus usa processos difíceis para revelar o coração e formar caráter."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A dor dentro da família",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 31,
+            "chapter_end": 30,
+            "verse_end": 13
+          },
+          "comentario": "Lia, Raquel e as servas vivem disputas por amor, filhos e reconhecimento. A família da promessa também carrega feridas reais.",
+          "aplicacao": "Deus conhece dores escondidas e não ignora quem se sente esquecido."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Deus se lembra de Raquel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 30,
+            "verse_start": 14,
+            "chapter_end": 30,
+            "verse_end": 43
+          },
+          "comentario": "A narrativa mostra rivalidade e crescimento da família, mas também destaca que Deus ouve e age no tempo certo.",
+          "aplicacao": "A espera não significa abandono. O Senhor se lembra, sustenta e conduz sua promessa."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 1,
+            "verse_start": 10,
+            "verse_end": 20,
+            "referencia": "1 Samuel 1:10-20",
+            "nota": "Mostra outra mulher aflita sendo lembrada por Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 46,
+            "verse_end": 55,
+            "referencia": "Lucas 1:46-55",
+            "nota": "Maria louva o Deus que vê os humildes e cumpre suas promessas."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho permitido que Deus forme meu caráter em processos demorados?",
+        "Levo minhas dores ao Senhor com sinceridade?",
+        "Confio que Deus age mesmo quando a família ou as circunstâncias parecem confusas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 30:22 mostra que Deus vê a aflição e age em favor de sua promessa no tempo certo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Gênesis 29:20",
+          "nota": "Mostra a disposição de Jacó em servir por Raquel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Gênesis 29:31",
+          "nota": "Revela que Deus viu a situação de Lia."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 30,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Gênesis 30:22",
+          "nota": "Destaca Deus se lembrando de Raquel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Espera",
+          "significado": "Tempo em que a fé é exercitada antes da resposta visível."
+        },
+        {
+          "termo": "Misericórdia",
+          "significado": "Cuidado de Deus por pessoas aflitas e esquecidas."
+        },
+        {
+          "termo": "Família",
+          "significado": "Ambiente real de bênçãos, tensões, formação e dependência de Deus."
+        }
+      ],
+      "oracao": "Senhor, lembra-te de mim em minhas esperas e dores. Forma meu caráter, guarda meus relacionamentos e ajuda-me a confiar na tua misericórdia. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 29–30 — Family, Waiting, and Mercy",
+      "contexto": "Genesis 29 and 30 follows Jacob in Laban's house. The text shows work, deception, family disputes, pain, and waiting. Despite human tensions, God sees the afflicted, opens paths, and continues leading the line of promise.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jacob works and is deceived",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 30
+          },
+          "comentario": "Jacob arrives at Laban's house, works for Rachel, and experiences the weight of deception that he himself had practiced.",
+          "aplicacao": "God uses difficult processes to reveal the heart and form character."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pain within the family",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 31,
+            "chapter_end": 30,
+            "verse_end": 13
+          },
+          "comentario": "Leah, Rachel, and the servants live through disputes over love, children, and recognition. The family of promise also carries real wounds.",
+          "aplicacao": "God knows hidden pain and does not ignore those who feel forgotten."
+        },
+        {
+          "ordem": 3,
+          "titulo": "God remembers Rachel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 30,
+            "verse_start": 14,
+            "chapter_end": 30,
+            "verse_end": 43
+          },
+          "comentario": "The narrative shows rivalry and the growth of the family, but also highlights that God hears and acts at the right time.",
+          "aplicacao": "Waiting does not mean abandonment. The Lord remembers, sustains, and guides his promise."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 1,
+            "verse_start": 10,
+            "verse_end": 20,
+            "referencia": "1 Samuel 1:10-20",
+            "nota": "Shows another afflicted woman being remembered by God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 46,
+            "verse_end": 55,
+            "referencia": "Luke 1:46-55",
+            "nota": "Mary praises the God who sees the humble and fulfills his promises."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I allowed God to form my character through long processes?",
+        "Do I bring my pain to the Lord with honesty?",
+        "Do I trust that God acts even when family or circumstances seem confused?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 30:22 shows that God sees affliction and acts for his promise at the right time."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Genesis 29:20",
+          "nota": "Shows Jacob's willingness to serve for Rachel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Genesis 29:31",
+          "nota": "Reveals that God saw Leah's situation."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 30,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Genesis 30:22",
+          "nota": "Highlights God remembering Rachel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Waiting",
+          "significado": "A time in which faith is exercised before the visible answer."
+        },
+        {
+          "termo": "Mercy",
+          "significado": "God's care for afflicted and forgotten people."
+        },
+        {
+          "termo": "Family",
+          "significado": "A real environment of blessings, tensions, formation, and dependence on God."
+        }
+      ],
+      "oracao": "Lord, remember me in my waiting and pain. Form my character, guard my relationships, and help me trust your mercy. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 29–30 — Familia, Espera y Misericordia",
+      "contexto": "Génesis 29 y 30 acompaña a Jacob en la casa de Labán. El texto muestra trabajo, engaño, disputas familiares, dolor y espera. A pesar de las tensiones humanas, Dios ve a los afligidos, abre caminos y sigue conduciendo la línea de la promesa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jacob trabaja y es engañado",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 30
+          },
+          "comentario": "Jacob llega a la casa de Labán, trabaja por Raquel y experimenta el peso del engaño que también había practicado.",
+          "aplicacao": "Dios usa procesos difíciles para revelar el corazón y formar carácter."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El dolor dentro de la familia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 29,
+            "verse_start": 31,
+            "chapter_end": 30,
+            "verse_end": 13
+          },
+          "comentario": "Lea, Raquel y las siervas viven disputas por amor, hijos y reconocimiento. La familia de la promesa también lleva heridas reales.",
+          "aplicacao": "Dios conoce los dolores ocultos y no ignora a quien se siente olvidado."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Dios se acuerda de Raquel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 30,
+            "verse_start": 14,
+            "chapter_end": 30,
+            "verse_end": 43
+          },
+          "comentario": "La narración muestra rivalidad y crecimiento familiar, pero también destaca que Dios escucha y actúa en el tiempo correcto.",
+          "aplicacao": "La espera no significa abandono. El Señor recuerda, sostiene y conduce su promesa."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 1,
+            "verse_start": 10,
+            "verse_end": 20,
+            "referencia": "1 Samuel 1:10-20",
+            "nota": "Muestra a otra mujer afligida siendo recordada por Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 46,
+            "verse_end": 55,
+            "referencia": "Lucas 1:46-55",
+            "nota": "María alaba al Dios que ve a los humildes y cumple sus promesas."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He permitido que Dios forme mi carácter en procesos largos?",
+        "¿Llevo mis dolores al Señor con sinceridad?",
+        "¿Confío en que Dios actúa aun cuando la familia o las circunstancias parecen confusas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 30:22 muestra que Dios ve la aflicción y actúa a favor de su promesa en el tiempo correcto."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Génesis 29:20",
+          "nota": "Muestra la disposición de Jacob para servir por Raquel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 29,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Génesis 29:31",
+          "nota": "Revela que Dios vio la situación de Lea."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 30,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Génesis 30:22",
+          "nota": "Destaca que Dios se acordó de Raquel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Espera",
+          "significado": "Tiempo en que la fe se ejercita antes de la respuesta visible."
+        },
+        {
+          "termo": "Misericordia",
+          "significado": "Cuidado de Dios por personas afligidas y olvidadas."
+        },
+        {
+          "termo": "Familia",
+          "significado": "Ambiente real de bendiciones, tensiones, formación y dependencia de Dios."
+        }
+      ],
+      "oracao": "Señor, acuérdate de mí en mis esperas y dolores. Forma mi carácter, guarda mis relaciones y ayúdame a confiar en tu misericordia. Amén."
+    }
+  }
+}

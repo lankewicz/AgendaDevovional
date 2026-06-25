@@ -1,0 +1,440 @@
+{
+  "dia": 94,
+  "data": "2027-04-04",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 28–31",
+    "en": "1 Samuel 28–31",
+    "es": "1 Samuel 28–31"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 28,
+      "chapter_end": 31
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 30,
+    "verse_start": 6,
+    "verse_end": 6,
+    "referencia": {
+      "pt": "1 Samuel 30:6",
+      "en": "1 Samuel 30:6",
+      "es": "1 Samuel 30:6"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_094.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_094.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_094.mp3",
+      "versiculo_central": "audio/en/verses/day_094.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_094.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_094.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 28–31 — Crise, Fraqueza Humana e Força no Senhor",
+      "contexto": "1 Samuel 28 a 31 encerra a trajetória de Saul e prepara a transição para o reinado de Davi. Saul busca direção fora da vontade de Deus, Davi enfrenta perda e angústia, e Israel sofre derrota. Em meio à crise, a diferença central aparece: Davi encontra força no Senhor, enquanto Saul termina distante da obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saul procura direção longe do Senhor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 25
+          },
+          "comentario": "Diante do medo, Saul procura uma prática proibida em vez de se humilhar diante de Deus. Sua decisão revela o fim trágico de uma liderança marcada pela desobediência.",
+          "aplicacao": "Em tempos de temor, não devemos buscar atalhos espirituais, mas voltar com sinceridade ao Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Davi é preservado e depois enfrenta grande perda",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 31
+          },
+          "comentario": "Davi é afastado da batalha contra Israel e retorna para encontrar Ziclague destruída. Mesmo angustiado, ele se fortalece em Deus e busca direção antes de agir.",
+          "aplicacao": "A fé não elimina lágrimas, mas ensina onde encontrar força quando tudo parece perdido."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A morte de Saul e o fim de uma etapa",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 13
+          },
+          "comentario": "A derrota de Israel e a morte de Saul mostram as consequências de uma vida que resistiu repetidamente à Palavra do Senhor. O livro termina com dor, mas também abre caminho para uma nova fase na história de Israel.",
+          "aplicacao": "A obediência diária importa, pois escolhas repetidas moldam o rumo de uma vida inteira."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 10,
+            "verse_start": 13,
+            "verse_end": 14,
+            "referencia": "1 Crônicas 10:13-14",
+            "nota": "Interpreta a morte de Saul à luz de sua infidelidade ao Senhor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Salmos 18:1-6",
+            "nota": "Expressa a confiança de Davi no Senhor como força e libertador."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Tiago 5:13",
+            "nota": "Ensina que, no sofrimento, o caminho adequado é buscar a Deus em oração."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Coríntios 12:9-10",
+            "nota": "Mostra que a força de Deus se aperfeiçoa na fraqueza humana."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Em momentos de medo, busco Deus ou procuro atalhos perigosos?",
+        "Sei me fortalecer no Senhor quando enfrento perdas?",
+        "Minhas escolhas diárias têm me aproximado da obediência ou da resistência à Palavra?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 30:6 mostra Davi no ponto de maior angústia, encontrando força no Senhor antes de agir. Esse contraste ilumina todo o bloco."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 28,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 28:6",
+          "nota": "Mostra a angústia de Saul diante do silêncio e da crise."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 30,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 30:6",
+          "nota": "Apresenta Davi se fortalecendo no Senhor em meio à perda."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 31,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 31:6",
+          "nota": "Marca o fim trágico de Saul e de sua casa naquela batalha."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Crise",
+          "significado": "Momento de pressão que revela onde o coração procura segurança."
+        },
+        {
+          "termo": "Fortalecer-se no Senhor",
+          "significado": "Buscar em Deus coragem, direção e firmeza quando os recursos humanos se esgotam."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta fiel à Palavra de Deus, mesmo em tempos de medo ou incerteza."
+        }
+      ],
+      "oracao": "Senhor, quando eu estiver fraco, ajuda-me a buscar força em ti. Livra-me de atalhos perigosos e conduz meu coração à obediência, à oração e à confiança. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 28–31 — Crisis, Human Weakness, and Strength in the Lord",
+      "contexto": "1 Samuel 28 to 31 closes Saul's story and prepares the transition to David's reign. Saul seeks guidance outside God's will, David faces loss and distress, and Israel suffers defeat. In the middle of crisis, the central difference appears: David finds strength in the Lord, while Saul ends far from obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saul seeks guidance away from the Lord",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 25
+          },
+          "comentario": "Facing fear, Saul seeks a forbidden practice instead of humbling himself before God. His decision reveals the tragic end of leadership marked by disobedience.",
+          "aplicacao": "In times of fear, we should not seek spiritual shortcuts, but return sincerely to the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David is preserved and then faces great loss",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 31
+          },
+          "comentario": "David is kept away from battle against Israel and returns to find Ziklag destroyed. Though deeply distressed, he strengthens himself in God and seeks direction before acting.",
+          "aplicacao": "Faith does not remove tears, but it teaches where to find strength when everything seems lost."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The death of Saul and the end of a stage",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 13
+          },
+          "comentario": "Israel's defeat and Saul's death show the consequences of a life that repeatedly resisted the word of the Lord. The book ends with pain, yet opens the way for a new stage in Israel's history.",
+          "aplicacao": "Daily obedience matters, because repeated choices shape the direction of an entire life."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 10,
+            "verse_start": 13,
+            "verse_end": 14,
+            "referencia": "1 Chronicles 10:13-14",
+            "nota": "Interprets Saul's death in light of his unfaithfulness to the Lord."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Psalm 18:1-6",
+            "nota": "Expresses David's trust in the Lord as his strength and deliverer."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "James 5:13",
+            "nota": "Teaches that, in suffering, the right path is to seek God in prayer."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Corinthians 12:9-10",
+            "nota": "Shows that God's strength is made perfect in human weakness."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "In moments of fear, do I seek God or look for dangerous shortcuts?",
+        "Do I know how to strengthen myself in the Lord when I face loss?",
+        "Are my daily choices drawing me closer to obedience or to resistance against the Word?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 30:6 shows David at a point of deep distress, finding strength in the Lord before acting. This contrast sheds light on the whole passage."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 28,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 28:6",
+          "nota": "Shows Saul's anguish in the face of silence and crisis."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 30,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 30:6",
+          "nota": "Presents David strengthening himself in the Lord amid loss."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 31,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 31:6",
+          "nota": "Marks the tragic end of Saul and his house in that battle."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Crisis",
+          "significado": "A moment of pressure that reveals where the heart seeks security."
+        },
+        {
+          "termo": "Strengthening oneself in the Lord",
+          "significado": "Seeking courage, direction, and firmness in God when human resources are exhausted."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "A faithful response to God's Word, even in times of fear or uncertainty."
+        }
+      ],
+      "oracao": "Lord, when I am weak, help me seek strength in you. Keep me from dangerous shortcuts and lead my heart to obedience, prayer, and trust. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 28–31 — Crisis, Debilidad Humana y Fuerza en el Señor",
+      "contexto": "1 Samuel 28 al 31 cierra la trayectoria de Saúl y prepara la transición hacia el reinado de David. Saúl busca dirección fuera de la voluntad de Dios, David enfrenta pérdida y angustia, e Israel sufre derrota. En medio de la crisis aparece la diferencia central: David encuentra fuerza en el Señor, mientras Saúl termina lejos de la obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Saúl busca dirección lejos del Señor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 25
+          },
+          "comentario": "Ante el miedo, Saúl busca una práctica prohibida en vez de humillarse delante de Dios. Su decisión revela el final trágico de un liderazgo marcado por la desobediencia.",
+          "aplicacao": "En tiempos de temor, no debemos buscar atajos espirituales, sino volver sinceramente al Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David es preservado y luego enfrenta una gran pérdida",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 29,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 31
+          },
+          "comentario": "David es apartado de la batalla contra Israel y vuelve para encontrar Siclag destruida. Aunque está angustiado, se fortalece en Dios y busca dirección antes de actuar.",
+          "aplicacao": "La fe no elimina las lágrimas, pero enseña dónde encontrar fuerza cuando todo parece perdido."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La muerte de Saúl y el fin de una etapa",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 13
+          },
+          "comentario": "La derrota de Israel y la muerte de Saúl muestran las consecuencias de una vida que resistió repetidamente la Palabra del Señor. El libro termina con dolor, pero también abre camino a una nueva etapa en la historia de Israel.",
+          "aplicacao": "La obediencia diaria importa, porque las decisiones repetidas moldean el rumbo de toda una vida."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1CH",
+            "chapter": 10,
+            "verse_start": 13,
+            "verse_end": 14,
+            "referencia": "1 Crónicas 10:13-14",
+            "nota": "Interpreta la muerte de Saúl a la luz de su infidelidad al Señor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Salmos 18:1-6",
+            "nota": "Expresa la confianza de David en el Señor como fuerza y libertador."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Santiago 5:13",
+            "nota": "Enseña que, en el sufrimiento, el camino adecuado es buscar a Dios en oración."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Corintios 12:9-10",
+            "nota": "Muestra que la fuerza de Dios se perfecciona en la debilidad humana."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "En momentos de miedo, ¿busco a Dios o procuro atajos peligrosos?",
+        "¿Sé fortalecerme en el Señor cuando enfrento pérdidas?",
+        "¿Mis decisiones diarias me acercan a la obediencia o a la resistencia contra la Palabra?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 30:6 muestra a David en un punto de profunda angustia, encontrando fuerza en el Señor antes de actuar. Este contraste ilumina todo el bloque."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 28,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 28:6",
+          "nota": "Muestra la angustia de Saúl ante el silencio y la crisis."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 30,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 30:6",
+          "nota": "Presenta a David fortaleciéndose en el Señor en medio de la pérdida."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 31,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 31:6",
+          "nota": "Marca el fin trágico de Saúl y de su casa en aquella batalla."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Crisis",
+          "significado": "Momento de presión que revela dónde busca seguridad el corazón."
+        },
+        {
+          "termo": "Fortalecerse en el Señor",
+          "significado": "Buscar en Dios valor, dirección y firmeza cuando los recursos humanos se agotan."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta fiel a la Palabra de Dios, incluso en tiempos de miedo o incertidumbre."
+        }
+      ],
+      "oracao": "Señor, cuando esté débil, ayúdame a buscar fuerza en ti. Líbrame de atajos peligrosos y conduce mi corazón a la obediencia, la oración y la confianza. Amén."
+    }
+  }
+}

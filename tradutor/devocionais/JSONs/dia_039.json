@@ -1,0 +1,548 @@
+{
+  "dia": 39,
+  "data": "2027-02-08",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 14–15",
+    "en": "Leviticus 14–15",
+    "es": "Levítico 14–15"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 14,
+      "chapter_end": 15
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 14,
+    "verse_start": 20,
+    "verse_end": 20,
+    "referencia": {
+      "pt": "Levítico 14:20",
+      "en": "Leviticus 14:20",
+      "es": "Levítico 14:20"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_039.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_039.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/039/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/015.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/039/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/015.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/039/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/015.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/039/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/015.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_039.mp3",
+      "versiculo_central": "audio/en/verses/day_039.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/039/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/en/en-US-AriaNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/en/en-US-AriaNeural/015.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/039/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/en/en-US-JennyNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/en/en-US-JennyNeural/015.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/039/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/en/en-US-GuyNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/en/en-US-GuyNeural/015.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/039/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/en/en-US-BrianNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/en/en-US-BrianNeural/015.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_039.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_039.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/039/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/es/es-ES-ElviraNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/es/es-ES-ElviraNeural/015.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/039/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/es/es-MX-DaliaNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/es/es-MX-DaliaNeural/015.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/039/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/es/es-ES-AlvaroNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/es/es-ES-AlvaroNeural/015.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/039/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/039/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/039/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_14": "audio/biblia/LEV/es/es-MX-JorgeNeural/014.m4a",
+          "LEV_15": "audio/biblia/LEV/es/es-MX-JorgeNeural/015.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 14–15 — Purificação e Restauração da Comunhão",
+      "contexto": "Levítico 14 e 15 descreve ritos de purificação para pessoas restauradas de impurezas cerimoniais. O foco não é apenas afastamento, mas retorno: Deus abre caminho para que o impuro seja purificado, reintegrado e volte a participar da vida comunitária e da adoração.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O caminho de volta para a comunhão",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 32
+          },
+          "comentario": "A pessoa antes separada podia ser examinada, purificada e reintegrada. O ritual apontava para a misericórdia de Deus ao abrir caminho de restauração.",
+          "aplicacao": "Deus não se alegra com afastamento permanente. Sua graça conduz pessoas quebradas ao retorno, à cura e à comunhão."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Purificação da casa e cuidado do ambiente",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 33,
+            "chapter_end": 14,
+            "verse_end": 57
+          },
+          "comentario": "As casas também eram avaliadas, mostrando que a santidade envolvia o espaço onde o povo vivia. O cuidado espiritual alcançava a vida doméstica e comunitária.",
+          "aplicacao": "A presença de Deus deve influenciar também o ambiente que cultivamos, as práticas da casa e os hábitos compartilhados."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Pureza em áreas íntimas da vida",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 33
+          },
+          "comentario": "As instruções sobre fluxos corporais lembravam Israel de que até áreas privadas da vida estavam diante de Deus e precisavam ser tratadas com respeito e santidade.",
+          "aplicacao": "A fé verdadeira alcança tanto o público quanto o privado. Deus chama seu povo a uma vida íntegra diante dele."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Salmos 51:7-10",
+            "nota": "Expressa o clamor por purificação, coração limpo e restauração diante de Deus."
+          },
+          {
+            "book_id": "EZK",
+            "chapter": 36,
+            "verse_start": 25,
+            "verse_end": 27,
+            "referencia": "Ezequiel 36:25-27",
+            "nota": "Promete purificação e renovação interior pelo agir de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Lucas 5:12-14",
+            "nota": "Jesus purifica um homem enfermo e o envia para testemunho conforme a Lei."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 19,
+            "verse_end": 22,
+            "referencia": "Hebreus 10:19-22",
+            "nota": "Mostra que Cristo abre acesso a Deus com purificação verdadeira do coração."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Creio que Deus pode restaurar áreas que pareciam perdidas?",
+        "Tenho permitido que a santidade alcance minha casa e meus hábitos?",
+        "Minha vida privada está aberta à direção e purificação do Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 14:20 resume o movimento de purificação e restauração, mostrando que Deus provê caminho para o retorno à comunhão."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Levítico 14:7",
+          "nota": "Aponta para a declaração de purificação após o processo de restauração."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Levítico 14:20",
+          "nota": "Resume a reintegração por meio de purificação e expiação."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Levítico 15:31",
+          "nota": "Mostra a seriedade de separar o povo da impureza diante do santuário."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purificação",
+          "significado": "Processo cerimonial que apontava para limpeza e retorno à comunhão."
+        },
+        {
+          "termo": "Reintegração",
+          "significado": "Restauração da participação da pessoa na vida do povo e na adoração."
+        },
+        {
+          "termo": "Integridade",
+          "significado": "Vida inteira, pública e privada, submetida à santidade de Deus."
+        }
+      ],
+      "oracao": "Senhor, restaura em mim o que precisa ser purificado. Que minha casa, meus hábitos e minha vida privada estejam diante de ti em santidade e verdade. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 14–15 — Purification and Restoration of Communion",
+      "contexto": "Leviticus 14 and 15 describes purification rites for people restored from ceremonial uncleanness. The focus is not only separation, but return: God opens a way for the unclean to be purified, reintegrated, and restored to community life and worship.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The way back to communion",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 32
+          },
+          "comentario": "The person who had been separated could be examined, purified, and reintegrated. The rite pointed to God’s mercy in opening a path of restoration.",
+          "aplicacao": "God does not delight in permanent distance. His grace leads broken people toward return, healing, and communion."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Purification of the house and care for the environment",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 33,
+            "chapter_end": 14,
+            "verse_end": 57
+          },
+          "comentario": "Homes were also examined, showing that holiness involved the space where the people lived. Spiritual care reached domestic and community life.",
+          "aplicacao": "God’s presence should influence the environment we cultivate, the practices of the home, and shared habits."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Purity in intimate areas of life",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 33
+          },
+          "comentario": "The instructions about bodily discharges reminded Israel that even private areas of life were before God and had to be treated with respect and holiness.",
+          "aplicacao": "True faith reaches both public and private life. God calls his people to integrity before him."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Psalm 51:7-10",
+            "nota": "Expresses the cry for cleansing, a clean heart, and restoration before God."
+          },
+          {
+            "book_id": "EZK",
+            "chapter": 36,
+            "verse_start": 25,
+            "verse_end": 27,
+            "referencia": "Ezekiel 36:25-27",
+            "nota": "Promises purification and inner renewal by God’s action."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Luke 5:12-14",
+            "nota": "Jesus cleanses a sick man and sends him as a testimony according to the Law."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 19,
+            "verse_end": 22,
+            "referencia": "Hebrews 10:19-22",
+            "nota": "Shows that Christ opens access to God with true purification of the heart."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I believe God can restore areas that seemed lost?",
+        "Have I allowed holiness to reach my home and habits?",
+        "Is my private life open to the Lord’s guidance and purification?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 14:20 summarizes the movement of purification and restoration, showing that God provides a way back to communion."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Leviticus 14:7",
+          "nota": "Points to the declaration of purification after the process of restoration."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Leviticus 14:20",
+          "nota": "Summarizes reintegration through purification and atonement."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Leviticus 15:31",
+          "nota": "Shows the seriousness of separating the people from uncleanness before the sanctuary."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purification",
+          "significado": "A ceremonial process that pointed to cleansing and return to communion."
+        },
+        {
+          "termo": "Reintegration",
+          "significado": "Restoration of a person’s participation in the life of the people and worship."
+        },
+        {
+          "termo": "Integrity",
+          "significado": "The whole life, public and private, submitted to God’s holiness."
+        }
+      ],
+      "oracao": "Lord, restore in me what needs to be purified. May my home, my habits, and my private life stand before you in holiness and truth. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 14–15 — Purificación y Restauración de la Comunión",
+      "contexto": "Levítico 14 y 15 describe ritos de purificación para personas restauradas de impurezas ceremoniales. El enfoque no es solo separación, sino regreso: Dios abre camino para que el impuro sea purificado, reintegrado y vuelva a participar en la vida comunitaria y en la adoración.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El camino de regreso a la comunión",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 32
+          },
+          "comentario": "La persona antes separada podía ser examinada, purificada y reintegrada. El rito apuntaba a la misericordia de Dios al abrir camino de restauración.",
+          "aplicacao": "Dios no se alegra con el alejamiento permanente. Su gracia conduce a las personas quebrantadas al regreso, la sanidad y la comunión."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Purificación de la casa y cuidado del ambiente",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 14,
+            "verse_start": 33,
+            "chapter_end": 14,
+            "verse_end": 57
+          },
+          "comentario": "Las casas también eran evaluadas, mostrando que la santidad incluía el espacio donde el pueblo vivía. El cuidado espiritual alcanzaba la vida doméstica y comunitaria.",
+          "aplicacao": "La presencia de Dios debe influir también en el ambiente que cultivamos, las prácticas del hogar y los hábitos compartidos."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Pureza en áreas íntimas de la vida",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 33
+          },
+          "comentario": "Las instrucciones sobre flujos corporales recordaban a Israel que incluso las áreas privadas de la vida estaban delante de Dios y debían tratarse con respeto y santidad.",
+          "aplicacao": "La fe verdadera alcanza tanto lo público como lo privado. Dios llama a su pueblo a una vida íntegra delante de él."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Salmos 51:7-10",
+            "nota": "Expresa el clamor por purificación, corazón limpio y restauración delante de Dios."
+          },
+          {
+            "book_id": "EZK",
+            "chapter": 36,
+            "verse_start": 25,
+            "verse_end": 27,
+            "referencia": "Ezequiel 36:25-27",
+            "nota": "Promete purificación y renovación interior por la acción de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Lucas 5:12-14",
+            "nota": "Jesús purifica a un hombre enfermo y lo envía como testimonio conforme a la Ley."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 19,
+            "verse_end": 22,
+            "referencia": "Hebreos 10:19-22",
+            "nota": "Muestra que Cristo abre acceso a Dios con verdadera purificación del corazón."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Creo que Dios puede restaurar áreas que parecían perdidas?",
+        "¿He permitido que la santidad alcance mi casa y mis hábitos?",
+        "¿Mi vida privada está abierta a la dirección y purificación del Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 14:20 resume el movimiento de purificación y restauración, mostrando que Dios provee camino para volver a la comunión."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Levítico 14:7",
+          "nota": "Apunta a la declaración de purificación después del proceso de restauración."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 14,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Levítico 14:20",
+          "nota": "Resume la reintegración por medio de purificación y expiación."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "Levítico 15:31",
+          "nota": "Muestra la seriedad de separar al pueblo de la impureza delante del santuario."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purificación",
+          "significado": "Proceso ceremonial que apuntaba a limpieza y regreso a la comunión."
+        },
+        {
+          "termo": "Reintegración",
+          "significado": "Restauración de la participación de la persona en la vida del pueblo y en la adoración."
+        },
+        {
+          "termo": "Integridad",
+          "significado": "Vida entera, pública y privada, sometida a la santidad de Dios."
+        }
+      ],
+      "oracao": "Señor, restaura en mí lo que necesita ser purificado. Que mi casa, mis hábitos y mi vida privada estén delante de ti en santidad y verdad. Amén."
+    }
+  }
+}

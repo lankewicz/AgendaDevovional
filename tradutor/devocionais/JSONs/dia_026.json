@@ -1,0 +1,536 @@
+{
+  "dia": 26,
+  "data": "2027-01-26",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 19–21",
+    "en": "Exodus 19–21",
+    "es": "Éxodo 19–21"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 19,
+      "chapter_end": 21
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 19,
+    "verse_start": 5,
+    "verse_end": 6,
+    "referencia": {
+      "pt": "Êxodo 19:5-6",
+      "en": "Exodus 19:5-6",
+      "es": "Éxodo 19:5-6"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_026.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_026.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/026/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/021.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/026/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/021.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/026/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/021.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/026/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/021.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_026.mp3",
+      "versiculo_central": "audio/en/verses/day_026.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/026/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/en/en-US-AriaNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/en/en-US-AriaNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/en/en-US-AriaNeural/021.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/026/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/en/en-US-JennyNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/en/en-US-JennyNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/en/en-US-JennyNeural/021.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/026/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/en/en-US-GuyNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/en/en-US-GuyNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/en/en-US-GuyNeural/021.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/026/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/en/en-US-BrianNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/en/en-US-BrianNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/en/en-US-BrianNeural/021.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_026.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_026.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/026/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/es/es-ES-ElviraNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/es/es-ES-ElviraNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/es/es-ES-ElviraNeural/021.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/026/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/es/es-MX-DaliaNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/es/es-MX-DaliaNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/es/es-MX-DaliaNeural/021.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/026/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/es/es-ES-AlvaroNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/es/es-ES-AlvaroNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/es/es-ES-AlvaroNeural/021.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/026/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/026/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/026/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_19": "audio/biblia/EXO/es/es-MX-JorgeNeural/019.m4a",
+          "EXO_20": "audio/biblia/EXO/es/es-MX-JorgeNeural/020.m4a",
+          "EXO_21": "audio/biblia/EXO/es/es-MX-JorgeNeural/021.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 19–21 — Aliança, Santidade e Vida Diante de Deus",
+      "contexto": "Êxodo 19 a 21 leva Israel ao Sinai. Deus chama o povo para viver como sua propriedade peculiar, reino sacerdotal e nação santa. A lei é dada dentro da aliança, mostrando que a liberdade recebida deve ser vivida em santidade, adoração e justiça.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O chamado da aliança no Sinai",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 25
+          },
+          "comentario": "Deus lembra o livramento do Egito e chama Israel a ouvir sua voz e guardar sua aliança. O povo deve viver diante de sua santidade.",
+          "aplicacao": "A obediência bíblica nasce da graça recebida. Deus primeiro liberta, depois ensina seu povo a viver como povo santo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Os mandamentos e a adoração exclusiva",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "Os mandamentos revelam a vontade de Deus para a relação com Ele e com o próximo. A lei começa lembrando quem libertou o povo.",
+          "aplicacao": "A vida com Deus envolve adoração exclusiva, reverência, verdade, descanso e amor prático ao próximo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A justiça aplicada à vida comunitária",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 36
+          },
+          "comentario": "As primeiras ordenanças mostram que a aliança alcança relações sociais, conflitos, reparação e responsabilidade. Deus se importa com a vida concreta do povo.",
+          "aplicacao": "A fé deve aparecer nas relações, nas decisões e no modo como tratamos pessoas vulneráveis e conflitos reais."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Deuteronômio 5:1-22",
+            "nota": "Retoma os mandamentos e chama Israel a ouvir e obedecer à aliança."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 17,
+            "verse_end": 20,
+            "referencia": "Mateus 5:17-20",
+            "nota": "Jesus ensina que não veio abolir a Lei, mas cumprir."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica ao povo de Deus a linguagem de sacerdócio, santidade e propriedade do Senhor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho entendido a obediência como resposta à graça de Deus?",
+        "Minha adoração pertence exclusivamente ao Senhor?",
+        "Minha fé influencia meu modo de lidar com responsabilidades, conflitos e pessoas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 19:5-6 resume a identidade do povo da aliança: pertencimento, missão sacerdotal e chamado à santidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 19,
+          "verse_start": 5,
+          "verse_end": 6,
+          "referencia": "Êxodo 19:5-6",
+          "nota": "Define a identidade e vocação do povo diante de Deus."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 20,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Êxodo 20:2-3",
+          "nota": "Liga os mandamentos ao Deus que libertou Israel."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 21,
+          "verse_start": 23,
+          "verse_end": 25,
+          "referencia": "Êxodo 21:23-25",
+          "nota": "Mostra princípio de justiça e responsabilidade proporcional."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Relacionamento estabelecido por Deus com seu povo, marcado por graça, compromisso e obediência."
+        },
+        {
+          "termo": "Santidade",
+          "significado": "Chamado para pertencer a Deus e viver de modo separado para sua vontade."
+        },
+        {
+          "termo": "Justiça",
+          "significado": "Expressão prática da vontade de Deus nas relações e responsabilidades humanas."
+        }
+      ],
+      "oracao": "Senhor, obrigado por me chamares para viver diante de ti. Ensina-me a obedecer como resposta à tua graça e a refletir tua santidade em tudo. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 19–21 — Covenant, Holiness, and Life Before God",
+      "contexto": "Exodus 19 to 21 brings Israel to Sinai. God calls the people to live as his treasured possession, a priestly kingdom, and a holy nation. The law is given within the covenant, showing that received freedom must be lived in holiness, worship, and justice.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The covenant call at Sinai",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 25
+          },
+          "comentario": "God recalls the deliverance from Egypt and calls Israel to listen to his voice and keep his covenant. The people must live before his holiness.",
+          "aplicacao": "Biblical obedience is born from received grace. God first delivers, then teaches his people to live as a holy people."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The commandments and exclusive worship",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "The commandments reveal God’s will for relationship with him and with neighbor. The law begins by remembering the one who delivered the people.",
+          "aplicacao": "Life with God involves exclusive worship, reverence, truth, rest, and practical love for neighbor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Justice applied to community life",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 36
+          },
+          "comentario": "The first ordinances show that the covenant reaches social relationships, conflicts, restitution, and responsibility. God cares about the concrete life of his people.",
+          "aplicacao": "Faith must appear in relationships, decisions, and the way we treat vulnerable people and real conflicts."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Deuteronomy 5:1-22",
+            "nota": "Restates the commandments and calls Israel to hear and obey the covenant."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 17,
+            "verse_end": 20,
+            "referencia": "Matthew 5:17-20",
+            "nota": "Jesus teaches that he did not come to abolish the Law but to fulfill it."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Peter 2:9-10",
+            "nota": "Applies to God’s people the language of priesthood, holiness, and belonging to the Lord."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I understand obedience as a response to God’s grace?",
+        "Does my worship belong exclusively to the Lord?",
+        "Does my faith influence the way I handle responsibilities, conflicts, and people?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 19:5-6 summarizes the identity of the covenant people: belonging, priestly mission, and the call to holiness."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 19,
+          "verse_start": 5,
+          "verse_end": 6,
+          "referencia": "Exodus 19:5-6",
+          "nota": "Defines the identity and calling of the people before God."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 20,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Exodus 20:2-3",
+          "nota": "Connects the commandments to the God who delivered Israel."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 21,
+          "verse_start": 23,
+          "verse_end": 25,
+          "referencia": "Exodus 21:23-25",
+          "nota": "Shows a principle of justice and proportional responsibility."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "A relationship established by God with his people, marked by grace, commitment, and obedience."
+        },
+        {
+          "termo": "Holiness",
+          "significado": "The call to belong to God and live set apart for his will."
+        },
+        {
+          "termo": "Justice",
+          "significado": "The practical expression of God’s will in human relationships and responsibilities."
+        }
+      ],
+      "oracao": "Lord, thank you for calling me to live before you. Teach me to obey as a response to your grace and to reflect your holiness in everything. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 19–21 — Alianza, Santidad y Vida Delante de Dios",
+      "contexto": "Éxodo 19 al 21 lleva a Israel al Sinaí. Dios llama al pueblo a vivir como su especial tesoro, reino sacerdotal y nación santa. La ley es dada dentro de la alianza, mostrando que la libertad recibida debe vivirse en santidad, adoración y justicia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El llamado de la alianza en Sinaí",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 25
+          },
+          "comentario": "Dios recuerda la liberación de Egipto y llama a Israel a escuchar su voz y guardar su alianza. El pueblo debe vivir delante de su santidad.",
+          "aplicacao": "La obediencia bíblica nace de la gracia recibida. Dios primero libera, después enseña a su pueblo a vivir como pueblo santo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Los mandamientos y la adoración exclusiva",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "Los mandamientos revelan la voluntad de Dios para la relación con Él y con el prójimo. La ley comienza recordando quién liberó al pueblo.",
+          "aplicacao": "La vida con Dios implica adoración exclusiva, reverencia, verdad, descanso y amor práctico al prójimo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La justicia aplicada a la vida comunitaria",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 36
+          },
+          "comentario": "Las primeras ordenanzas muestran que la alianza alcanza relaciones sociales, conflictos, restitución y responsabilidad. Dios se interesa por la vida concreta de su pueblo.",
+          "aplicacao": "La fe debe aparecer en las relaciones, decisiones y en la forma en que tratamos a personas vulnerables y conflictos reales."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 5,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Deuteronomio 5:1-22",
+            "nota": "Retoma los mandamientos y llama a Israel a escuchar y obedecer la alianza."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 17,
+            "verse_end": 20,
+            "referencia": "Mateo 5:17-20",
+            "nota": "Jesús enseña que no vino a abolir la Ley, sino a cumplirla."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica al pueblo de Dios el lenguaje de sacerdocio, santidad y pertenencia al Señor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Entiendo la obediencia como respuesta a la gracia de Dios?",
+        "¿Mi adoración pertenece exclusivamente al Señor?",
+        "¿Mi fe influye en mi forma de tratar responsabilidades, conflictos y personas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 19:5-6 resume la identidad del pueblo de la alianza: pertenencia, misión sacerdotal y llamado a la santidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 19,
+          "verse_start": 5,
+          "verse_end": 6,
+          "referencia": "Éxodo 19:5-6",
+          "nota": "Define la identidad y vocación del pueblo delante de Dios."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 20,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "Éxodo 20:2-3",
+          "nota": "Conecta los mandamientos con el Dios que liberó a Israel."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 21,
+          "verse_start": 23,
+          "verse_end": 25,
+          "referencia": "Éxodo 21:23-25",
+          "nota": "Muestra un principio de justicia y responsabilidad proporcional."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Relación establecida por Dios con su pueblo, marcada por gracia, compromiso y obediencia."
+        },
+        {
+          "termo": "Santidad",
+          "significado": "Llamado a pertenecer a Dios y vivir apartado para su voluntad."
+        },
+        {
+          "termo": "Justicia",
+          "significado": "Expresión práctica de la voluntad de Dios en las relaciones y responsabilidades humanas."
+        }
+      ],
+      "oracao": "Señor, gracias por llamarme a vivir delante de ti. Enséñame a obedecer como respuesta a tu gracia y a reflejar tu santidad en todo. Amén."
+    }
+  }
+}

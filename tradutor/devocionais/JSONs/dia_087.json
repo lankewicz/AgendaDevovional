@@ -1,0 +1,440 @@
+{
+  "dia": 87,
+  "data": "2027-03-28",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 6–9",
+    "en": "1 Samuel 6–9",
+    "es": "1 Samuel 6–9"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 6,
+      "chapter_end": 9
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 8,
+    "verse_start": 7,
+    "verse_end": 7,
+    "referencia": {
+      "pt": "1 Samuel 8:7",
+      "en": "1 Samuel 8:7",
+      "es": "1 Samuel 8:7"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_087.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_087.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_087.mp3",
+      "versiculo_central": "audio/en/verses/day_087.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_087.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_087.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 6–9 — A Santidade de Deus e o Desejo por um Rei",
+      "contexto": "1 Samuel 6 a 9 mostra a arca retornando a Israel, o povo sendo chamado ao arrependimento por meio de Samuel e a transição que levaria à monarquia. A leitura revela que Deus continua santo e soberano, mas o coração do povo deseja uma segurança visível, semelhante às demais nações.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A arca retorna e a santidade de Deus permanece",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 21
+          },
+          "comentario": "Os filisteus devolvem a arca depois de reconhecerem que não podiam resistir ao Deus de Israel. Mesmo entre o próprio povo, a presença do Senhor exige reverência e temor santo.",
+          "aplicacao": "A presença de Deus não deve ser tratada com leviandade. Reverência é parte essencial da fé verdadeira."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Samuel chama o povo ao arrependimento",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 17
+          },
+          "comentario": "Samuel conduz Israel a abandonar ídolos, buscar o Senhor e reconhecer sua dependência. Deus responde com livramento, e o povo aprende que a vitória vem dele.",
+          "aplicacao": "O retorno a Deus exige abandonar aquilo que ocupa o lugar do Senhor e renovar a confiança em sua fidelidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Israel pede um rei como as outras nações",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "O pedido por um rei revela mais do que uma necessidade política; expõe a dificuldade de confiar no governo invisível de Deus. Saul aparece como resposta ao desejo do povo, mas a tensão espiritual já está colocada.",
+          "aplicacao": "A fé é provada quando precisamos escolher entre confiar no Senhor ou buscar garantias apenas visíveis."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Deuteronômio 17:14-20",
+            "nota": "Antecipava a possibilidade de um rei em Israel, mas submetido à Palavra do Senhor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Salmos 24:7-10",
+            "nota": "Proclama o Senhor como Rei da glória, superior a qualquer autoridade humana."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 18,
+            "verse_start": 36,
+            "verse_end": 36,
+            "referencia": "João 18:36",
+            "nota": "Jesus declara que seu reino não procede dos sistemas deste mundo."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Atos 13:21-22",
+            "nota": "Recorda a escolha de Saul e a posterior substituição por Davi no plano de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado a presença de Deus com reverência?",
+        "Que seguranças visíveis tenho colocado acima da confiança no Senhor?",
+        "Meu coração deseja ser guiado por Deus ou apenas imitar o padrão ao redor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 8:7 resume o ponto decisivo da leitura: o pedido por um rei revela a rejeição prática do governo do Senhor sobre o povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "1 Samuel 7:3",
+          "nota": "Chama Israel ao arrependimento sincero e exclusivo diante do Senhor."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 7:12",
+          "nota": "Recorda a ajuda fiel de Deus até aquele momento."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 8,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 8:7",
+          "nota": "Mostra que o problema central era espiritual, não apenas político."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidade",
+          "significado": "A majestade pura de Deus, que exige reverência e obediência."
+        },
+        {
+          "termo": "Arrependimento",
+          "significado": "Retorno sincero ao Senhor, abandonando ídolos e falsas seguranças."
+        },
+        {
+          "termo": "Reino",
+          "significado": "O governo de Deus sobre seu povo, superior a qualquer modelo humano de poder."
+        }
+      ],
+      "oracao": "Senhor, livra meu coração de buscar segurança fora de ti. Ensina-me a honrar tua presença, abandonar falsas confianças e viver debaixo do teu governo. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 6–9 — God’s Holiness and the Desire for a King",
+      "contexto": "1 Samuel 6 to 9 shows the ark returning to Israel, the people being called to repentance through Samuel, and the transition that would lead to monarchy. The reading reveals that God remains holy and sovereign, while the people desire a visible security like the surrounding nations.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The ark returns and God’s holiness remains",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 21
+          },
+          "comentario": "The Philistines return the ark after recognizing that they cannot resist the God of Israel. Even among his own people, the Lord’s presence requires reverence and holy fear.",
+          "aplicacao": "God’s presence must not be treated lightly. Reverence is an essential part of true faith."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Samuel calls the people to repentance",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 17
+          },
+          "comentario": "Samuel leads Israel to abandon idols, seek the Lord, and acknowledge their dependence. God responds with deliverance, and the people learn that victory comes from him.",
+          "aplicacao": "Returning to God requires abandoning whatever takes his place and renewing trust in his faithfulness."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Israel asks for a king like the other nations",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "The request for a king reveals more than a political need; it exposes the struggle to trust God’s unseen rule. Saul appears as an answer to the people’s desire, but the spiritual tension is already clear.",
+          "aplicacao": "Faith is tested when we must choose between trusting the Lord and seeking only visible guarantees."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Deuteronomy 17:14-20",
+            "nota": "Anticipated the possibility of a king in Israel, but one submitted to the Lord’s Word."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Psalm 24:7-10",
+            "nota": "Proclaims the Lord as the King of glory, greater than every human authority."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 18,
+            "verse_start": 36,
+            "verse_end": 36,
+            "referencia": "John 18:36",
+            "nota": "Jesus declares that his kingdom does not arise from the systems of this world."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Acts 13:21-22",
+            "nota": "Recalls the choice of Saul and his later replacement by David in God’s plan."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat God’s presence with reverence?",
+        "What visible securities have I placed above trust in the Lord?",
+        "Does my heart desire to be guided by God or merely to imitate the surrounding pattern?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 8:7 summarizes the decisive point of the reading: the request for a king reveals a practical rejection of the Lord’s rule over the people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "1 Samuel 7:3",
+          "nota": "Calls Israel to sincere and exclusive repentance before the Lord."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 7:12",
+          "nota": "Remembers God’s faithful help up to that moment."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 8,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 8:7",
+          "nota": "Shows that the central problem was spiritual, not merely political."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holiness",
+          "significado": "The pure majesty of God, which calls for reverence and obedience."
+        },
+        {
+          "termo": "Repentance",
+          "significado": "A sincere return to the Lord, abandoning idols and false securities."
+        },
+        {
+          "termo": "Kingdom",
+          "significado": "God’s rule over his people, greater than any human model of power."
+        }
+      ],
+      "oracao": "Lord, free my heart from seeking security apart from you. Teach me to honor your presence, abandon false trusts, and live under your rule. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 6–9 — La Santidad de Dios y el Deseo de un Rey",
+      "contexto": "1 Samuel 6 al 9 muestra el regreso del arca a Israel, el llamado del pueblo al arrepentimiento por medio de Samuel y la transición que conduciría a la monarquía. La lectura revela que Dios sigue siendo santo y soberano, mientras el pueblo desea una seguridad visible como las demás naciones.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El arca regresa y la santidad de Dios permanece",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 21
+          },
+          "comentario": "Los filisteos devuelven el arca después de reconocer que no pueden resistir al Dios de Israel. Incluso entre su propio pueblo, la presencia del Señor exige reverencia y santo temor.",
+          "aplicacao": "La presencia de Dios no debe tratarse con ligereza. La reverencia es parte esencial de la fe verdadera."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Samuel llama al pueblo al arrepentimiento",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 17
+          },
+          "comentario": "Samuel conduce a Israel a abandonar ídolos, buscar al Señor y reconocer su dependencia. Dios responde con liberación, y el pueblo aprende que la victoria viene de él.",
+          "aplicacao": "Volver a Dios exige abandonar lo que ocupa su lugar y renovar la confianza en su fidelidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Israel pide un rey como las otras naciones",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 27
+          },
+          "comentario": "La petición de un rey revela más que una necesidad política; expone la dificultad de confiar en el gobierno invisible de Dios. Saúl aparece como respuesta al deseo del pueblo, pero la tensión espiritual ya está clara.",
+          "aplicacao": "La fe es probada cuando debemos elegir entre confiar en el Señor o buscar solo garantías visibles."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 17,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Deuteronomio 17:14-20",
+            "nota": "Anticipaba la posibilidad de un rey en Israel, pero sometido a la Palabra del Señor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 7,
+            "verse_end": 10,
+            "referencia": "Salmos 24:7-10",
+            "nota": "Proclama al Señor como Rey de gloria, superior a toda autoridad humana."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 18,
+            "verse_start": 36,
+            "verse_end": 36,
+            "referencia": "Juan 18:36",
+            "nota": "Jesús declara que su reino no procede de los sistemas de este mundo."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Hechos 13:21-22",
+            "nota": "Recuerda la elección de Saúl y su posterior sustitución por David en el plan de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato la presencia de Dios con reverencia?",
+        "¿Qué seguridades visibles he puesto por encima de la confianza en el Señor?",
+        "¿Mi corazón desea ser guiado por Dios o solo imitar el modelo que me rodea?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 8:7 resume el punto decisivo de la lectura: la petición de un rey revela el rechazo práctico del gobierno del Señor sobre el pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "1 Samuel 7:3",
+          "nota": "Llama a Israel a un arrepentimiento sincero y exclusivo delante del Señor."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 7:12",
+          "nota": "Recuerda la ayuda fiel de Dios hasta ese momento."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 8,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 8:7",
+          "nota": "Muestra que el problema central era espiritual, no solo político."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidad",
+          "significado": "La majestad pura de Dios, que exige reverencia y obediencia."
+        },
+        {
+          "termo": "Arrepentimiento",
+          "significado": "Regreso sincero al Señor, abandonando ídolos y falsas seguridades."
+        },
+        {
+          "termo": "Reino",
+          "significado": "El gobierno de Dios sobre su pueblo, superior a cualquier modelo humano de poder."
+        }
+      ],
+      "oracao": "Señor, libra mi corazón de buscar seguridad fuera de ti. Enséñame a honrar tu presencia, abandonar falsas confianzas y vivir bajo tu gobierno. Amén."
+    }
+  }
+}

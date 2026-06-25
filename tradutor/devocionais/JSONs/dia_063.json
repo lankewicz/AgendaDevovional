@@ -1,0 +1,416 @@
+{
+  "dia": 63,
+  "data": "2027-03-04",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 12–14",
+    "en": "Deuteronomy 12–14",
+    "es": "Deuteronomio 12–14"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 12,
+      "chapter_end": 14
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 14,
+    "verse_start": 2,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Deuteronômio 14:2",
+      "en": "Deuteronomy 14:2",
+      "es": "Deuteronomio 14:2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_063.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_063.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_063.mp3",
+      "versiculo_central": "audio/en/verses/day_063.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_063.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_063.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 12–14 — Adoração, Santidade e Pertencimento",
+      "contexto": "Deuteronômio 12 a 14 orienta Israel a adorar o Senhor de modo fiel, rejeitar práticas idólatras e viver como povo santo. A adoração deveria ser regulada pela palavra de Deus, e a identidade do povo deveria aparecer nas escolhas, nos vínculos e no cuidado com aquilo que pertence ao Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A adoração no lugar escolhido por Deus",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 32
+          },
+          "comentario": "O povo deveria destruir os altares idólatras e buscar o Senhor conforme sua orientação. A adoração não poderia ser moldada pelos costumes das nações.",
+          "aplicacao": "Adorar a Deus exige submissão à sua palavra, não apenas sinceridade ou preferência pessoal."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernimento contra a sedução da idolatria",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Moisés adverte contra profetas, pessoas próximas ou cidades que tentassem afastar o povo do Senhor.",
+          "aplicacao": "A fidelidade a Deus deve estar acima de toda influência que nos conduza para longe dele."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Um povo santo e separado para o Senhor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 29
+          },
+          "comentario": "Israel deveria viver como povo pertencente a Deus, inclusive no modo de organizar sua vida, seus recursos e sua generosidade.",
+          "aplicacao": "Pertencer ao Senhor transforma prioridades, hábitos e cuidado com os necessitados."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1KI",
+            "chapter": 8,
+            "verse_start": 27,
+            "verse_end": 30,
+            "referencia": "1 Reis 8:27-30",
+            "nota": "A dedicação do templo retoma o tema do lugar onde o nome do Senhor seria invocado."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 4,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "João 4:23-24",
+            "nota": "Jesus ensina que a verdadeira adoração é em espírito e em verdade."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "1 Coríntios 10:14",
+            "nota": "Chama os cristãos a fugir da idolatria."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha adoração é guiada pela Palavra de Deus?",
+        "Tenho discernido influências que podem afastar meu coração do Senhor?",
+        "Minhas prioridades revelam que pertenço a Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 14:2 resume a identidade do povo: santo, escolhido e pertencente ao Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 12,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Deuteronômio 12:5",
+          "nota": "Aponta para a busca do lugar escolhido pelo Senhor para sua adoração."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 13,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronômio 13:4",
+          "nota": "Chama o povo a seguir, temer, ouvir e servir ao Senhor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 14,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Deuteronômio 14:2",
+          "nota": "Reafirma que Israel pertence ao Senhor como povo santo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Adoração",
+          "significado": "Resposta reverente a Deus conforme sua revelação e vontade."
+        },
+        {
+          "termo": "Santidade",
+          "significado": "Separação para Deus que molda identidade e conduta."
+        },
+        {
+          "termo": "Pertencimento",
+          "significado": "Consciência de que o povo vive diante do Senhor e para ele."
+        }
+      ],
+      "oracao": "Senhor, purifica minha adoração e guarda meu coração da idolatria. Ajuda-me a viver como alguém que pertence a ti em tudo. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 12–14 — Worship, Holiness, and Belonging",
+      "contexto": "Deuteronomy 12 to 14 instructs Israel to worship the Lord faithfully, reject idolatrous practices, and live as a holy people. Worship was to be governed by God's word, and the people's identity was to appear in their choices, relationships, and care for what belongs to the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Worship in the place chosen by God",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 32
+          },
+          "comentario": "The people were to destroy idolatrous altars and seek the Lord according to his instruction. Worship could not be shaped by the customs of the nations.",
+          "aplicacao": "Worshiping God requires submission to his word, not only sincerity or personal preference."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernment against the seduction of idolatry",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Moses warns against prophets, close relationships, or cities that might try to turn the people away from the Lord.",
+          "aplicacao": "Faithfulness to God must stand above every influence that leads us away from him."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A holy people set apart for the Lord",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 29
+          },
+          "comentario": "Israel was to live as a people belonging to God, including in the way they ordered life, resources, and generosity.",
+          "aplicacao": "Belonging to the Lord transforms priorities, habits, and care for those in need."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1KI",
+            "chapter": 8,
+            "verse_start": 27,
+            "verse_end": 30,
+            "referencia": "1 Kings 8:27-30",
+            "nota": "The dedication of the temple echoes the theme of the place where the Lord's name would be invoked."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 4,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "John 4:23-24",
+            "nota": "Jesus teaches that true worship is in spirit and truth."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "1 Corinthians 10:14",
+            "nota": "Calls Christians to flee from idolatry."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Is my worship guided by God's Word?",
+        "Do I discern influences that may pull my heart away from the Lord?",
+        "Do my priorities reveal that I belong to God?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 14:2 summarizes the people's identity: holy, chosen, and belonging to the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 12,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Deuteronomy 12:5",
+          "nota": "Points to seeking the place chosen by the Lord for worship."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 13,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronomy 13:4",
+          "nota": "Calls the people to follow, fear, hear, and serve the Lord."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 14,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Deuteronomy 14:2",
+          "nota": "Reaffirms that Israel belongs to the Lord as a holy people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Worship",
+          "significado": "A reverent response to God according to his revelation and will."
+        },
+        {
+          "termo": "Holiness",
+          "significado": "Being set apart for God in a way that shapes identity and conduct."
+        },
+        {
+          "termo": "Belonging",
+          "significado": "The awareness that God's people live before him and for him."
+        }
+      ],
+      "oracao": "Lord, purify my worship and guard my heart from idolatry. Help me live as someone who belongs to you in everything. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 12–14 — Adoración, Santidad y Pertenencia",
+      "contexto": "Deuteronomio 12 al 14 orienta a Israel a adorar al Señor con fidelidad, rechazar prácticas idólatras y vivir como pueblo santo. La adoración debía ser regulada por la palabra de Dios, y la identidad del pueblo debía verse en sus decisiones, vínculos y cuidado de lo que pertenece al Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La adoración en el lugar escogido por Dios",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 32
+          },
+          "comentario": "El pueblo debía destruir los altares idólatras y buscar al Señor conforme a su orientación. La adoración no podía ser moldeada por las costumbres de las naciones.",
+          "aplicacao": "Adorar a Dios exige sumisión a su palabra, no solo sinceridad o preferencia personal."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Discernimiento contra la seducción de la idolatría",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Moisés advierte contra profetas, personas cercanas o ciudades que intentaran alejar al pueblo del Señor.",
+          "aplicacao": "La fidelidad a Dios debe estar por encima de toda influencia que nos conduzca lejos de él."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Un pueblo santo y apartado para el Señor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 29
+          },
+          "comentario": "Israel debía vivir como pueblo perteneciente a Dios, incluso en la manera de ordenar su vida, sus recursos y su generosidad.",
+          "aplicacao": "Pertenecer al Señor transforma prioridades, hábitos y cuidado por los necesitados."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1KI",
+            "chapter": 8,
+            "verse_start": 27,
+            "verse_end": 30,
+            "referencia": "1 Reyes 8:27-30",
+            "nota": "La dedicación del templo retoma el tema del lugar donde sería invocado el nombre del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 4,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Juan 4:23-24",
+            "nota": "Jesús enseña que la verdadera adoración es en espíritu y en verdad."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "1 Corintios 10:14",
+            "nota": "Llama a los cristianos a huir de la idolatría."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi adoración es guiada por la Palabra de Dios?",
+        "¿Discierno las influencias que pueden alejar mi corazón del Señor?",
+        "¿Mis prioridades revelan que pertenezco a Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 14:2 resume la identidad del pueblo: santo, escogido y perteneciente al Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 12,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Deuteronomio 12:5",
+          "nota": "Señala la búsqueda del lugar escogido por el Señor para su adoración."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 13,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Deuteronomio 13:4",
+          "nota": "Llama al pueblo a seguir, temer, oír y servir al Señor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 14,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Deuteronomio 14:2",
+          "nota": "Reafirma que Israel pertenece al Señor como pueblo santo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Adoración",
+          "significado": "Respuesta reverente a Dios conforme a su revelación y voluntad."
+        },
+        {
+          "termo": "Santidad",
+          "significado": "Separación para Dios que moldea identidad y conducta."
+        },
+        {
+          "termo": "Pertenencia",
+          "significado": "Conciencia de que el pueblo vive delante del Señor y para él."
+        }
+      ],
+      "oracao": "Señor, purifica mi adoración y guarda mi corazón de la idolatría. Ayúdame a vivir como alguien que pertenece a ti en todo. Amén."
+    }
+  }
+}

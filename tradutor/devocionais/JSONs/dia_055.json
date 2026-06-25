@@ -1,0 +1,416 @@
+{
+  "dia": 55,
+  "data": "2027-02-24",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 27–29",
+    "en": "Numbers 27–29",
+    "es": "Números 27–29"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 27,
+      "chapter_end": 29
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 27,
+    "verse_start": 18,
+    "verse_end": 18,
+    "referencia": {
+      "pt": "Números 27:18",
+      "en": "Numbers 27:18",
+      "es": "Números 27:18"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_055.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_055.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_055.mp3",
+      "versiculo_central": "audio/en/verses/day_055.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_055.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_055.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 27–29 — Herança, Liderança e Adoração",
+      "contexto": "Números 27 a 29 apresenta a reivindicação das filhas de Zelofeade, a escolha de Josué como sucessor de Moisés e a organização das ofertas e festas. O bloco mostra que Deus cuida da herança, prepara liderança para o futuro e mantém a adoração no centro da vida do povo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As filhas de Zelofeade e a herança",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 11
+          },
+          "comentario": "As filhas de Zelofeade apresentam sua causa diante de Moisés, e Deus responde com justiça, preservando a herança familiar.",
+          "aplicacao": "O Senhor vê pessoas que poderiam ser esquecidas e ensina seu povo a agir com justiça."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Josué é separado para liderar",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 12,
+            "chapter_end": 27,
+            "verse_end": 23
+          },
+          "comentario": "Moisés não entrará na terra, mas Deus não deixa o povo sem direção. Josué é levantado para conduzir a próxima etapa.",
+          "aplicacao": "A obra de Deus é maior do que uma geração, e o Senhor prepara liderança para continuar seu propósito."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofertas e tempos de adoração",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 40
+          },
+          "comentario": "As ofertas diárias, semanais e festivas organizam a vida de Israel ao redor da presença e da fidelidade de Deus.",
+          "aplicacao": "A rotina do povo de Deus deve ser marcada por gratidão, memória e adoração constante."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Josué 1:1-9",
+            "nota": "Mostra a continuidade da liderança de Josué após a morte de Moisés."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Hebreus 4:8-10",
+            "nota": "Aponta para um descanso maior do que aquele experimentado nos dias de Josué."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Apresenta a vida inteira como oferta agradável a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado justiça quando pessoas vulneráveis podem ser esquecidas?",
+        "Confio que Deus prepara continuidade para sua obra?",
+        "Minha rotina tem espaço real para adoração e gratidão?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 27:18 marca a escolha de Josué e mostra que Deus conduz seu povo por meio de liderança preparada por ele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 27:7",
+          "nota": "Mostra a justiça de Deus na causa das filhas de Zelofeade."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Números 27:18",
+          "nota": "Registra a separação de Josué para liderar o povo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 28,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 28:2",
+          "nota": "Destaca a centralidade das ofertas e da adoração diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herança",
+          "significado": "Dom recebido de Deus e preservado conforme sua justiça."
+        },
+        {
+          "termo": "Liderança",
+          "significado": "Chamado dado por Deus para servir e conduzir o povo com responsabilidade."
+        },
+        {
+          "termo": "Adoração",
+          "significado": "Resposta contínua do povo à presença, provisão e fidelidade do Senhor."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a valorizar tua justiça, a confiar na tua direção e a viver minha rotina como expressão de adoração. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 27–29 — Inheritance, Leadership, and Worship",
+      "contexto": "Numbers 27 to 29 presents the claim of Zelophehad’s daughters, the appointment of Joshua as Moses’ successor, and the order of offerings and feasts. The passage shows that God cares for inheritance, prepares leadership for the future, and keeps worship at the center of his people’s life.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Zelophehad’s daughters and the inheritance",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 11
+          },
+          "comentario": "Zelophehad’s daughters present their case before Moses, and God answers with justice, preserving the family inheritance.",
+          "aplicacao": "The Lord sees people who could be forgotten and teaches his people to act with justice."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Joshua is set apart to lead",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 12,
+            "chapter_end": 27,
+            "verse_end": 23
+          },
+          "comentario": "Moses will not enter the land, but God does not leave the people without direction. Joshua is raised up to lead the next stage.",
+          "aplicacao": "God’s work is greater than one generation, and the Lord prepares leadership to continue his purpose."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Offerings and times of worship",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 40
+          },
+          "comentario": "Daily, weekly, and festival offerings organize Israel’s life around God’s presence and faithfulness.",
+          "aplicacao": "The routine of God’s people should be marked by gratitude, remembrance, and continual worship."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Joshua 1:1-9",
+            "nota": "Shows the continuation of Joshua’s leadership after Moses’ death."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Hebrews 4:8-10",
+            "nota": "Points to a greater rest than the one experienced in Joshua’s days."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romans 12:1",
+            "nota": "Presents the whole life as an offering pleasing to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek justice when vulnerable people may be forgotten?",
+        "Do I trust that God prepares continuity for his work?",
+        "Does my routine make real room for worship and gratitude?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 27:18 marks Joshua’s appointment and shows that God guides his people through leadership prepared by him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Numbers 27:7",
+          "nota": "Shows God’s justice in the case of Zelophehad’s daughters."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Numbers 27:18",
+          "nota": "Records Joshua being set apart to lead the people."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 28,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Numbers 28:2",
+          "nota": "Highlights the centrality of offerings and worship before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Inheritance",
+          "significado": "A gift received from God and preserved according to his justice."
+        },
+        {
+          "termo": "Leadership",
+          "significado": "A calling given by God to serve and guide the people responsibly."
+        },
+        {
+          "termo": "Worship",
+          "significado": "The continual response of the people to the Lord’s presence, provision, and faithfulness."
+        }
+      ],
+      "oracao": "Lord, teach me to value your justice, trust your direction, and live my routine as an expression of worship. Amen."
+    },
+    "es": {
+      "titulo": "Números 27–29 — Herencia, Liderazgo y Adoración",
+      "contexto": "Números 27 al 29 presenta la petición de las hijas de Zelofehad, la elección de Josué como sucesor de Moisés y la organización de las ofrendas y fiestas. El bloque muestra que Dios cuida la herencia, prepara liderazgo para el futuro y mantiene la adoración en el centro de la vida del pueblo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las hijas de Zelofehad y la herencia",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 11
+          },
+          "comentario": "Las hijas de Zelofehad presentan su causa delante de Moisés, y Dios responde con justicia, preservando la herencia familiar.",
+          "aplicacao": "El Señor ve a personas que podrían ser olvidadas y enseña a su pueblo a actuar con justicia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Josué es apartado para liderar",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 27,
+            "verse_start": 12,
+            "chapter_end": 27,
+            "verse_end": 23
+          },
+          "comentario": "Moisés no entrará en la tierra, pero Dios no deja al pueblo sin dirección. Josué es levantado para conducir la siguiente etapa.",
+          "aplicacao": "La obra de Dios es mayor que una generación, y el Señor prepara liderazgo para continuar su propósito."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofrendas y tiempos de adoración",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 29,
+            "verse_end": 40
+          },
+          "comentario": "Las ofrendas diarias, semanales y festivas organizan la vida de Israel alrededor de la presencia y la fidelidad de Dios.",
+          "aplicacao": "La rutina del pueblo de Dios debe estar marcada por gratitud, memoria y adoración constante."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Josué 1:1-9",
+            "nota": "Muestra la continuidad del liderazgo de Josué después de la muerte de Moisés."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 8,
+            "verse_end": 10,
+            "referencia": "Hebreos 4:8-10",
+            "nota": "Apunta hacia un descanso mayor que el experimentado en los días de Josué."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Presenta la vida entera como una ofrenda agradable a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco justicia cuando personas vulnerables pueden ser olvidadas?",
+        "¿Confío en que Dios prepara continuidad para su obra?",
+        "¿Mi rutina tiene espacio real para adoración y gratitud?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 27:18 marca la elección de Josué y muestra que Dios conduce a su pueblo por medio de liderazgo preparado por él."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 27:7",
+          "nota": "Muestra la justicia de Dios en la causa de las hijas de Zelofehad."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 27,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Números 27:18",
+          "nota": "Registra la separación de Josué para liderar al pueblo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 28,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 28:2",
+          "nota": "Destaca la centralidad de las ofrendas y la adoración delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herencia",
+          "significado": "Don recibido de Dios y preservado conforme a su justicia."
+        },
+        {
+          "termo": "Liderazgo",
+          "significado": "Llamado dado por Dios para servir y conducir al pueblo con responsabilidad."
+        },
+        {
+          "termo": "Adoración",
+          "significado": "Respuesta continua del pueblo a la presencia, provisión y fidelidad del Señor."
+        }
+      ],
+      "oracao": "Señor, enséñame a valorar tu justicia, confiar en tu dirección y vivir mi rutina como expresión de adoración. Amén."
+    }
+  }
+}

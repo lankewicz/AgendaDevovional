@@ -1,0 +1,416 @@
+{
+  "dia": 64,
+  "data": "2027-03-05",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 15–18",
+    "en": "Deuteronomy 15–18",
+    "es": "Deuteronomio 15–18"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 15,
+      "chapter_end": 18
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 18,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Deuteronômio 18:15",
+      "en": "Deuteronomy 18:15",
+      "es": "Deuteronomio 18:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_064.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_064.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_064.mp3",
+      "versiculo_central": "audio/en/verses/day_064.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_064.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_064.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 15–18 — Justiça, Culto e Esperança Profética",
+      "contexto": "Deuteronômio 15 a 18 reúne instruções sobre generosidade, festas, liderança, justiça e discernimento espiritual. O povo deveria refletir o caráter de Deus no cuidado com o necessitado, na adoração, na administração da justiça e na esperança de um profeta levantado pelo Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Generosidade e libertação",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 23
+          },
+          "comentario": "As leis sobre remissão, cuidado com o pobre e libertação do servo mostram que a aliança deveria produzir misericórdia prática.",
+          "aplicacao": "A fé verdadeira se expressa em generosidade, compaixão e disposição para aliviar o peso do próximo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Festas e liderança diante do Senhor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 20
+          },
+          "comentario": "As festas lembravam a redenção e os líderes deveriam julgar com justiça, sem corrupção, submissos à lei de Deus.",
+          "aplicacao": "A memória da graça deve moldar tanto a adoração quanto as decisões públicas e pessoais."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sacerdotes, falsos caminhos e o profeta prometido",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 22
+          },
+          "comentario": "Moisés proíbe práticas ocultas e anuncia que Deus levantaria um profeta como ele, a quem o povo deveria ouvir.",
+          "aplicacao": "A direção segura vem da palavra de Deus, não de práticas que buscam controle fora do Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaías 61:1-2",
+            "nota": "Anuncia libertação e restauração, ecoando a preocupação divina com os oprimidos."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 3,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Atos 3:22-23",
+            "nota": "Aplica a promessa do profeta semelhante a Moisés a Cristo."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 19,
+            "referencia": "Lucas 4:18-19",
+            "nota": "Jesus anuncia boas-novas, libertação e restauração como cumprimento da missão messiânica."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha vida revela generosidade para com quem precisa?",
+        "Busco justiça e integridade nas decisões que tomo?",
+        "Tenho ouvido a voz de Cristo acima de toda falsa segurança?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 18:15 aponta para a esperança de um profeta levantado por Deus, promessa que encontra cumprimento pleno em Cristo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 15,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Deuteronômio 15:7-8",
+          "nota": "Chama o povo à generosidade para com o necessitado."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 16,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Deuteronômio 16:20",
+          "nota": "Resume o chamado à busca da justiça."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 18,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronômio 18:15",
+          "nota": "Anuncia o profeta que Deus levantaria para o seu povo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justiça",
+          "significado": "Conduta reta diante de Deus e do próximo."
+        },
+        {
+          "termo": "Generosidade",
+          "significado": "Expressão prática da misericórdia de Deus na vida comunitária."
+        },
+        {
+          "termo": "Profeta",
+          "significado": "Mensageiro levantado por Deus para falar sua palavra ao povo."
+        }
+      ],
+      "oracao": "Senhor, torna meu coração generoso, justo e atento à tua voz. Ajuda-me a ouvir Cristo e rejeitar todo caminho que me afaste da tua verdade. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 15–18 — Justice, Worship, and Prophetic Hope",
+      "contexto": "Deuteronomy 15 to 18 brings together instructions about generosity, feasts, leadership, justice, and spiritual discernment. The people were to reflect God's character in care for the needy, worship, the administration of justice, and the hope of a prophet raised up by the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Generosity and release",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 23
+          },
+          "comentario": "The laws about release, care for the poor, and freeing servants show that the covenant was to produce practical mercy.",
+          "aplicacao": "True faith is expressed in generosity, compassion, and willingness to lighten another person's burden."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Feasts and leadership before the Lord",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 20
+          },
+          "comentario": "The feasts remembered redemption, and leaders were to judge with justice, without corruption, submitted to God's law.",
+          "aplicacao": "The memory of grace should shape both worship and public and personal decisions."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Priests, false paths, and the promised prophet",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 22
+          },
+          "comentario": "Moses forbids occult practices and announces that God would raise up a prophet like him, whom the people should hear.",
+          "aplicacao": "Safe direction comes from God's word, not from practices that seek control apart from the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaiah 61:1-2",
+            "nota": "Announces liberation and restoration, echoing God's concern for the oppressed."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 3,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Acts 3:22-23",
+            "nota": "Applies the promise of the prophet like Moses to Christ."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 19,
+            "referencia": "Luke 4:18-19",
+            "nota": "Jesus announces good news, liberation, and restoration as the fulfillment of messianic mission."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my life show generosity toward those in need?",
+        "Do I seek justice and integrity in the decisions I make?",
+        "Do I listen to the voice of Christ above every false security?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 18:15 points to the hope of a prophet raised up by God, a promise fully fulfilled in Christ."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 15,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Deuteronomy 15:7-8",
+          "nota": "Calls the people to generosity toward the needy."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 16,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Deuteronomy 16:20",
+          "nota": "Summarizes the call to pursue justice."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 18,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronomy 18:15",
+          "nota": "Announces the prophet God would raise up for his people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justice",
+          "significado": "Right conduct before God and neighbor."
+        },
+        {
+          "termo": "Generosity",
+          "significado": "A practical expression of God's mercy in community life."
+        },
+        {
+          "termo": "Prophet",
+          "significado": "A messenger raised up by God to speak his word to the people."
+        }
+      ],
+      "oracao": "Lord, make my heart generous, just, and attentive to your voice. Help me listen to Christ and reject every path that leads me away from your truth. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 15–18 — Justicia, Culto y Esperanza Profética",
+      "contexto": "Deuteronomio 15 al 18 reúne instrucciones sobre generosidad, fiestas, liderazgo, justicia y discernimiento espiritual. El pueblo debía reflejar el carácter de Dios en el cuidado del necesitado, la adoración, la administración de la justicia y la esperanza de un profeta levantado por el Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Generosidad y liberación",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 23
+          },
+          "comentario": "Las leyes sobre remisión, cuidado del pobre y liberación del siervo muestran que la alianza debía producir misericordia práctica.",
+          "aplicacao": "La fe verdadera se expresa en generosidad, compasión y disposición para aliviar la carga del prójimo."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Fiestas y liderazgo delante del Señor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 20
+          },
+          "comentario": "Las fiestas recordaban la redención y los líderes debían juzgar con justicia, sin corrupción, sometidos a la ley de Dios.",
+          "aplicacao": "La memoria de la gracia debe moldear tanto la adoración como las decisiones públicas y personales."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sacerdotes, falsos caminos y el profeta prometido",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 22
+          },
+          "comentario": "Moisés prohíbe prácticas ocultas y anuncia que Dios levantaría un profeta como él, a quien el pueblo debía oír.",
+          "aplicacao": "La dirección segura viene de la palabra de Dios, no de prácticas que buscan control fuera del Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaías 61:1-2",
+            "nota": "Anuncia liberación y restauración, haciendo eco del cuidado divino por los oprimidos."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 3,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Hechos 3:22-23",
+            "nota": "Aplica la promesa del profeta semejante a Moisés a Cristo."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 19,
+            "referencia": "Lucas 4:18-19",
+            "nota": "Jesús anuncia buenas nuevas, liberación y restauración como cumplimiento de la misión mesiánica."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi vida revela generosidad hacia quien necesita ayuda?",
+        "¿Busco justicia e integridad en las decisiones que tomo?",
+        "¿Escucho la voz de Cristo por encima de toda falsa seguridad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 18:15 apunta a la esperanza de un profeta levantado por Dios, promesa que encuentra cumplimiento pleno en Cristo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 15,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Deuteronomio 15:7-8",
+          "nota": "Llama al pueblo a la generosidad con el necesitado."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 16,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Deuteronomio 16:20",
+          "nota": "Resume el llamado a buscar la justicia."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 18,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronomio 18:15",
+          "nota": "Anuncia el profeta que Dios levantaría para su pueblo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justicia",
+          "significado": "Conducta recta delante de Dios y del prójimo."
+        },
+        {
+          "termo": "Generosidad",
+          "significado": "Expresión práctica de la misericordia de Dios en la vida comunitaria."
+        },
+        {
+          "termo": "Profeta",
+          "significado": "Mensajero levantado por Dios para hablar su palabra al pueblo."
+        }
+      ],
+      "oracao": "Señor, haz mi corazón generoso, justo y atento a tu voz. Ayúdame a escuchar a Cristo y rechazar todo camino que me aleje de tu verdad. Amén."
+    }
+  }
+}

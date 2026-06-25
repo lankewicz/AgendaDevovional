@@ -1,0 +1,416 @@
+{
+  "dia": 58,
+  "data": "2027-02-27",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 34–36",
+    "en": "Numbers 34–36",
+    "es": "Números 34–36"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 34,
+      "chapter_end": 36
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 35,
+    "verse_start": 11,
+    "verse_end": 11,
+    "referencia": {
+      "pt": "Números 35:11",
+      "en": "Numbers 35:11",
+      "es": "Números 35:11"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_058.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_058.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_058.mp3",
+      "versiculo_central": "audio/en/verses/day_058.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_058.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_058.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 34–36 — Herança, Justiça e Refúgio",
+      "contexto": "Números 34 a 36 encerra o livro organizando a entrada na terra. Deus define limites, líderes, cidades levíticas, cidades de refúgio e regras de herança. A promessa não seria vivida de forma desordenada, mas com justiça, responsabilidade e cuidado pela vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Os limites da terra e os líderes da partilha",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 29
+          },
+          "comentario": "Deus estabelece os limites da herança e os líderes responsáveis por distribuí-la. A promessa recebida precisava ser administrada com ordem e fidelidade.",
+          "aplicacao": "As bênçãos de Deus devem ser recebidas com gratidão e administradas com justiça."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Cidades levíticas e cidades de refúgio",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 34
+          },
+          "comentario": "As cidades dos levitas preservavam o serviço espiritual, enquanto as cidades de refúgio protegiam a vida e impediam vingança injusta.",
+          "aplicacao": "A justiça de Deus une santidade, verdade e misericórdia, sem desprezar a dignidade da vida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A herança preservada com responsabilidade",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 13
+          },
+          "comentario": "O caso das filhas de Zelofeade mostra que a herança deveria ser preservada com responsabilidade dentro do povo da aliança.",
+          "aplicacao": "A fidelidade a Deus também aparece na forma como lidamos com família, direitos, responsabilidades e futuro."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 20,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Josué 20:1-9",
+            "nota": "Mostra a instituição prática das cidades de refúgio na terra prometida."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebreus 6:18",
+            "nota": "Usa a linguagem de refúgio para falar da esperança segura em Deus."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romanos 12:19",
+            "nota": "Ensina que a vingança pertence ao Senhor e que a justiça deve ser confiada a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho administrado com responsabilidade aquilo que Deus confiou a mim?",
+        "Minha visão de justiça inclui misericórdia e respeito pela vida?",
+        "Busco em Deus o verdadeiro refúgio para a culpa, o medo e a insegurança?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 35:11 destaca as cidades de refúgio, mostrando que Deus estabeleceu meios de justiça e proteção dentro da comunidade da aliança."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 34,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Números 34:13",
+          "nota": "Aponta para a distribuição da terra conforme a ordem do Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 35,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Números 35:11",
+          "nota": "Apresenta as cidades de refúgio como expressão de justiça e cuidado pela vida."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 36,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 36:7",
+          "nota": "Mostra a preocupação em preservar a herança dentro do povo de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herança",
+          "significado": "A porção recebida do Senhor e administrada diante dele."
+        },
+        {
+          "termo": "Refúgio",
+          "significado": "Lugar de proteção estabelecido por Deus para preservar a vida e a justiça."
+        },
+        {
+          "termo": "Justiça",
+          "significado": "Ordem moral de Deus aplicada à vida comunitária com verdade e responsabilidade."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a viver com justiça, responsabilidade e misericórdia. Que eu reconheça em ti o meu refúgio e administre com fidelidade tudo o que colocaste em minhas mãos. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 34–36 — Inheritance, Justice, and Refuge",
+      "contexto": "Numbers 34 to 36 closes the book by organizing the entrance into the land. God defines boundaries, leaders, Levitical cities, cities of refuge, and inheritance rules. The promise would not be lived in disorder, but with justice, responsibility, and care for life.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The boundaries of the land and the leaders of distribution",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 29
+          },
+          "comentario": "God establishes the boundaries of the inheritance and the leaders responsible for distributing it. The promise received had to be administered with order and faithfulness.",
+          "aplicacao": "God’s blessings must be received with gratitude and administered with justice."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Levitical cities and cities of refuge",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 34
+          },
+          "comentario": "The Levites’ cities preserved spiritual service, while the cities of refuge protected life and prevented unjust revenge.",
+          "aplicacao": "God’s justice joins holiness, truth, and mercy, without disregarding the dignity of life."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Inheritance preserved with responsibility",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 13
+          },
+          "comentario": "The case of Zelophehad’s daughters shows that inheritance had to be preserved responsibly within the covenant people.",
+          "aplicacao": "Faithfulness to God also appears in the way we handle family, rights, responsibilities, and the future."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 20,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Joshua 20:1-9",
+            "nota": "Shows the practical establishment of the cities of refuge in the promised land."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebrews 6:18",
+            "nota": "Uses the language of refuge to speak of secure hope in God."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romans 12:19",
+            "nota": "Teaches that vengeance belongs to the Lord and justice must be entrusted to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I responsibly administering what God has entrusted to me?",
+        "Does my view of justice include mercy and respect for life?",
+        "Do I seek in God the true refuge for guilt, fear, and insecurity?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 35:11 highlights the cities of refuge, showing that God established means of justice and protection within the covenant community."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 34,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Numbers 34:13",
+          "nota": "Points to the distribution of the land according to the Lord’s command."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 35,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Numbers 35:11",
+          "nota": "Presents the cities of refuge as an expression of justice and care for life."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 36,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Numbers 36:7",
+          "nota": "Shows the concern to preserve inheritance within God’s people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Inheritance",
+          "significado": "The portion received from the Lord and administered before him."
+        },
+        {
+          "termo": "Refuge",
+          "significado": "A place of protection established by God to preserve life and justice."
+        },
+        {
+          "termo": "Justice",
+          "significado": "God’s moral order applied to community life with truth and responsibility."
+        }
+      ],
+      "oracao": "Lord, teach me to live with justice, responsibility, and mercy. May I recognize you as my refuge and faithfully administer everything you have placed in my hands. Amen."
+    },
+    "es": {
+      "titulo": "Números 34–36 — Herencia, Justicia y Refugio",
+      "contexto": "Números 34 al 36 cierra el libro organizando la entrada en la tierra. Dios define límites, líderes, ciudades levíticas, ciudades de refugio y reglas de herencia. La promesa no sería vivida de forma desordenada, sino con justicia, responsabilidad y cuidado por la vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Los límites de la tierra y los líderes de la distribución",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 29
+          },
+          "comentario": "Dios establece los límites de la herencia y los líderes responsables de distribuirla. La promesa recibida debía administrarse con orden y fidelidad.",
+          "aplicacao": "Las bendiciones de Dios deben recibirse con gratitud y administrarse con justicia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Ciudades levíticas y ciudades de refugio",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 34
+          },
+          "comentario": "Las ciudades de los levitas preservaban el servicio espiritual, mientras que las ciudades de refugio protegían la vida e impedían la venganza injusta.",
+          "aplicacao": "La justicia de Dios une santidad, verdad y misericordia, sin despreciar la dignidad de la vida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La herencia preservada con responsabilidad",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 13
+          },
+          "comentario": "El caso de las hijas de Zelofehad muestra que la herencia debía preservarse con responsabilidad dentro del pueblo del pacto.",
+          "aplicacao": "La fidelidad a Dios también aparece en la forma en que tratamos la familia, los derechos, las responsabilidades y el futuro."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 20,
+            "verse_start": 1,
+            "verse_end": 9,
+            "referencia": "Josué 20:1-9",
+            "nota": "Muestra la institución práctica de las ciudades de refugio en la tierra prometida."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebreos 6:18",
+            "nota": "Usa el lenguaje de refugio para hablar de la esperanza segura en Dios."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romanos 12:19",
+            "nota": "Enseña que la venganza pertenece al Señor y que la justicia debe confiarse a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Administro con responsabilidad aquello que Dios me ha confiado?",
+        "¿Mi visión de justicia incluye misericordia y respeto por la vida?",
+        "¿Busco en Dios el verdadero refugio para la culpa, el miedo y la inseguridad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 35:11 destaca las ciudades de refugio, mostrando que Dios estableció medios de justicia y protección dentro de la comunidad del pacto."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 34,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Números 34:13",
+          "nota": "Apunta a la distribución de la tierra conforme al mandato del Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 35,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Números 35:11",
+          "nota": "Presenta las ciudades de refugio como expresión de justicia y cuidado por la vida."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 36,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 36:7",
+          "nota": "Muestra la preocupación por preservar la herencia dentro del pueblo de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herencia",
+          "significado": "La porción recibida del Señor y administrada delante de él."
+        },
+        {
+          "termo": "Refugio",
+          "significado": "Lugar de protección establecido por Dios para preservar la vida y la justicia."
+        },
+        {
+          "termo": "Justicia",
+          "significado": "Orden moral de Dios aplicado a la vida comunitaria con verdad y responsabilidad."
+        }
+      ],
+      "oracao": "Señor, enséñame a vivir con justicia, responsabilidad y misericordia. Que reconozca en ti mi refugio y administre con fidelidad todo lo que has puesto en mis manos. Amén."
+    }
+  }
+}

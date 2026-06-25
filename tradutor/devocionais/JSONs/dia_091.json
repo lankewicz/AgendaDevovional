@@ -1,0 +1,416 @@
+{
+  "dia": 91,
+  "data": "2027-04-01",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 18–20",
+    "en": "1 Samuel 18–20",
+    "es": "1 Samuel 18–20"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 18,
+      "chapter_end": 20
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 18,
+    "verse_start": 14,
+    "verse_end": 14,
+    "referencia": {
+      "pt": "1 Samuel 18:14",
+      "en": "1 Samuel 18:14",
+      "es": "1 Samuel 18:14"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_091.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_091.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_091.mp3",
+      "versiculo_central": "audio/en/verses/day_091.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_091.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_091.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 18–20 — Fidelidade em Meio à Inveja e à Perseguição",
+      "contexto": "1 Samuel 18 a 20 acompanha o crescimento da tensão entre Saul e Davi. Enquanto Deus abençoa Davi, a inveja domina Saul e transforma admiração em ameaça. Ao mesmo tempo, a amizade leal de Jônatas revela que a fidelidade a Deus pode se expressar em alianças justas e proteção ao inocente.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A bênção de Deus desperta a inveja de Saul",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "Davi prospera porque o Senhor está com ele, mas Saul interpreta essa bênção como ameaça. A inveja distorce a percepção e conduz à hostilidade.",
+          "aplicacao": "Quando o sucesso de outra pessoa revela insegurança em nós, é tempo de entregar o coração ao Senhor e rejeitar a comparação destrutiva."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A perseguição contra Davi se intensifica",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 24
+          },
+          "comentario": "Saul tenta eliminar Davi, mas Deus preserva seu servo por meio de pessoas e circunstâncias. A proteção divina não elimina a prova, mas sustenta o fiel dentro dela.",
+          "aplicacao": "Em tempos de oposição, a confiança em Deus deve permanecer maior que o medo das ameaças humanas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A lealdade de Jônatas",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 42
+          },
+          "comentario": "Jônatas age com coragem e lealdade, protegendo Davi mesmo quando isso poderia custar sua posição. A amizade verdadeira se alinha à justiça e ao temor de Deus.",
+          "aplicacao": "Relacionamentos fiéis são marcados por verdade, proteção, compromisso e reverência diante do Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 59,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Salmos 59",
+            "nota": "Salmo associado à perseguição de Saul contra Davi, expressando confiança no livramento de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 15,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "João 15:13",
+            "nota": "Aponta para o amor sacrificial como expressão máxima de lealdade."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romanos 12:18-21",
+            "nota": "Ensina a não retribuir o mal com o mal, mas a vencer o mal com o bem."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Como reajo quando Deus abençoa alguém próximo a mim?",
+        "Permaneço fiel quando sou mal interpretado ou perseguido?",
+        "Meus relacionamentos são marcados por lealdade, verdade e temor de Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 18:14 mostra que a diferença fundamental na vida de Davi era a presença do Senhor, mesmo em meio à oposição."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "1 Samuel 18:14",
+          "nota": "Destaca a sabedoria de Davi e a presença do Senhor com ele."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "1 Samuel 18:28",
+          "nota": "Mostra que Saul reconhecia que o Senhor estava com Davi."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 20,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "1 Samuel 20:17",
+          "nota": "Expressa a profundidade da aliança de amor entre Jônatas e Davi."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Inveja",
+          "significado": "Desejo desordenado que transforma a bênção do outro em ameaça pessoal."
+        },
+        {
+          "termo": "Lealdade",
+          "significado": "Fidelidade comprometida com a verdade, a justiça e o temor de Deus."
+        },
+        {
+          "termo": "Presença de Deus",
+          "significado": "A companhia do Senhor que sustenta e conduz seus servos."
+        }
+      ],
+      "oracao": "Senhor, livra meu coração da inveja e da comparação. Dá-me fidelidade em meio às pressões e relacionamentos marcados por verdade, lealdade e amor. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 18–20 — Faithfulness Amid Envy and Persecution",
+      "contexto": "1 Samuel 18 to 20 follows the growing tension between Saul and David. While God blesses David, envy controls Saul and turns admiration into threat. At the same time, Jonathan’s loyal friendship shows that faithfulness to God can be expressed through righteous commitments and protection of the innocent.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "God’s blessing awakens Saul’s envy",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "David prospers because the Lord is with him, but Saul sees this blessing as a threat. Envy distorts perception and leads to hostility.",
+          "aplicacao": "When another person’s success exposes insecurity in us, it is time to surrender the heart to the Lord and reject destructive comparison."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Persecution against David intensifies",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 24
+          },
+          "comentario": "Saul tries to eliminate David, but God preserves his servant through people and circumstances. Divine protection does not remove the trial, but sustains the faithful within it.",
+          "aplicacao": "In times of opposition, trust in God must remain greater than fear of human threats."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Jonathan’s loyalty",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 42
+          },
+          "comentario": "Jonathan acts with courage and loyalty, protecting David even when it could cost him his position. True friendship aligns with justice and the fear of God.",
+          "aplicacao": "Faithful relationships are marked by truth, protection, commitment, and reverence before the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 59,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Psalm 59",
+            "nota": "A psalm associated with Saul’s persecution of David, expressing trust in God’s deliverance."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 15,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "John 15:13",
+            "nota": "Points to sacrificial love as the highest expression of loyalty."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romans 12:18-21",
+            "nota": "Teaches not to repay evil for evil, but to overcome evil with good."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "How do I respond when God blesses someone close to me?",
+        "Do I remain faithful when I am misunderstood or persecuted?",
+        "Are my relationships marked by loyalty, truth, and the fear of God?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 18:14 shows that the fundamental difference in David’s life was the presence of the Lord, even in the midst of opposition."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "1 Samuel 18:14",
+          "nota": "Highlights David’s wisdom and the Lord’s presence with him."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "1 Samuel 18:28",
+          "nota": "Shows that Saul recognized the Lord was with David."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 20,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "1 Samuel 20:17",
+          "nota": "Expresses the depth of the covenant love between Jonathan and David."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Envy",
+          "significado": "A disordered desire that turns another person’s blessing into a personal threat."
+        },
+        {
+          "termo": "Loyalty",
+          "significado": "Faithfulness committed to truth, justice, and the fear of God."
+        },
+        {
+          "termo": "Presence of God",
+          "significado": "The Lord’s companionship that sustains and guides his servants."
+        }
+      ],
+      "oracao": "Lord, deliver my heart from envy and comparison. Give me faithfulness under pressure and relationships marked by truth, loyalty, and love. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 18–20 — Fidelidad en Medio de la Envidia y la Persecución",
+      "contexto": "1 Samuel 18 al 20 sigue el aumento de la tensión entre Saúl y David. Mientras Dios bendice a David, la envidia domina a Saúl y convierte la admiración en amenaza. Al mismo tiempo, la amistad leal de Jonatán revela que la fidelidad a Dios puede expresarse en alianzas justas y protección al inocente.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La bendición de Dios despierta la envidia de Saúl",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "David prospera porque el Señor está con él, pero Saúl interpreta esa bendición como amenaza. La envidia distorsiona la percepción y conduce a la hostilidad.",
+          "aplicacao": "Cuando el éxito de otra persona revela inseguridad en nosotros, es tiempo de entregar el corazón al Señor y rechazar la comparación destructiva."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La persecución contra David se intensifica",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 24
+          },
+          "comentario": "Saúl intenta eliminar a David, pero Dios preserva a su siervo por medio de personas y circunstancias. La protección divina no elimina la prueba, pero sostiene al fiel dentro de ella.",
+          "aplicacao": "En tiempos de oposición, la confianza en Dios debe permanecer mayor que el miedo a las amenazas humanas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La lealtad de Jonatán",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 42
+          },
+          "comentario": "Jonatán actúa con valentía y lealtad, protegiendo a David aun cuando eso podía costarle su posición. La amistad verdadera se alinea con la justicia y el temor de Dios.",
+          "aplicacao": "Las relaciones fieles están marcadas por verdad, protección, compromiso y reverencia delante del Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 59,
+            "verse_start": 1,
+            "verse_end": 17,
+            "referencia": "Salmos 59",
+            "nota": "Salmo asociado a la persecución de Saúl contra David, expresando confianza en el libramiento de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 15,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Juan 15:13",
+            "nota": "Apunta al amor sacrificial como máxima expresión de lealtad."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romanos 12:18-21",
+            "nota": "Enseña a no devolver mal por mal, sino a vencer el mal con el bien."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Cómo reacciono cuando Dios bendice a alguien cercano a mí?",
+        "¿Permanezco fiel cuando soy malinterpretado o perseguido?",
+        "¿Mis relaciones están marcadas por lealtad, verdad y temor de Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 18:14 muestra que la diferencia fundamental en la vida de David era la presencia del Señor, aun en medio de la oposición."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "1 Samuel 18:14",
+          "nota": "Destaca la sabiduría de David y la presencia del Señor con él."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 18,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "1 Samuel 18:28",
+          "nota": "Muestra que Saúl reconocía que el Señor estaba con David."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 20,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "1 Samuel 20:17",
+          "nota": "Expresa la profundidad del amor de pacto entre Jonatán y David."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Envidia",
+          "significado": "Deseo desordenado que convierte la bendición de otro en amenaza personal."
+        },
+        {
+          "termo": "Lealtad",
+          "significado": "Fidelidad comprometida con la verdad, la justicia y el temor de Dios."
+        },
+        {
+          "termo": "Presencia de Dios",
+          "significado": "La compañía del Señor que sostiene y guía a sus siervos."
+        }
+      ],
+      "oracao": "Señor, libra mi corazón de la envidia y la comparación. Dame fidelidad en medio de las presiones y relaciones marcadas por verdad, lealtad y amor. Amén."
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "dia": 46,
+  "data": "2027-02-15",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 4–6",
+    "en": "Numbers 4–6",
+    "es": "Números 4–6"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 4,
+      "chapter_end": 6
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 6,
+    "verse_start": 24,
+    "verse_end": 26,
+    "referencia": {
+      "pt": "Números 6:24-26",
+      "en": "Numbers 6:24-26",
+      "es": "Números 6:24-26"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_046.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_046.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/046/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/pt/pt-BR-FranciscaNeural/006.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/046/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/pt/pt-BR-ThalitaNeural/006.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/046/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/pt/pt-BR-AntonioNeural/006.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/046/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/pt/pt-PT-DuarteNeural/006.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_046.mp3",
+      "versiculo_central": "audio/en/verses/day_046.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/046/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/en/en-US-AriaNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/en/en-US-AriaNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/en/en-US-AriaNeural/006.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/046/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/en/en-US-JennyNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/en/en-US-JennyNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/en/en-US-JennyNeural/006.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/046/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/en/en-US-GuyNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/en/en-US-GuyNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/en/en-US-GuyNeural/006.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/046/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/en/en-US-BrianNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/en/en-US-BrianNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/en/en-US-BrianNeural/006.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_046.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_046.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/046/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/es/es-ES-ElviraNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/es/es-ES-ElviraNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/es/es-ES-ElviraNeural/006.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/046/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/es/es-MX-DaliaNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/es/es-MX-DaliaNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/es/es-MX-DaliaNeural/006.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/046/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/es/es-ES-AlvaroNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/es/es-ES-AlvaroNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/es/es-ES-AlvaroNeural/006.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/046/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/046/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/046/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "NUM_4": "audio/biblia/NUM/es/es-MX-JorgeNeural/004.m4a",
+          "NUM_5": "audio/biblia/NUM/es/es-MX-JorgeNeural/005.m4a",
+          "NUM_6": "audio/biblia/NUM/es/es-MX-JorgeNeural/006.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 4–6 — Serviço, Pureza e Bênção",
+      "contexto": "Números 4 a 6 descreve responsabilidades dos levitas, orientações de pureza, reparação de culpas, votos de nazireado e a bênção sacerdotal. Deus prepara seu povo para caminhar de modo ordenado, santo e dependente de sua presença.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Responsabilidades no serviço do tabernáculo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "As famílias levíticas recebem tarefas específicas no transporte e cuidado das coisas sagradas. O serviço de Deus exige ordem e reverência.",
+          "aplicacao": "Cada responsabilidade diante de Deus deve ser assumida com atenção, humildade e fidelidade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pureza, reparação e vida comunitária",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "As leis tratam da pureza do acampamento, restituição e fidelidade nos relacionamentos. A presença de Deus no meio do povo exige vida íntegra.",
+          "aplicacao": "A comunhão com Deus também se expressa em arrependimento, reparação e relacionamentos tratados com verdade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Consagração e bênção sacerdotal",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "O voto de nazireado fala de consagração especial, e a bênção sacerdotal coloca o nome do Senhor sobre o povo.",
+          "aplicacao": "A vida consagrada não termina em esforço humano; ela depende da graça, da paz e do cuidado de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 67,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Salmos 67:1-2",
+            "nota": "Transforma a bênção de Deus em testemunho diante das nações."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 13,
+            "verse_end": 17,
+            "referencia": "Lucas 1:13-17",
+            "nota": "A vida de João Batista retoma elementos de consagração especial ao Senhor."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 13,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "2 Coríntios 13:13",
+            "nota": "Expressa bênção apostólica sobre a igreja, com graça, amor e comunhão."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Sirvo a Deus com reverência ou de modo distraído?",
+        "Busco reparar erros e viver relacionamentos com verdade?",
+        "Tenho recebido a bênção de Deus como chamado para viver em paz e consagração?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 6:24-26 reúne proteção, graça e paz em uma bênção que coloca a vida do povo diante do cuidado do Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 4,
+          "verse_start": 49,
+          "verse_end": 49,
+          "referencia": "Números 4:49",
+          "nota": "Mostra que cada servo recebeu sua responsabilidade conforme a ordem do Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 5,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 5:7",
+          "nota": "Relaciona confissão, restituição e reparação."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 6,
+          "verse_start": 24,
+          "verse_end": 26,
+          "referencia": "Números 6:24-26",
+          "nota": "Apresenta a bênção sacerdotal sobre o povo de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Serviço",
+          "significado": "Responsabilidade diante de Deus exercida com reverência e fidelidade."
+        },
+        {
+          "termo": "Nazireado",
+          "significado": "Voto de consagração especial ao Senhor por um período determinado."
+        },
+        {
+          "termo": "Bênção",
+          "significado": "Favor, proteção e paz concedidos por Deus ao seu povo."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a servir com reverência, viver com integridade e receber tua bênção com gratidão. Que tua paz conduza meus passos. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 4–6 — Service, Purity, and Blessing",
+      "contexto": "Numbers 4 to 6 describes the responsibilities of the Levites, instructions for purity, restitution for guilt, Nazirite vows, and the priestly blessing. God prepares his people to walk in order, holiness, and dependence on his presence.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Responsibilities in the service of the tabernacle",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "The Levitical families receive specific tasks in carrying and caring for the holy things. The service of God requires order and reverence.",
+          "aplicacao": "Every responsibility before God should be assumed with attention, humility, and faithfulness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Purity, restitution, and community life",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "The laws address the purity of the camp, restitution, and faithfulness in relationships. God's presence among the people requires integrity of life.",
+          "aplicacao": "Communion with God is also expressed in repentance, restitution, and relationships handled with truth."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Consecration and the priestly blessing",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "The Nazirite vow speaks of special consecration, and the priestly blessing places the Lord's name upon the people.",
+          "aplicacao": "A consecrated life does not end in human effort; it depends on God's grace, peace, and care."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 67,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Psalm 67:1-2",
+            "nota": "Turns God's blessing into a witness before the nations."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 13,
+            "verse_end": 17,
+            "referencia": "Luke 1:13-17",
+            "nota": "The life of John the Baptist recalls elements of special consecration to the Lord."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 13,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "2 Corinthians 13:13",
+            "nota": "Expresses apostolic blessing over the church, with grace, love, and communion."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I serve God with reverence or in a distracted way?",
+        "Do I seek to repair wrongs and live in truthful relationships?",
+        "Have I received God's blessing as a call to live in peace and consecration?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 6:24-26 brings together protection, grace, and peace in a blessing that places the life of the people under the Lord's care."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 4,
+          "verse_start": 49,
+          "verse_end": 49,
+          "referencia": "Numbers 4:49",
+          "nota": "Shows that each servant received his responsibility according to the Lord's command."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 5,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Numbers 5:7",
+          "nota": "Connects confession, restitution, and repair."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 6,
+          "verse_start": 24,
+          "verse_end": 26,
+          "referencia": "Numbers 6:24-26",
+          "nota": "Presents the priestly blessing over God's people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Service",
+          "significado": "Responsibility before God carried out with reverence and faithfulness."
+        },
+        {
+          "termo": "Nazirite vow",
+          "significado": "A vow of special consecration to the Lord for a defined period."
+        },
+        {
+          "termo": "Blessing",
+          "significado": "Favor, protection, and peace granted by God to his people."
+        }
+      ],
+      "oracao": "Lord, teach me to serve with reverence, live with integrity, and receive your blessing with gratitude. May your peace guide my steps. Amen."
+    },
+    "es": {
+      "titulo": "Números 4–6 — Servicio, Pureza y Bendición",
+      "contexto": "Números 4 al 6 describe responsabilidades de los levitas, orientaciones de pureza, reparación de culpas, votos de nazareato y la bendición sacerdotal. Dios prepara a su pueblo para caminar con orden, santidad y dependencia de su presencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Responsabilidades en el servicio del tabernáculo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "Las familias levíticas reciben tareas específicas en el transporte y cuidado de las cosas sagradas. El servicio de Dios exige orden y reverencia.",
+          "aplicacao": "Cada responsabilidad delante de Dios debe asumirse con atención, humildad y fidelidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pureza, reparación y vida comunitaria",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "Las leyes tratan la pureza del campamento, la restitución y la fidelidad en las relaciones. La presencia de Dios en medio del pueblo exige vida íntegra.",
+          "aplicacao": "La comunión con Dios también se expresa en arrepentimiento, reparación y relaciones tratadas con verdad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Consagración y bendición sacerdotal",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 27
+          },
+          "comentario": "El voto de nazareato habla de consagración especial, y la bendición sacerdotal pone el nombre del Señor sobre el pueblo.",
+          "aplicacao": "La vida consagrada no termina en esfuerzo humano; depende de la gracia, la paz y el cuidado de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 67,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Salmos 67:1-2",
+            "nota": "Transforma la bendición de Dios en testimonio delante de las naciones."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 13,
+            "verse_end": 17,
+            "referencia": "Lucas 1:13-17",
+            "nota": "La vida de Juan el Bautista retoma elementos de consagración especial al Señor."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 13,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "2 Corintios 13:13",
+            "nota": "Expresa bendición apostólica sobre la iglesia, con gracia, amor y comunión."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Sirvo a Dios con reverencia o de manera distraída?",
+        "¿Busco reparar errores y vivir relaciones con verdad?",
+        "¿He recibido la bendición de Dios como llamado a vivir en paz y consagración?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 6:24-26 reúne protección, gracia y paz en una bendición que coloca la vida del pueblo bajo el cuidado del Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 4,
+          "verse_start": 49,
+          "verse_end": 49,
+          "referencia": "Números 4:49",
+          "nota": "Muestra que cada servidor recibió su responsabilidad conforme a la orden del Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 5,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Números 5:7",
+          "nota": "Relaciona confesión, restitución y reparación."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 6,
+          "verse_start": 24,
+          "verse_end": 26,
+          "referencia": "Números 6:24-26",
+          "nota": "Presenta la bendición sacerdotal sobre el pueblo de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Servicio",
+          "significado": "Responsabilidad delante de Dios ejercida con reverencia y fidelidad."
+        },
+        {
+          "termo": "Nazareato",
+          "significado": "Voto de consagración especial al Señor por un período determinado."
+        },
+        {
+          "termo": "Bendición",
+          "significado": "Favor, protección y paz concedidos por Dios a su pueblo."
+        }
+      ],
+      "oracao": "Señor, enséñame a servir con reverencia, vivir con integridad y recibir tu bendición con gratitud. Que tu paz conduzca mis pasos. Amén."
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "dia": 56,
+  "data": "2027-02-25",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 30–31",
+    "en": "Numbers 30–31",
+    "es": "Números 30–31"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 30,
+      "chapter_end": 31
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 30,
+    "verse_start": 2,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Números 30:2",
+      "en": "Numbers 30:2",
+      "es": "Números 30:2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_056.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_056.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_056.mp3",
+      "versiculo_central": "audio/en/verses/day_056.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_056.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_056.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 30–31 — Palavra, Responsabilidade e Juízo",
+      "contexto": "Números 30 e 31 trata da seriedade dos votos feitos ao Senhor e do juízo contra Midiã. São capítulos difíceis, mas importantes, pois mostram que a palavra diante de Deus tem peso e que a santidade da aliança não pode conviver com a corrupção que destrói o povo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A seriedade dos votos",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 16
+          },
+          "comentario": "Os votos mostram que a palavra humana, quando dirigida a Deus, não deve ser tratada com leviandade. Promessas envolvem responsabilidade.",
+          "aplicacao": "Integridade espiritual inclui cumprir o que se promete e falar diante de Deus com temor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O juízo contra Midiã",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 24
+          },
+          "comentario": "O juízo contra Midiã está ligado à sedução espiritual que levou Israel ao pecado. O texto revela a gravidade da corrupção contra a aliança.",
+          "aplicacao": "O povo de Deus precisa reconhecer que o pecado não tratado produz destruição profunda."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Purificação e partilha responsável",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 25,
+            "chapter_end": 31,
+            "verse_end": 54
+          },
+          "comentario": "Após a batalha, há instruções sobre purificação e distribuição. Até a vitória precisava ser submetida à ordem de Deus.",
+          "aplicacao": "Toda conquista deve ser colocada diante do Senhor com santidade, gratidão e responsabilidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "Deuteronômio 23:21-23",
+            "nota": "Reforça a seriedade dos votos feitos ao Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Mateus 5:37",
+            "nota": "Jesus ensina a simplicidade e a integridade da palavra."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Tiago 5:12",
+            "nota": "Exorta o povo de Deus a falar com verdade e responsabilidade."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minhas palavras refletem integridade diante de Deus?",
+        "Tenho tratado seriamente aquilo que promete ao Senhor e às pessoas?",
+        "Submeto minhas decisões e conquistas à santidade de Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 30:2 expressa o eixo ético da leitura: a palavra dita diante de Deus deve ser tratada com fidelidade e temor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 30,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 30:2",
+          "nota": "Ensina a responsabilidade de cumprir aquilo que se promete ao Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Números 31:16",
+          "nota": "Explica a relação entre Midiã e a queda espiritual de Israel."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 50,
+          "verse_end": 50,
+          "referencia": "Números 31:50",
+          "nota": "Mostra uma oferta apresentada ao Senhor após o conflito."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Voto",
+          "significado": "Compromisso assumido diante de Deus que exige fidelidade."
+        },
+        {
+          "termo": "Integridade",
+          "significado": "Coerência entre palavra, intenção e prática diante do Senhor."
+        },
+        {
+          "termo": "Purificação",
+          "significado": "Separação do pecado e retorno à ordem santa de Deus."
+        }
+      ],
+      "oracao": "Senhor, torna minhas palavras verdadeiras e responsáveis. Ajuda-me a viver com integridade, santidade e temor diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 30–31 — Word, Responsibility, and Judgment",
+      "contexto": "Numbers 30 and 31 deals with the seriousness of vows made to the Lord and the judgment against Midian. These are difficult but important chapters, because they show that words spoken before God carry weight and that the holiness of the covenant cannot coexist with corruption that destroys the people.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The seriousness of vows",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 16
+          },
+          "comentario": "Vows show that human speech, when directed to God, must not be treated lightly. Promises involve responsibility.",
+          "aplicacao": "Spiritual integrity includes keeping what is promised and speaking before God with reverence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Judgment against Midian",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 24
+          },
+          "comentario": "The judgment against Midian is connected to the spiritual seduction that led Israel into sin. The text reveals the seriousness of corruption against the covenant.",
+          "aplicacao": "God’s people must recognize that untreated sin produces deep destruction."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Purification and responsible distribution",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 25,
+            "chapter_end": 31,
+            "verse_end": 54
+          },
+          "comentario": "After the battle, instructions are given about purification and distribution. Even victory had to be submitted to God’s order.",
+          "aplicacao": "Every achievement should be placed before the Lord with holiness, gratitude, and responsibility."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "Deuteronomy 23:21-23",
+            "nota": "Reinforces the seriousness of vows made to the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Matthew 5:37",
+            "nota": "Jesus teaches simplicity and integrity in speech."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "James 5:12",
+            "nota": "Exhorts God’s people to speak with truth and responsibility."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do my words reflect integrity before God?",
+        "Do I take seriously what I promise to the Lord and to people?",
+        "Do I submit my decisions and achievements to God’s holiness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 30:2 expresses the ethical center of the reading: words spoken before God must be treated with faithfulness and reverence."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 30,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Numbers 30:2",
+          "nota": "Teaches the responsibility of keeping what is promised to the Lord."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Numbers 31:16",
+          "nota": "Explains the connection between Midian and Israel’s spiritual fall."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 50,
+          "verse_end": 50,
+          "referencia": "Numbers 31:50",
+          "nota": "Shows an offering presented to the Lord after the conflict."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Vow",
+          "significado": "A commitment made before God that requires faithfulness."
+        },
+        {
+          "termo": "Integrity",
+          "significado": "Consistency between word, intention, and practice before the Lord."
+        },
+        {
+          "termo": "Purification",
+          "significado": "Separation from sin and return to God’s holy order."
+        }
+      ],
+      "oracao": "Lord, make my words truthful and responsible. Help me live with integrity, holiness, and reverence before you. Amen."
+    },
+    "es": {
+      "titulo": "Números 30–31 — Palabra, Responsabilidad y Juicio",
+      "contexto": "Números 30 y 31 trata de la seriedad de los votos hechos al Señor y del juicio contra Madián. Son capítulos difíciles, pero importantes, porque muestran que la palabra delante de Dios tiene peso y que la santidad de la alianza no puede convivir con la corrupción que destruye al pueblo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La seriedad de los votos",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 30,
+            "verse_start": 1,
+            "chapter_end": 30,
+            "verse_end": 16
+          },
+          "comentario": "Los votos muestran que la palabra humana, cuando se dirige a Dios, no debe tratarse con ligereza. Las promesas implican responsabilidad.",
+          "aplicacao": "La integridad espiritual incluye cumplir lo que se promete y hablar delante de Dios con temor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El juicio contra Madián",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 1,
+            "chapter_end": 31,
+            "verse_end": 24
+          },
+          "comentario": "El juicio contra Madián está relacionado con la seducción espiritual que llevó a Israel al pecado. El texto revela la gravedad de la corrupción contra la alianza.",
+          "aplicacao": "El pueblo de Dios necesita reconocer que el pecado no tratado produce destrucción profunda."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Purificación y distribución responsable",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 31,
+            "verse_start": 25,
+            "chapter_end": 31,
+            "verse_end": 54
+          },
+          "comentario": "Después de la batalla, hay instrucciones sobre purificación y distribución. Incluso la victoria debía someterse al orden de Dios.",
+          "aplicacao": "Toda conquista debe ser puesta delante del Señor con santidad, gratitud y responsabilidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 23,
+            "verse_start": 21,
+            "verse_end": 23,
+            "referencia": "Deuteronomio 23:21-23",
+            "nota": "Refuerza la seriedad de los votos hechos al Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Mateo 5:37",
+            "nota": "Jesús enseña la sencillez y la integridad de la palabra."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 5,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Santiago 5:12",
+            "nota": "Exhorta al pueblo de Dios a hablar con verdad y responsabilidad."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mis palabras reflejan integridad delante de Dios?",
+        "¿Trato seriamente lo que prometo al Señor y a las personas?",
+        "¿Someto mis decisiones y conquistas a la santidad de Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 30:2 expresa el eje ético de la lectura: la palabra dicha delante de Dios debe ser tratada con fidelidad y temor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 30,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 30:2",
+          "nota": "Enseña la responsabilidad de cumplir aquello que se promete al Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Números 31:16",
+          "nota": "Explica la relación entre Madián y la caída espiritual de Israel."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 31,
+          "verse_start": 50,
+          "verse_end": 50,
+          "referencia": "Números 31:50",
+          "nota": "Muestra una ofrenda presentada al Señor después del conflicto."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Voto",
+          "significado": "Compromiso asumido delante de Dios que exige fidelidad."
+        },
+        {
+          "termo": "Integridad",
+          "significado": "Coherencia entre palabra, intención y práctica delante del Señor."
+        },
+        {
+          "termo": "Purificación",
+          "significado": "Separación del pecado y retorno al orden santo de Dios."
+        }
+      ],
+      "oracao": "Señor, haz que mis palabras sean verdaderas y responsables. Ayúdame a vivir con integridad, santidad y temor delante de ti. Amén."
+    }
+  }
+}

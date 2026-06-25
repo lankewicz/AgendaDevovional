@@ -1,0 +1,560 @@
+{
+  "dia": 28,
+  "data": "2027-01-28",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 25–27",
+    "en": "Exodus 25–27",
+    "es": "Éxodo 25–27"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 25,
+      "chapter_end": 27
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 25,
+    "verse_start": 8,
+    "verse_end": 8,
+    "referencia": {
+      "pt": "Êxodo 25:8",
+      "en": "Exodus 25:8",
+      "es": "Éxodo 25:8"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_028.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_028.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/028/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/027.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/028/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/027.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/028/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/027.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/028/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/027.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_028.mp3",
+      "versiculo_central": "audio/en/verses/day_028.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/028/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/en/en-US-AriaNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/en/en-US-AriaNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/en/en-US-AriaNeural/027.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/028/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/en/en-US-JennyNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/en/en-US-JennyNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/en/en-US-JennyNeural/027.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/028/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/en/en-US-GuyNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/en/en-US-GuyNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/en/en-US-GuyNeural/027.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/028/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/en/en-US-BrianNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/en/en-US-BrianNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/en/en-US-BrianNeural/027.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_028.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_028.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/028/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/es/es-ES-ElviraNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/es/es-ES-ElviraNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/es/es-ES-ElviraNeural/027.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/028/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/es/es-MX-DaliaNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/es/es-MX-DaliaNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/es/es-MX-DaliaNeural/027.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/028/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/es/es-ES-AlvaroNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/es/es-ES-AlvaroNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/es/es-ES-AlvaroNeural/027.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/028/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/028/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/028/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_25": "audio/biblia/EXO/es/es-MX-JorgeNeural/025.m4a",
+          "EXO_26": "audio/biblia/EXO/es/es-MX-JorgeNeural/026.m4a",
+          "EXO_27": "audio/biblia/EXO/es/es-MX-JorgeNeural/027.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 25–27 — O Deus Santo Habita no Meio do Seu Povo",
+      "contexto": "Êxodo 25 a 27 inicia as instruções para o tabernáculo. Depois de libertar Israel e confirmar a aliança, Deus revela como sua presença habitaria no meio do povo. Cada detalhe aponta para santidade, adoração ordenada e aproximação reverente diante do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofertas voluntárias para o santuário",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 9
+          },
+          "comentario": "Deus chama o povo a contribuir de coração para a construção do santuário. A adoração envolve resposta voluntária à graça recebida.",
+          "aplicacao": "Aquilo que oferecemos a Deus deve nascer de gratidão, reverência e disposição sincera do coração."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A arca, a mesa e o candelabro",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 10,
+            "chapter_end": 25,
+            "verse_end": 40
+          },
+          "comentario": "Os móveis do tabernáculo mostram a centralidade da presença de Deus, da comunhão e da luz. O santuário ensina que o Senhor se aproxima, mas não de qualquer maneira.",
+          "aplicacao": "A comunhão com Deus deve ser recebida com reverência, dependência e atenção à sua Palavra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O tabernáculo, o altar e o átrio",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 21
+          },
+          "comentario": "As cortinas, divisões, altar e átrio organizam o espaço de adoração. O acesso a Deus é real, mas marcado por santidade e mediação.",
+          "aplicacao": "A presença de Deus é dom precioso. Aproximar-se dele exige humildade, santidade e gratidão pelo caminho que Ele abre."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 27:4",
+            "nota": "Expressa o desejo de habitar na casa do Senhor e contemplar sua beleza."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 57,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "Isaías 57:15",
+            "nota": "Mostra que o Deus alto e santo também habita com o contrito e humilde."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "João 1:14",
+            "nota": "Apresenta o Verbo habitando entre nós, ecoando a linguagem da presença de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Hebreus 9:1-12",
+            "nota": "Interpreta o tabernáculo à luz da obra superior de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado a presença de Deus como algo comum ou precioso?",
+        "Minha adoração nasce de um coração voluntário e grato?",
+        "Aproximo-me de Deus com reverência e confiança no caminho que Ele abriu?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 25:8 resume o propósito do tabernáculo: o Deus santo deseja habitar no meio do seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Êxodo 25:2",
+          "nota": "Mostra que a oferta deveria nascer de um coração disposto."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Êxodo 25:8",
+          "nota": "Revela o propósito do santuário: a presença de Deus entre o povo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 27,
+          "verse_start": 20,
+          "verse_end": 21,
+          "referencia": "Êxodo 27:20-21",
+          "nota": "Destaca a luz contínua diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernáculo",
+          "significado": "Santuário móvel que simbolizava a presença de Deus no meio de Israel."
+        },
+        {
+          "termo": "Santidade",
+          "significado": "Separação para Deus e reverência diante da sua presença."
+        },
+        {
+          "termo": "Adoração",
+          "significado": "Resposta obediente e reverente à presença e à graça do Senhor."
+        }
+      ],
+      "oracao": "Senhor, obrigado porque desejas habitar no meio do teu povo. Ensina-me a valorizar tua presença e a te adorar com reverência, gratidão e coração sincero. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 25–27 — The Holy God Dwells Among His People",
+      "contexto": "Exodus 25 to 27 begins the instructions for the tabernacle. After delivering Israel and confirming the covenant, God reveals how his presence would dwell among the people. Every detail points to holiness, ordered worship, and reverent approach before the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Freewill offerings for the sanctuary",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 9
+          },
+          "comentario": "God calls the people to contribute from the heart for the building of the sanctuary. Worship involves a willing response to grace already received.",
+          "aplicacao": "What we offer to God should arise from gratitude, reverence, and sincere willingness of heart."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The ark, the table, and the lampstand",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 10,
+            "chapter_end": 25,
+            "verse_end": 40
+          },
+          "comentario": "The furniture of the tabernacle shows the centrality of God’s presence, communion, and light. The sanctuary teaches that the Lord draws near, but not casually.",
+          "aplicacao": "Communion with God must be received with reverence, dependence, and attention to his Word."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The tabernacle, the altar, and the courtyard",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 21
+          },
+          "comentario": "The curtains, divisions, altar, and courtyard organize the space of worship. Access to God is real, but marked by holiness and mediation.",
+          "aplicacao": "God’s presence is a precious gift. Drawing near to him requires humility, holiness, and gratitude for the way he opens."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Psalm 27:4",
+            "nota": "Expresses the desire to dwell in the house of the Lord and behold his beauty."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 57,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "Isaiah 57:15",
+            "nota": "Shows that the high and holy God also dwells with the contrite and humble."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "John 1:14",
+            "nota": "Presents the Word dwelling among us, echoing the language of God’s presence."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Hebrews 9:1-12",
+            "nota": "Interprets the tabernacle in light of the superior work of Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat God’s presence as common or precious?",
+        "Does my worship arise from a willing and grateful heart?",
+        "Do I draw near to God with reverence and confidence in the way he opened?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 25:8 summarizes the purpose of the tabernacle: the holy God desires to dwell among his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Exodus 25:2",
+          "nota": "Shows that the offering was to come from a willing heart."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Exodus 25:8",
+          "nota": "Reveals the purpose of the sanctuary: God’s presence among the people."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 27,
+          "verse_start": 20,
+          "verse_end": 21,
+          "referencia": "Exodus 27:20-21",
+          "nota": "Highlights the continual light before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernacle",
+          "significado": "The movable sanctuary that symbolized God’s presence among Israel."
+        },
+        {
+          "termo": "Holiness",
+          "significado": "Being set apart for God and living with reverence before his presence."
+        },
+        {
+          "termo": "Worship",
+          "significado": "The obedient and reverent response to the Lord’s presence and grace."
+        }
+      ],
+      "oracao": "Lord, thank you because you desire to dwell among your people. Teach me to value your presence and worship you with reverence, gratitude, and a sincere heart. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 25–27 — El Dios Santo Habita en Medio de Su Pueblo",
+      "contexto": "Éxodo 25 al 27 inicia las instrucciones para el tabernáculo. Después de liberar a Israel y confirmar la alianza, Dios revela cómo su presencia habitaría en medio del pueblo. Cada detalle apunta a santidad, adoración ordenada y acercamiento reverente delante del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofrendas voluntarias para el santuario",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 9
+          },
+          "comentario": "Dios llama al pueblo a contribuir de corazón para la construcción del santuario. La adoración implica una respuesta voluntaria a la gracia recibida.",
+          "aplicacao": "Aquello que ofrecemos a Dios debe nacer de gratitud, reverencia y disposición sincera del corazón."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El arca, la mesa y el candelabro",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 25,
+            "verse_start": 10,
+            "chapter_end": 25,
+            "verse_end": 40
+          },
+          "comentario": "Los muebles del tabernáculo muestran la centralidad de la presencia de Dios, la comunión y la luz. El santuario enseña que el Señor se acerca, pero no de cualquier manera.",
+          "aplicacao": "La comunión con Dios debe recibirse con reverencia, dependencia y atención a su Palabra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El tabernáculo, el altar y el atrio",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 21
+          },
+          "comentario": "Las cortinas, divisiones, altar y atrio organizan el espacio de adoración. El acceso a Dios es real, pero marcado por santidad y mediación.",
+          "aplicacao": "La presencia de Dios es un don precioso. Acercarse a Él requiere humildad, santidad y gratitud por el camino que Él abre."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 27,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Salmos 27:4",
+            "nota": "Expresa el deseo de habitar en la casa del Señor y contemplar su hermosura."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 57,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "Isaías 57:15",
+            "nota": "Muestra que el Dios alto y santo también habita con el contrito y humilde."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Juan 1:14",
+            "nota": "Presenta al Verbo habitando entre nosotros, en eco del lenguaje de la presencia de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Hebreos 9:1-12",
+            "nota": "Interpreta el tabernáculo a la luz de la obra superior de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato la presencia de Dios como algo común o precioso?",
+        "¿Mi adoración nace de un corazón voluntario y agradecido?",
+        "¿Me acerco a Dios con reverencia y confianza en el camino que Él abrió?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 25:8 resume el propósito del tabernáculo: el Dios santo desea habitar en medio de su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Éxodo 25:2",
+          "nota": "Muestra que la ofrenda debía nacer de un corazón dispuesto."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 25,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Éxodo 25:8",
+          "nota": "Revela el propósito del santuario: la presencia de Dios entre el pueblo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 27,
+          "verse_start": 20,
+          "verse_end": 21,
+          "referencia": "Éxodo 27:20-21",
+          "nota": "Destaca la luz continua delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Tabernáculo",
+          "significado": "Santuario móvil que simbolizaba la presencia de Dios en medio de Israel."
+        },
+        {
+          "termo": "Santidad",
+          "significado": "Separación para Dios y reverencia delante de su presencia."
+        },
+        {
+          "termo": "Adoración",
+          "significado": "Respuesta obediente y reverente a la presencia y la gracia del Señor."
+        }
+      ],
+      "oracao": "Señor, gracias porque deseas habitar en medio de tu pueblo. Enséñame a valorar tu presencia y adorarte con reverencia, gratitud y corazón sincero. Amén."
+    }
+  }
+}

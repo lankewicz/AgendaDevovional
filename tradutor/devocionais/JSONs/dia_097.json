@@ -1,0 +1,440 @@
+{
+  "dia": 97,
+  "data": "2027-04-07",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 8–11",
+    "en": "2 Samuel 8–11",
+    "es": "2 Samuel 8–11"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 8,
+      "chapter_end": 11
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 11,
+    "verse_start": 27,
+    "verse_end": 27,
+    "referencia": {
+      "pt": "2 Samuel 11:27",
+      "en": "2 Samuel 11:27",
+      "es": "2 Samuel 11:27"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_097.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_097.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_097.mp3",
+      "versiculo_central": "audio/en/verses/day_097.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_097.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_097.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 8–11 — Vitórias Públicas e Queda Oculta",
+      "contexto": "2 Samuel 8 a 11 apresenta um contraste intenso. Davi vence batalhas, organiza o reino com justiça e demonstra bondade a Mefibosete. Porém, no capítulo 11, sua queda moral revela que sucesso público não substitui vigilância espiritual, santidade e temor diante de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Vitórias e justiça no reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 18
+          },
+          "comentario": "Davi amplia o reino e governa com justiça. As vitórias mostram a mão de Deus, mas também aumentam a responsabilidade espiritual do rei.",
+          "aplicacao": "Toda conquista deve produzir humildade e fidelidade, não autoconfiança sem vigilância."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Bondade para com Mefibosete",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 13
+          },
+          "comentario": "Davi honra a aliança com Jônatas e acolhe Mefibosete à mesa do rei. A graça recebida se transforma em misericórdia praticada.",
+          "aplicacao": "Quem conhece a fidelidade de Deus deve tratar os outros com bondade, memória grata e misericórdia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A guerra externa e a queda interna",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 27
+          },
+          "comentario": "Enquanto o reino enfrenta conflitos externos, Davi cai em pecado, manipulação e violência. O que parecia oculto diante dos homens estava plenamente diante do Senhor.",
+          "aplicacao": "Nenhuma posição, conquista ou aparência pública substitui um coração íntegro diante de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Salmos 51:1-12",
+            "nota": "Expressa o arrependimento de Davi após ser confrontado por seu pecado."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Provérbios 28:13",
+            "nota": "Ensina que encobrir o pecado não produz prosperidade espiritual."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Tiago 1:14-15",
+            "nota": "Mostra o processo da tentação, do desejo ao pecado consumado."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "1 Coríntios 10:12",
+            "nota": "Adverte contra a falsa segurança espiritual."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho mantido vigilância espiritual mesmo em fases de aparente estabilidade?",
+        "Uso minha posição para servir com misericórdia ou para proteger meus próprios interesses?",
+        "Existe algo que preciso confessar diante de Deus em vez de tentar esconder?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 11:27 revela que o pecado oculto de Davi não passou despercebido diante de Deus, tornando-se o ponto decisivo da leitura."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 8,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "2 Samuel 8:15",
+          "nota": "Mostra Davi exercendo governo com juízo e justiça."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 9,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 9:7",
+          "nota": "Revela a bondade de Davi para com Mefibosete por causa de Jônatas."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 11,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "2 Samuel 11:27",
+          "nota": "Afirma que Deus viu e desaprovou o pecado de Davi."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integridade",
+          "significado": "Coerência entre a vida pública e o coração diante de Deus."
+        },
+        {
+          "termo": "Misericórdia",
+          "significado": "Bondade prática demonstrada a quem depende de graça e acolhimento."
+        },
+        {
+          "termo": "Tentação",
+          "significado": "Processo em que desejos desordenados podem conduzir ao pecado quando não são tratados."
+        }
+      ],
+      "oracao": "Senhor, guarda meu coração em tempos de conquista e estabilidade. Dá-me integridade no secreto, misericórdia nas relações e coragem para confessar o pecado sem esconder nada de ti. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 8–11 — Public Victories and Hidden Fall",
+      "contexto": "2 Samuel 8 to 11 presents a sharp contrast. David wins battles, organizes the kingdom with justice, and shows kindness to Mephibosheth. Yet in chapter 11, his moral fall reveals that public success does not replace spiritual watchfulness, holiness, and fear before God.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Victories and justice in the kingdom",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 18
+          },
+          "comentario": "David expands the kingdom and governs with justice. The victories show God's hand, but they also increase the king's spiritual responsibility.",
+          "aplicacao": "Every achievement should produce humility and faithfulness, not self-confidence without watchfulness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Kindness toward Mephibosheth",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 13
+          },
+          "comentario": "David honors his covenant with Jonathan and welcomes Mephibosheth to the king's table. Grace received becomes mercy practiced.",
+          "aplicacao": "Those who know God's faithfulness should treat others with kindness, grateful memory, and mercy."
+        },
+        {
+          "ordem": 3,
+          "titulo": "External war and internal fall",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 27
+          },
+          "comentario": "While the kingdom faces external conflicts, David falls into sin, manipulation, and violence. What seemed hidden from people was fully before the Lord.",
+          "aplicacao": "No position, achievement, or public appearance can replace an upright heart before God."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Psalm 51:1-12",
+            "nota": "Expresses David's repentance after being confronted for his sin."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Proverbs 28:13",
+            "nota": "Teaches that covering sin does not produce spiritual prosperity."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "James 1:14-15",
+            "nota": "Shows the process of temptation, from desire to completed sin."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "1 Corinthians 10:12",
+            "nota": "Warns against false spiritual security."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I kept spiritual watchfulness even in seasons of apparent stability?",
+        "Do I use my position to serve with mercy or to protect my own interests?",
+        "Is there anything I need to confess before God instead of trying to hide it?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 11:27 reveals that David's hidden sin did not go unnoticed before God, becoming the decisive point of the reading."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 8,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "2 Samuel 8:15",
+          "nota": "Shows David ruling with justice and righteousness."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 9,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 9:7",
+          "nota": "Reveals David's kindness toward Mephibosheth because of Jonathan."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 11,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "2 Samuel 11:27",
+          "nota": "Affirms that God saw and disapproved of David's sin."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integrity",
+          "significado": "Consistency between public life and the heart before God."
+        },
+        {
+          "termo": "Mercy",
+          "significado": "Practical kindness shown to those who depend on grace and welcome."
+        },
+        {
+          "termo": "Temptation",
+          "significado": "The process in which disordered desires can lead to sin when left untreated."
+        }
+      ],
+      "oracao": "Lord, guard my heart in times of achievement and stability. Give me integrity in secret, mercy in relationships, and courage to confess sin without hiding anything from you. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 8–11 — Victorias Públicas y Caída Oculta",
+      "contexto": "2 Samuel 8 al 11 presenta un contraste intenso. David vence batallas, organiza el reino con justicia y muestra bondad a Mefi-boset. Sin embargo, en el capítulo 11, su caída moral revela que el éxito público no sustituye la vigilancia espiritual, la santidad y el temor delante de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Victorias y justicia en el reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 18
+          },
+          "comentario": "David amplía el reino y gobierna con justicia. Las victorias muestran la mano de Dios, pero también aumentan la responsabilidad espiritual del rey.",
+          "aplicacao": "Toda conquista debe producir humildad y fidelidad, no autoconfianza sin vigilancia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Bondad hacia Mefi-boset",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 13
+          },
+          "comentario": "David honra la alianza con Jonatán y recibe a Mefi-boset en la mesa del rey. La gracia recibida se transforma en misericordia practicada.",
+          "aplicacao": "Quien conoce la fidelidad de Dios debe tratar a los demás con bondad, memoria agradecida y misericordia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La guerra externa y la caída interna",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 27
+          },
+          "comentario": "Mientras el reino enfrenta conflictos externos, David cae en pecado, manipulación y violencia. Lo que parecía oculto ante los hombres estaba plenamente delante del Señor.",
+          "aplicacao": "Ninguna posición, conquista o apariencia pública sustituye un corazón íntegro delante de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 12,
+            "referencia": "Salmos 51:1-12",
+            "nota": "Expresa el arrepentimiento de David después de ser confrontado por su pecado."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 28,
+            "verse_start": 13,
+            "verse_end": 13,
+            "referencia": "Proverbios 28:13",
+            "nota": "Enseña que encubrir el pecado no produce prosperidad espiritual."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Santiago 1:14-15",
+            "nota": "Muestra el proceso de la tentación, desde el deseo hasta el pecado consumado."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "1 Corintios 10:12",
+            "nota": "Advierte contra la falsa seguridad espiritual."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He mantenido vigilancia espiritual aun en etapas de aparente estabilidad?",
+        "¿Uso mi posición para servir con misericordia o para proteger mis propios intereses?",
+        "¿Hay algo que necesito confesar delante de Dios en lugar de intentar esconderlo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 11:27 revela que el pecado oculto de David no pasó desapercibido delante de Dios, convirtiéndose en el punto decisivo de la lectura."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 8,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "2 Samuel 8:15",
+          "nota": "Muestra a David ejerciendo gobierno con juicio y justicia."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 9,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "2 Samuel 9:7",
+          "nota": "Revela la bondad de David hacia Mefi-boset por causa de Jonatán."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 11,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "2 Samuel 11:27",
+          "nota": "Afirma que Dios vio y desaprobó el pecado de David."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integridad",
+          "significado": "Coherencia entre la vida pública y el corazón delante de Dios."
+        },
+        {
+          "termo": "Misericordia",
+          "significado": "Bondad práctica demostrada a quien depende de gracia y acogida."
+        },
+        {
+          "termo": "Tentación",
+          "significado": "Proceso en que deseos desordenados pueden conducir al pecado cuando no son tratados."
+        }
+      ],
+      "oracao": "Señor, guarda mi corazón en tiempos de conquista y estabilidad. Dame integridad en lo secreto, misericordia en las relaciones y valor para confesar el pecado sin esconder nada de ti. Amén."
+    }
+  }
+}

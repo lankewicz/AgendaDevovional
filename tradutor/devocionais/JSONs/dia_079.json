@@ -1,0 +1,440 @@
+{
+  "dia": 79,
+  "data": "2027-03-20",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Juízes 5–7",
+    "en": "Judges 5–7",
+    "es": "Jueces 5–7"
+  },
+  "leitura": [
+    {
+      "book_id": "JDG",
+      "chapter_start": 5,
+      "chapter_end": 7
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JDG",
+    "chapter": 7,
+    "verse_start": 2,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Juízes 7:2",
+      "en": "Judges 7:2",
+      "es": "Jueces 7:2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_079.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_079.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_079.mp3",
+      "versiculo_central": "audio/en/verses/day_079.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_079.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_079.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Juízes 5–7 — Louvor, Chamado e Vitória pela Fraqueza",
+      "contexto": "Juízes 5 a 7 passa do cântico de vitória de Débora ao chamado de Gideão e à derrota dos midianitas. A leitura mostra que Deus merece louvor por seus livramentos, chama pessoas frágeis para servir e reduz os recursos humanos para que a glória da vitória pertença somente a ele.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O cântico de Débora e Baraque",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "O cântico celebra a intervenção do Senhor, reconhece os que se dispuseram a lutar e interpreta a vitória como obra divina.",
+          "aplicacao": "O povo de Deus deve aprender a lembrar e louvar os livramentos do Senhor, não atribuindo a si mesmo a glória que pertence a Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O chamado de Gideão",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 40
+          },
+          "comentario": "Gideão é chamado em meio ao medo, à opressão e à insegurança. Deus não ignora sua fraqueza, mas o chama a confiar na presença do Senhor.",
+          "aplicacao": "A obediência começa quando a presença de Deus se torna maior que a sensação de incapacidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A vitória com poucos homens",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "Deus reduz o exército de Gideão para impedir que Israel se glorie em sua própria força. A vitória vem do Senhor, não da superioridade humana.",
+          "aplicacao": "Deus pode diminuir nossos apoios visíveis para purificar nossa confiança e revelar sua suficiência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ZEC",
+            "chapter": 4,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Zacarias 4:6",
+            "nota": "Ensina que a obra de Deus não se realiza por força humana, mas pelo seu Espírito."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 44,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Salmos 44:3",
+            "nota": "Reconhece que a vitória do povo veio da mão e do favor do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 29,
+            "referencia": "1 Coríntios 1:27-29",
+            "nota": "Mostra que Deus escolhe o fraco para que ninguém se glorie diante dele."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Coríntios 12:9-10",
+            "nota": "Ensina que o poder de Deus se aperfeiçoa na fraqueza."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reconhecido e celebrado os livramentos de Deus?",
+        "Minha insegurança tem impedido minha obediência?",
+        "Aceito depender de Deus quando meus recursos parecem insuficientes?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Juízes 7:2 explica o propósito espiritual da vitória de Gideão: Deus reduz a força humana para que o povo reconheça que o livramento vem dele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Juízes 5:3",
+          "nota": "Chama ao louvor pelo agir do Senhor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 6,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Juízes 6:12",
+          "nota": "Mostra a presença de Deus no chamado de Gideão."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 7,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Juízes 7:2",
+          "nota": "Revela que a vitória deveria glorificar o Senhor, não o exército."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Fraqueza",
+          "significado": "Condição humana que Deus pode usar para revelar seu poder e sua suficiência."
+        },
+        {
+          "termo": "Louvor",
+          "significado": "Resposta do povo que reconhece a intervenção e a fidelidade do Senhor."
+        },
+        {
+          "termo": "Dependência",
+          "significado": "Confiança prática de que a vitória pertence a Deus e não aos recursos humanos."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a depender de ti. Que minha fraqueza não me afaste da obediência, mas me leve a confiar mais no teu poder. Amém."
+    },
+    "en": {
+      "titulo": "Judges 5–7 — Praise, Calling, and Victory through Weakness",
+      "contexto": "Judges 5 to 7 moves from Deborah’s song of victory to Gideon’s calling and the defeat of the Midianites. The reading shows that God deserves praise for his deliverance, calls fragile people to serve, and reduces human resources so that the glory of victory belongs to him alone.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The song of Deborah and Barak",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "The song celebrates the Lord’s intervention, honors those who willingly served, and interprets the victory as God’s work.",
+          "aplicacao": "God’s people must learn to remember and praise the Lord’s deliverance, not taking for themselves the glory that belongs to God."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The calling of Gideon",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 40
+          },
+          "comentario": "Gideon is called amid fear, oppression, and insecurity. God does not ignore his weakness, but calls him to trust in the Lord’s presence.",
+          "aplicacao": "Obedience begins when God’s presence becomes greater than the feeling of inability."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Victory with few men",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "God reduces Gideon’s army so Israel will not boast in its own strength. Victory comes from the Lord, not from human superiority.",
+          "aplicacao": "God may reduce our visible supports to purify our trust and reveal his sufficiency."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ZEC",
+            "chapter": 4,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Zechariah 4:6",
+            "nota": "Teaches that God’s work is not accomplished by human might but by his Spirit."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 44,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Psalm 44:3",
+            "nota": "Recognizes that the people’s victory came from the Lord’s hand and favor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 29,
+            "referencia": "1 Corinthians 1:27-29",
+            "nota": "Shows that God chooses the weak so that no one may boast before him."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Corinthians 12:9-10",
+            "nota": "Teaches that God’s power is made perfect in weakness."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I recognized and celebrated God’s deliverance?",
+        "Has insecurity kept me from obedience?",
+        "Am I willing to depend on God when my resources seem insufficient?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Judges 7:2 explains the spiritual purpose of Gideon’s victory: God reduces human strength so the people recognize that deliverance comes from him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Judges 5:3",
+          "nota": "Calls for praise because of the Lord’s work."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 6,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Judges 6:12",
+          "nota": "Shows God’s presence in Gideon’s calling."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 7,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Judges 7:2",
+          "nota": "Reveals that the victory was meant to glorify the Lord, not the army."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Weakness",
+          "significado": "The human condition God may use to reveal his power and sufficiency."
+        },
+        {
+          "termo": "Praise",
+          "significado": "The response of people who recognize the Lord’s intervention and faithfulness."
+        },
+        {
+          "termo": "Dependence",
+          "significado": "Practical trust that victory belongs to God and not to human resources."
+        }
+      ],
+      "oracao": "Lord, teach me to depend on you. Let my weakness not keep me from obedience, but lead me to trust more deeply in your power. Amen."
+    },
+    "es": {
+      "titulo": "Jueces 5–7 — Alabanza, Llamado y Victoria en la Debilidad",
+      "contexto": "Jueces 5 al 7 pasa del cántico de victoria de Débora al llamado de Gedeón y la derrota de los madianitas. La lectura muestra que Dios merece alabanza por sus liberaciones, llama a personas frágiles para servir y reduce los recursos humanos para que la gloria de la victoria pertenezca solo a él.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El cántico de Débora y Barac",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 31
+          },
+          "comentario": "El cántico celebra la intervención del Señor, reconoce a quienes se dispusieron a luchar e interpreta la victoria como obra divina.",
+          "aplicacao": "El pueblo de Dios debe aprender a recordar y alabar las liberaciones del Señor, sin atribuirse la gloria que pertenece a Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El llamado de Gedeón",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 40
+          },
+          "comentario": "Gedeón es llamado en medio del miedo, la opresión y la inseguridad. Dios no ignora su debilidad, sino que lo llama a confiar en la presencia del Señor.",
+          "aplicacao": "La obediencia comienza cuando la presencia de Dios llega a ser mayor que la sensación de incapacidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La victoria con pocos hombres",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "Dios reduce el ejército de Gedeón para impedir que Israel se gloríe en su propia fuerza. La victoria viene del Señor, no de la superioridad humana.",
+          "aplicacao": "Dios puede disminuir nuestros apoyos visibles para purificar nuestra confianza y revelar su suficiencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ZEC",
+            "chapter": 4,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Zacarías 4:6",
+            "nota": "Enseña que la obra de Dios no se realiza por fuerza humana, sino por su Espíritu."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 44,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Salmos 44:3",
+            "nota": "Reconoce que la victoria del pueblo vino de la mano y del favor del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 1,
+            "verse_start": 27,
+            "verse_end": 29,
+            "referencia": "1 Corintios 1:27-29",
+            "nota": "Muestra que Dios escoge lo débil para que nadie se gloríe delante de él."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 12,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "2 Corintios 12:9-10",
+            "nota": "Enseña que el poder de Dios se perfecciona en la debilidad."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He reconocido y celebrado las liberaciones de Dios?",
+        "¿Mi inseguridad ha impedido mi obediencia?",
+        "¿Acepto depender de Dios cuando mis recursos parecen insuficientes?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Jueces 7:2 explica el propósito espiritual de la victoria de Gedeón: Dios reduce la fuerza humana para que el pueblo reconozca que la liberación viene de él."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 5,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Jueces 5:3",
+          "nota": "Llama a la alabanza por la obra del Señor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 6,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Jueces 6:12",
+          "nota": "Muestra la presencia de Dios en el llamado de Gedeón."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 7,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Jueces 7:2",
+          "nota": "Revela que la victoria debía glorificar al Señor, no al ejército."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Debilidad",
+          "significado": "Condición humana que Dios puede usar para revelar su poder y suficiencia."
+        },
+        {
+          "termo": "Alabanza",
+          "significado": "Respuesta del pueblo que reconoce la intervención y fidelidad del Señor."
+        },
+        {
+          "termo": "Dependencia",
+          "significado": "Confianza práctica de que la victoria pertenece a Dios y no a los recursos humanos."
+        }
+      ],
+      "oracao": "Señor, enséñame a depender de ti. Que mi debilidad no me aparte de la obediencia, sino que me lleve a confiar más en tu poder. Amén."
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "dia": 24,
+  "data": "2027-01-24",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 13–15",
+    "en": "Exodus 13–15",
+    "es": "Éxodo 13–15"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 13,
+      "chapter_end": 15
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 14,
+    "verse_start": 14,
+    "verse_end": 14,
+    "referencia": {
+      "pt": "Êxodo 14:14",
+      "en": "Exodus 14:14",
+      "es": "Éxodo 14:14"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_024.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_024.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/024/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/015.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/024/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/015.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/024/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/015.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/024/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/015.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_024.mp3",
+      "versiculo_central": "audio/en/verses/day_024.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/024/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/en/en-US-AriaNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/en/en-US-AriaNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/en/en-US-AriaNeural/015.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/024/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/en/en-US-JennyNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/en/en-US-JennyNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/en/en-US-JennyNeural/015.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/024/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/en/en-US-GuyNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/en/en-US-GuyNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/en/en-US-GuyNeural/015.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/024/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/en/en-US-BrianNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/en/en-US-BrianNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/en/en-US-BrianNeural/015.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_024.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_024.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/024/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/es/es-ES-ElviraNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/es/es-ES-ElviraNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/es/es-ES-ElviraNeural/015.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/024/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/es/es-MX-DaliaNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/es/es-MX-DaliaNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/es/es-MX-DaliaNeural/015.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/024/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/es/es-ES-AlvaroNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/es/es-ES-AlvaroNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/es/es-ES-AlvaroNeural/015.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/024/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/024/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/024/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_13": "audio/biblia/EXO/es/es-MX-JorgeNeural/013.m4a",
+          "EXO_14": "audio/biblia/EXO/es/es-MX-JorgeNeural/014.m4a",
+          "EXO_15": "audio/biblia/EXO/es/es-MX-JorgeNeural/015.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 13–15 — O Senhor Luta Pelo Seu Povo",
+      "contexto": "Êxodo 13 a 15 mostra Israel deixando o Egito, sendo guiado pela presença de Deus e atravessando o mar pelo poder do Senhor. A libertação se transforma em louvor quando o povo vê que Deus salva, conduz e vence seus inimigos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Memória, consagração e direção divina",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 22
+          },
+          "comentario": "O povo é chamado a lembrar a libertação, consagrar os primogênitos e seguir a direção de Deus. A coluna de nuvem e fogo mostra que o Senhor guia sua comunidade.",
+          "aplicacao": "A liberdade recebida de Deus deve gerar memória, consagração e dependência diária da sua direção."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O mar, o medo e o livramento",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 31
+          },
+          "comentario": "Diante do mar e do exército de Faraó, Israel teme, mas Deus abre caminho onde não havia saída. O Senhor luta pelo seu povo e realiza livramento completo.",
+          "aplicacao": "Quando não vemos caminho, a fé nos chama a permanecer firmes e confiar na ação de Deus."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O cântico da salvação",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 27
+          },
+          "comentario": "Moisés e Israel louvam ao Senhor pela vitória. Depois, no deserto, o povo começa a aprender que o Deus que liberta também sustenta e ensina.",
+          "aplicacao": "O louvor deve nascer da memória do que Deus fez e fortalecer a confiança para os próximos passos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 7,
+            "verse_end": 12,
+            "referencia": "Salmos 106:7-12",
+            "nota": "Recorda a travessia do mar e a salvação realizada pelo Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "1 Coríntios 10:1-2",
+            "nota": "Interpreta a travessia como experiência formadora do povo de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "Hebreus 11:29",
+            "nota": "Apresenta a travessia do mar como ato de fé."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho guardado memória das libertações que Deus já realizou?",
+        "Confio no Senhor quando as circunstâncias parecem sem saída?",
+        "Meu louvor permanece quando entro em novos desafios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 14:14 resume a confiança exigida no momento de crise: o Senhor luta pelo seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 13,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Êxodo 13:21",
+          "nota": "Mostra Deus guiando seu povo com sua presença."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Êxodo 14:14",
+          "nota": "Chama o povo a confiar no livramento do Senhor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 15,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Êxodo 15:2",
+          "nota": "Expressa louvor ao Senhor como força e salvação."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Livramento",
+          "significado": "A ação de Deus para salvar seu povo do poder opressor."
+        },
+        {
+          "termo": "Presença",
+          "significado": "O cuidado de Deus que guia, protege e acompanha seu povo."
+        },
+        {
+          "termo": "Louvor",
+          "significado": "Resposta de gratidão diante da salvação e fidelidade do Senhor."
+        }
+      ],
+      "oracao": "Senhor, quando eu não enxergar caminho, ajuda-me a permanecer firme. Ensina-me a confiar no teu livramento e a louvar pela tua fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 13–15 — The Lord Fights for His People",
+      "contexto": "Exodus 13 to 15 shows Israel leaving Egypt, being guided by God’s presence, and crossing the sea by the Lord’s power. Deliverance becomes praise when the people see that God saves, leads, and defeats their enemies.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Memory, consecration, and divine guidance",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 22
+          },
+          "comentario": "The people are called to remember deliverance, consecrate the firstborn, and follow God’s direction. The pillar of cloud and fire shows that the Lord guides his community.",
+          "aplicacao": "The freedom received from God should produce memory, consecration, and daily dependence on his guidance."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The sea, fear, and deliverance",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 31
+          },
+          "comentario": "Before the sea and Pharaoh’s army, Israel is afraid, but God opens a way where there was none. The Lord fights for his people and brings complete deliverance.",
+          "aplicacao": "When we see no way forward, faith calls us to stand firm and trust God’s action."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The song of salvation",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 27
+          },
+          "comentario": "Moses and Israel praise the Lord for victory. Then, in the wilderness, the people begin to learn that the God who delivers also sustains and teaches.",
+          "aplicacao": "Praise should arise from the memory of what God has done and strengthen trust for the next steps."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 7,
+            "verse_end": 12,
+            "referencia": "Psalm 106:7-12",
+            "nota": "Recalls the crossing of the sea and the salvation performed by the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "1 Corinthians 10:1-2",
+            "nota": "Interprets the crossing as a formative experience for God’s people."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "Hebrews 11:29",
+            "nota": "Presents the crossing of the sea as an act of faith."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I remember the deliverances God has already performed?",
+        "Do I trust the Lord when circumstances seem to offer no way out?",
+        "Does my praise remain when I enter new challenges?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 14:14 summarizes the trust required in crisis: the Lord fights for his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 13,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Exodus 13:21",
+          "nota": "Shows God guiding his people with his presence."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Exodus 14:14",
+          "nota": "Calls the people to trust the Lord’s deliverance."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 15,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Exodus 15:2",
+          "nota": "Expresses praise to the Lord as strength and salvation."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Deliverance",
+          "significado": "God’s action to save his people from oppressive power."
+        },
+        {
+          "termo": "Presence",
+          "significado": "God’s care that guides, protects, and accompanies his people."
+        },
+        {
+          "termo": "Praise",
+          "significado": "The grateful response to the Lord’s salvation and faithfulness."
+        }
+      ],
+      "oracao": "Lord, when I cannot see a way, help me stand firm. Teach me to trust your deliverance and praise you for your faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 13–15 — El Señor Pelea por Su Pueblo",
+      "contexto": "Éxodo 13 al 15 muestra a Israel saliendo de Egipto, siendo guiado por la presencia de Dios y cruzando el mar por el poder del Señor. La liberación se convierte en alabanza cuando el pueblo ve que Dios salva, guía y vence a sus enemigos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Memoria, consagración y dirección divina",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 22
+          },
+          "comentario": "El pueblo es llamado a recordar la liberación, consagrar a los primogénitos y seguir la dirección de Dios. La columna de nube y fuego muestra que el Señor guía a su comunidad.",
+          "aplicacao": "La libertad recibida de Dios debe producir memoria, consagración y dependencia diaria de su dirección."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El mar, el miedo y la liberación",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 31
+          },
+          "comentario": "Frente al mar y al ejército de Faraón, Israel teme, pero Dios abre camino donde no había salida. El Señor pelea por su pueblo y realiza una liberación completa.",
+          "aplicacao": "Cuando no vemos camino, la fe nos llama a permanecer firmes y confiar en la acción de Dios."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El cántico de la salvación",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 27
+          },
+          "comentario": "Moisés e Israel alaban al Señor por la victoria. Después, en el desierto, el pueblo empieza a aprender que el Dios que libera también sostiene y enseña.",
+          "aplicacao": "La alabanza debe nacer de la memoria de lo que Dios hizo y fortalecer la confianza para los próximos pasos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 7,
+            "verse_end": 12,
+            "referencia": "Salmos 106:7-12",
+            "nota": "Recuerda el cruce del mar y la salvación realizada por el Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "1 Corintios 10:1-2",
+            "nota": "Interpreta el cruce como experiencia formadora del pueblo de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "Hebreos 11:29",
+            "nota": "Presenta el cruce del mar como acto de fe."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He guardado memoria de las liberaciones que Dios ya realizó?",
+        "¿Confío en el Señor cuando las circunstancias parecen sin salida?",
+        "¿Mi alabanza permanece cuando entro en nuevos desafíos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 14:14 resume la confianza necesaria en el momento de crisis: el Señor pelea por su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 13,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Éxodo 13:21",
+          "nota": "Muestra a Dios guiando a su pueblo con su presencia."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 14,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Éxodo 14:14",
+          "nota": "Llama al pueblo a confiar en la liberación del Señor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 15,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Éxodo 15:2",
+          "nota": "Expresa alabanza al Señor como fuerza y salvación."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Liberación",
+          "significado": "La acción de Dios para salvar a su pueblo del poder opresor."
+        },
+        {
+          "termo": "Presencia",
+          "significado": "El cuidado de Dios que guía, protege y acompaña a su pueblo."
+        },
+        {
+          "termo": "Alabanza",
+          "significado": "Respuesta de gratitud ante la salvación y fidelidad del Señor."
+        }
+      ],
+      "oracao": "Señor, cuando no vea camino, ayúdame a permanecer firme. Enséñame a confiar en tu liberación y a alabarte por tu fidelidad. Amén."
+    }
+  }
+}

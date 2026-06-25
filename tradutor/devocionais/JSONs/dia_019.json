@@ -1,0 +1,541 @@
+{
+  "dia": 19,
+  "data": "2027-01-19",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 49–50; Êxodo 1",
+    "en": "Genesis 49–50; Exodus 1",
+    "es": "Génesis 49–50; Éxodo 1"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 49,
+      "chapter_end": 50
+    },
+    {
+      "book_id": "EXO",
+      "chapter_start": 1,
+      "chapter_end": 1
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 50,
+    "verse_start": 20,
+    "verse_end": 20,
+    "referencia": {
+      "pt": "Gênesis 50:20",
+      "en": "Genesis 50:20",
+      "es": "Génesis 50:20"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_019.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_019.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/019/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/001.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/019/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/001.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/019/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/001.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/019/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/001.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_019.mp3",
+      "versiculo_central": "audio/en/verses/day_019.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/019/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/en/en-US-AriaNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/en/en-US-AriaNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/en/en-US-AriaNeural/001.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/019/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/en/en-US-JennyNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/en/en-US-JennyNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/en/en-US-JennyNeural/001.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/019/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/en/en-US-GuyNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/en/en-US-GuyNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/en/en-US-GuyNeural/001.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/019/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/en/en-US-BrianNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/en/en-US-BrianNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/en/en-US-BrianNeural/001.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_019.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_019.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/019/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/es/es-ES-ElviraNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/es/es-ES-ElviraNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/es/es-ES-ElviraNeural/001.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/019/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/es/es-MX-DaliaNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/es/es-MX-DaliaNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/es/es-MX-DaliaNeural/001.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/019/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/es/es-ES-AlvaroNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/es/es-ES-AlvaroNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/es/es-ES-AlvaroNeural/001.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/019/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/019/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/019/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_49": "audio/biblia/GEN/es/es-MX-JorgeNeural/049.m4a",
+          "GEN_50": "audio/biblia/GEN/es/es-MX-JorgeNeural/050.m4a",
+          "EXO_1": "audio/biblia/EXO/es/es-MX-JorgeNeural/001.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 49–50; Êxodo 1 — Promessa, Perdão e Novo Cativeiro",
+      "contexto": "A leitura encerra Gênesis com as bênçãos de Jacó, a morte dos patriarcas e a declaração de José sobre a providência de Deus. Em seguida, Êxodo começa mostrando que a família preservada se tornou numerosa, mas passou a enfrentar opressão no Egito. A promessa continua, agora em novo cenário.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As bênçãos finais de Jacó",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 49,
+            "verse_start": 1,
+            "chapter_end": 49,
+            "verse_end": 33
+          },
+          "comentario": "Jacó reúne seus filhos e declara palavras que apontam para o futuro das tribos. A promessa de Deus segue através de uma família real, marcada por graça e responsabilidade.",
+          "aplicacao": "Deus trabalha através de pessoas imperfeitas e conduz sua promessa com fidelidade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José interpreta a dor pela providência",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 50,
+            "verse_start": 1,
+            "chapter_end": 50,
+            "verse_end": 26
+          },
+          "comentario": "José consola seus irmãos e afirma que Deus transformou o mal em preservação. Gênesis termina com esperança, mas também com expectativa pelo cumprimento futuro.",
+          "aplicacao": "A fé não apaga a dor, mas permite reconhecê-la dentro de uma história governada por Deus."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O crescimento do povo e a opressão",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 22
+          },
+          "comentario": "Êxodo começa mostrando Israel crescendo no Egito, enquanto um novo rei passa a oprimir o povo. A preservação se torna cenário para a libertação que Deus realizará.",
+          "aplicacao": "Quando as circunstâncias se tornam pesadas, Deus continua atento à sua promessa e prepara livramento."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 23,
+            "verse_end": 25,
+            "referencia": "Salmos 105:23-25",
+            "nota": "Recorda a entrada de Israel no Egito e o crescimento do povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Hebreus 11:22",
+            "nota": "Lembra a fé de José ao falar do êxodo futuro."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romanos 8:28",
+            "nota": "Ajuda a compreender a confiança de José na providência de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Consigo confiar que Deus conduz a história além do que vejo agora?",
+        "Tenho permitido que a fé transforme minha memória de dor em testemunho de esperança?",
+        "Creio que Deus prepara livramento mesmo quando a opressão parece crescer?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 50:20 resume a mensagem final de Gênesis: o mal humano não supera o propósito preservador de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 49,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Gênesis 49:10",
+          "nota": "Aponta para a esperança ligada à linhagem de Judá."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 50,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Gênesis 50:20",
+          "nota": "Declara que Deus transformou o mal em preservação."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Êxodo 1:12",
+          "nota": "Mostra que o povo crescia apesar da opressão."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providência",
+          "significado": "A ação soberana de Deus que conduz a história para cumprir seus propósitos."
+        },
+        {
+          "termo": "Perdão",
+          "significado": "Resposta graciosa que reconhece a verdade sem alimentar vingança."
+        },
+        {
+          "termo": "Opressão",
+          "significado": "Realidade de sofrimento que prepara o cenário para a libertação divina."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a confiar que tua promessa permanece firme. Cura minhas memórias, fortalece minha esperança e ensina-me a esperar pelo teu livramento. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 49–50; Exodus 1 — Promise, Forgiveness, and New Bondage",
+      "contexto": "The reading closes Genesis with Jacob’s blessings, the death of the patriarchs, and Joseph’s declaration about God’s providence. Then Exodus begins by showing that the preserved family became numerous but started to face oppression in Egypt. The promise continues, now in a new setting.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jacob’s final blessings",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 49,
+            "verse_start": 1,
+            "chapter_end": 49,
+            "verse_end": 33
+          },
+          "comentario": "Jacob gathers his sons and speaks words that point to the future of the tribes. God’s promise continues through a real family, marked by grace and responsibility.",
+          "aplicacao": "God works through imperfect people and carries his promise with faithfulness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Joseph interprets pain through providence",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 50,
+            "verse_start": 1,
+            "chapter_end": 50,
+            "verse_end": 26
+          },
+          "comentario": "Joseph comforts his brothers and affirms that God turned evil toward preservation. Genesis ends with hope, but also with expectation for future fulfillment.",
+          "aplicacao": "Faith does not erase pain, but allows us to recognize it within a story governed by God."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The growth of the people and oppression",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 22
+          },
+          "comentario": "Exodus begins by showing Israel growing in Egypt, while a new king begins to oppress the people. Preservation becomes the setting for the deliverance God will bring.",
+          "aplicacao": "When circumstances become heavy, God remains attentive to his promise and prepares deliverance."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 23,
+            "verse_end": 25,
+            "referencia": "Psalm 105:23-25",
+            "nota": "Recalls Israel’s entrance into Egypt and the growth of the people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Hebrews 11:22",
+            "nota": "Remembers Joseph’s faith as he spoke of the future exodus."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romans 8:28",
+            "nota": "Helps us understand Joseph’s confidence in God’s providence."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Can I trust that God guides history beyond what I see now?",
+        "Have I allowed faith to transform painful memory into testimony of hope?",
+        "Do I believe God prepares deliverance even when oppression seems to grow?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 50:20 summarizes the final message of Genesis: human evil does not overcome God’s preserving purpose."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 49,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Genesis 49:10",
+          "nota": "Points to the hope connected with Judah’s line."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 50,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Genesis 50:20",
+          "nota": "Declares that God turned evil toward preservation."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Exodus 1:12",
+          "nota": "Shows that the people grew despite oppression."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providence",
+          "significado": "God’s sovereign action guiding history to fulfill his purposes."
+        },
+        {
+          "termo": "Forgiveness",
+          "significado": "A gracious response that recognizes truth without feeding revenge."
+        },
+        {
+          "termo": "Oppression",
+          "significado": "A reality of suffering that prepares the setting for divine deliverance."
+        }
+      ],
+      "oracao": "Lord, help me trust that your promise remains firm. Heal my memories, strengthen my hope, and teach me to wait for your deliverance. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 49–50; Éxodo 1 — Promesa, Perdón y Nuevo Cautiverio",
+      "contexto": "La lectura cierra Génesis con las bendiciones de Jacob, la muerte de los patriarcas y la declaración de José sobre la providencia de Dios. Después, Éxodo comienza mostrando que la familia preservada llegó a ser numerosa, pero empezó a enfrentar opresión en Egipto. La promesa continúa, ahora en un nuevo escenario.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las bendiciones finales de Jacob",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 49,
+            "verse_start": 1,
+            "chapter_end": 49,
+            "verse_end": 33
+          },
+          "comentario": "Jacob reúne a sus hijos y declara palabras que apuntan al futuro de las tribus. La promesa de Dios sigue a través de una familia real, marcada por gracia y responsabilidad.",
+          "aplicacao": "Dios trabaja a través de personas imperfectas y conduce su promesa con fidelidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José interpreta el dolor por la providencia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 50,
+            "verse_start": 1,
+            "chapter_end": 50,
+            "verse_end": 26
+          },
+          "comentario": "José consuela a sus hermanos y afirma que Dios transformó el mal en preservación. Génesis termina con esperanza, pero también con expectativa por el cumplimiento futuro.",
+          "aplicacao": "La fe no borra el dolor, pero permite reconocerlo dentro de una historia gobernada por Dios."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El crecimiento del pueblo y la opresión",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 22
+          },
+          "comentario": "Éxodo comienza mostrando a Israel creciendo en Egipto, mientras un nuevo rey empieza a oprimir al pueblo. La preservación se convierte en escenario para la liberación que Dios realizará.",
+          "aplicacao": "Cuando las circunstancias se vuelven pesadas, Dios sigue atento a su promesa y prepara liberación."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 23,
+            "verse_end": 25,
+            "referencia": "Salmos 105:23-25",
+            "nota": "Recuerda la entrada de Israel en Egipto y el crecimiento del pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Hebreos 11:22",
+            "nota": "Recuerda la fe de José al hablar del éxodo futuro."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romanos 8:28",
+            "nota": "Ayuda a comprender la confianza de José en la providencia de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Puedo confiar en que Dios conduce la historia más allá de lo que veo ahora?",
+        "¿He permitido que la fe transforme mi memoria de dolor en testimonio de esperanza?",
+        "¿Creo que Dios prepara liberación incluso cuando la opresión parece crecer?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 50:20 resume el mensaje final de Génesis: el mal humano no supera el propósito preservador de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 49,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Génesis 49:10",
+          "nota": "Apunta a la esperanza ligada a la línea de Judá."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 50,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Génesis 50:20",
+          "nota": "Declara que Dios transformó el mal en preservación."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 1,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Éxodo 1:12",
+          "nota": "Muestra que el pueblo crecía a pesar de la opresión."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providencia",
+          "significado": "La acción soberana de Dios que conduce la historia para cumplir sus propósitos."
+        },
+        {
+          "termo": "Perdón",
+          "significado": "Respuesta de gracia que reconoce la verdad sin alimentar venganza."
+        },
+        {
+          "termo": "Opresión",
+          "significado": "Realidad de sufrimiento que prepara el escenario para la liberación divina."
+        }
+      ],
+      "oracao": "Señor, ayúdame a confiar en que tu promesa permanece firme. Sana mis recuerdos, fortalece mi esperanza y enséñame a esperar tu liberación. Amén."
+    }
+  }
+}

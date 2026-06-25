@@ -1,0 +1,536 @@
+{
+  "dia": 2,
+  "data": "2027-01-02",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 4–6",
+    "en": "Genesis 4–6",
+    "es": "Génesis 4–6"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 4,
+      "chapter_end": 6
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 6,
+    "verse_start": 8,
+    "verse_end": 8,
+    "referencia": {
+      "pt": "Gênesis 6:8",
+      "en": "Genesis 6:8",
+      "es": "Génesis 6:8"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_002.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_002.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/002/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/006.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/002/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/006.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/002/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/006.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/002/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/006.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/dia/2/en.m4a",
+      "versiculo_central": "audio/en/verses/day_002.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/002/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/en/en-US-AriaNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/en/en-US-AriaNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/en/en-US-AriaNeural/006.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/002/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/en/en-US-JennyNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/en/en-US-JennyNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/en/en-US-JennyNeural/006.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/002/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/en/en-US-GuyNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/en/en-US-GuyNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/en/en-US-GuyNeural/006.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/002/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/en/en-US-BrianNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/en/en-US-BrianNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/en/en-US-BrianNeural/006.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_002.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_002.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/002/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/es/es-ES-ElviraNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/es/es-ES-ElviraNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/es/es-ES-ElviraNeural/006.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/002/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/es/es-MX-DaliaNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/es/es-MX-DaliaNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/es/es-MX-DaliaNeural/006.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/002/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/es/es-ES-AlvaroNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/es/es-ES-AlvaroNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/es/es-ES-AlvaroNeural/006.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/002/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/002/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/002/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_4": "audio/biblia/GEN/es/es-MX-JorgeNeural/004.m4a",
+          "GEN_5": "audio/biblia/GEN/es/es-MX-JorgeNeural/005.m4a",
+          "GEN_6": "audio/biblia/GEN/es/es-MX-JorgeNeural/006.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 4–6 — Pecado, Violência e Graça",
+      "contexto": "Gênesis 4 a 6 mostra como o pecado se espalha rapidamente pela humanidade. A ruptura iniciada no Éden aparece nos relacionamentos, na violência, na soberba e na corrupção geral. No entanto, em meio a uma geração marcada pelo mal, Noé encontra graça diante do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Caim, Abel e o pecado no coração humano",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 16
+          },
+          "comentario": "O conflito entre Caim e Abel revela que o pecado não afeta apenas a relação com Deus, mas também os relacionamentos humanos.",
+          "aplicacao": "É necessário vigiar o coração, pois inveja, orgulho e ira podem gerar atitudes destrutivas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A expansão da humanidade e da violência",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 17,
+            "chapter_end": 5,
+            "verse_end": 32
+          },
+          "comentario": "As genealogias mostram a continuidade da vida, mas também a realidade da morte. A humanidade se desenvolve, mas permanece marcada pela queda.",
+          "aplicacao": "Progresso exterior não substitui comunhão com Deus. A vida precisa de direção espiritual, não apenas de capacidade humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A corrupção humana e a graça sobre Noé",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 22
+          },
+          "comentario": "Deus vê a maldade humana, anuncia juízo, mas também revela graça. Noé se destaca como alguém que anda com Deus em uma geração corrompida.",
+          "aplicacao": "Mesmo em um ambiente marcado pelo pecado, é possível viver de modo fiel diante do Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EZK",
+            "chapter": 14,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Ezequiel 14:14-20",
+            "nota": "Noé é lembrado como exemplo de justiça diante de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Hebreus 11:7",
+            "nota": "Apresenta Noé como exemplo de fé obediente."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 3,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "1 Pedro 3:20",
+            "nota": "Relaciona os dias de Noé à paciência de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho permitido que Deus trate inveja, orgulho ou ira em meu coração?",
+        "Minha vida espiritual tem acompanhado minhas responsabilidades diárias?",
+        "Estou disposto a permanecer fiel mesmo quando o ambiente ao redor se afasta de Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 6:8 resume o contraste do bloco: uma humanidade corrompida, mas um homem alcançado pela graça de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Gênesis 4:7",
+          "nota": "Mostra a necessidade de dominar o pecado antes que ele domine a vida."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 5,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Gênesis 5:24",
+          "nota": "Apresenta Enoque como exemplo de comunhão com Deus."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Gênesis 6:8",
+          "nota": "Destaca a graça de Deus em meio à corrupção humana."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Graça",
+          "significado": "Favor de Deus concedido não por mérito humano, mas por sua misericórdia."
+        },
+        {
+          "termo": "Violência",
+          "significado": "Expressão da corrupção do pecado nas relações humanas."
+        },
+        {
+          "termo": "Andar com Deus",
+          "significado": "Viver em comunhão, obediência e dependência do Senhor."
+        }
+      ],
+      "oracao": "Senhor, guarda o meu coração do pecado, da inveja e da dureza. Ajuda-me a andar contigo com fidelidade, mesmo quando o mundo ao redor se distancia da tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 4–6 — Sin, Violence, and Grace",
+      "contexto": "Genesis 4 to 6 shows how sin quickly spreads through humanity. The rupture that began in Eden appears in relationships, violence, pride, and widespread corruption. Yet, in the midst of a generation marked by evil, Noah finds grace in the eyes of the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Cain, Abel, and sin in the human heart",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 16
+          },
+          "comentario": "The conflict between Cain and Abel reveals that sin affects not only the relationship with God but also human relationships.",
+          "aplicacao": "The heart must be watched carefully, because envy, pride, and anger can produce destructive actions."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The growth of humanity and violence",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 17,
+            "chapter_end": 5,
+            "verse_end": 32
+          },
+          "comentario": "The genealogies show the continuation of life, but also the reality of death. Humanity develops, yet remains marked by the fall.",
+          "aplicacao": "Outward progress does not replace communion with God. Life needs spiritual direction, not merely human ability."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Human corruption and grace upon Noah",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 22
+          },
+          "comentario": "God sees human wickedness, announces judgment, and also reveals grace. Noah stands out as someone who walks with God in a corrupt generation.",
+          "aplicacao": "Even in an environment marked by sin, it is possible to live faithfully before the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EZK",
+            "chapter": 14,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Ezekiel 14:14-20",
+            "nota": "Noah is remembered as an example of righteousness before God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Hebrews 11:7",
+            "nota": "Presents Noah as an example of obedient faith."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 3,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "1 Peter 3:20",
+            "nota": "Connects the days of Noah with God's patience."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I allowed God to deal with envy, pride, or anger in my heart?",
+        "Does my spiritual life guide my daily responsibilities?",
+        "Am I willing to remain faithful even when the environment around me turns away from God?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 6:8 summarizes the contrast of the passage: a corrupted humanity, yet a man reached by God's grace."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Genesis 4:7",
+          "nota": "Shows the need to rule over sin before it rules over life."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 5,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Genesis 5:24",
+          "nota": "Presents Enoch as an example of communion with God."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Genesis 6:8",
+          "nota": "Highlights God's grace in the midst of human corruption."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Grace",
+          "significado": "God's favor given not by human merit, but by his mercy."
+        },
+        {
+          "termo": "Violence",
+          "significado": "An expression of sin's corruption in human relationships."
+        },
+        {
+          "termo": "Walking with God",
+          "significado": "Living in communion, obedience, and dependence on the Lord."
+        }
+      ],
+      "oracao": "Lord, guard my heart from sin, envy, and hardness. Help me walk with you faithfully, even when the world around me moves away from your will. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 4–6 — Pecado, Violencia y Gracia",
+      "contexto": "Génesis 4 al 6 muestra cómo el pecado se extiende rápidamente por la humanidad. La ruptura iniciada en Edén aparece en las relaciones, la violencia, la soberbia y la corrupción general. Sin embargo, en medio de una generación marcada por el mal, Noé halla gracia delante del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Caín, Abel y el pecado en el corazón humano",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 16
+          },
+          "comentario": "El conflicto entre Caín y Abel revela que el pecado no afecta solo la relación con Dios, sino también las relaciones humanas.",
+          "aplicacao": "Es necesario vigilar el corazón, porque la envidia, el orgullo y la ira pueden producir acciones destructivas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La expansión de la humanidad y de la violencia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 4,
+            "verse_start": 17,
+            "chapter_end": 5,
+            "verse_end": 32
+          },
+          "comentario": "Las genealogías muestran la continuidad de la vida, pero también la realidad de la muerte. La humanidad se desarrolla, pero permanece marcada por la caída.",
+          "aplicacao": "El progreso exterior no sustituye la comunión con Dios. La vida necesita dirección espiritual, no solo capacidad humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La corrupción humana y la gracia sobre Noé",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 22
+          },
+          "comentario": "Dios ve la maldad humana, anuncia juicio y también revela gracia. Noé se destaca como alguien que camina con Dios en una generación corrompida.",
+          "aplicacao": "Incluso en un ambiente marcado por el pecado, es posible vivir fielmente delante del Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EZK",
+            "chapter": 14,
+            "verse_start": 14,
+            "verse_end": 20,
+            "referencia": "Ezequiel 14:14-20",
+            "nota": "Noé es recordado como ejemplo de justicia delante de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "Hebreos 11:7",
+            "nota": "Presenta a Noé como ejemplo de fe obediente."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 3,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "1 Pedro 3:20",
+            "nota": "Relaciona los días de Noé con la paciencia de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He permitido que Dios trate la envidia, el orgullo o la ira en mi corazón?",
+        "¿Mi vida espiritual guía mis responsabilidades diarias?",
+        "¿Estoy dispuesto a permanecer fiel aunque el ambiente a mi alrededor se aparte de Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 6:8 resume el contraste del bloque: una humanidad corrompida, pero un hombre alcanzado por la gracia de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 4,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Génesis 4:7",
+          "nota": "Muestra la necesidad de dominar el pecado antes de que domine la vida."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 5,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Génesis 5:24",
+          "nota": "Presenta a Enoc como ejemplo de comunión con Dios."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 6,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Génesis 6:8",
+          "nota": "Destaca la gracia de Dios en medio de la corrupción humana."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Gracia",
+          "significado": "Favor de Dios concedido no por mérito humano, sino por su misericordia."
+        },
+        {
+          "termo": "Violencia",
+          "significado": "Expresión de la corrupción del pecado en las relaciones humanas."
+        },
+        {
+          "termo": "Caminar con Dios",
+          "significado": "Vivir en comunión, obediencia y dependencia del Señor."
+        }
+      ],
+      "oracao": "Señor, guarda mi corazón del pecado, la envidia y la dureza. Ayúdame a caminar contigo con fidelidad, incluso cuando el mundo alrededor se aleje de tu voluntad. Amén."
+    }
+  }
+}

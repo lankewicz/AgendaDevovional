@@ -1,0 +1,577 @@
+{
+  "dia": 34,
+  "data": "2027-02-03",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 40; Levítico 1–3",
+    "en": "Exodus 40; Leviticus 1–3",
+    "es": "Éxodo 40; Levítico 1–3"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 40,
+      "chapter_end": 40
+    },
+    {
+      "book_id": "LEV",
+      "chapter_start": 1,
+      "chapter_end": 3
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 40,
+    "verse_start": 34,
+    "verse_end": 34,
+    "referencia": {
+      "pt": "Êxodo 40:34",
+      "en": "Exodus 40:34",
+      "es": "Éxodo 40:34"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_034.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_034.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/034/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/003.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/034/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/003.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/034/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/003.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/034/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/003.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_034.mp3",
+      "versiculo_central": "audio/en/verses/day_034.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/034/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/en/en-US-AriaNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/en/en-US-AriaNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/en/en-US-AriaNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/en/en-US-AriaNeural/003.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/034/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/en/en-US-JennyNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/en/en-US-JennyNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/en/en-US-JennyNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/en/en-US-JennyNeural/003.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/034/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/en/en-US-GuyNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/en/en-US-GuyNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/en/en-US-GuyNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/en/en-US-GuyNeural/003.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/034/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/en/en-US-BrianNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/en/en-US-BrianNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/en/en-US-BrianNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/en/en-US-BrianNeural/003.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_034.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_034.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/034/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/es/es-ES-ElviraNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/es/es-ES-ElviraNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/es/es-ES-ElviraNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/es/es-ES-ElviraNeural/003.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/034/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/es/es-MX-DaliaNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/es/es-MX-DaliaNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/es/es-MX-DaliaNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/es/es-MX-DaliaNeural/003.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/034/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/es/es-ES-AlvaroNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/es/es-ES-AlvaroNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/es/es-ES-AlvaroNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/es/es-ES-AlvaroNeural/003.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/034/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/034/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/034/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_40": "audio/biblia/EXO/es/es-MX-JorgeNeural/040.m4a",
+          "LEV_1": "audio/biblia/LEV/es/es-MX-JorgeNeural/001.m4a",
+          "LEV_2": "audio/biblia/LEV/es/es-MX-JorgeNeural/002.m4a",
+          "LEV_3": "audio/biblia/LEV/es/es-MX-JorgeNeural/003.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 40; Levítico 1–3 — Deus Habita e Chama à Adoração",
+      "contexto": "Êxodo 40 encerra o livro com a montagem do tabernáculo e a manifestação da glória do Senhor. Levítico 1 a 3 começa mostrando como o povo deve se aproximar de Deus por meio de ofertas. A presença divina exige adoração reverente, entrega e comunhão.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O tabernáculo é levantado conforme a ordem de Deus",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 33
+          },
+          "comentario": "Moisés organiza cada elemento do tabernáculo conforme o Senhor havia ordenado. A obediência prepara o lugar onde Deus manifestará sua presença no meio do povo.",
+          "aplicacao": "A presença de Deus não deve ser buscada à parte da obediência. O Senhor ensina seu povo a adorá-lo segundo sua Palavra."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A glória do Senhor enche o tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 34,
+            "chapter_end": 40,
+            "verse_end": 38
+          },
+          "comentario": "A nuvem cobre a tenda e a glória do Senhor enche o tabernáculo. Deus confirma que habita no meio do povo e guia sua caminhada.",
+          "aplicacao": "A maior segurança do povo de Deus é a presença do Senhor. Onde ele guia, há direção, proteção e propósito."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofertas de entrega, gratidão e comunhão",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 17
+          },
+          "comentario": "Levítico começa com holocaustos, ofertas de manjares e ofertas pacíficas. O povo aprende que aproximar-se de Deus envolve consagração, gratidão e comunhão.",
+          "aplicacao": "A verdadeira adoração não é apenas palavra; ela envolve entrega, reconhecimento da graça de Deus e vida consagrada."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Salmos 84:1-4",
+            "nota": "Expressa alegria pela habitação de Deus e pelo privilégio de estar em sua presença."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaías 6:1-7",
+            "nota": "Mostra a santidade de Deus e a necessidade de purificação para servi-lo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "João 1:14",
+            "nota": "Aponta para Cristo, que habitou entre nós e revelou a glória de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 10,
+            "referencia": "Hebreus 10:1-10",
+            "nota": "Mostra que os sacrifícios apontavam para a obra perfeita de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Busco a presença de Deus com obediência ou apenas com emoção?",
+        "Reconheço que Deus guia seu povo em cada etapa da caminhada?",
+        "Minha adoração envolve entrega real, gratidão e consagração?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 40:34 é central porque mostra o objetivo da construção do tabernáculo: Deus manifestando sua glória e habitando no meio do seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 40,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Êxodo 40:34",
+          "nota": "Mostra a glória do Senhor enchendo o tabernáculo."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Levítico 1:3-4",
+          "nota": "Introduz a oferta como aproximação reverente diante de Deus."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Levítico 3:1",
+          "nota": "Apresenta a oferta pacífica como expressão de comunhão."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Glória",
+          "significado": "Manifestação da presença santa e majestosa de Deus."
+        },
+        {
+          "termo": "Oferta",
+          "significado": "Expressão de aproximação, entrega e adoração diante do Senhor."
+        },
+        {
+          "termo": "Comunhão",
+          "significado": "Relacionamento restaurado e vivido na presença de Deus."
+        }
+      ],
+      "oracao": "Senhor, que tua presença seja o centro da minha vida. Ensina-me a adorar com reverência, gratidão e entrega sincera diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 40; Leviticus 1–3 — God Dwells and Calls to Worship",
+      "contexto": "Exodus 40 closes the book with the setting up of the tabernacle and the manifestation of the Lord’s glory. Leviticus 1 to 3 begins by showing how the people are to draw near to God through offerings. The divine presence calls for reverent worship, surrender, and communion.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The tabernacle is set up according to God’s command",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 33
+          },
+          "comentario": "Moses arranges each element of the tabernacle according to what the Lord had commanded. Obedience prepares the place where God will manifest his presence among the people.",
+          "aplicacao": "God’s presence should not be sought apart from obedience. The Lord teaches his people to worship him according to his Word."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The glory of the Lord fills the tabernacle",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 34,
+            "chapter_end": 40,
+            "verse_end": 38
+          },
+          "comentario": "The cloud covers the tent, and the glory of the Lord fills the tabernacle. God confirms that he dwells among his people and guides their journey.",
+          "aplicacao": "The greatest security of God’s people is the Lord’s presence. Where he guides, there is direction, protection, and purpose."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Offerings of surrender, gratitude, and communion",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 17
+          },
+          "comentario": "Leviticus begins with burnt offerings, grain offerings, and peace offerings. The people learn that drawing near to God involves consecration, gratitude, and communion.",
+          "aplicacao": "True worship is not merely words; it involves surrender, recognition of God’s grace, and a consecrated life."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Psalm 84:1-4",
+            "nota": "Expresses joy in God’s dwelling and the privilege of being in his presence."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaiah 6:1-7",
+            "nota": "Shows God’s holiness and the need for cleansing in order to serve him."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "John 1:14",
+            "nota": "Points to Christ, who dwelt among us and revealed God’s glory."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 10,
+            "referencia": "Hebrews 10:1-10",
+            "nota": "Shows that the sacrifices pointed to the perfect work of Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek God’s presence with obedience or only with emotion?",
+        "Do I recognize that God guides his people in every stage of the journey?",
+        "Does my worship involve real surrender, gratitude, and consecration?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 40:34 is central because it shows the purpose of the tabernacle’s construction: God manifesting his glory and dwelling among his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 40,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Exodus 40:34",
+          "nota": "Shows the glory of the Lord filling the tabernacle."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Leviticus 1:3-4",
+          "nota": "Introduces the offering as reverent approach before God."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Leviticus 3:1",
+          "nota": "Presents the peace offering as an expression of communion."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Glory",
+          "significado": "The manifestation of God’s holy and majestic presence."
+        },
+        {
+          "termo": "Offering",
+          "significado": "An expression of approach, surrender, and worship before the Lord."
+        },
+        {
+          "termo": "Communion",
+          "significado": "A restored relationship lived in the presence of God."
+        }
+      ],
+      "oracao": "Lord, may your presence be the center of my life. Teach me to worship with reverence, gratitude, and sincere surrender before you. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 40; Levítico 1–3 — Dios Habita y Llama a la Adoración",
+      "contexto": "Éxodo 40 cierra el libro con el levantamiento del tabernáculo y la manifestación de la gloria del Señor. Levítico 1 al 3 comienza mostrando cómo el pueblo debe acercarse a Dios por medio de ofrendas. La presencia divina exige adoración reverente, entrega y comunión.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El tabernáculo es levantado conforme al mandato de Dios",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 33
+          },
+          "comentario": "Moisés organiza cada elemento del tabernáculo conforme el Señor había ordenado. La obediencia prepara el lugar donde Dios manifestará su presencia en medio del pueblo.",
+          "aplicacao": "La presencia de Dios no debe buscarse separada de la obediencia. El Señor enseña a su pueblo a adorarlo conforme a su Palabra."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La gloria del Señor llena el tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 40,
+            "verse_start": 34,
+            "chapter_end": 40,
+            "verse_end": 38
+          },
+          "comentario": "La nube cubre la tienda y la gloria del Señor llena el tabernáculo. Dios confirma que habita en medio de su pueblo y guía su camino.",
+          "aplicacao": "La mayor seguridad del pueblo de Dios es la presencia del Señor. Donde él guía, hay dirección, protección y propósito."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofrendas de entrega, gratitud y comunión",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 17
+          },
+          "comentario": "Levítico comienza con holocaustos, ofrendas de cereal y ofrendas de paz. El pueblo aprende que acercarse a Dios implica consagración, gratitud y comunión.",
+          "aplicacao": "La verdadera adoración no es solo palabra; implica entrega, reconocimiento de la gracia de Dios y vida consagrada."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 84,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "Salmos 84:1-4",
+            "nota": "Expresa alegría por la morada de Dios y el privilegio de estar en su presencia."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaías 6:1-7",
+            "nota": "Muestra la santidad de Dios y la necesidad de purificación para servirlo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Juan 1:14",
+            "nota": "Apunta a Cristo, que habitó entre nosotros y reveló la gloria de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 10,
+            "referencia": "Hebreos 10:1-10",
+            "nota": "Muestra que los sacrificios apuntaban a la obra perfecta de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco la presencia de Dios con obediencia o solo con emoción?",
+        "¿Reconozco que Dios guía a su pueblo en cada etapa del camino?",
+        "¿Mi adoración implica entrega real, gratitud y consagración?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 40:34 es central porque muestra el objetivo de la construcción del tabernáculo: Dios manifestando su gloria y habitando en medio de su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 40,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Éxodo 40:34",
+          "nota": "Muestra la gloria del Señor llenando el tabernáculo."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 1,
+          "verse_start": 3,
+          "verse_end": 4,
+          "referencia": "Levítico 1:3-4",
+          "nota": "Introduce la ofrenda como acercamiento reverente delante de Dios."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Levítico 3:1",
+          "nota": "Presenta la ofrenda de paz como expresión de comunión."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Gloria",
+          "significado": "Manifestación de la presencia santa y majestuosa de Dios."
+        },
+        {
+          "termo": "Ofrenda",
+          "significado": "Expresión de acercamiento, entrega y adoración delante del Señor."
+        },
+        {
+          "termo": "Comunión",
+          "significado": "Relación restaurada y vivida en la presencia de Dios."
+        }
+      ],
+      "oracao": "Señor, que tu presencia sea el centro de mi vida. Enséñame a adorar con reverencia, gratitud y entrega sincera delante de ti. Amén."
+    }
+  }
+}

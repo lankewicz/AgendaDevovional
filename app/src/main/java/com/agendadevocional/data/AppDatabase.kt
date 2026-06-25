@@ -10,7 +10,7 @@ import com.agendadevocional.model.MensagemDia
 import com.agendadevocional.model.TimelineNota
 import com.agendadevocional.model.DataLeitura
 
-@Database(entities = [MensagemDia::class, TimelineNota::class, DataLeitura::class], version = 5, exportSchema = false)
+@Database(entities = [MensagemDia::class, TimelineNota::class, DataLeitura::class], version = 6, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
     abstract fun mensagemDao(): MensagemDao
     abstract fun timelineNotaDao(): TimelineNotaDao
@@ -44,6 +44,12 @@ abstract class AppDatabase : RoomDatabase() {
             }
         }
 
+        private val MIGRATION_5_6 = object : Migration(5, 6) {
+            override fun migrate(db: SupportSQLiteDatabase) {
+                db.execSQL("ALTER TABLE `mensagens` ADD COLUMN `leituraReferencia` TEXT")
+            }
+        }
+
         fun getDatabase(context: Context): AppDatabase {
             return INSTANCE ?: synchronized(this) {
                 val instance = Room.databaseBuilder(
@@ -51,7 +57,7 @@ abstract class AppDatabase : RoomDatabase() {
                     AppDatabase::class.java,
                     "agenda_database"
                 )
-                    .addMigrations(MIGRATION_3_4, MIGRATION_4_5)
+                    .addMigrations(MIGRATION_3_4, MIGRATION_4_5, MIGRATION_5_6)
                     .fallbackToDestructiveMigration()
                     .build()
                 INSTANCE = instance

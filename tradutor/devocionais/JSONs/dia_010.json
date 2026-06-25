@@ -1,0 +1,500 @@
+{
+  "dia": 10,
+  "data": "2027-01-10",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 27–28",
+    "en": "Genesis 27–28",
+    "es": "Génesis 27–28"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 27,
+      "chapter_end": 28
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 28,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Gênesis 28:15",
+      "en": "Genesis 28:15",
+      "es": "Génesis 28:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_010.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_010.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/010/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/028.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/010/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/028.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/010/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/028.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/010/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/028.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_010.mp3",
+      "versiculo_central": "audio/en/verses/day_010.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/010/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/en/en-US-AriaNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/en/en-US-AriaNeural/028.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/010/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/en/en-US-JennyNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/en/en-US-JennyNeural/028.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/010/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/en/en-US-GuyNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/en/en-US-GuyNeural/028.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/010/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/en/en-US-BrianNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/en/en-US-BrianNeural/028.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_010.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_010.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/010/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/es/es-ES-ElviraNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/es/es-ES-ElviraNeural/028.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/010/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/es/es-MX-DaliaNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/es/es-MX-DaliaNeural/028.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/010/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/es/es-ES-AlvaroNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/es/es-ES-AlvaroNeural/028.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/010/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/010/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/010/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_27": "audio/biblia/GEN/es/es-MX-JorgeNeural/027.m4a",
+          "GEN_28": "audio/biblia/GEN/es/es-MX-JorgeNeural/028.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 27–28 — Engano, Fuga e Presença de Deus",
+      "contexto": "Gênesis 27 e 28 apresenta uma família marcada por preferência, engano e consequências dolorosas. Jacó recebe a bênção por meio de uma trama, foge de Esaú e encontra Deus em Betel. Mesmo em uma história cheia de falhas humanas, o Senhor confirma sua promessa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A bênção tomada por engano",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 40
+          },
+          "comentario": "Isaque, Rebeca, Esaú e Jacó agem em meio a preferências, medo e manipulação. A promessa avança, mas as escolhas humanas produzem dor.",
+          "aplicacao": "A vontade de Deus não justifica mentira ou manipulação. A fé precisa caminhar com integridade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A fuga de Jacó",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 41,
+            "chapter_end": 28,
+            "verse_end": 9
+          },
+          "comentario": "Jacó precisa sair de casa por causa das consequências do engano. A ruptura familiar mostra o peso de decisões sem retidão.",
+          "aplicacao": "Toda escolha tem consequência. Deus chama seu povo a buscar sua vontade sem abandonar o caráter."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O encontro com Deus em Betel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 28,
+            "verse_start": 10,
+            "chapter_end": 28,
+            "verse_end": 22
+          },
+          "comentario": "No caminho da fuga, Deus se revela a Jacó, confirma a aliança e promete sua presença.",
+          "aplicacao": "Mesmo em períodos de instabilidade, Deus pode nos encontrar, corrigir nossa direção e reafirmar sua graça."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HOS",
+            "chapter": 12,
+            "verse_start": 3,
+            "verse_end": 6,
+            "referencia": "Oséias 12:3-6",
+            "nota": "Recorda a história de Jacó e chama o povo a voltar-se para Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 51,
+            "verse_end": 51,
+            "referencia": "João 1:51",
+            "nota": "Jesus retoma a imagem da ligação entre céu e terra, apontando para si mesmo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tentado alcançar coisas certas por meios errados?",
+        "Minha fé tem sido acompanhada de honestidade e paciência?",
+        "Reconheço a presença de Deus mesmo em períodos de transição?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 28:15 concentra a promessa da presença de Deus com Jacó, mesmo quando ele estava em fuga e insegurança."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 27,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Gênesis 27:29",
+          "nota": "Expressa a bênção recebida por Jacó."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Gênesis 28:12",
+          "nota": "Apresenta a visão de Betel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Gênesis 28:15",
+          "nota": "Revela a promessa da presença e do cuidado de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Bênção",
+          "significado": "Favor e propósito de Deus comunicados dentro da história da aliança."
+        },
+        {
+          "termo": "Engano",
+          "significado": "Ação humana que busca vantagem sem retidão diante de Deus."
+        },
+        {
+          "termo": "Presença",
+          "significado": "Compromisso de Deus de acompanhar e guardar seu povo."
+        }
+      ],
+      "oracao": "Senhor, livra-me de buscar teus propósitos por caminhos de engano. Ensina-me a confiar na tua presença e a viver com integridade diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 27–28 — Deception, Flight, and God's Presence",
+      "contexto": "Genesis 27 and 28 presents a family marked by favoritism, deception, and painful consequences. Jacob receives the blessing through a scheme, flees from Esau, and meets God at Bethel. Even in a story full of human failure, the Lord confirms his promise.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The blessing taken through deception",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 40
+          },
+          "comentario": "Isaac, Rebekah, Esau, and Jacob act through favoritism, fear, and manipulation. The promise moves forward, but human choices produce pain.",
+          "aplicacao": "God's will does not justify lying or manipulation. Faith must walk with integrity."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jacob's flight",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 41,
+            "chapter_end": 28,
+            "verse_end": 9
+          },
+          "comentario": "Jacob must leave home because of the consequences of deception. Family rupture shows the weight of decisions made without righteousness.",
+          "aplicacao": "Every choice has consequences. God calls his people to seek his will without abandoning character."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The encounter with God at Bethel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 28,
+            "verse_start": 10,
+            "chapter_end": 28,
+            "verse_end": 22
+          },
+          "comentario": "On the way of flight, God reveals himself to Jacob, confirms the covenant, and promises his presence.",
+          "aplicacao": "Even in seasons of instability, God can meet us, redirect us, and reaffirm his grace."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HOS",
+            "chapter": 12,
+            "verse_start": 3,
+            "verse_end": 6,
+            "referencia": "Hosea 12:3-6",
+            "nota": "Recalls Jacob's story and calls the people to return to God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 51,
+            "verse_end": 51,
+            "referencia": "John 1:51",
+            "nota": "Jesus takes up the image of heaven and earth being connected, pointing to himself."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I tried to obtain right things through wrong means?",
+        "Is my faith accompanied by honesty and patience?",
+        "Do I recognize God's presence even in seasons of transition?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 28:15 gathers the promise of God's presence with Jacob, even when he was fleeing and insecure."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 27,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Genesis 27:29",
+          "nota": "Expresses the blessing received by Jacob."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Genesis 28:12",
+          "nota": "Presents the vision of Bethel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Genesis 28:15",
+          "nota": "Reveals the promise of God's presence and care."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Blessing",
+          "significado": "God's favor and purpose communicated within the covenant story."
+        },
+        {
+          "termo": "Deception",
+          "significado": "Human action that seeks advantage without righteousness before God."
+        },
+        {
+          "termo": "Presence",
+          "significado": "God's commitment to accompany and keep his people."
+        }
+      ],
+      "oracao": "Lord, keep me from seeking your purposes through deceptive paths. Teach me to trust your presence and to live with integrity before you. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 27–28 — Engaño, Huida y Presencia de Dios",
+      "contexto": "Génesis 27 y 28 presenta una familia marcada por favoritismo, engaño y consecuencias dolorosas. Jacob recibe la bendición mediante una trama, huye de Esaú y se encuentra con Dios en Betel. Incluso en una historia llena de fallas humanas, el Señor confirma su promesa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La bendición tomada con engaño",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 40
+          },
+          "comentario": "Isaac, Rebeca, Esaú y Jacob actúan entre preferencias, temor y manipulación. La promesa avanza, pero las decisiones humanas producen dolor.",
+          "aplicacao": "La voluntad de Dios no justifica la mentira ni la manipulación. La fe debe caminar con integridad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La huida de Jacob",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 27,
+            "verse_start": 41,
+            "chapter_end": 28,
+            "verse_end": 9
+          },
+          "comentario": "Jacob tiene que salir de casa por las consecuencias del engaño. La ruptura familiar muestra el peso de las decisiones sin rectitud.",
+          "aplicacao": "Toda elección tiene consecuencias. Dios llama a su pueblo a buscar su voluntad sin abandonar el carácter."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El encuentro con Dios en Betel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 28,
+            "verse_start": 10,
+            "chapter_end": 28,
+            "verse_end": 22
+          },
+          "comentario": "En el camino de la huida, Dios se revela a Jacob, confirma la alianza y promete su presencia.",
+          "aplicacao": "Incluso en tiempos de inestabilidad, Dios puede encontrarnos, corregir nuestra dirección y reafirmar su gracia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HOS",
+            "chapter": 12,
+            "verse_start": 3,
+            "verse_end": 6,
+            "referencia": "Oseas 12:3-6",
+            "nota": "Recuerda la historia de Jacob y llama al pueblo a volver a Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 51,
+            "verse_end": 51,
+            "referencia": "Juan 1:51",
+            "nota": "Jesús retoma la imagen de la conexión entre cielo y tierra, señalando a sí mismo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He intentado alcanzar cosas correctas por medios equivocados?",
+        "¿Mi fe está acompañada de honestidad y paciencia?",
+        "¿Reconozco la presencia de Dios incluso en tiempos de transición?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 28:15 concentra la promesa de la presencia de Dios con Jacob, aun cuando estaba huyendo e inseguro."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 27,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Génesis 27:29",
+          "nota": "Expresa la bendición recibida por Jacob."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Génesis 28:12",
+          "nota": "Presenta la visión de Betel."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 28,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Génesis 28:15",
+          "nota": "Revela la promesa de la presencia y el cuidado de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Bendición",
+          "significado": "Favor y propósito de Dios comunicados dentro de la historia de la alianza."
+        },
+        {
+          "termo": "Engaño",
+          "significado": "Acción humana que busca ventaja sin rectitud delante de Dios."
+        },
+        {
+          "termo": "Presencia",
+          "significado": "Compromiso de Dios de acompañar y guardar a su pueblo."
+        }
+      ],
+      "oracao": "Señor, líbrame de buscar tus propósitos por caminos de engaño. Enséñame a confiar en tu presencia y a vivir con integridad delante de ti. Amén."
+    }
+  }
+}

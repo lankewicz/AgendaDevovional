@@ -1,0 +1,560 @@
+{
+  "dia": 40,
+  "data": "2027-02-09",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 16–18",
+    "en": "Leviticus 16–18",
+    "es": "Levítico 16–18"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 16,
+      "chapter_end": 18
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 16,
+    "verse_start": 30,
+    "verse_end": 30,
+    "referencia": {
+      "pt": "Levítico 16:30",
+      "en": "Leviticus 16:30",
+      "es": "Levítico 16:30"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_040.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_040.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/040/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/018.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/040/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/018.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/040/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/018.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/040/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/018.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_040.mp3",
+      "versiculo_central": "audio/en/verses/day_040.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/040/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/en/en-US-AriaNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/en/en-US-AriaNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/en/en-US-AriaNeural/018.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/040/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/en/en-US-JennyNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/en/en-US-JennyNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/en/en-US-JennyNeural/018.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/040/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/en/en-US-GuyNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/en/en-US-GuyNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/en/en-US-GuyNeural/018.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/040/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/en/en-US-BrianNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/en/en-US-BrianNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/en/en-US-BrianNeural/018.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_040.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_040.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/040/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/es/es-ES-ElviraNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/es/es-ES-ElviraNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/es/es-ES-ElviraNeural/018.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/040/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/es/es-MX-DaliaNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/es/es-MX-DaliaNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/es/es-MX-DaliaNeural/018.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/040/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/es/es-ES-AlvaroNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/es/es-ES-AlvaroNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/es/es-ES-AlvaroNeural/018.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/040/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/040/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/040/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_16": "audio/biblia/LEV/es/es-MX-JorgeNeural/016.m4a",
+          "LEV_17": "audio/biblia/LEV/es/es-MX-JorgeNeural/017.m4a",
+          "LEV_18": "audio/biblia/LEV/es/es-MX-JorgeNeural/018.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 16–18 — Expiação, Sangue e Vida Santa",
+      "contexto": "Levítico 16 a 18 reúne uma das seções mais importantes do livro: o Dia da Expiação, a santidade do sangue como vida e o chamado a uma conduta diferente das nações. O povo só pode permanecer diante de Deus porque o Senhor provê expiação, purificação e limites santos para a vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O Dia da Expiação",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 34
+          },
+          "comentario": "O sacerdote entra diante de Deus com sacrifício e sangue, apontando para a necessidade de expiação pelo pecado do povo.",
+          "aplicacao": "Não nos aproximamos de Deus por mérito próprio. Precisamos da graça que purifica, cobre o pecado e abre caminho para comunhão."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O sangue e a vida diante de Deus",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "O sangue é tratado com seriedade porque representa a vida. Deus ensina seu povo a reconhecer que a vida pertence a ele.",
+          "aplicacao": "A vida deve ser recebida e vivida como dom sagrado. Reverência diante de Deus inclui respeito pela vida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Santidade em contraste com as nações",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "Israel é chamado a não imitar os costumes corrompidos ao redor, mas a viver segundo os estatutos do Senhor.",
+          "aplicacao": "Pertencer a Deus exige coragem para não copiar tudo o que a cultura normaliza quando isso contraria sua vontade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 4,
+            "verse_end": 6,
+            "referencia": "Isaías 53:4-6",
+            "nota": "Aponta para o servo que leva sobre si as transgressões do povo."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 103,
+            "verse_start": 8,
+            "verse_end": 12,
+            "referencia": "Salmos 103:8-12",
+            "nota": "Celebra a misericórdia de Deus que afasta os pecados do seu povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebreus 9:11-14",
+            "nota": "Mostra Cristo como sumo sacerdote que oferece purificação definitiva."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 7,
+            "verse_end": 9,
+            "referencia": "1 João 1:7-9",
+            "nota": "Relaciona comunhão com Deus, confissão e purificação pelo sangue de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reconhecido minha necessidade de expiação e graça?",
+        "Trato a vida como dom sagrado pertencente a Deus?",
+        "Tenho coragem de viver diferente quando a fidelidade a Deus exige separação?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 16:30 concentra a mensagem do Dia da Expiação: Deus provê purificação para que seu povo esteja diante dele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 16,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Levítico 16:30",
+          "nota": "Resume a purificação do povo diante do Senhor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 17,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Levítico 17:11",
+          "nota": "Relaciona vida, sangue e expiação."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 18,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Levítico 18:4-5",
+          "nota": "Chama o povo a viver segundo os juízos e estatutos de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Expiação",
+          "significado": "A provisão de Deus para tratar o pecado e restaurar comunhão."
+        },
+        {
+          "termo": "Sangue",
+          "significado": "Sinal da vida e elemento central nos ritos de purificação de Israel."
+        },
+        {
+          "termo": "Separação",
+          "significado": "Chamado para viver segundo Deus, não segundo padrões contrários à sua vontade."
+        }
+      ],
+      "oracao": "Senhor, obrigado porque tu mesmo provês o caminho da purificação. Ensina-me a valorizar a vida, abandonar o pecado e viver de modo santo diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 16–18 — Atonement, Blood, and Holy Living",
+      "contexto": "Leviticus 16 to 18 gathers one of the most important sections of the book: the Day of Atonement, the holiness of blood as life, and the call to conduct different from the nations. The people can remain before God only because the Lord provides atonement, purification, and holy boundaries for life.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The Day of Atonement",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 34
+          },
+          "comentario": "The priest enters before God with sacrifice and blood, pointing to the need for atonement for the people’s sin.",
+          "aplicacao": "We do not approach God by our own merit. We need the grace that purifies, covers sin, and opens the way to communion."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Blood and life before God",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "Blood is treated seriously because it represents life. God teaches his people to recognize that life belongs to him.",
+          "aplicacao": "Life must be received and lived as a sacred gift. Reverence before God includes respect for life."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Holiness in contrast with the nations",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "Israel is called not to imitate the corrupted practices around them, but to live according to the Lord’s statutes.",
+          "aplicacao": "Belonging to God requires courage not to copy everything culture normalizes when it contradicts his will."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 4,
+            "verse_end": 6,
+            "referencia": "Isaiah 53:4-6",
+            "nota": "Points to the servant who bears the transgressions of the people."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 103,
+            "verse_start": 8,
+            "verse_end": 12,
+            "referencia": "Psalm 103:8-12",
+            "nota": "Celebrates God’s mercy that removes the sins of his people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebrews 9:11-14",
+            "nota": "Shows Christ as the high priest who offers definitive purification."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 7,
+            "verse_end": 9,
+            "referencia": "1 John 1:7-9",
+            "nota": "Connects communion with God, confession, and cleansing through Christ’s blood."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I recognized my need for atonement and grace?",
+        "Do I treat life as a sacred gift belonging to God?",
+        "Do I have the courage to live differently when faithfulness to God requires separation?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 16:30 concentrates the message of the Day of Atonement: God provides purification so that his people may stand before him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 16,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Leviticus 16:30",
+          "nota": "Summarizes the purification of the people before the Lord."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 17,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Leviticus 17:11",
+          "nota": "Connects life, blood, and atonement."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 18,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Leviticus 18:4-5",
+          "nota": "Calls the people to live according to God’s judgments and statutes."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Atonement",
+          "significado": "God’s provision to deal with sin and restore communion."
+        },
+        {
+          "termo": "Blood",
+          "significado": "A sign of life and a central element in Israel’s purification rites."
+        },
+        {
+          "termo": "Separation",
+          "significado": "The call to live according to God, not according to patterns opposed to his will."
+        }
+      ],
+      "oracao": "Lord, thank you because you yourself provide the way of purification. Teach me to value life, forsake sin, and live in holiness before you. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 16–18 — Expiación, Sangre y Vida Santa",
+      "contexto": "Levítico 16 al 18 reúne una de las secciones más importantes del libro: el Día de la Expiación, la santidad de la sangre como vida y el llamado a una conducta diferente de las naciones. El pueblo solo puede permanecer delante de Dios porque el Señor provee expiación, purificación y límites santos para la vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El Día de la Expiación",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 34
+          },
+          "comentario": "El sacerdote entra delante de Dios con sacrificio y sangre, apuntando a la necesidad de expiación por el pecado del pueblo.",
+          "aplicacao": "No nos acercamos a Dios por mérito propio. Necesitamos la gracia que purifica, cubre el pecado y abre camino a la comunión."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La sangre y la vida delante de Dios",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "La sangre es tratada con seriedad porque representa la vida. Dios enseña a su pueblo a reconocer que la vida le pertenece a él.",
+          "aplicacao": "La vida debe recibirse y vivirse como don sagrado. La reverencia delante de Dios incluye respeto por la vida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Santidad en contraste con las naciones",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 30
+          },
+          "comentario": "Israel es llamado a no imitar las costumbres corrompidas de alrededor, sino a vivir según los estatutos del Señor.",
+          "aplicacao": "Pertenecer a Dios exige valentía para no copiar todo lo que la cultura normaliza cuando eso contradice su voluntad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 4,
+            "verse_end": 6,
+            "referencia": "Isaías 53:4-6",
+            "nota": "Apunta al siervo que lleva sobre sí las transgresiones del pueblo."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 103,
+            "verse_start": 8,
+            "verse_end": 12,
+            "referencia": "Salmos 103:8-12",
+            "nota": "Celebra la misericordia de Dios que aleja los pecados de su pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 11,
+            "verse_end": 14,
+            "referencia": "Hebreos 9:11-14",
+            "nota": "Muestra a Cristo como sumo sacerdote que ofrece purificación definitiva."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 7,
+            "verse_end": 9,
+            "referencia": "1 Juan 1:7-9",
+            "nota": "Relaciona comunión con Dios, confesión y purificación por la sangre de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He reconocido mi necesidad de expiación y gracia?",
+        "¿Trato la vida como don sagrado que pertenece a Dios?",
+        "¿Tengo valentía para vivir diferente cuando la fidelidad a Dios exige separación?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 16:30 concentra el mensaje del Día de la Expiación: Dios provee purificación para que su pueblo esté delante de él."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 16,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Levítico 16:30",
+          "nota": "Resume la purificación del pueblo delante del Señor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 17,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Levítico 17:11",
+          "nota": "Relaciona vida, sangre y expiación."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 18,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Levítico 18:4-5",
+          "nota": "Llama al pueblo a vivir según los juicios y estatutos de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Expiación",
+          "significado": "La provisión de Dios para tratar el pecado y restaurar comunión."
+        },
+        {
+          "termo": "Sangre",
+          "significado": "Señal de la vida y elemento central en los ritos de purificación de Israel."
+        },
+        {
+          "termo": "Separación",
+          "significado": "Llamado a vivir según Dios, no según patrones contrarios a su voluntad."
+        }
+      ],
+      "oracao": "Señor, gracias porque tú mismo provees el camino de la purificación. Enséñame a valorar la vida, abandonar el pecado y vivir de modo santo delante de ti. Amén."
+    }
+  }
+}

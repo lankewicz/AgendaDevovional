@@ -17,6 +17,7 @@ data class MensagemDia(
     val instagramUrl: String? = null,
     val facebookUrl: String? = null,
     val tiktokUrl: String? = null,
+    val leituraReferencia: String? = null,
     val isFavorite: Boolean = false,
     val anotacao: String? = null,
     val audioPath: String? = null

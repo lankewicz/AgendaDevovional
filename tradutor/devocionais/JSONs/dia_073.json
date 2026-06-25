@@ -1,0 +1,416 @@
+{
+  "dia": 73,
+  "data": "2027-03-14",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 12–14",
+    "en": "Joshua 12–14",
+    "es": "Josué 12–14"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 12,
+      "chapter_end": 14
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 14,
+    "verse_start": 12,
+    "verse_end": 12,
+    "referencia": {
+      "pt": "Josué 14:12",
+      "en": "Joshua 14:12",
+      "es": "Josué 14:12"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_073.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_073.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_073.mp3",
+      "versiculo_central": "audio/en/verses/day_073.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_073.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_073.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 12–14 — Memória da Vitória e Herança da Promessa",
+      "contexto": "Josué 12 a 14 registra reis vencidos, inicia a distribuição da terra e destaca a fé perseverante de Calebe. A leitura mostra que as vitórias do passado devem fortalecer a confiança presente, e que a herança prometida exige fé, coragem e fidelidade ao Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A memória das vitórias concedidas por Deus",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 24
+          },
+          "comentario": "A lista dos reis derrotados não é apenas um registro militar. Ela preserva a memória da fidelidade de Deus e mostra que o Senhor cumpriu o que havia prometido.",
+          "aplicacao": "Lembrar o que Deus já fez fortalece a fé para enfrentar responsabilidades futuras."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A terra ainda a ser possuída",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "Mesmo depois de muitas vitórias, ainda havia áreas a serem recebidas e organizadas. A promessa de Deus não exclui responsabilidade humana.",
+          "aplicacao": "A fé não deve se acomodar nas conquistas passadas, mas seguir obedecendo no presente."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Calebe e a fé que persevera",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 15
+          },
+          "comentario": "Calebe demonstra uma fé amadurecida pelo tempo. Ele não se apresenta como alguém cansado da promessa, mas como servo que continua confiando na palavra do Senhor.",
+          "aplicacao": "A fidelidade verdadeira permanece viva mesmo depois de longos anos de espera."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Números 14:24",
+            "nota": "Recorda a fidelidade de Calebe quando a promessa ainda parecia distante."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "Hebreus 6:11-12",
+            "nota": "Exorta à perseverança para herdar as promessas."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "2 Timóteo 4:7-8",
+            "nota": "Apresenta a perseverança fiel até o fim da caminhada."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho cultivado memória grata das vitórias que Deus já concedeu?",
+        "Estou acomodado no passado ou obediente no presente?",
+        "Minha fé permanece firme mesmo quando a promessa exige espera prolongada?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 14:12 expressa a fé perseverante de Calebe, que ainda confia na promessa e se dispõe a avançar em obediência."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 12:1",
+          "nota": "Introduz o memorial das vitórias dadas por Deus."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 13:1",
+          "nota": "Mostra que ainda havia responsabilidade diante da promessa."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 14,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Josué 14:12",
+          "nota": "Revela a coragem perseverante de Calebe."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herança",
+          "significado": "Aquilo que Deus concede ao seu povo conforme a sua promessa."
+        },
+        {
+          "termo": "Perseverança",
+          "significado": "Fidelidade sustentada ao longo do tempo."
+        },
+        {
+          "termo": "Memória",
+          "significado": "Recordação da ação de Deus para fortalecer a fé presente."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a lembrar tua fidelidade e a perseverar na tua promessa. Livra-me da acomodação e fortalece minha fé para obedecer com coragem. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 12–14 — Memory of Victory and Promised Inheritance",
+      "contexto": "Joshua 12 to 14 records defeated kings, begins the distribution of the land, and highlights Caleb’s persevering faith. The reading shows that past victories should strengthen present trust, and that the promised inheritance calls for faith, courage, and faithfulness to the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The memory of victories given by God",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 24
+          },
+          "comentario": "The list of defeated kings is not merely a military record. It preserves the memory of God’s faithfulness and shows that the Lord fulfilled what he had promised.",
+          "aplicacao": "Remembering what God has already done strengthens faith for future responsibilities."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The land still to be possessed",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "Even after many victories, there were still areas to receive and organize. God’s promise does not remove human responsibility.",
+          "aplicacao": "Faith should not settle into past achievements, but continue obeying in the present."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Caleb and persevering faith",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 15
+          },
+          "comentario": "Caleb shows a faith matured by time. He does not appear as someone tired of the promise, but as a servant still trusting the word of the Lord.",
+          "aplicacao": "True faithfulness remains alive even after many years of waiting."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Numbers 14:24",
+            "nota": "Recalls Caleb’s faithfulness when the promise still seemed distant."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "Hebrews 6:11-12",
+            "nota": "Calls believers to perseverance in order to inherit the promises."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "2 Timothy 4:7-8",
+            "nota": "Presents faithful perseverance to the end of the journey."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I cultivate grateful memory of the victories God has given?",
+        "Am I settled in the past or obedient in the present?",
+        "Does my faith remain firm when the promise requires long waiting?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 14:12 expresses Caleb’s persevering faith, as he still trusts the promise and is willing to advance in obedience."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Joshua 12:1",
+          "nota": "Introduces the memorial of victories given by God."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Joshua 13:1",
+          "nota": "Shows that responsibility still remained before the promise."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 14,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Joshua 14:12",
+          "nota": "Reveals Caleb’s persevering courage."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Inheritance",
+          "significado": "What God gives to his people according to his promise."
+        },
+        {
+          "termo": "Perseverance",
+          "significado": "Faithfulness sustained over time."
+        },
+        {
+          "termo": "Memory",
+          "significado": "Remembering God’s action in order to strengthen present faith."
+        }
+      ],
+      "oracao": "Lord, help me remember your faithfulness and persevere in your promise. Keep me from complacency and strengthen my faith to obey with courage. Amen."
+    },
+    "es": {
+      "titulo": "Josué 12–14 — Memoria de la Victoria y Herencia Prometida",
+      "contexto": "Josué 12 al 14 registra reyes vencidos, inicia la distribución de la tierra y destaca la fe perseverante de Caleb. La lectura muestra que las victorias del pasado deben fortalecer la confianza presente, y que la herencia prometida exige fe, valentía y fidelidad al Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La memoria de las victorias concedidas por Dios",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 12,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 24
+          },
+          "comentario": "La lista de los reyes derrotados no es solo un registro militar. Conserva la memoria de la fidelidad de Dios y muestra que el Señor cumplió lo que había prometido.",
+          "aplicacao": "Recordar lo que Dios ya hizo fortalece la fe para enfrentar responsabilidades futuras."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La tierra que aún debía poseerse",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 33
+          },
+          "comentario": "Incluso después de muchas victorias, todavía había áreas que recibir y organizar. La promesa de Dios no excluye la responsabilidad humana.",
+          "aplicacao": "La fe no debe acomodarse en conquistas pasadas, sino seguir obedeciendo en el presente."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Caleb y la fe que persevera",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 15
+          },
+          "comentario": "Caleb muestra una fe madurada por el tiempo. No aparece como alguien cansado de la promesa, sino como un siervo que continúa confiando en la palabra del Señor.",
+          "aplicacao": "La fidelidad verdadera permanece viva incluso después de muchos años de espera."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Números 14:24",
+            "nota": "Recuerda la fidelidad de Caleb cuando la promesa todavía parecía distante."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 11,
+            "verse_end": 12,
+            "referencia": "Hebreos 6:11-12",
+            "nota": "Exhorta a la perseverancia para heredar las promesas."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "2 Timoteo 4:7-8",
+            "nota": "Presenta la perseverancia fiel hasta el final del camino."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Cultivo una memoria agradecida de las victorias que Dios ya concedió?",
+        "¿Estoy acomodado en el pasado u obediente en el presente?",
+        "¿Mi fe permanece firme cuando la promesa exige una larga espera?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 14:12 expresa la fe perseverante de Caleb, que aún confía en la promesa y está dispuesto a avanzar en obediencia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 12,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 12:1",
+          "nota": "Introduce el memorial de las victorias dadas por Dios."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 13,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Josué 13:1",
+          "nota": "Muestra que todavía había responsabilidad delante de la promesa."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 14,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Josué 14:12",
+          "nota": "Revela la valentía perseverante de Caleb."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Herencia",
+          "significado": "Aquello que Dios concede a su pueblo conforme a su promesa."
+        },
+        {
+          "termo": "Perseverancia",
+          "significado": "Fidelidad sostenida a lo largo del tiempo."
+        },
+        {
+          "termo": "Memoria",
+          "significado": "Recordar la acción de Dios para fortalecer la fe presente."
+        }
+      ],
+      "oracao": "Señor, ayúdame a recordar tu fidelidad y a perseverar en tu promesa. Líbrame de la comodidad y fortalece mi fe para obedecer con valentía. Amén."
+    }
+  }
+}

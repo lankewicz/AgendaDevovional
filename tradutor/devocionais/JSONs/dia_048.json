@@ -1,0 +1,416 @@
+{
+  "dia": 48,
+  "data": "2027-02-17",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 8–10",
+    "en": "Numbers 8–10",
+    "es": "Números 8–10"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 8,
+      "chapter_end": 10
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 9,
+    "verse_start": 23,
+    "verse_end": 23,
+    "referencia": {
+      "pt": "Números 9:23",
+      "en": "Numbers 9:23",
+      "es": "Números 9:23"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_048.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_048.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_048.mp3",
+      "versiculo_central": "audio/en/verses/day_048.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_048.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_048.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 8–10 — Consagração, Direção e Caminhada",
+      "contexto": "Números 8 a 10 mostra a consagração dos levitas, a celebração da Páscoa, a direção da nuvem e o início da marcha pelo deserto. O povo não caminha por iniciativa própria, mas guiado pela presença de Deus e organizado segundo a sua palavra.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Levitas separados para servir",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 26
+          },
+          "comentario": "Os levitas são purificados e apresentados diante do Senhor para servirem no lugar dos primogênitos. O serviço sagrado exige consagração.",
+          "aplicacao": "Servir a Deus envolve disponibilidade, pureza e consciência de que pertencemos a ele."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Páscoa e direção pela nuvem",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 23
+          },
+          "comentario": "A Páscoa recorda a redenção, e a nuvem orienta quando o povo deve parar ou avançar. Memória e direção caminham juntas.",
+          "aplicacao": "Quem lembra a fidelidade de Deus aprende a esperar e avançar sob sua direção."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Trombetas e partida do acampamento",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 36
+          },
+          "comentario": "As trombetas organizam o povo para reunir-se, marchar e guerrear. A caminhada começa com ordem e dependência do Senhor.",
+          "aplicacao": "A vida com Deus requer atenção à sua direção e disposição para obedecer no tempo certo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Êxodo 13:21-22",
+            "nota": "Mostra Deus guiando Israel por meio da coluna de nuvem e de fogo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "1 Coríntios 10:1-4",
+            "nota": "Interpreta a jornada no deserto como advertência e instrução para o povo de Deus."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "João 10:27",
+            "nota": "Apresenta as ovelhas de Cristo como aquelas que ouvem sua voz e o seguem."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado servir a Deus com um coração consagrado?",
+        "Sei esperar quando Deus manda parar e avançar quando ele manda caminhar?",
+        "Minha rotina está sendo guiada pela presença do Senhor ou apenas pela pressa?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 9:23 resume a espiritualidade da caminhada no deserto: o povo se movia ou permanecia conforme a ordem do Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 8,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Números 8:14",
+          "nota": "Destaca a separação dos levitas para o serviço do Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 9,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 9:23",
+          "nota": "Mostra o povo obedecendo à direção de Deus."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 10,
+          "verse_start": 35,
+          "verse_end": 36,
+          "referencia": "Números 10:35-36",
+          "nota": "Expressa dependência do Senhor na partida e no descanso."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagração",
+          "significado": "Entrega separada para pertencer e servir a Deus."
+        },
+        {
+          "termo": "Direção",
+          "significado": "Condução de Deus para o tempo de parar, esperar e avançar."
+        },
+        {
+          "termo": "Peregrinação",
+          "significado": "Caminhada do povo de Deus sustentada pela presença do Senhor."
+        }
+      ],
+      "oracao": "Senhor, consagra minha vida ao teu serviço. Ensina-me a esperar tua direção, obedecer tua voz e caminhar no teu tempo, com confiança e reverência. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 8–10 — Consecration, Guidance, and Journey",
+      "contexto": "Numbers 8 to 10 shows the consecration of the Levites, the celebration of Passover, the guidance of the cloud, and the beginning of the journey through the wilderness. The people do not move by their own initiative, but are led by God’s presence and ordered by his word.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Levites set apart to serve",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 26
+          },
+          "comentario": "The Levites are purified and presented before the Lord to serve in place of the firstborn. Sacred service requires consecration.",
+          "aplicacao": "Serving God involves availability, purity, and the awareness that we belong to him."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Passover and guidance by the cloud",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 23
+          },
+          "comentario": "Passover remembers redemption, and the cloud directs when the people should stop or move. Memory and guidance walk together.",
+          "aplicacao": "Those who remember God’s faithfulness learn to wait and move under his direction."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Trumpets and the departure of the camp",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 36
+          },
+          "comentario": "The trumpets organize the people to gather, march, and prepare for battle. The journey begins with order and dependence on the Lord.",
+          "aplicacao": "Life with God requires attention to his guidance and willingness to obey at the right time."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Exodus 13:21-22",
+            "nota": "Shows God guiding Israel by the pillar of cloud and fire."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "1 Corinthians 10:1-4",
+            "nota": "Interprets the wilderness journey as warning and instruction for God’s people."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "John 10:27",
+            "nota": "Presents Christ’s sheep as those who hear his voice and follow him."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I seeking to serve God with a consecrated heart?",
+        "Do I know how to wait when God says to stop and move when he says to go?",
+        "Is my daily life being guided by the Lord’s presence or merely by hurry?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 9:23 summarizes the spirituality of the wilderness journey: the people moved or remained according to the command of the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 8,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Numbers 8:14",
+          "nota": "Highlights the Levites being set apart for the Lord’s service."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 9,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Numbers 9:23",
+          "nota": "Shows the people obeying God’s direction."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 10,
+          "verse_start": 35,
+          "verse_end": 36,
+          "referencia": "Numbers 10:35-36",
+          "nota": "Expresses dependence on the Lord in departure and rest."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consecration",
+          "significado": "Surrender set apart to belong to and serve God."
+        },
+        {
+          "termo": "Guidance",
+          "significado": "God’s leading for when to stop, wait, and move forward."
+        },
+        {
+          "termo": "Pilgrimage",
+          "significado": "The journey of God’s people sustained by the Lord’s presence."
+        }
+      ],
+      "oracao": "Lord, consecrate my life to your service. Teach me to wait for your direction, obey your voice, and walk in your timing with trust and reverence. Amen."
+    },
+    "es": {
+      "titulo": "Números 8–10 — Consagración, Dirección y Camino",
+      "contexto": "Números 8 al 10 muestra la consagración de los levitas, la celebración de la Pascua, la dirección de la nube y el comienzo de la marcha por el desierto. El pueblo no camina por iniciativa propia, sino guiado por la presencia de Dios y ordenado por su palabra.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Levitas apartados para servir",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 26
+          },
+          "comentario": "Los levitas son purificados y presentados delante del Señor para servir en lugar de los primogénitos. El servicio sagrado exige consagración.",
+          "aplicacao": "Servir a Dios implica disponibilidad, pureza y conciencia de que pertenecemos a él."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pascua y dirección por la nube",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 23
+          },
+          "comentario": "La Pascua recuerda la redención, y la nube orienta cuándo el pueblo debe detenerse o avanzar. Memoria y dirección caminan juntas.",
+          "aplicacao": "Quien recuerda la fidelidad de Dios aprende a esperar y avanzar bajo su dirección."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Trompetas y partida del campamento",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 36
+          },
+          "comentario": "Las trompetas organizan al pueblo para reunirse, marchar y prepararse para la batalla. La caminata comienza con orden y dependencia del Señor.",
+          "aplicacao": "La vida con Dios requiere atención a su dirección y disposición para obedecer en el tiempo correcto."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 13,
+            "verse_start": 21,
+            "verse_end": 22,
+            "referencia": "Éxodo 13:21-22",
+            "nota": "Muestra a Dios guiando a Israel por medio de la columna de nube y de fuego."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 4,
+            "referencia": "1 Corintios 10:1-4",
+            "nota": "Interpreta la jornada en el desierto como advertencia e instrucción para el pueblo de Dios."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 10,
+            "verse_start": 27,
+            "verse_end": 27,
+            "referencia": "Juan 10:27",
+            "nota": "Presenta a las ovejas de Cristo como aquellas que oyen su voz y lo siguen."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco servir a Dios con un corazón consagrado?",
+        "¿Sé esperar cuando Dios manda detenerme y avanzar cuando él manda caminar?",
+        "¿Mi rutina está siendo guiada por la presencia del Señor o solo por la prisa?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 9:23 resume la espiritualidad de la caminata en el desierto: el pueblo se movía o permanecía según el mandato del Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 8,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Números 8:14",
+          "nota": "Destaca la separación de los levitas para el servicio del Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 9,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 9:23",
+          "nota": "Muestra al pueblo obedeciendo la dirección de Dios."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 10,
+          "verse_start": 35,
+          "verse_end": 36,
+          "referencia": "Números 10:35-36",
+          "nota": "Expresa dependencia del Señor al partir y al descansar."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagración",
+          "significado": "Entrega apartada para pertenecer y servir a Dios."
+        },
+        {
+          "termo": "Dirección",
+          "significado": "Conducción de Dios para el tiempo de detenerse, esperar y avanzar."
+        },
+        {
+          "termo": "Peregrinación",
+          "significado": "Camino del pueblo de Dios sostenido por la presencia del Señor."
+        }
+      ],
+      "oracao": "Señor, consagra mi vida a tu servicio. Enséñame a esperar tu dirección, obedecer tu voz y caminar en tu tiempo, con confianza y reverencia. Amén."
+    }
+  }
+}

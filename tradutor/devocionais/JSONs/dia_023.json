@@ -1,0 +1,536 @@
+{
+  "dia": 23,
+  "data": "2027-01-23",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 10–12",
+    "en": "Exodus 10–12",
+    "es": "Éxodo 10–12"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 10,
+      "chapter_end": 12
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 12,
+    "verse_start": 13,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "Êxodo 12:13",
+      "en": "Exodus 12:13",
+      "es": "Éxodo 12:13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_023.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_023.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/023/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/012.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/023/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/012.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/023/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/012.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/023/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/012.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_023.mp3",
+      "versiculo_central": "audio/en/verses/day_023.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/023/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/en/en-US-AriaNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/en/en-US-AriaNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/en/en-US-AriaNeural/012.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/023/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/en/en-US-JennyNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/en/en-US-JennyNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/en/en-US-JennyNeural/012.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/023/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/en/en-US-GuyNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/en/en-US-GuyNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/en/en-US-GuyNeural/012.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/023/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/en/en-US-BrianNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/en/en-US-BrianNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/en/en-US-BrianNeural/012.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_023.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_023.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/023/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/es/es-ES-ElviraNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/es/es-ES-ElviraNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/es/es-ES-ElviraNeural/012.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/023/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/es/es-MX-DaliaNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/es/es-MX-DaliaNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/es/es-MX-DaliaNeural/012.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/023/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/es/es-ES-AlvaroNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/es/es-ES-AlvaroNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/es/es-ES-AlvaroNeural/012.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/023/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/023/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/023/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_10": "audio/biblia/EXO/es/es-MX-JorgeNeural/010.m4a",
+          "EXO_11": "audio/biblia/EXO/es/es-MX-JorgeNeural/011.m4a",
+          "EXO_12": "audio/biblia/EXO/es/es-MX-JorgeNeural/012.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 10–12 — A Páscoa e a Libertação do Povo",
+      "contexto": "Êxodo 10 a 12 apresenta as últimas pragas, a instituição da Páscoa e a saída de Israel do Egito. A libertação acontece sob juízo, sangue, memória e obediência. Deus salva seu povo e inaugura uma nova etapa na história da aliança.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Gafanhotos e trevas sobre o Egito",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 29
+          },
+          "comentario": "As pragas de gafanhotos e trevas intensificam o confronto. Faraó ainda tenta negociar uma obediência parcial, mas Deus requer libertação completa para seu povo.",
+          "aplicacao": "A obediência a Deus não deve ser reduzida a acordos convenientes. Ele chama seu povo para uma entrega inteira."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A Páscoa e o sinal do sangue",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 28
+          },
+          "comentario": "Deus anuncia o juízo sobre os primogênitos e orienta Israel a celebrar a Páscoa. O sinal do sangue marca a casa dos que obedecem à palavra do Senhor.",
+          "aplicacao": "A salvação não nasce da força humana, mas da provisão de Deus recebida pela fé e obediência."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A saída do Egito",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 12,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 51
+          },
+          "comentario": "O juízo final sobre o Egito abre o caminho para a partida de Israel. O povo sai como comunidade resgatada, chamada a lembrar a libertação do Senhor.",
+          "aplicacao": "A memória da salvação deve moldar a identidade, a gratidão e a caminhada diária do povo de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 26,
+            "verse_end": 38,
+            "referencia": "Salmos 105:26-38",
+            "nota": "Recorda as pragas e a saída de Israel como ato poderoso de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "João 1:29",
+            "nota": "Apresenta Jesus como o Cordeiro que tira o pecado do mundo."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "1 Coríntios 5:7-8",
+            "nota": "Relaciona Cristo à Páscoa e à vida de santidade."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tentado negociar uma obediência parcial com Deus?",
+        "Minha confiança está na provisão do Senhor ou na minha própria força?",
+        "Tenho cultivado memória e gratidão pela libertação que Deus realiza?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 12:13 concentra o significado da Páscoa: Deus provê um sinal de livramento em meio ao juízo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Êxodo 10:3",
+          "nota": "Confronta a recusa de Faraó em se humilhar diante de Deus."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Êxodo 12:13",
+          "nota": "Aponta para o sinal do sangue e o livramento do juízo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 42,
+          "verse_end": 42,
+          "referencia": "Êxodo 12:42",
+          "nota": "Mostra a noite da libertação como memória santa diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Páscoa",
+          "significado": "Memorial da libertação de Israel e sinal da salvação provida por Deus."
+        },
+        {
+          "termo": "Cordeiro",
+          "significado": "Animal separado para a Páscoa, apontando para substituição e livramento."
+        },
+        {
+          "termo": "Libertação",
+          "significado": "Ato de Deus que tira seu povo da escravidão e o chama para uma nova vida."
+        }
+      ],
+      "oracao": "Senhor, obrigado por teu livramento. Ensina-me a obedecer sem reservas, lembrar tua salvação com gratidão e viver como alguém resgatado por tua graça. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 10–12 — Passover and the Liberation of the People",
+      "contexto": "Exodus 10 to 12 presents the final plagues, the institution of Passover, and Israel’s departure from Egypt. Deliverance takes place through judgment, blood, memory, and obedience. God saves his people and begins a new stage in the story of the covenant.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Locusts and darkness over Egypt",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 29
+          },
+          "comentario": "The plagues of locusts and darkness intensify the confrontation. Pharaoh still tries to negotiate partial obedience, but God requires complete freedom for his people.",
+          "aplicacao": "Obedience to God must not be reduced to convenient agreements. He calls his people to wholehearted surrender."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Passover and the sign of blood",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 28
+          },
+          "comentario": "God announces judgment on the firstborn and instructs Israel to celebrate Passover. The sign of blood marks the houses of those who obey the Lord’s word.",
+          "aplicacao": "Salvation does not arise from human strength, but from God’s provision received by faith and obedience."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The departure from Egypt",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 12,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 51
+          },
+          "comentario": "The final judgment on Egypt opens the way for Israel’s departure. The people leave as a rescued community, called to remember the Lord’s deliverance.",
+          "aplicacao": "The memory of salvation should shape the identity, gratitude, and daily walk of God’s people."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 26,
+            "verse_end": 38,
+            "referencia": "Psalm 105:26-38",
+            "nota": "Recalls the plagues and Israel’s departure as a mighty act of God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "John 1:29",
+            "nota": "Presents Jesus as the Lamb who takes away the sin of the world."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "1 Corinthians 5:7-8",
+            "nota": "Connects Christ with Passover and the life of holiness."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I tried to negotiate partial obedience with God?",
+        "Is my trust in the Lord’s provision or in my own strength?",
+        "Do I cultivate memory and gratitude for the deliverance God brings?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 12:13 concentrates the meaning of Passover: God provides a sign of deliverance in the midst of judgment."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Exodus 10:3",
+          "nota": "Confronts Pharaoh’s refusal to humble himself before God."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Exodus 12:13",
+          "nota": "Points to the sign of blood and deliverance from judgment."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 42,
+          "verse_end": 42,
+          "referencia": "Exodus 12:42",
+          "nota": "Shows the night of liberation as a holy memory before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Passover",
+          "significado": "Memorial of Israel’s liberation and sign of salvation provided by God."
+        },
+        {
+          "termo": "Lamb",
+          "significado": "Animal set apart for Passover, pointing to substitution and deliverance."
+        },
+        {
+          "termo": "Liberation",
+          "significado": "God’s act of taking his people out of slavery and calling them into new life."
+        }
+      ],
+      "oracao": "Lord, thank you for your deliverance. Teach me to obey without reservation, remember your salvation with gratitude, and live as one rescued by your grace. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 10–12 — La Pascua y la Liberación del Pueblo",
+      "contexto": "Éxodo 10 al 12 presenta las últimas plagas, la institución de la Pascua y la salida de Israel de Egipto. La liberación ocurre bajo juicio, sangre, memoria y obediencia. Dios salva a su pueblo e inaugura una nueva etapa en la historia de la alianza.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Langostas y tinieblas sobre Egipto",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 29
+          },
+          "comentario": "Las plagas de langostas y tinieblas intensifican el enfrentamiento. Faraón todavía intenta negociar una obediencia parcial, pero Dios requiere liberación completa para su pueblo.",
+          "aplicacao": "La obediencia a Dios no debe reducirse a acuerdos convenientes. Él llama a su pueblo a una entrega completa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La Pascua y la señal de la sangre",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 12,
+            "verse_end": 28
+          },
+          "comentario": "Dios anuncia el juicio sobre los primogénitos e instruye a Israel a celebrar la Pascua. La señal de la sangre marca la casa de los que obedecen la palabra del Señor.",
+          "aplicacao": "La salvación no nace de la fuerza humana, sino de la provisión de Dios recibida por fe y obediencia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La salida de Egipto",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 12,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 51
+          },
+          "comentario": "El juicio final sobre Egipto abre el camino para la salida de Israel. El pueblo sale como comunidad rescatada, llamada a recordar la liberación del Señor.",
+          "aplicacao": "La memoria de la salvación debe formar la identidad, la gratitud y el caminar diario del pueblo de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 26,
+            "verse_end": 38,
+            "referencia": "Salmos 105:26-38",
+            "nota": "Recuerda las plagas y la salida de Israel como acto poderoso de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 1,
+            "verse_start": 29,
+            "verse_end": 29,
+            "referencia": "Juan 1:29",
+            "nota": "Presenta a Jesús como el Cordero que quita el pecado del mundo."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 8,
+            "referencia": "1 Corintios 5:7-8",
+            "nota": "Relaciona a Cristo con la Pascua y la vida de santidad."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He intentado negociar una obediencia parcial con Dios?",
+        "¿Mi confianza está en la provisión del Señor o en mi propia fuerza?",
+        "¿Cultivo memoria y gratitud por la liberación que Dios realiza?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 12:13 concentra el significado de la Pascua: Dios provee una señal de liberación en medio del juicio."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Éxodo 10:3",
+          "nota": "Confronta la negativa de Faraón a humillarse delante de Dios."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Éxodo 12:13",
+          "nota": "Apunta a la señal de la sangre y la liberación del juicio."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 12,
+          "verse_start": 42,
+          "verse_end": 42,
+          "referencia": "Éxodo 12:42",
+          "nota": "Muestra la noche de la liberación como memoria santa delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Pascua",
+          "significado": "Memorial de la liberación de Israel y señal de la salvación provista por Dios."
+        },
+        {
+          "termo": "Cordero",
+          "significado": "Animal apartado para la Pascua, que apunta a sustitución y liberación."
+        },
+        {
+          "termo": "Liberación",
+          "significado": "Acto de Dios que saca a su pueblo de la esclavitud y lo llama a una vida nueva."
+        }
+      ],
+      "oracao": "Señor, gracias por tu liberación. Enséñame a obedecer sin reservas, recordar tu salvación con gratitud y vivir como alguien rescatado por tu gracia. Amén."
+    }
+  }
+}

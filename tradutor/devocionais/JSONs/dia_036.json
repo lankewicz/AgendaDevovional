@@ -1,0 +1,548 @@
+{
+  "dia": 36,
+  "data": "2027-02-05",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 7–8",
+    "en": "Leviticus 7–8",
+    "es": "Levítico 7–8"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 7,
+      "chapter_end": 8
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 8,
+    "verse_start": 12,
+    "verse_end": 12,
+    "referencia": {
+      "pt": "Levítico 8:12",
+      "en": "Leviticus 8:12",
+      "es": "Levítico 8:12"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_036.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_036.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/036/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/008.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/036/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/008.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/036/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/008.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/036/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/008.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_036.mp3",
+      "versiculo_central": "audio/en/verses/day_036.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/036/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/en/en-US-AriaNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/en/en-US-AriaNeural/008.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/036/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/en/en-US-JennyNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/en/en-US-JennyNeural/008.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/036/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/en/en-US-GuyNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/en/en-US-GuyNeural/008.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/036/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/en/en-US-BrianNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/en/en-US-BrianNeural/008.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_036.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_036.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/036/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/es/es-ES-ElviraNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/es/es-ES-ElviraNeural/008.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/036/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/es/es-MX-DaliaNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/es/es-MX-DaliaNeural/008.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/036/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/es/es-ES-AlvaroNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/es/es-ES-AlvaroNeural/008.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/036/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/036/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/036/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_7": "audio/biblia/LEV/es/es-MX-JorgeNeural/007.m4a",
+          "LEV_8": "audio/biblia/LEV/es/es-MX-JorgeNeural/008.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 7–8 — Comunhão, Santidade e Consagração",
+      "contexto": "Levítico 7 a 8 reúne instruções sobre ofertas e apresenta a consagração de Arão e seus filhos para o sacerdócio. O texto mostra que a comunhão com Deus é santa, que a gratidão deve ser oferecida com reverência e que o serviço espiritual exige consagração.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofertas, gratidão e comunhão santa",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 38
+          },
+          "comentario": "As instruções sobre ofertas ensinam que a comunhão com Deus envolve reverência, pureza e gratidão. O que é santo deve ser tratado como santo.",
+          "aplicacao": "A gratidão verdadeira não é descuidada. Ela reconhece que estar diante de Deus é privilégio e responsabilidade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A consagração dos sacerdotes",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 13
+          },
+          "comentario": "Arão e seus filhos são lavados, vestidos e ungidos para o serviço. O sacerdócio não nasce de iniciativa pessoal, mas de chamado e separação determinados por Deus.",
+          "aplicacao": "Servir ao Senhor exige mais que disposição; exige santidade, submissão e dependência da graça de Deus."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sacrifício, sangue e dedicação ao serviço",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 14,
+            "chapter_end": 8,
+            "verse_end": 36
+          },
+          "comentario": "Os ritos de consagração envolvem sacrifício e aplicação de sangue, mostrando que o serviço diante de Deus precisa de purificação e dedicação total.",
+          "aplicacao": "Toda vocação espiritual deve ser vivida com reverência. Deus chama seu povo a servir com mãos, ouvidos e vida consagrados."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 133,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Salmos 133:1-2",
+            "nota": "Usa a imagem do óleo sobre Arão para falar da bênção da comunhão do povo de Deus."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Isaías 61:1",
+            "nota": "Apresenta a unção para uma missão dada pelo Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Chama o povo de Deus de sacerdócio real e nação santa."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Convoca os crentes a oferecerem a própria vida como culto a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha gratidão a Deus é reverente e sincera?",
+        "Tenho tratado o serviço cristão como chamado santo, e não como mera atividade?",
+        "Meus ouvidos, mãos e decisões estão consagrados ao Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 8:12 resume o tema da consagração sacerdotal: o serviço diante de Deus exige separação, unção e dedicação ao Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 7:12",
+          "nota": "Relaciona a oferta pacífica à gratidão diante de Deus."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 8:12",
+          "nota": "Marca a unção de Arão para o sacerdócio."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 35,
+          "verse_end": 35,
+          "referencia": "Levítico 8:35",
+          "nota": "Mostra a seriedade da permanência e obediência no serviço consagrado."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagração",
+          "significado": "Separação da vida para Deus e para o serviço segundo sua vontade."
+        },
+        {
+          "termo": "Sacerdócio",
+          "significado": "Serviço de mediação e adoração estabelecido por Deus para o seu povo."
+        },
+        {
+          "termo": "Gratidão",
+          "significado": "Resposta reverente à bondade e à provisão do Senhor."
+        }
+      ],
+      "oracao": "Senhor, consagra minha vida para o teu serviço. Que minha gratidão seja sincera e que minhas decisões, palavras e ações estejam separadas para ti. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 7–8 — Communion, Holiness, and Consecration",
+      "contexto": "Leviticus 7 to 8 gathers instructions about offerings and presents the consecration of Aaron and his sons for the priesthood. The text shows that communion with God is holy, that gratitude must be offered with reverence, and that spiritual service requires consecration.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Offerings, gratitude, and holy communion",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 38
+          },
+          "comentario": "The instructions about offerings teach that communion with God involves reverence, purity, and gratitude. What is holy must be treated as holy.",
+          "aplicacao": "True gratitude is not careless. It recognizes that standing before God is both privilege and responsibility."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The consecration of the priests",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 13
+          },
+          "comentario": "Aaron and his sons are washed, clothed, and anointed for service. The priesthood does not arise from personal initiative, but from God’s calling and separation.",
+          "aplicacao": "Serving the Lord requires more than willingness; it requires holiness, submission, and dependence on God’s grace."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sacrifice, blood, and dedication to service",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 14,
+            "chapter_end": 8,
+            "verse_end": 36
+          },
+          "comentario": "The rites of consecration involve sacrifice and the application of blood, showing that service before God requires cleansing and total dedication.",
+          "aplicacao": "Every spiritual calling must be lived with reverence. God calls his people to serve with consecrated hands, ears, and lives."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 133,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Psalm 133:1-2",
+            "nota": "Uses the image of oil upon Aaron to speak of the blessing of unity among God’s people."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Isaiah 61:1",
+            "nota": "Presents anointing for a mission given by the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Peter 2:9",
+            "nota": "Calls God’s people a royal priesthood and a holy nation."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romans 12:1",
+            "nota": "Calls believers to offer their own lives as worship to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Is my gratitude to God reverent and sincere?",
+        "Do I treat Christian service as a holy calling, not merely as an activity?",
+        "Are my ears, hands, and decisions consecrated to the Lord?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 8:12 summarizes the theme of priestly consecration: service before God requires separation, anointing, and dedication to the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Leviticus 7:12",
+          "nota": "Connects the peace offering with gratitude before God."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Leviticus 8:12",
+          "nota": "Marks Aaron’s anointing for the priesthood."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 35,
+          "verse_end": 35,
+          "referencia": "Leviticus 8:35",
+          "nota": "Shows the seriousness of remaining obedient in consecrated service."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consecration",
+          "significado": "The setting apart of life for God and for service according to his will."
+        },
+        {
+          "termo": "Priesthood",
+          "significado": "The service of mediation and worship established by God for his people."
+        },
+        {
+          "termo": "Gratitude",
+          "significado": "A reverent response to the Lord’s goodness and provision."
+        }
+      ],
+      "oracao": "Lord, consecrate my life for your service. May my gratitude be sincere, and may my decisions, words, and actions be set apart for you. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 7–8 — Comunión, Santidad y Consagración",
+      "contexto": "Levítico 7 al 8 reúne instrucciones sobre ofrendas y presenta la consagración de Aarón y sus hijos para el sacerdocio. El texto muestra que la comunión con Dios es santa, que la gratitud debe ser ofrecida con reverencia y que el servicio espiritual exige consagración.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Ofrendas, gratitud y comunión santa",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 38
+          },
+          "comentario": "Las instrucciones sobre ofrendas enseñan que la comunión con Dios implica reverencia, pureza y gratitud. Lo que es santo debe ser tratado como santo.",
+          "aplicacao": "La gratitud verdadera no es descuidada. Reconoce que estar delante de Dios es privilegio y responsabilidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La consagración de los sacerdotes",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 13
+          },
+          "comentario": "Aarón y sus hijos son lavados, vestidos y ungidos para el servicio. El sacerdocio no nace de iniciativa personal, sino del llamado y la separación determinados por Dios.",
+          "aplicacao": "Servir al Señor exige más que disposición; exige santidad, sumisión y dependencia de la gracia de Dios."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Sacrificio, sangre y dedicación al servicio",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 8,
+            "verse_start": 14,
+            "chapter_end": 8,
+            "verse_end": 36
+          },
+          "comentario": "Los ritos de consagración involucran sacrificio y aplicación de sangre, mostrando que el servicio delante de Dios necesita purificación y dedicación total.",
+          "aplicacao": "Toda vocación espiritual debe vivirse con reverencia. Dios llama a su pueblo a servir con manos, oídos y vida consagrados."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 133,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Salmos 133:1-2",
+            "nota": "Usa la imagen del aceite sobre Aarón para hablar de la bendición de la comunión del pueblo de Dios."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Isaías 61:1",
+            "nota": "Presenta la unción para una misión dada por el Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Pedro 2:9",
+            "nota": "Llama al pueblo de Dios sacerdocio real y nación santa."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 1,
+            "verse_end": 1,
+            "referencia": "Romanos 12:1",
+            "nota": "Convoca a los creyentes a ofrecer su propia vida como culto a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi gratitud a Dios es reverente y sincera?",
+        "¿Trato el servicio cristiano como llamado santo, y no como mera actividad?",
+        "¿Mis oídos, manos y decisiones están consagrados al Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 8:12 resume el tema de la consagración sacerdotal: el servicio delante de Dios exige separación, unción y dedicación al Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 7,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 7:12",
+          "nota": "Relaciona la ofrenda de paz con la gratitud delante de Dios."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 8:12",
+          "nota": "Marca la unción de Aarón para el sacerdocio."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 8,
+          "verse_start": 35,
+          "verse_end": 35,
+          "referencia": "Levítico 8:35",
+          "nota": "Muestra la seriedad de permanecer en obediencia en el servicio consagrado."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Consagración",
+          "significado": "Separación de la vida para Dios y para el servicio según su voluntad."
+        },
+        {
+          "termo": "Sacerdocio",
+          "significado": "Servicio de mediación y adoración establecido por Dios para su pueblo."
+        },
+        {
+          "termo": "Gratitud",
+          "significado": "Respuesta reverente a la bondad y provisión del Señor."
+        }
+      ],
+      "oracao": "Señor, consagra mi vida para tu servicio. Que mi gratitud sea sincera y que mis decisiones, palabras y acciones estén separadas para ti. Amén."
+    }
+  }
+}

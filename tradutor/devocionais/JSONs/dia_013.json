@@ -1,0 +1,512 @@
+{
+  "dia": 13,
+  "data": "2027-01-13",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 33–35",
+    "en": "Genesis 33–35",
+    "es": "Génesis 33–35"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 33,
+      "chapter_end": 35
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 35,
+    "verse_start": 3,
+    "verse_end": 3,
+    "referencia": {
+      "pt": "Gênesis 35:3",
+      "en": "Genesis 35:3",
+      "es": "Génesis 35:3"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_013.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_013.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/013/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/035.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/013/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/035.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/013/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/035.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/013/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/035.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_013.mp3",
+      "versiculo_central": "audio/en/verses/day_013.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/013/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/en/en-US-AriaNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/en/en-US-AriaNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/en/en-US-AriaNeural/035.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/013/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/en/en-US-JennyNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/en/en-US-JennyNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/en/en-US-JennyNeural/035.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/013/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/en/en-US-GuyNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/en/en-US-GuyNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/en/en-US-GuyNeural/035.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/013/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/en/en-US-BrianNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/en/en-US-BrianNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/en/en-US-BrianNeural/035.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_013.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_013.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/013/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/es/es-ES-ElviraNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/es/es-ES-ElviraNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/es/es-ES-ElviraNeural/035.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/013/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/es/es-MX-DaliaNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/es/es-MX-DaliaNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/es/es-MX-DaliaNeural/035.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/013/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/es/es-ES-AlvaroNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/es/es-ES-AlvaroNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/es/es-ES-AlvaroNeural/035.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/013/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/013/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/013/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_33": "audio/biblia/GEN/es/es-MX-JorgeNeural/033.m4a",
+          "GEN_34": "audio/biblia/GEN/es/es-MX-JorgeNeural/034.m4a",
+          "GEN_35": "audio/biblia/GEN/es/es-MX-JorgeNeural/035.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 33–35 — Reconciliação, Altar e Renovação",
+      "contexto": "Gênesis 33 a 35 acompanha o reencontro de Jacó com Esaú, uma crise dolorosa em sua família e o retorno a Betel. A caminhada de Jacó mostra reconciliação, perigo espiritual, chamado à purificação e renovação da aliança diante de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O reencontro de Jacó e Esaú",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 20
+          },
+          "comentario": "O encontro temido se transforma em reconciliação. Deus havia preparado um caminho de paz onde Jacó esperava destruição.",
+          "aplicacao": "A graça de Deus pode abrir portas de reconciliação onde havia medo e culpa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A dor e o perigo em Siquém",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 31
+          },
+          "comentario": "A violência sofrida por Diná e a vingança de seus irmãos revelam um ambiente de dor, pecado e decisões descontroladas.",
+          "aplicacao": "A justiça humana sem submissão a Deus pode ampliar feridas em vez de curá-las."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O retorno a Betel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 29
+          },
+          "comentario": "Deus chama Jacó de volta ao lugar do encontro. A família abandona ídolos, e a promessa é reafirmada.",
+          "aplicacao": "Renovar a caminhada com Deus exige abandonar aquilo que disputa o lugar do Senhor no coração."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Josué 24:14-15",
+            "nota": "Chama o povo a abandonar falsos deuses e servir ao Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romanos 12:18-21",
+            "nota": "Ensina a buscar a paz e não se deixar vencer pelo mal."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Estou aberto a buscar reconciliação quando Deus abre esse caminho?",
+        "Tenho entregado a Deus minhas dores antes de reagir com vingança?",
+        "Há ídolos ou hábitos que preciso abandonar para voltar ao centro da vontade de Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 35:3 resume o retorno de Jacó a Betel e sua consciência de que Deus o havia sustentado em sua aflição."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 33,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Gênesis 33:4",
+          "nota": "Mostra o reencontro inesperadamente reconciliador entre Esaú e Jacó."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Gênesis 35:2",
+          "nota": "Chama a casa de Jacó à purificação."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Gênesis 35:3",
+          "nota": "Recorda Deus como aquele que respondeu no dia da angústia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Reconciliação",
+          "significado": "Restauração de relacionamento marcada por graça e paz."
+        },
+        {
+          "termo": "Purificação",
+          "significado": "Chamado a abandonar ídolos e voltar-se ao Senhor."
+        },
+        {
+          "termo": "Altar",
+          "significado": "Lugar de memória, adoração e renovação diante de Deus."
+        }
+      ],
+      "oracao": "Senhor, conduz-me à reconciliação, guarda-me de reações sem sabedoria e purifica meu coração. Leva-me de volta ao centro da tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 33–35 — Reconciliation, Altar, and Renewal",
+      "contexto": "Genesis 33 to 35 follows Jacob's reunion with Esau, a painful crisis in his family, and the return to Bethel. Jacob's journey shows reconciliation, spiritual danger, a call to purification, and covenant renewal before God.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jacob and Esau meet again",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 20
+          },
+          "comentario": "The feared encounter becomes reconciliation. God had prepared a path of peace where Jacob expected destruction.",
+          "aplicacao": "God's grace can open doors of reconciliation where there was fear and guilt."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Pain and danger in Shechem",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 31
+          },
+          "comentario": "The violence suffered by Dinah and the revenge of her brothers reveal an environment of pain, sin, and uncontrolled decisions.",
+          "aplicacao": "Human justice without submission to God can deepen wounds instead of healing them."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The return to Bethel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 29
+          },
+          "comentario": "God calls Jacob back to the place of encounter. The family leaves idols behind, and the promise is reaffirmed.",
+          "aplicacao": "Renewing the walk with God requires leaving behind whatever competes for the Lord's place in the heart."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Joshua 24:14-15",
+            "nota": "Calls the people to abandon false gods and serve the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romans 12:18-21",
+            "nota": "Teaches believers to seek peace and not be overcome by evil."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I open to seeking reconciliation when God opens that path?",
+        "Have I entrusted my pain to God before reacting with revenge?",
+        "Are there idols or habits I need to leave in order to return to the center of God's will?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 35:3 summarizes Jacob's return to Bethel and his awareness that God had sustained him in his distress."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 33,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Genesis 33:4",
+          "nota": "Shows the unexpectedly reconciling reunion between Esau and Jacob."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Genesis 35:2",
+          "nota": "Calls Jacob's household to purification."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Genesis 35:3",
+          "nota": "Remembers God as the one who answered in the day of distress."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Reconciliation",
+          "significado": "Restoration of relationship marked by grace and peace."
+        },
+        {
+          "termo": "Purification",
+          "significado": "A call to abandon idols and turn to the Lord."
+        },
+        {
+          "termo": "Altar",
+          "significado": "A place of memory, worship, and renewal before God."
+        }
+      ],
+      "oracao": "Lord, lead me toward reconciliation, guard me from unwise reactions, and purify my heart. Bring me back to the center of your will. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 33–35 — Reconciliación, Altar y Renovación",
+      "contexto": "Génesis 33 al 35 acompaña el reencuentro de Jacob con Esaú, una crisis dolorosa en su familia y el regreso a Betel. El camino de Jacob muestra reconciliación, peligro espiritual, llamado a la purificación y renovación de la alianza delante de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El reencuentro de Jacob y Esaú",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 20
+          },
+          "comentario": "El encuentro temido se transforma en reconciliación. Dios había preparado un camino de paz donde Jacob esperaba destrucción.",
+          "aplicacao": "La gracia de Dios puede abrir puertas de reconciliación donde había miedo y culpa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El dolor y el peligro en Siquem",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 31
+          },
+          "comentario": "La violencia sufrida por Dina y la venganza de sus hermanos revelan un ambiente de dolor, pecado y decisiones descontroladas.",
+          "aplicacao": "La justicia humana sin sumisión a Dios puede ampliar heridas en lugar de sanarlas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El regreso a Betel",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 29
+          },
+          "comentario": "Dios llama a Jacob de vuelta al lugar del encuentro. La familia abandona ídolos, y la promesa es reafirmada.",
+          "aplicacao": "Renovar el caminar con Dios exige abandonar aquello que disputa el lugar del Señor en el corazón."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Josué 24:14-15",
+            "nota": "Llama al pueblo a abandonar falsos dioses y servir al Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Romanos 12:18-21",
+            "nota": "Enseña a buscar la paz y no dejarse vencer por el mal."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Estoy abierto a buscar reconciliación cuando Dios abre ese camino?",
+        "¿He entregado a Dios mis dolores antes de reaccionar con venganza?",
+        "¿Hay ídolos o hábitos que debo abandonar para volver al centro de la voluntad de Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 35:3 resume el regreso de Jacob a Betel y su conciencia de que Dios lo había sostenido en su aflicción."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 33,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Génesis 33:4",
+          "nota": "Muestra el reencuentro inesperadamente reconciliador entre Esaú y Jacob."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Génesis 35:2",
+          "nota": "Llama a la casa de Jacob a la purificación."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 35,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Génesis 35:3",
+          "nota": "Recuerda a Dios como aquel que respondió en el día de angustia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Reconciliación",
+          "significado": "Restauración de relación marcada por gracia y paz."
+        },
+        {
+          "termo": "Purificación",
+          "significado": "Llamado a abandonar ídolos y volverse al Señor."
+        },
+        {
+          "termo": "Altar",
+          "significado": "Lugar de memoria, adoración y renovación delante de Dios."
+        }
+      ],
+      "oracao": "Señor, condúceme a la reconciliación, guárdame de reacciones sin sabiduría y purifica mi corazón. Llévame de regreso al centro de tu voluntad. Amén."
+    }
+  }
+}

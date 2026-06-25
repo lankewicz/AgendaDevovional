@@ -1,0 +1,440 @@
+{
+  "dia": 101,
+  "data": "2027-04-11",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 20–22",
+    "en": "2 Samuel 20–22",
+    "es": "2 Samuel 20–22"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 20,
+      "chapter_end": 22
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 22,
+    "verse_start": 2,
+    "verse_end": 3,
+    "referencia": {
+      "pt": "2 Samuel 22:2-3",
+      "en": "2 Samuel 22:2-3",
+      "es": "2 Samuel 22:2-3"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_101.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_101.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_101.mp3",
+      "versiculo_central": "audio/en/verses/day_101.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_101.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_101.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 20–22 — Conflitos Finais e Cântico de Livramento",
+      "contexto": "2 Samuel 20 a 22 reúne novos conflitos no reino, episódios de justiça e memória, e um cântico de louvor de Davi. A leitura não apresenta um reinado sem problemas, mas testemunha que o Senhor foi refúgio, libertador e rocha para seu servo em meio a muitos perigos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Nova rebelião e preservação do reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "A revolta de Seba mostra que a instabilidade ainda não terminou. Deus preserva o reino, mas o caminho da liderança continua exigindo discernimento e justiça.",
+          "aplicacao": "A fidelidade não elimina todos os conflitos, mas nos chama a enfrentá-los com sabedoria, responsabilidade e temor de Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justiça, memória e livramentos",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 22
+          },
+          "comentario": "O capítulo trata de alianças quebradas, reparação e batalhas contra inimigos poderosos. Deus leva a sério justiça, memória e proteção do seu povo.",
+          "aplicacao": "A vida diante de Deus precisa considerar responsabilidades antigas, compromissos assumidos e cuidado com os vulneráveis."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O cântico do Deus que livra",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 51
+          },
+          "comentario": "Davi louva o Senhor como rocha, fortaleza, libertador e escudo. Sua história é interpretada à luz da fidelidade de Deus, não apenas dos seus próprios feitos.",
+          "aplicacao": "A memória espiritual deve transformar livramentos em adoração e confiança renovada no Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 50,
+            "referencia": "Salmos 18",
+            "nota": "Paralelo poético ao cântico de Davi em 2 Samuel 22."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 32,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Deuteronômio 32:4",
+            "nota": "Também apresenta Deus como Rocha, perfeito em seus caminhos."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 17,
+            "referencia": "Efésios 6:10-17",
+            "nota": "Mostra que a força do povo de Deus vem do Senhor."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "2 Timóteo 4:17-18",
+            "nota": "Paulo também testemunha o livramento do Senhor em meio a perigos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho transformado livramentos em gratidão e adoração?",
+        "Reconheço Deus como refúgio nas crises ou apenas depois que elas passam?",
+        "Tenho memória espiritual da fidelidade do Senhor em minha história?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 22:2-3 resume o coração do cântico de Davi: depois de tantos conflitos, ele reconhece o Senhor como rocha, fortaleza e libertador."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "2 Samuel 22:2-3",
+          "nota": "Declara Deus como rocha, fortaleza e libertador."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 22:31",
+          "nota": "Afirma a perfeição do caminho de Deus e a fidelidade da sua palavra."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 47,
+          "verse_end": 47,
+          "referencia": "2 Samuel 22:47",
+          "nota": "Transforma o livramento em louvor ao Deus vivo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rocha",
+          "significado": "Imagem de estabilidade, segurança e proteção encontradas em Deus."
+        },
+        {
+          "termo": "Livramento",
+          "significado": "Ação de Deus que preserva, sustenta e salva em meio ao perigo."
+        },
+        {
+          "termo": "Memória espiritual",
+          "significado": "Recordação da fidelidade de Deus que fortalece a fé e conduz à adoração."
+        }
+      ],
+      "oracao": "Senhor, tu és minha rocha e meu libertador. Ajuda-me a lembrar da tua fidelidade, confiar em ti nas crises e transformar tua graça em adoração. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 20–22 — Final Conflicts and a Song of Deliverance",
+      "contexto": "2 Samuel 20 to 22 gathers new conflicts in the kingdom, episodes of justice and memory, and a song of praise from David. The reading does not present a reign without problems, but it testifies that the Lord was refuge, deliverer, and rock for his servant amid many dangers.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "New rebellion and preservation of the kingdom",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "Sheba’s revolt shows that instability has not ended. God preserves the kingdom, but the path of leadership still requires discernment and justice.",
+          "aplicacao": "Faithfulness does not remove every conflict, but calls us to face them with wisdom, responsibility, and the fear of God."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justice, memory, and deliverances",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 22
+          },
+          "comentario": "The chapter deals with broken covenants, reparation, and battles against powerful enemies. God takes justice, memory, and the protection of his people seriously.",
+          "aplicacao": "Life before God must consider past responsibilities, commitments made, and care for the vulnerable."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The song of the God who delivers",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 51
+          },
+          "comentario": "David praises the Lord as rock, fortress, deliverer, and shield. His story is interpreted in light of God’s faithfulness, not merely his own achievements.",
+          "aplicacao": "Spiritual memory should turn deliverances into worship and renewed trust in the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 50,
+            "referencia": "Psalm 18",
+            "nota": "A poetic parallel to David’s song in 2 Samuel 22."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 32,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Deuteronomy 32:4",
+            "nota": "Also presents God as the Rock, perfect in his ways."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 17,
+            "referencia": "Ephesians 6:10-17",
+            "nota": "Shows that the strength of God’s people comes from the Lord."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "2 Timothy 4:17-18",
+            "nota": "Paul also testifies to the Lord’s deliverance amid dangers."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I turned deliverances into gratitude and worship?",
+        "Do I recognize God as refuge in crises or only after they pass?",
+        "Do I keep spiritual memory of the Lord’s faithfulness in my story?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 22:2-3 summarizes the heart of David’s song: after many conflicts, he recognizes the Lord as rock, fortress, and deliverer."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "2 Samuel 22:2-3",
+          "nota": "Declares God as rock, fortress, and deliverer."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 22:31",
+          "nota": "Affirms the perfection of God’s way and the faithfulness of his word."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 47,
+          "verse_end": 47,
+          "referencia": "2 Samuel 22:47",
+          "nota": "Turns deliverance into praise to the living God."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Rock",
+          "significado": "An image of stability, security, and protection found in God."
+        },
+        {
+          "termo": "Deliverance",
+          "significado": "God’s action to preserve, sustain, and save amid danger."
+        },
+        {
+          "termo": "Spiritual memory",
+          "significado": "Remembering God’s faithfulness in a way that strengthens faith and leads to worship."
+        }
+      ],
+      "oracao": "Lord, you are my rock and my deliverer. Help me remember your faithfulness, trust you in crises, and turn your grace into worship. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 20–22 — Conflictos Finales y Cántico de Liberación",
+      "contexto": "2 Samuel 20 al 22 reúne nuevos conflictos en el reino, episodios de justicia y memoria, y un cántico de alabanza de David. La lectura no presenta un reinado sin problemas, pero testifica que el Señor fue refugio, libertador y roca para su siervo en medio de muchos peligros.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Nueva rebelión y preservación del reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 26
+          },
+          "comentario": "La revuelta de Seba muestra que la inestabilidad aún no terminó. Dios preserva el reino, pero el camino del liderazgo sigue exigiendo discernimiento y justicia.",
+          "aplicacao": "La fidelidad no elimina todos los conflictos, pero nos llama a enfrentarlos con sabiduría, responsabilidad y temor de Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Justicia, memoria y liberaciones",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 22
+          },
+          "comentario": "El capítulo trata de alianzas quebradas, reparación y batallas contra enemigos poderosos. Dios toma en serio la justicia, la memoria y la protección de su pueblo.",
+          "aplicacao": "La vida delante de Dios debe considerar responsabilidades antiguas, compromisos asumidos y cuidado de los vulnerables."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El cántico del Dios que libra",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 51
+          },
+          "comentario": "David alaba al Señor como roca, fortaleza, libertador y escudo. Su historia es interpretada a la luz de la fidelidad de Dios, no solo de sus propios hechos.",
+          "aplicacao": "La memoria espiritual debe transformar las liberaciones en adoración y confianza renovada en el Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 18,
+            "verse_start": 1,
+            "verse_end": 50,
+            "referencia": "Salmos 18",
+            "nota": "Paralelo poético al cántico de David en 2 Samuel 22."
+          },
+          {
+            "book_id": "DEU",
+            "chapter": 32,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Deuteronomio 32:4",
+            "nota": "También presenta a Dios como la Roca, perfecto en sus caminos."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "EPH",
+            "chapter": 6,
+            "verse_start": 10,
+            "verse_end": 17,
+            "referencia": "Efesios 6:10-17",
+            "nota": "Muestra que la fuerza del pueblo de Dios viene del Señor."
+          },
+          {
+            "book_id": "2TI",
+            "chapter": 4,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "2 Timoteo 4:17-18",
+            "nota": "Pablo también testifica del libramiento del Señor en medio de peligros."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He transformado las liberaciones en gratitud y adoración?",
+        "¿Reconozco a Dios como refugio en las crisis o solo después de que pasan?",
+        "¿Conservo memoria espiritual de la fidelidad del Señor en mi historia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 22:2-3 resume el corazón del cántico de David: después de tantos conflictos, reconoce al Señor como roca, fortaleza y libertador."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 3,
+          "referencia": "2 Samuel 22:2-3",
+          "nota": "Declara a Dios como roca, fortaleza y libertador."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 22:31",
+          "nota": "Afirma la perfección del camino de Dios y la fidelidad de su palabra."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 22,
+          "verse_start": 47,
+          "verse_end": 47,
+          "referencia": "2 Samuel 22:47",
+          "nota": "Transforma la liberación en alabanza al Dios vivo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Roca",
+          "significado": "Imagen de estabilidad, seguridad y protección encontradas en Dios."
+        },
+        {
+          "termo": "Liberación",
+          "significado": "Acción de Dios que preserva, sostiene y salva en medio del peligro."
+        },
+        {
+          "termo": "Memoria espiritual",
+          "significado": "Recuerdo de la fidelidad de Dios que fortalece la fe y conduce a la adoración."
+        }
+      ],
+      "oracao": "Señor, tú eres mi roca y mi libertador. Ayúdame a recordar tu fidelidad, confiar en ti en las crisis y transformar tu gracia en adoración. Amén."
+    }
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "dia": 96,
+  "data": "2027-04-06",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 4–7",
+    "en": "2 Samuel 4–7",
+    "es": "2 Samuel 4–7"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 4,
+      "chapter_end": 7
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 7,
+    "verse_start": 16,
+    "verse_end": 16,
+    "referencia": {
+      "pt": "2 Samuel 7:16",
+      "en": "2 Samuel 7:16",
+      "es": "2 Samuel 7:16"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_096.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_096.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_096.mp3",
+      "versiculo_central": "audio/en/verses/day_096.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_096.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_096.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 4–7 — Justiça, Adoração e Aliança",
+      "contexto": "2 Samuel 4 a 7 mostra a consolidação do reino de Davi. O texto passa pela morte de Isbosete, pela conquista de Jerusalém, pela chegada da arca e pela promessa de Deus à casa de Davi. O reino não é firmado apenas por estratégia humana, mas pela fidelidade do Senhor à sua aliança.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Davi rejeita a violência oportunista",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 12
+          },
+          "comentario": "A morte de Isbosete poderia parecer vantagem política para Davi, mas ele não aceita um reino construído por traição e sangue inocente.",
+          "aplicacao": "Fidelidade a Deus exige recusar atalhos injustos, mesmo quando parecem favorecer nossos planos."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jerusalém se torna centro do reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 23
+          },
+          "comentario": "Davi é reconhecido como rei, conquista Jerusalém e conduz a arca para a cidade. O reino ganha centro político e espiritual, mas a presença de Deus deve ser tratada com reverência.",
+          "aplicacao": "Toda liderança e todo serviço devem colocar a presença de Deus no centro, com alegria e temor santo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A promessa à casa de Davi",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 29
+          },
+          "comentario": "Davi deseja construir uma casa para Deus, mas o Senhor promete edificar uma casa para Davi. A aliança davídica aponta para um reino estabelecido pela graça e sustentado pela promessa divina.",
+          "aplicacao": "Antes de oferecermos grandes obras a Deus, precisamos reconhecer que tudo o que permanece vem da iniciativa e da fidelidade dele."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Salmos 89:3-4",
+            "nota": "Recorda a aliança de Deus com Davi e sua descendência."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 9,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Isaías 9:6-7",
+            "nota": "Anuncia o reino justo e eterno ligado ao descendente prometido."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Lucas 1:32-33",
+            "nota": "Aplica a promessa davídica a Jesus, cujo reino não terá fim."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Atos 13:22-23",
+            "nota": "Liga Davi à vinda de Cristo, o Salvador prometido."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho recusado atalhos injustos mesmo quando parecem vantajosos?",
+        "A presença de Deus ocupa o centro da minha vida e das minhas decisões?",
+        "Confio mais no que posso construir para Deus ou no que Deus promete realizar pela sua graça?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 7:16 resume a aliança davídica e aponta para a promessa de um reino estabelecido por Deus, com cumprimento pleno em Cristo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 5,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "2 Samuel 5:12",
+          "nota": "Mostra que Davi reconhece a mão de Deus na confirmação do reino."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 6,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 6:14",
+          "nota": "Expressa a alegria de Davi diante da presença do Senhor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 7,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "2 Samuel 7:16",
+          "nota": "Resume a promessa de estabilidade à casa e ao reino de Davi."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança davídica",
+          "significado": "Promessa de Deus de estabelecer a casa e o reino de Davi, apontando para o Messias."
+        },
+        {
+          "termo": "Presença de Deus",
+          "significado": "Realidade central da comunhão, adoração e direção do povo do Senhor."
+        },
+        {
+          "termo": "Reino",
+          "significado": "Governo estabelecido por Deus para revelar justiça, fidelidade e propósito."
+        }
+      ],
+      "oracao": "Senhor, livra-me dos atalhos injustos e coloca a tua presença no centro da minha vida. Ensina-me a confiar nas tuas promessas e a servir com reverência, alegria e fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 4–7 — Justice, Worship, and Covenant",
+      "contexto": "2 Samuel 4 to 7 shows the consolidation of David's kingdom. The text moves through Ish-bosheth's death, the conquest of Jerusalem, the arrival of the ark, and God's promise to David's house. The kingdom is not established merely by human strategy, but by the Lord's covenant faithfulness.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David rejects opportunistic violence",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 12
+          },
+          "comentario": "Ish-bosheth's death could have seemed like a political advantage for David, but he does not accept a kingdom built through betrayal and innocent blood.",
+          "aplicacao": "Faithfulness to God requires rejecting unjust shortcuts, even when they seem to favor our plans."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jerusalem becomes the center of the kingdom",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 23
+          },
+          "comentario": "David is recognized as king, conquers Jerusalem, and brings the ark into the city. The kingdom gains a political and spiritual center, but God's presence must be treated with reverence.",
+          "aplicacao": "All leadership and service should place God's presence at the center, with joy and holy fear."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The promise to David's house",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 29
+          },
+          "comentario": "David wants to build a house for God, but the Lord promises to build a house for David. The Davidic covenant points to a kingdom established by grace and sustained by divine promise.",
+          "aplicacao": "Before offering great works to God, we must recognize that everything that endures comes from his initiative and faithfulness."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Psalm 89:3-4",
+            "nota": "Recalls God's covenant with David and his offspring."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 9,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Isaiah 9:6-7",
+            "nota": "Announces the just and eternal kingdom connected to the promised descendant."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Luke 1:32-33",
+            "nota": "Applies the Davidic promise to Jesus, whose kingdom will have no end."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Acts 13:22-23",
+            "nota": "Connects David to the coming of Christ, the promised Savior."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I rejected unjust shortcuts even when they seem advantageous?",
+        "Does God's presence occupy the center of my life and decisions?",
+        "Do I trust more in what I can build for God or in what God promises to do by his grace?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 7:16 summarizes the Davidic covenant and points to the promise of a kingdom established by God, fully fulfilled in Christ."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 5,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "2 Samuel 5:12",
+          "nota": "Shows that David recognizes God's hand in confirming the kingdom."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 6,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 6:14",
+          "nota": "Expresses David's joy before the presence of the Lord."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 7,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "2 Samuel 7:16",
+          "nota": "Summarizes the promise of stability to David's house and kingdom."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Davidic covenant",
+          "significado": "God's promise to establish David's house and kingdom, pointing to the Messiah."
+        },
+        {
+          "termo": "Presence of God",
+          "significado": "The central reality of communion, worship, and direction for the Lord's people."
+        },
+        {
+          "termo": "Kingdom",
+          "significado": "Rule established by God to reveal justice, faithfulness, and purpose."
+        }
+      ],
+      "oracao": "Lord, keep me from unjust shortcuts and place your presence at the center of my life. Teach me to trust your promises and to serve with reverence, joy, and faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 4–7 — Justicia, Adoración y Alianza",
+      "contexto": "2 Samuel 4 al 7 muestra la consolidación del reino de David. El texto pasa por la muerte de Is-boset, la conquista de Jerusalén, la llegada del arca y la promesa de Dios a la casa de David. El reino no se afirma solo por estrategia humana, sino por la fidelidad del Señor a su alianza.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David rechaza la violencia oportunista",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 12
+          },
+          "comentario": "La muerte de Is-boset podría parecer una ventaja política para David, pero él no acepta un reino construido por traición y sangre inocente.",
+          "aplicacao": "La fidelidad a Dios exige rechazar atajos injustos, aun cuando parezcan favorecer nuestros planes."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jerusalén se convierte en el centro del reino",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 23
+          },
+          "comentario": "David es reconocido como rey, conquista Jerusalén y lleva el arca a la ciudad. El reino gana un centro político y espiritual, pero la presencia de Dios debe ser tratada con reverencia.",
+          "aplicacao": "Todo liderazgo y servicio debe poner la presencia de Dios en el centro, con alegría y santo temor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La promesa a la casa de David",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 29
+          },
+          "comentario": "David desea construir una casa para Dios, pero el Señor promete edificar una casa para David. La alianza davídica apunta a un reino establecido por gracia y sostenido por la promesa divina.",
+          "aplicacao": "Antes de ofrecer grandes obras a Dios, necesitamos reconocer que todo lo que permanece viene de su iniciativa y fidelidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Salmos 89:3-4",
+            "nota": "Recuerda la alianza de Dios con David y su descendencia."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 9,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "Isaías 9:6-7",
+            "nota": "Anuncia el reino justo y eterno ligado al descendiente prometido."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Lucas 1:32-33",
+            "nota": "Aplica la promesa davídica a Jesús, cuyo reino no tendrá fin."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Hechos 13:22-23",
+            "nota": "Conecta a David con la venida de Cristo, el Salvador prometido."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He rechazado atajos injustos aun cuando parecen ventajosos?",
+        "¿La presencia de Dios ocupa el centro de mi vida y mis decisiones?",
+        "¿Confío más en lo que puedo construir para Dios o en lo que Dios promete realizar por su gracia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 7:16 resume la alianza davídica y apunta a la promesa de un reino establecido por Dios, cumplido plenamente en Cristo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 5,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "2 Samuel 5:12",
+          "nota": "Muestra que David reconoce la mano de Dios en la confirmación del reino."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 6,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 6:14",
+          "nota": "Expresa la alegría de David delante de la presencia del Señor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 7,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "2 Samuel 7:16",
+          "nota": "Resume la promesa de estabilidad a la casa y al reino de David."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza davídica",
+          "significado": "Promesa de Dios de establecer la casa y el reino de David, apuntando al Mesías."
+        },
+        {
+          "termo": "Presencia de Dios",
+          "significado": "Realidad central de la comunión, adoración y dirección del pueblo del Señor."
+        },
+        {
+          "termo": "Reino",
+          "significado": "Gobierno establecido por Dios para revelar justicia, fidelidad y propósito."
+        }
+      ],
+      "oracao": "Señor, líbrame de los atajos injustos y pon tu presencia en el centro de mi vida. Enséñame a confiar en tus promesas y a servir con reverencia, alegría y fidelidad. Amén."
+    }
+  }
+}

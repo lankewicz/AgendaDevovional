@@ -1,0 +1,500 @@
+{
+  "dia": 9,
+  "data": "2027-01-09",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 25–26",
+    "en": "Genesis 25–26",
+    "es": "Génesis 25–26"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 25,
+      "chapter_end": 26
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 26,
+    "verse_start": 24,
+    "verse_end": 24,
+    "referencia": {
+      "pt": "Gênesis 26:24",
+      "en": "Genesis 26:24",
+      "es": "Génesis 26:24"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_009.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_009.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/009/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/026.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/009/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/026.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/009/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/026.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/009/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/026.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_009.mp3",
+      "versiculo_central": "audio/en/verses/day_009.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/009/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/en/en-US-AriaNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/en/en-US-AriaNeural/026.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/009/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/en/en-US-JennyNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/en/en-US-JennyNeural/026.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/009/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/en/en-US-GuyNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/en/en-US-GuyNeural/026.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/009/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/en/en-US-BrianNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/en/en-US-BrianNeural/026.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_009.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_009.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/009/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/es/es-ES-ElviraNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/es/es-ES-ElviraNeural/026.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/009/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/es/es-MX-DaliaNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/es/es-MX-DaliaNeural/026.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/009/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/es/es-ES-AlvaroNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/es/es-ES-AlvaroNeural/026.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/009/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/009/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/009/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_25": "audio/biblia/GEN/es/es-MX-JorgeNeural/025.m4a",
+          "GEN_26": "audio/biblia/GEN/es/es-MX-JorgeNeural/026.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 25–26 — A Promessa Continua em Meio a Conflitos",
+      "contexto": "Gênesis 25 e 26 mostra a continuidade da promessa depois de Abraão. Isaque permanece como herdeiro da aliança, e Jacó e Esaú já revelam tensões que marcarão a história da família. Mesmo em meio a fome, medo e disputas, Deus reafirma sua presença e sua fidelidade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A morte de Abraão e a nova geração",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "O texto encerra a trajetória de Abraão e apresenta a transição para seus descendentes. A promessa não termina com a morte do patriarca.",
+          "aplicacao": "A obra de Deus não depende de uma única geração. Ele permanece fiel e conduz sua história adiante."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O nascimento de Esaú e Jacó",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 19,
+            "chapter_end": 25,
+            "verse_end": 34
+          },
+          "comentario": "A família de Isaque carrega a promessa, mas também conflitos, escolhas precipitadas e tensões espirituais.",
+          "aplicacao": "As decisões diárias revelam o valor que damos às coisas de Deus e às responsabilidades recebidas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Deus sustenta Isaque em Gerar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 35
+          },
+          "comentario": "Isaque enfrenta fome, medo e oposição, mas Deus confirma a aliança feita com Abraão e o acompanha em sua jornada.",
+          "aplicacao": "A fidelidade de Deus sustenta o seu povo mesmo quando há insegurança, resistência e conflito."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Salmos 105:8-11",
+            "nota": "Recorda a aliança de Deus com Abraão, Isaque e Jacó."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 10,
+            "verse_end": 13,
+            "referencia": "Romanos 9:10-13",
+            "nota": "Mostra que a história de Jacó e Esaú revela a soberania de Deus em sua eleição."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Valorizo as promessas de Deus acima de vantagens imediatas?",
+        "Confio na fidelidade do Senhor mesmo em ambientes de tensão?",
+        "Minhas escolhas revelam reverência pelas coisas espirituais?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 26:24 resume a fidelidade de Deus a Isaque, confirmando que a promessa feita a Abraão continuava ativa."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Gênesis 25:23",
+          "nota": "Anuncia a tensão entre os descendentes de Isaque."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Gênesis 25:34",
+          "nota": "Mostra Esaú desprezando o direito de primogenitura."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 26,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Gênesis 26:24",
+          "nota": "Reafirma a presença e a promessa de Deus a Isaque."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso soberano de Deus com sua promessa."
+        },
+        {
+          "termo": "Primogenitura",
+          "significado": "Direito ligado à herança e à responsabilidade familiar."
+        },
+        {
+          "termo": "Fidelidade",
+          "significado": "Constância de Deus em cumprir o que prometeu."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a valorizar tuas promessas e a confiar na tua fidelidade. Guia minhas escolhas para que reflitam reverência e obediência diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 25–26 — The Promise Continues Amid Conflict",
+      "contexto": "Genesis 25 and 26 shows the continuation of the promise after Abraham. Isaac remains the heir of the covenant, and Jacob and Esau already reveal tensions that will mark the family story. Even amid famine, fear, and disputes, God reaffirms his presence and faithfulness.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The death of Abraham and the new generation",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "The text closes Abraham's journey and presents the transition to his descendants. The promise does not end with the patriarch's death.",
+          "aplicacao": "God's work does not depend on one generation alone. He remains faithful and carries his story forward."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The birth of Esau and Jacob",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 19,
+            "chapter_end": 25,
+            "verse_end": 34
+          },
+          "comentario": "Isaac's family carries the promise, but also conflict, rushed choices, and spiritual tension.",
+          "aplicacao": "Daily decisions reveal the value we give to God's things and to the responsibilities entrusted to us."
+        },
+        {
+          "ordem": 3,
+          "titulo": "God sustains Isaac in Gerar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 35
+          },
+          "comentario": "Isaac faces famine, fear, and opposition, but God confirms the covenant made with Abraham and walks with him.",
+          "aplicacao": "God's faithfulness sustains his people even when there is insecurity, resistance, and conflict."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Psalm 105:8-11",
+            "nota": "Recalls God's covenant with Abraham, Isaac, and Jacob."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 10,
+            "verse_end": 13,
+            "referencia": "Romans 9:10-13",
+            "nota": "Shows that the story of Jacob and Esau reveals God's sovereignty in election."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I value God's promises above immediate advantages?",
+        "Do I trust the Lord's faithfulness in tense environments?",
+        "Do my choices reveal reverence for spiritual things?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 26:24 summarizes God's faithfulness to Isaac, confirming that the promise given to Abraham remained active."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Genesis 25:23",
+          "nota": "Announces the tension between Isaac's descendants."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Genesis 25:34",
+          "nota": "Shows Esau despising the birthright."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 26,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Genesis 26:24",
+          "nota": "Reaffirms God's presence and promise to Isaac."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "God's sovereign commitment to his promise."
+        },
+        {
+          "termo": "Birthright",
+          "significado": "A right connected to inheritance and family responsibility."
+        },
+        {
+          "termo": "Faithfulness",
+          "significado": "God's constancy in fulfilling what he promised."
+        }
+      ],
+      "oracao": "Lord, help me value your promises and trust your faithfulness. Guide my choices so they reflect reverence and obedience before you. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 25–26 — La Promesa Continúa en Medio de Conflictos",
+      "contexto": "Génesis 25 y 26 muestra la continuidad de la promesa después de Abraham. Isaac permanece como heredero de la alianza, y Jacob y Esaú ya revelan tensiones que marcarán la historia familiar. Aun en medio del hambre, el temor y las disputas, Dios reafirma su presencia y fidelidad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La muerte de Abraham y la nueva generación",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "El texto cierra la trayectoria de Abraham y presenta la transición hacia sus descendientes. La promesa no termina con la muerte del patriarca.",
+          "aplicacao": "La obra de Dios no depende de una sola generación. Él permanece fiel y conduce su historia hacia adelante."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El nacimiento de Esaú y Jacob",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 25,
+            "verse_start": 19,
+            "chapter_end": 25,
+            "verse_end": 34
+          },
+          "comentario": "La familia de Isaac lleva la promesa, pero también conflictos, decisiones precipitadas y tensiones espirituales.",
+          "aplicacao": "Las decisiones diarias revelan el valor que damos a las cosas de Dios y a las responsabilidades recibidas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Dios sostiene a Isaac en Gerar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 35
+          },
+          "comentario": "Isaac enfrenta hambre, miedo y oposición, pero Dios confirma la alianza hecha con Abraham y lo acompaña en su camino.",
+          "aplicacao": "La fidelidad de Dios sostiene a su pueblo incluso cuando hay inseguridad, resistencia y conflicto."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Salmos 105:8-11",
+            "nota": "Recuerda la alianza de Dios con Abraham, Isaac y Jacob."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 10,
+            "verse_end": 13,
+            "referencia": "Romanos 9:10-13",
+            "nota": "Muestra que la historia de Jacob y Esaú revela la soberanía de Dios en su elección."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Valoro las promesas de Dios por encima de ventajas inmediatas?",
+        "¿Confío en la fidelidad del Señor aun en ambientes de tensión?",
+        "¿Mis decisiones revelan reverencia por las cosas espirituales?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 26:24 resume la fidelidad de Dios hacia Isaac, confirmando que la promesa dada a Abraham seguía activa."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Génesis 25:23",
+          "nota": "Anuncia la tensión entre los descendientes de Isaac."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 25,
+          "verse_start": 34,
+          "verse_end": 34,
+          "referencia": "Génesis 25:34",
+          "nota": "Muestra a Esaú despreciando la primogenitura."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 26,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Génesis 26:24",
+          "nota": "Reafirma la presencia y la promesa de Dios a Isaac."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso soberano de Dios con su promesa."
+        },
+        {
+          "termo": "Primogenitura",
+          "significado": "Derecho ligado a la herencia y la responsabilidad familiar."
+        },
+        {
+          "termo": "Fidelidad",
+          "significado": "Constancia de Dios en cumplir lo que prometió."
+        }
+      ],
+      "oracao": "Señor, ayúdame a valorar tus promesas y a confiar en tu fidelidad. Guía mis decisiones para que reflejen reverencia y obediencia delante de ti. Amén."
+    }
+  }
+}

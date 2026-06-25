@@ -1,0 +1,440 @@
+{
+  "dia": 78,
+  "data": "2027-03-19",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Juízes 2–4",
+    "en": "Judges 2–4",
+    "es": "Jueces 2–4"
+  },
+  "leitura": [
+    {
+      "book_id": "JDG",
+      "chapter_start": 2,
+      "chapter_end": 4
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JDG",
+    "chapter": 2,
+    "verse_start": 16,
+    "verse_end": 16,
+    "referencia": {
+      "pt": "Juízes 2:16",
+      "en": "Judges 2:16",
+      "es": "Jueces 2:16"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_078.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_078.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_078.mp3",
+      "versiculo_central": "audio/en/verses/day_078.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_078.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_078.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Juízes 2–4 — Infidelidade, Disciplina e Livramento",
+      "contexto": "Juízes 2 a 4 apresenta o ciclo espiritual que marca o livro: o povo se afasta do Senhor, sofre as consequências da idolatria, clama em aflição e recebe livramento por meio de líderes levantados por Deus. A leitura mostra a gravidade da infidelidade e a persistência da misericórdia divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Uma geração que não conheceu o Senhor",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 10
+          },
+          "comentario": "Após a geração de Josué, surge um povo que não conhece pessoalmente as obras do Senhor. A memória da fé não foi preservada com profundidade.",
+          "aplicacao": "Cada geração precisa conhecer Deus de modo real, não apenas herdar informações religiosas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O ciclo da infidelidade e dos juízes",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 11,
+            "chapter_end": 3,
+            "verse_end": 31
+          },
+          "comentario": "Israel abandona o Senhor, sofre opressão e é socorrido por juízes levantados por Deus. O padrão revela tanto a seriedade do pecado quanto a compaixão divina.",
+          "aplicacao": "Deus disciplina seu povo, mas também ouve o clamor sincero e chama à restauração."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Débora, Baraque e o livramento de Israel",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 24
+          },
+          "comentario": "Deus usa Débora, Baraque e Jael para libertar Israel de Sísera. A vitória mostra que o Senhor pode agir por meios inesperados.",
+          "aplicacao": "A confiança não deve repousar na aparência dos recursos humanos, mas na direção e no poder de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Salmos 78:5-8",
+            "nota": "Destaca a responsabilidade de transmitir às próximas gerações os feitos do Senhor."
+          },
+          {
+            "book_id": "NEH",
+            "chapter": 9,
+            "verse_start": 27,
+            "verse_end": 28,
+            "referencia": "Neemias 9:27-28",
+            "nota": "Resume o ciclo de pecado, opressão, clamor e misericórdia visto em Juízes."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "Atos 13:20",
+            "nota": "Menciona o período dos juízes dentro da história da condução de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 34,
+            "referencia": "Hebreus 11:32-34",
+            "nota": "Inclui líderes desse período entre exemplos de fé."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho cultivado uma fé viva ou apenas uma memória religiosa recebida?",
+        "Reconheço a disciplina de Deus como chamado ao arrependimento?",
+        "Confio que Deus pode agir mesmo por meios inesperados?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Juízes 2:16 resume a resposta misericordiosa de Deus ao povo oprimido, mostrando que, mesmo diante da infidelidade, o Senhor levanta livramento."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Juízes 2:10",
+          "nota": "Mostra a crise espiritual de uma geração sem conhecimento vivo do Senhor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Juízes 2:16",
+          "nota": "Revela a misericórdia de Deus ao levantar juízes."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Juízes 4:14",
+          "nota": "Aponta para a vitória dada pelo Senhor em meio à batalha."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Ciclo espiritual",
+          "significado": "Padrão repetido de afastamento, disciplina, clamor e livramento no livro de Juízes."
+        },
+        {
+          "termo": "Disciplina",
+          "significado": "Ação de Deus que confronta o pecado e chama seu povo ao arrependimento."
+        },
+        {
+          "termo": "Livramento",
+          "significado": "Intervenção misericordiosa de Deus para resgatar seu povo da opressão."
+        }
+      ],
+      "oracao": "Senhor, preserva em mim uma fé viva. Corrige meus desvios, ouve meu clamor e conduz minha vida de volta à tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "Judges 2–4 — Unfaithfulness, Discipline, and Deliverance",
+      "contexto": "Judges 2 to 4 presents the spiritual cycle that shapes the book: the people turn away from the Lord, suffer the consequences of idolatry, cry out in distress, and receive deliverance through leaders raised up by God. The reading shows the seriousness of unfaithfulness and the persistence of divine mercy.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A generation that did not know the Lord",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 10
+          },
+          "comentario": "After Joshua’s generation, a people arises who do not personally know the works of the Lord. The memory of faith was not preserved deeply.",
+          "aplicacao": "Each generation must know God personally, not merely inherit religious information."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The cycle of unfaithfulness and the judges",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 11,
+            "chapter_end": 3,
+            "verse_end": 31
+          },
+          "comentario": "Israel abandons the Lord, suffers oppression, and is helped by judges raised up by God. The pattern reveals both the seriousness of sin and divine compassion.",
+          "aplicacao": "God disciplines his people, but he also hears sincere cries and calls them to restoration."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Deborah, Barak, and Israel’s deliverance",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 24
+          },
+          "comentario": "God uses Deborah, Barak, and Jael to deliver Israel from Sisera. The victory shows that the Lord may work through unexpected means.",
+          "aplicacao": "Confidence should not rest on the appearance of human resources, but on God’s direction and power."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Psalm 78:5-8",
+            "nota": "Highlights the responsibility to pass on the works of the Lord to future generations."
+          },
+          {
+            "book_id": "NEH",
+            "chapter": 9,
+            "verse_start": 27,
+            "verse_end": 28,
+            "referencia": "Nehemiah 9:27-28",
+            "nota": "Summarizes the cycle of sin, oppression, crying out, and mercy seen in Judges."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "Acts 13:20",
+            "nota": "Mentions the period of the judges within the history of God’s guidance."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 34,
+            "referencia": "Hebrews 11:32-34",
+            "nota": "Includes leaders from this period among examples of faith."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I cultivating a living faith or only a received religious memory?",
+        "Do I recognize God’s discipline as a call to repentance?",
+        "Do I trust that God can act even through unexpected means?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Judges 2:16 summarizes God’s merciful response to the oppressed people, showing that even in the face of unfaithfulness the Lord raises up deliverance."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Judges 2:10",
+          "nota": "Shows the spiritual crisis of a generation without living knowledge of the Lord."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Judges 2:16",
+          "nota": "Reveals God’s mercy in raising up judges."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Judges 4:14",
+          "nota": "Points to the victory given by the Lord in battle."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Spiritual cycle",
+          "significado": "The repeated pattern of departure, discipline, crying out, and deliverance in the book of Judges."
+        },
+        {
+          "termo": "Discipline",
+          "significado": "God’s action that confronts sin and calls his people to repentance."
+        },
+        {
+          "termo": "Deliverance",
+          "significado": "God’s merciful intervention to rescue his people from oppression."
+        }
+      ],
+      "oracao": "Lord, preserve in me a living faith. Correct my wandering, hear my cry, and lead my life back to your will. Amen."
+    },
+    "es": {
+      "titulo": "Jueces 2–4 — Infidelidad, Disciplina y Liberación",
+      "contexto": "Jueces 2 al 4 presenta el ciclo espiritual que marca el libro: el pueblo se aparta del Señor, sufre las consecuencias de la idolatría, clama en aflicción y recibe liberación por medio de líderes levantados por Dios. La lectura muestra la gravedad de la infidelidad y la persistencia de la misericordia divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Una generación que no conoció al Señor",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 10
+          },
+          "comentario": "Después de la generación de Josué, surge un pueblo que no conoce personalmente las obras del Señor. La memoria de la fe no fue preservada con profundidad.",
+          "aplicacao": "Cada generación necesita conocer a Dios de manera real, no solo heredar información religiosa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El ciclo de la infidelidad y los jueces",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 2,
+            "verse_start": 11,
+            "chapter_end": 3,
+            "verse_end": 31
+          },
+          "comentario": "Israel abandona al Señor, sufre opresión y es socorrido por jueces levantados por Dios. El patrón revela tanto la seriedad del pecado como la compasión divina.",
+          "aplicacao": "Dios disciplina a su pueblo, pero también oye el clamor sincero y llama a la restauración."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Débora, Barac y la liberación de Israel",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 24
+          },
+          "comentario": "Dios usa a Débora, Barac y Jael para liberar a Israel de Sísara. La victoria muestra que el Señor puede actuar por medios inesperados.",
+          "aplicacao": "La confianza no debe descansar en la apariencia de los recursos humanos, sino en la dirección y el poder de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Salmos 78:5-8",
+            "nota": "Destaca la responsabilidad de transmitir a las próximas generaciones las obras del Señor."
+          },
+          {
+            "book_id": "NEH",
+            "chapter": 9,
+            "verse_start": 27,
+            "verse_end": 28,
+            "referencia": "Nehemías 9:27-28",
+            "nota": "Resume el ciclo de pecado, opresión, clamor y misericordia visto en Jueces."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 20,
+            "verse_end": 20,
+            "referencia": "Hechos 13:20",
+            "nota": "Menciona el período de los jueces dentro de la historia de la conducción de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 34,
+            "referencia": "Hebreos 11:32-34",
+            "nota": "Incluye líderes de este período entre ejemplos de fe."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Estoy cultivando una fe viva o solo una memoria religiosa recibida?",
+        "¿Reconozco la disciplina de Dios como llamado al arrepentimiento?",
+        "¿Confío en que Dios puede actuar incluso por medios inesperados?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Jueces 2:16 resume la respuesta misericordiosa de Dios al pueblo oprimido, mostrando que, aun ante la infidelidad, el Señor levanta liberación."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Jueces 2:10",
+          "nota": "Muestra la crisis espiritual de una generación sin conocimiento vivo del Señor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 2,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Jueces 2:16",
+          "nota": "Revela la misericordia de Dios al levantar jueces."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 4,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Jueces 4:14",
+          "nota": "Apunta a la victoria dada por el Señor en medio de la batalla."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Ciclo espiritual",
+          "significado": "Patrón repetido de alejamiento, disciplina, clamor y liberación en el libro de Jueces."
+        },
+        {
+          "termo": "Disciplina",
+          "significado": "Acción de Dios que confronta el pecado y llama a su pueblo al arrepentimiento."
+        },
+        {
+          "termo": "Liberación",
+          "significado": "Intervención misericordiosa de Dios para rescatar a su pueblo de la opresión."
+        }
+      ],
+      "oracao": "Señor, preserva en mí una fe viva. Corrige mis desvíos, escucha mi clamor y conduce mi vida de vuelta a tu voluntad. Amén."
+    }
+  }
+}

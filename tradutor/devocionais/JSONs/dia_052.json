@@ -1,0 +1,416 @@
+{
+  "dia": 52,
+  "data": "2027-02-21",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 19–21",
+    "en": "Numbers 19–21",
+    "es": "Números 19–21"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 19,
+      "chapter_end": 21
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 21,
+    "verse_start": 8,
+    "verse_end": 9,
+    "referencia": {
+      "pt": "Números 21:8-9",
+      "en": "Numbers 21:8-9",
+      "es": "Números 21:8-9"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_052.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_052.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_052.mp3",
+      "versiculo_central": "audio/en/verses/day_052.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_052.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_052.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 19–21 — Purificação, Disciplina e Cura",
+      "contexto": "Números 19 a 21 reúne leis de purificação, momentos de perda no deserto, a falha de Moisés diante da rocha e a cura provida por Deus no episódio da serpente levantada. A leitura mostra que o povo santo precisa de purificação, confiança e obediência, mesmo quando enfrenta cansaço, juízo e necessidade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purificação para um povo em caminhada",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 22
+          },
+          "comentario": "As instruções sobre purificação mostram que a presença da morte e da impureza não podia ser tratada com indiferença entre o povo de Deus.",
+          "aplicacao": "A comunhão com Deus requer reverência, arrependimento e cuidado com aquilo que contamina a vida espiritual."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Água da rocha e a falha de Moisés",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 29
+          },
+          "comentario": "O povo murmura por causa da sede, e Deus provê água. Contudo, Moisés age de modo precipitado e desobedece à ordem do Senhor.",
+          "aplicacao": "Mesmo líderes fiéis precisam permanecer dependentes de Deus e obedecer cuidadosamente à sua Palavra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A serpente levantada e a cura pela fé",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 35
+          },
+          "comentario": "Depois da murmuração e do juízo, Deus oferece um meio de cura. O povo ferido deveria olhar para aquilo que o Senhor ordenou.",
+          "aplicacao": "A salvação não nasce da autossuficiência, mas da confiança no remédio que Deus providencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Salmos 78:15-16",
+            "nota": "Recorda a provisão de água no deserto como sinal do cuidado de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "João 3:14-15",
+            "nota": "Jesus relaciona a serpente levantada à sua própria obra de salvação."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 11,
+            "referencia": "1 Coríntios 10:4-11",
+            "nota": "Usa a caminhada no deserto como advertência para o povo de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Trato a santidade de Deus com reverência?",
+        "Confio na provisão do Senhor quando a caminhada parece árida?",
+        "Olho com fé para a salvação que Deus providenciou em Cristo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 21:8-9 concentra o tema da leitura: o povo sofre as consequências do pecado, mas Deus oferece um caminho de cura pela fé."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 20,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Números 20:12",
+          "nota": "Mostra a seriedade da incredulidade e da desobediência diante de Deus."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Números 21:8-9",
+          "nota": "Aponta para a cura oferecida por Deus em meio ao juízo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Números 21:17-18",
+          "nota": "Registra um cântico de gratidão pela provisão de água."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purificação",
+          "significado": "A necessidade de ser tratado diante da santidade de Deus."
+        },
+        {
+          "termo": "Murmuração",
+          "significado": "Atitude de desconfiança que despreza o cuidado do Senhor."
+        },
+        {
+          "termo": "Cura",
+          "significado": "Restauração provida por Deus ao povo ferido por seu pecado."
+        }
+      ],
+      "oracao": "Senhor, purifica o meu coração, corrige minha incredulidade e ajuda-me a confiar no caminho de salvação que tu providencias. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 19–21 — Purification, Discipline, and Healing",
+      "contexto": "Numbers 19 to 21 brings together laws of purification, moments of loss in the wilderness, Moses’ failure before the rock, and the healing provided by God through the lifted serpent. The reading shows that a holy people needs purification, trust, and obedience, even when facing weariness, judgment, and need.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purification for a people on the journey",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 22
+          },
+          "comentario": "The instructions about purification show that death and uncleanness could not be treated with indifference among God’s people.",
+          "aplicacao": "Communion with God requires reverence, repentance, and care with what contaminates spiritual life."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Water from the rock and Moses’ failure",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 29
+          },
+          "comentario": "The people complain because of thirst, and God provides water. Yet Moses acts rashly and disobeys the Lord’s command.",
+          "aplicacao": "Even faithful leaders must remain dependent on God and obey his Word carefully."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The lifted serpent and healing by faith",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 35
+          },
+          "comentario": "After complaint and judgment, God provides a way of healing. The wounded people were to look to what the Lord commanded.",
+          "aplicacao": "Salvation does not come from self-sufficiency, but from trusting the remedy God provides."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Psalm 78:15-16",
+            "nota": "Recalls God’s provision of water in the wilderness as a sign of his care."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "John 3:14-15",
+            "nota": "Jesus connects the lifted serpent with his own saving work."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 11,
+            "referencia": "1 Corinthians 10:4-11",
+            "nota": "Uses the wilderness journey as a warning for God’s people."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat God’s holiness with reverence?",
+        "Do I trust the Lord’s provision when the journey feels dry?",
+        "Do I look by faith to the salvation God has provided in Christ?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 21:8-9 gathers the theme of the reading: the people suffer the consequences of sin, yet God provides a way of healing by faith."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 20,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Numbers 20:12",
+          "nota": "Shows the seriousness of unbelief and disobedience before God."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Numbers 21:8-9",
+          "nota": "Points to the healing offered by God in the midst of judgment."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Numbers 21:17-18",
+          "nota": "Records a song of gratitude for God’s provision of water."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purification",
+          "significado": "The need to be cleansed before the holiness of God."
+        },
+        {
+          "termo": "Complaint",
+          "significado": "An attitude of distrust that despises the Lord’s care."
+        },
+        {
+          "termo": "Healing",
+          "significado": "Restoration provided by God to a people wounded by their sin."
+        }
+      ],
+      "oracao": "Lord, purify my heart, correct my unbelief, and help me trust the way of salvation you provide. Amen."
+    },
+    "es": {
+      "titulo": "Números 19–21 — Purificación, Disciplina y Sanidad",
+      "contexto": "Números 19 al 21 reúne leyes de purificación, momentos de pérdida en el desierto, la falta de Moisés ante la roca y la sanidad provista por Dios en el episodio de la serpiente levantada. La lectura muestra que el pueblo santo necesita purificación, confianza y obediencia, aun cuando enfrenta cansancio, juicio y necesidad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Purificación para un pueblo en camino",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 22
+          },
+          "comentario": "Las instrucciones sobre purificación muestran que la muerte y la impureza no podían ser tratadas con indiferencia entre el pueblo de Dios.",
+          "aplicacao": "La comunión con Dios requiere reverencia, arrepentimiento y cuidado con aquello que contamina la vida espiritual."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Agua de la roca y la falta de Moisés",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 29
+          },
+          "comentario": "El pueblo murmura por causa de la sed, y Dios provee agua. Sin embargo, Moisés actúa precipitadamente y desobedece la orden del Señor.",
+          "aplicacao": "Incluso los líderes fieles necesitan permanecer dependientes de Dios y obedecer cuidadosamente su Palabra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La serpiente levantada y la sanidad por la fe",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 35
+          },
+          "comentario": "Después de la murmuración y el juicio, Dios ofrece un medio de sanidad. El pueblo herido debía mirar aquello que el Señor ordenó.",
+          "aplicacao": "La salvación no nace de la autosuficiencia, sino de confiar en el remedio que Dios provee."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Salmos 78:15-16",
+            "nota": "Recuerda la provisión de agua en el desierto como señal del cuidado de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Juan 3:14-15",
+            "nota": "Jesús relaciona la serpiente levantada con su propia obra de salvación."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 4,
+            "verse_end": 11,
+            "referencia": "1 Corintios 10:4-11",
+            "nota": "Usa la caminata en el desierto como advertencia para el pueblo de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato la santidad de Dios con reverencia?",
+        "¿Confío en la provisión del Señor cuando el camino parece árido?",
+        "¿Miro con fe hacia la salvación que Dios proveyó en Cristo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 21:8-9 concentra el tema de la lectura: el pueblo sufre las consecuencias del pecado, pero Dios ofrece un camino de sanidad por la fe."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 20,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Números 20:12",
+          "nota": "Muestra la seriedad de la incredulidad y la desobediencia delante de Dios."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 8,
+          "verse_end": 9,
+          "referencia": "Números 21:8-9",
+          "nota": "Señala la sanidad ofrecida por Dios en medio del juicio."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 21,
+          "verse_start": 17,
+          "verse_end": 18,
+          "referencia": "Números 21:17-18",
+          "nota": "Registra un cántico de gratitud por la provisión de agua."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Purificación",
+          "significado": "La necesidad de ser tratado ante la santidad de Dios."
+        },
+        {
+          "termo": "Murmuración",
+          "significado": "Actitud de desconfianza que desprecia el cuidado del Señor."
+        },
+        {
+          "termo": "Sanidad",
+          "significado": "Restauración provista por Dios al pueblo herido por su pecado."
+        }
+      ],
+      "oracao": "Señor, purifica mi corazón, corrige mi incredulidad y ayúdame a confiar en el camino de salvación que tú provees. Amén."
+    }
+  }
+}

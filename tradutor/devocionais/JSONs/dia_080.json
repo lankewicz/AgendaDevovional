@@ -1,0 +1,440 @@
+{
+  "dia": 80,
+  "data": "2027-03-21",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Juízes 8–9",
+    "en": "Judges 8–9",
+    "es": "Jueces 8–9"
+  },
+  "leitura": [
+    {
+      "book_id": "JDG",
+      "chapter_start": 8,
+      "chapter_end": 9
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JDG",
+    "chapter": 8,
+    "verse_start": 23,
+    "verse_end": 23,
+    "referencia": {
+      "pt": "Juízes 8:23",
+      "en": "Judges 8:23",
+      "es": "Jueces 8:23"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_080.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_080.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_080.mp3",
+      "versiculo_central": "audio/en/verses/day_080.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_080.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_080.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Juízes 8–9 — Poder, Ambição e Governo de Deus",
+      "contexto": "Juízes 8 a 9 mostra o perigo espiritual que surge depois da vitória. Gideão recusa formalmente a realeza, mas sua casa se aproxima de práticas que trazem tropeço. Em seguida, Abimeleque busca poder por violência. A leitura confronta a ambição humana e aponta para a necessidade do governo de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A vitória concluída e as tensões internas",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 21
+          },
+          "comentario": "Gideão enfrenta conflitos internos e prossegue contra os inimigos. A vitória externa não elimina a necessidade de humildade, justiça e domínio próprio.",
+          "aplicacao": "Depois de momentos de conquista, é preciso guardar o coração para não transformar vitória em orgulho ou dureza."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O Senhor deve governar o seu povo",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 22,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "Gideão afirma que o Senhor deve reinar, mas suas escolhas posteriores se tornam laço espiritual para Israel. A verdade confessada precisa ser acompanhada por práticas coerentes.",
+          "aplicacao": "Não basta afirmar que Deus reina; é necessário submeter decisões, desejos e influência ao senhorio dele."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A ambição violenta de Abimeleque",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 57
+          },
+          "comentario": "Abimeleque busca domínio por manipulação e sangue. Sua história revela como o poder sem temor de Deus destrói famílias, cidades e o próprio ambicioso.",
+          "aplicacao": "A liderança que nasce da ambição e da violência produz ruína; o povo de Deus deve rejeitar poder sem justiça."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 8,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "1 Samuel 8:7",
+            "nota": "Mostra a tensão futura entre o desejo humano por reis e o governo do Senhor."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 16,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Provérbios 16:18",
+            "nota": "Adverte que a soberba precede a queda."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MRK",
+            "chapter": 10,
+            "verse_start": 42,
+            "verse_end": 45,
+            "referencia": "Marcos 10:42-45",
+            "nota": "Jesus contrasta o domínio opressor com a liderança servidora."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "1 Pedro 5:2-3",
+            "nota": "Ensina que liderança espiritual não deve ser dominadora, mas exemplo para o rebanho."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Como reajo depois de uma vitória ou reconhecimento?",
+        "Minhas decisões confirmam que o Senhor governa minha vida?",
+        "Tenho rejeitado ambição, manipulação e domínio sobre outras pessoas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Juízes 8:23 declara a verdade central que o restante da leitura coloca à prova: somente o Senhor deve governar seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Juízes 8:23",
+          "nota": "Afirma que o governo pertence ao Senhor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Juízes 8:27",
+          "nota": "Mostra como uma decisão aparentemente honrosa pode se tornar tropeço."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 9,
+          "verse_start": 56,
+          "verse_end": 57,
+          "referencia": "Juízes 9:56-57",
+          "nota": "Revela que Deus julga a violência e a maldade."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Governo de Deus",
+          "significado": "Reconhecimento de que o Senhor deve reinar sobre o povo, as decisões e a liderança."
+        },
+        {
+          "termo": "Ambição",
+          "significado": "Desejo desordenado de poder que ignora justiça, serviço e temor de Deus."
+        },
+        {
+          "termo": "Coerência",
+          "significado": "Alinhamento entre a verdade confessada e as escolhas praticadas."
+        }
+      ],
+      "oracao": "Senhor, reina sobre meu coração. Livra-me da ambição e ensina-me a viver com humildade, coerência e temor diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Judges 8–9 — Power, Ambition, and God’s Rule",
+      "contexto": "Judges 8 to 9 shows the spiritual danger that can arise after victory. Gideon formally refuses kingship, yet his household moves toward practices that become a snare. Then Abimelech seeks power through violence. The reading confronts human ambition and points to the need for God’s rule.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Victory completed and internal tensions",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 21
+          },
+          "comentario": "Gideon faces internal conflicts and continues against the enemies. External victory does not remove the need for humility, justice, and self-control.",
+          "aplicacao": "After moments of success, the heart must be guarded so victory does not become pride or harshness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The Lord must rule his people",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 22,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "Gideon states that the Lord should reign, but his later choices become a spiritual snare for Israel. Truth confessed must be matched by coherent practice.",
+          "aplicacao": "It is not enough to say that God reigns; decisions, desires, and influence must be submitted to his lordship."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Abimelech’s violent ambition",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 57
+          },
+          "comentario": "Abimelech seeks rule through manipulation and bloodshed. His story reveals how power without the fear of God destroys families, cities, and the ambitious person himself.",
+          "aplicacao": "Leadership born from ambition and violence produces ruin; God’s people must reject power without justice."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 8,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "1 Samuel 8:7",
+            "nota": "Shows the later tension between the human desire for kings and the Lord’s rule."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 16,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Proverbs 16:18",
+            "nota": "Warns that pride comes before destruction."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MRK",
+            "chapter": 10,
+            "verse_start": 42,
+            "verse_end": 45,
+            "referencia": "Mark 10:42-45",
+            "nota": "Jesus contrasts oppressive rule with servant leadership."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "1 Peter 5:2-3",
+            "nota": "Teaches that spiritual leadership should not be domineering, but an example to the flock."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "How do I respond after victory or recognition?",
+        "Do my decisions confirm that the Lord rules my life?",
+        "Have I rejected ambition, manipulation, and domination over others?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Judges 8:23 declares the central truth that the rest of the reading puts to the test: only the Lord should rule his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Judges 8:23",
+          "nota": "Affirms that rule belongs to the Lord."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Judges 8:27",
+          "nota": "Shows how an apparently honorable decision can become a snare."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 9,
+          "verse_start": 56,
+          "verse_end": 57,
+          "referencia": "Judges 9:56-57",
+          "nota": "Reveals that God judges violence and evil."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "God’s rule",
+          "significado": "The recognition that the Lord must reign over the people, decisions, and leadership."
+        },
+        {
+          "termo": "Ambition",
+          "significado": "A disordered desire for power that ignores justice, service, and the fear of God."
+        },
+        {
+          "termo": "Coherence",
+          "significado": "Alignment between the truth confessed and the choices practiced."
+        }
+      ],
+      "oracao": "Lord, reign over my heart. Deliver me from ambition and teach me to live with humility, coherence, and reverence before you. Amen."
+    },
+    "es": {
+      "titulo": "Jueces 8–9 — Poder, Ambición y Gobierno de Dios",
+      "contexto": "Jueces 8 al 9 muestra el peligro espiritual que surge después de la victoria. Gedeón rechaza formalmente la realeza, pero su casa se acerca a prácticas que traen tropiezo. Luego Abimelec busca poder por medio de la violencia. La lectura confronta la ambición humana y apunta a la necesidad del gobierno de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La victoria concluida y las tensiones internas",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 21
+          },
+          "comentario": "Gedeón enfrenta conflictos internos y sigue contra los enemigos. La victoria externa no elimina la necesidad de humildad, justicia y dominio propio.",
+          "aplicacao": "Después de momentos de conquista, es necesario guardar el corazón para no convertir la victoria en orgullo o dureza."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El Señor debe gobernar a su pueblo",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 8,
+            "verse_start": 22,
+            "chapter_end": 8,
+            "verse_end": 35
+          },
+          "comentario": "Gedeón afirma que el Señor debe reinar, pero sus decisiones posteriores se convierten en lazo espiritual para Israel. La verdad confesada debe ir acompañada de prácticas coherentes.",
+          "aplicacao": "No basta afirmar que Dios reina; es necesario someter decisiones, deseos e influencia a su señorío."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La ambición violenta de Abimelec",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 57
+          },
+          "comentario": "Abimelec busca dominio por manipulación y sangre. Su historia revela cómo el poder sin temor de Dios destruye familias, ciudades y al propio ambicioso.",
+          "aplicacao": "El liderazgo que nace de la ambición y la violencia produce ruina; el pueblo de Dios debe rechazar poder sin justicia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 8,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "1 Samuel 8:7",
+            "nota": "Muestra la tensión futura entre el deseo humano de reyes y el gobierno del Señor."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 16,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Proverbios 16:18",
+            "nota": "Advierte que la soberbia precede a la caída."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MRK",
+            "chapter": 10,
+            "verse_start": 42,
+            "verse_end": 45,
+            "referencia": "Marcos 10:42-45",
+            "nota": "Jesús contrasta el dominio opresor con el liderazgo servidor."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "1 Pedro 5:2-3",
+            "nota": "Enseña que el liderazgo espiritual no debe ser dominante, sino ejemplo para el rebaño."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Cómo reacciono después de una victoria o reconocimiento?",
+        "¿Mis decisiones confirman que el Señor gobierna mi vida?",
+        "¿He rechazado la ambición, la manipulación y el dominio sobre otras personas?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Jueces 8:23 declara la verdad central que el resto de la lectura pone a prueba: solo el Señor debe gobernar a su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Jueces 8:23",
+          "nota": "Afirma que el gobierno pertenece al Señor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 8,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Jueces 8:27",
+          "nota": "Muestra cómo una decisión aparentemente honrosa puede convertirse en tropiezo."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 9,
+          "verse_start": 56,
+          "verse_end": 57,
+          "referencia": "Jueces 9:56-57",
+          "nota": "Revela que Dios juzga la violencia y la maldad."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Gobierno de Dios",
+          "significado": "Reconocimiento de que el Señor debe reinar sobre el pueblo, las decisiones y el liderazgo."
+        },
+        {
+          "termo": "Ambición",
+          "significado": "Deseo desordenado de poder que ignora justicia, servicio y temor de Dios."
+        },
+        {
+          "termo": "Coherencia",
+          "significado": "Alineación entre la verdad confesada y las decisiones practicadas."
+        }
+      ],
+      "oracao": "Señor, reina sobre mi corazón. Líbrame de la ambición y enséñame a vivir con humildad, coherencia y temor delante de ti. Amén."
+    }
+  }
+}

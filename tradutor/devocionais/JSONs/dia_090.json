@@ -1,0 +1,416 @@
+{
+  "dia": 90,
+  "data": "2027-03-31",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 16–17",
+    "en": "1 Samuel 16–17",
+    "es": "1 Samuel 16–17"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 16,
+      "chapter_end": 17
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 16,
+    "verse_start": 7,
+    "verse_end": 7,
+    "referencia": {
+      "pt": "1 Samuel 16:7",
+      "en": "1 Samuel 16:7",
+      "es": "1 Samuel 16:7"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_090.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_090.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_090.mp3",
+      "versiculo_central": "audio/en/verses/day_090.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_090.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_090.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 16–17 — O Coração que Deus Vê e a Fé que Enfrenta Gigantes",
+      "contexto": "1 Samuel 16 a 17 apresenta a escolha de Davi e sua vitória sobre Golias. Deus rejeita a aparência como critério principal e revela que vê o coração. A leitura mostra que a verdadeira força não nasce da posição, da estatura ou das armas, mas da confiança no Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Deus escolhe Davi pelo coração",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 13
+          },
+          "comentario": "Samuel é enviado à casa de Jessé para ungir o futuro rei. A escolha de Davi ensina que Deus vê além da aparência e conhece a disposição interior de cada pessoa.",
+          "aplicacao": "A identidade diante de Deus não deve ser construída sobre imagem, aprovação humana ou capacidade visível, mas sobre um coração rendido ao Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Davi serve antes de reinar",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 14,
+            "chapter_end": 16,
+            "verse_end": 23
+          },
+          "comentario": "Antes de ocupar o trono, Davi serve no palácio de Saul. O caminho de Deus inclui preparo, humildade e fidelidade em tarefas simples.",
+          "aplicacao": "O chamado de Deus deve ser vivido com serviço fiel no presente, mesmo antes de qualquer reconhecimento público."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A fé enfrenta Golias",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 58
+          },
+          "comentario": "Davi enfrenta Golias não apoiado em força militar, mas na confiança no nome do Senhor. A batalha revela que Deus livra por meios que parecem frágeis aos olhos humanos.",
+          "aplicacao": "Os desafios devem ser enfrentados com coragem, mas também com dependência de Deus, reconhecendo que a vitória pertence ao Senhor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 70,
+            "verse_end": 72,
+            "referencia": "Salmos 78:70-72",
+            "nota": "Recorda Davi como escolhido por Deus para pastorear Israel com integridade."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Atos 13:22",
+            "nota": "Apresenta Davi como homem segundo o coração de Deus."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Coríntios 5:7",
+            "nota": "Reforça a vida conduzida pela fé, não apenas pelo que os olhos veem."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado agradar a Deus no coração ou apenas na aparência?",
+        "Sirvo com fidelidade mesmo quando ainda não sou reconhecido?",
+        "Enfrento meus desafios confiando no Senhor ou apenas nos meus recursos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 16:7 resume o princípio espiritual da leitura: Deus vê o coração e conduz sua obra por critérios diferentes dos critérios humanos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 16:7",
+          "nota": "Mostra que Deus vê o coração."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "1 Samuel 16:13",
+          "nota": "Marca a unção de Davi e a presença do Espírito do Senhor sobre ele."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 17,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "1 Samuel 17:45",
+          "nota": "Expressa a confiança de Davi no nome do Senhor diante de Golias."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Coração",
+          "significado": "O centro interior da vontade, da fé e da disposição diante de Deus."
+        },
+        {
+          "termo": "Unção",
+          "significado": "Sinal da escolha e capacitação de Deus para uma missão."
+        },
+        {
+          "termo": "Fé",
+          "significado": "Confiança ativa no Senhor, mesmo diante de oposição visível."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a viver com um coração sincero diante de ti. Ensina-me a servir com humildade e a enfrentar os desafios confiando no teu nome. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 16–17 — The Heart God Sees and the Faith that Faces Giants",
+      "contexto": "1 Samuel 16 to 17 presents David’s choosing and his victory over Goliath. God rejects appearance as the main standard and reveals that he sees the heart. The reading shows that true strength does not come from position, stature, or weapons, but from trust in the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "God chooses David by the heart",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 13
+          },
+          "comentario": "Samuel is sent to Jesse’s house to anoint the future king. David’s choosing teaches that God sees beyond appearance and knows the inner disposition of each person.",
+          "aplicacao": "Identity before God should not be built on image, human approval, or visible ability, but on a heart surrendered to the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David serves before he reigns",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 14,
+            "chapter_end": 16,
+            "verse_end": 23
+          },
+          "comentario": "Before occupying the throne, David serves in Saul’s palace. God’s path includes preparation, humility, and faithfulness in simple tasks.",
+          "aplicacao": "God’s calling should be lived with faithful service in the present, even before public recognition."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Faith faces Goliath",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 58
+          },
+          "comentario": "David faces Goliath not by military strength, but through confidence in the name of the Lord. The battle reveals that God delivers through means that may seem weak to human eyes.",
+          "aplicacao": "Challenges should be faced with courage and dependence on God, recognizing that victory belongs to the Lord."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 70,
+            "verse_end": 72,
+            "referencia": "Psalm 78:70-72",
+            "nota": "Recalls David as chosen by God to shepherd Israel with integrity."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Acts 13:22",
+            "nota": "Presents David as a man after God’s own heart."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Corinthians 5:7",
+            "nota": "Emphasizes a life guided by faith, not only by what the eyes see."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I seeking to please God in the heart or only in appearance?",
+        "Do I serve faithfully even when I am not yet recognized?",
+        "Do I face my challenges trusting the Lord or only my own resources?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 16:7 summarizes the spiritual principle of the reading: God sees the heart and carries out his work by standards different from human standards."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 16:7",
+          "nota": "Shows that God sees the heart."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "1 Samuel 16:13",
+          "nota": "Marks David’s anointing and the presence of the Spirit of the Lord upon him."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 17,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "1 Samuel 17:45",
+          "nota": "Expresses David’s confidence in the name of the Lord before Goliath."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Heart",
+          "significado": "The inner center of will, faith, and disposition before God."
+        },
+        {
+          "termo": "Anointing",
+          "significado": "A sign of God’s choosing and enabling for a mission."
+        },
+        {
+          "termo": "Faith",
+          "significado": "Active trust in the Lord, even before visible opposition."
+        }
+      ],
+      "oracao": "Lord, help me live with a sincere heart before you. Teach me to serve with humility and face challenges trusting in your name. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 16–17 — El Corazón que Dios Ve y la Fe que Enfrenta Gigantes",
+      "contexto": "1 Samuel 16 al 17 presenta la elección de David y su victoria sobre Goliat. Dios rechaza la apariencia como criterio principal y revela que ve el corazón. La lectura muestra que la verdadera fuerza no nace de la posición, la estatura o las armas, sino de la confianza en el Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Dios elige a David por el corazón",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 13
+          },
+          "comentario": "Samuel es enviado a la casa de Isaí para ungir al futuro rey. La elección de David enseña que Dios ve más allá de la apariencia y conoce la disposición interior de cada persona.",
+          "aplicacao": "La identidad delante de Dios no debe construirse sobre la imagen, la aprobación humana o la capacidad visible, sino sobre un corazón rendido al Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David sirve antes de reinar",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 16,
+            "verse_start": 14,
+            "chapter_end": 16,
+            "verse_end": 23
+          },
+          "comentario": "Antes de ocupar el trono, David sirve en el palacio de Saúl. El camino de Dios incluye preparación, humildad y fidelidad en tareas sencillas.",
+          "aplicacao": "El llamado de Dios debe vivirse con servicio fiel en el presente, aun antes de cualquier reconocimiento público."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La fe enfrenta a Goliat",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 58
+          },
+          "comentario": "David enfrenta a Goliat no apoyado en fuerza militar, sino en la confianza en el nombre del Señor. La batalla revela que Dios libra por medios que parecen débiles a los ojos humanos.",
+          "aplicacao": "Los desafíos deben enfrentarse con valentía y dependencia de Dios, reconociendo que la victoria pertenece al Señor."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 70,
+            "verse_end": 72,
+            "referencia": "Salmos 78:70-72",
+            "nota": "Recuerda a David como elegido por Dios para pastorear a Israel con integridad."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Hechos 13:22",
+            "nota": "Presenta a David como un hombre conforme al corazón de Dios."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 5,
+            "verse_start": 7,
+            "verse_end": 7,
+            "referencia": "2 Corintios 5:7",
+            "nota": "Refuerza la vida guiada por la fe, no solo por lo que los ojos ven."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco agradar a Dios en el corazón o solo en la apariencia?",
+        "¿Sirvo con fidelidad aun cuando todavía no soy reconocido?",
+        "¿Enfrento mis desafíos confiando en el Señor o solo en mis propios recursos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 16:7 resume el principio espiritual de la lectura: Dios ve el corazón y conduce su obra por criterios diferentes a los criterios humanos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "1 Samuel 16:7",
+          "nota": "Muestra que Dios ve el corazón."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "1 Samuel 16:13",
+          "nota": "Marca la unción de David y la presencia del Espíritu del Señor sobre él."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 17,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "1 Samuel 17:45",
+          "nota": "Expresa la confianza de David en el nombre del Señor frente a Goliat."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Corazón",
+          "significado": "El centro interior de la voluntad, la fe y la disposición delante de Dios."
+        },
+        {
+          "termo": "Unción",
+          "significado": "Señal de la elección y capacitación de Dios para una misión."
+        },
+        {
+          "termo": "Fe",
+          "significado": "Confianza activa en el Señor, aun frente a una oposición visible."
+        }
+      ],
+      "oracao": "Señor, ayúdame a vivir con un corazón sincero delante de ti. Enséñame a servir con humildad y a enfrentar los desafíos confiando en tu nombre. Amén."
+    }
+  }
+}

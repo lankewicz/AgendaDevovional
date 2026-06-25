@@ -1,0 +1,416 @@
+{
+  "dia": 59,
+  "data": "2027-02-28",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 1–2",
+    "en": "Deuteronomy 1–2",
+    "es": "Deuteronomio 1–2"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 1,
+      "chapter_end": 2
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 2,
+    "verse_start": 7,
+    "verse_end": 7,
+    "referencia": {
+      "pt": "Deuteronômio 2:7",
+      "en": "Deuteronomy 2:7",
+      "es": "Deuteronomio 2:7"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_059.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_059.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_059.mp3",
+      "versiculo_central": "audio/en/verses/day_059.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_059.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_059.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 1–2 — Memória, Fracasso e Fidelidade",
+      "contexto": "Deuteronômio começa com Moisés relembrando a caminhada de Israel. A nova geração precisa ouvir a história da incredulidade passada, da disciplina no deserto e da fidelidade de Deus. A memória não serve para prender o povo ao erro, mas para prepará-lo para obedecer na terra prometida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A história recontada diante da nova geração",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Moisés relembra a organização do povo e a direção de Deus desde Horebe. Antes de avançar, Israel precisava reconhecer como o Senhor o havia conduzido.",
+          "aplicacao": "Revisar a caminhada com Deus nos ajuda a enxergar sua direção e a amadurecer em responsabilidade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A incredulidade em Cades-Barneia",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 19,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "A geração anterior recusou confiar na promessa, temeu os obstáculos e sofreu as consequências da incredulidade.",
+          "aplicacao": "Quando o medo domina a fé, deixamos de caminhar naquilo que Deus já ordenou."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A fidelidade de Deus no deserto",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 37
+          },
+          "comentario": "Mesmo durante anos de disciplina, Deus sustentou Israel, preservou o povo e guiou cada etapa até o tempo de avançar.",
+          "aplicacao": "A disciplina de Deus não anula sua presença; ela pode preparar o coração para uma obediência mais madura."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 1,
+            "verse_end": 35,
+            "referencia": "Números 14:1-35",
+            "nota": "Relata a incredulidade da geração que recusou entrar na terra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebreus 3:16-19",
+            "nota": "Interpreta a queda da geração do deserto como advertência contra a incredulidade."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 2,
+            "verse_end": 4,
+            "referencia": "Tiago 1:2-4",
+            "nota": "Mostra que provações podem produzir perseverança e maturidade."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho aprendido com os erros do passado sem ficar preso a eles?",
+        "O medo tem me impedido de obedecer ao que Deus já mostrou?",
+        "Consigo reconhecer o cuidado de Deus mesmo em períodos difíceis?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 2:7 resume a fidelidade de Deus no deserto: mesmo durante a disciplina, o Senhor sustentou e acompanhou o seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 30,
+          "verse_end": 31,
+          "referencia": "Deuteronômio 1:30-31",
+          "nota": "Lembra que Deus lutou por Israel e o carregou como um pai leva seu filho."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Deuteronômio 1:32",
+          "nota": "Mostra o problema central da geração: a falta de confiança no Senhor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Deuteronômio 2:7",
+          "nota": "Destaca o cuidado constante de Deus durante a jornada no deserto."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memória",
+          "significado": "Recordação espiritual que ajuda o povo a aprender com a caminhada."
+        },
+        {
+          "termo": "Incredulidade",
+          "significado": "Recusa em confiar na palavra e na promessa de Deus."
+        },
+        {
+          "termo": "Fidelidade",
+          "significado": "Constância de Deus em sustentar e conduzir o seu povo."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a aprender com a minha caminhada e a confiar mais em tua palavra. Que o medo não governe minhas decisões, e que eu reconheça tua fidelidade em cada etapa. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 1–2 — Memory, Failure, and Faithfulness",
+      "contexto": "Deuteronomy begins with Moses recalling Israel’s journey. The new generation needs to hear the story of past unbelief, discipline in the wilderness, and God’s faithfulness. Memory is not meant to trap the people in failure, but to prepare them to obey in the promised land.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The story retold before the new generation",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Moses recalls the organization of the people and God’s direction from Horeb. Before moving forward, Israel needed to recognize how the Lord had led them.",
+          "aplicacao": "Reviewing our walk with God helps us see his direction and grow in responsibility."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Unbelief at Kadesh-barnea",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 19,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "The previous generation refused to trust the promise, feared the obstacles, and suffered the consequences of unbelief.",
+          "aplicacao": "When fear rules faith, we stop walking in what God has already commanded."
+        },
+        {
+          "ordem": 3,
+          "titulo": "God’s faithfulness in the wilderness",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 37
+          },
+          "comentario": "Even during years of discipline, God sustained Israel, preserved the people, and guided each stage until the time to move forward.",
+          "aplicacao": "God’s discipline does not cancel his presence; it can prepare the heart for more mature obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 1,
+            "verse_end": 35,
+            "referencia": "Numbers 14:1-35",
+            "nota": "Reports the unbelief of the generation that refused to enter the land."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebrews 3:16-19",
+            "nota": "Interprets the fall of the wilderness generation as a warning against unbelief."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 2,
+            "verse_end": 4,
+            "referencia": "James 1:2-4",
+            "nota": "Shows that trials can produce perseverance and maturity."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I learned from past mistakes without being trapped by them?",
+        "Has fear kept me from obeying what God has already shown?",
+        "Can I recognize God’s care even in difficult seasons?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 2:7 summarizes God’s faithfulness in the wilderness: even during discipline, the Lord sustained and accompanied his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 30,
+          "verse_end": 31,
+          "referencia": "Deuteronomy 1:30-31",
+          "nota": "Reminds that God fought for Israel and carried them as a father carries his child."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Deuteronomy 1:32",
+          "nota": "Shows the central problem of the generation: lack of trust in the Lord."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Deuteronomy 2:7",
+          "nota": "Highlights God’s constant care throughout the wilderness journey."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memory",
+          "significado": "Spiritual remembrance that helps God’s people learn from the journey."
+        },
+        {
+          "termo": "Unbelief",
+          "significado": "Refusal to trust God’s word and promise."
+        },
+        {
+          "termo": "Faithfulness",
+          "significado": "God’s constancy in sustaining and leading his people."
+        }
+      ],
+      "oracao": "Lord, help me learn from my journey and trust your word more deeply. May fear not govern my decisions, and may I recognize your faithfulness in every stage. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 1–2 — Memoria, Fracaso y Fidelidad",
+      "contexto": "Deuteronomio comienza con Moisés recordando el camino de Israel. La nueva generación necesita oír la historia de la incredulidad pasada, de la disciplina en el desierto y de la fidelidad de Dios. La memoria no sirve para encerrar al pueblo en el error, sino para prepararlo para obedecer en la tierra prometida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La historia contada ante la nueva generación",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 18
+          },
+          "comentario": "Moisés recuerda la organización del pueblo y la dirección de Dios desde Horeb. Antes de avanzar, Israel necesitaba reconocer cómo el Señor lo había conducido.",
+          "aplicacao": "Revisar nuestro caminar con Dios nos ayuda a ver su dirección y a madurar en responsabilidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La incredulidad en Cades-barnea",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 1,
+            "verse_start": 19,
+            "chapter_end": 1,
+            "verse_end": 46
+          },
+          "comentario": "La generación anterior rechazó confiar en la promesa, temió los obstáculos y sufrió las consecuencias de la incredulidad.",
+          "aplicacao": "Cuando el miedo domina la fe, dejamos de caminar en aquello que Dios ya ordenó."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La fidelidad de Dios en el desierto",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 37
+          },
+          "comentario": "Aun durante años de disciplina, Dios sostuvo a Israel, preservó al pueblo y guio cada etapa hasta el tiempo de avanzar.",
+          "aplicacao": "La disciplina de Dios no anula su presencia; puede preparar el corazón para una obediencia más madura."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 14,
+            "verse_start": 1,
+            "verse_end": 35,
+            "referencia": "Números 14:1-35",
+            "nota": "Relata la incredulidad de la generación que rechazó entrar en la tierra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Hebreos 3:16-19",
+            "nota": "Interpreta la caída de la generación del desierto como advertencia contra la incredulidad."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 2,
+            "verse_end": 4,
+            "referencia": "Santiago 1:2-4",
+            "nota": "Muestra que las pruebas pueden producir perseverancia y madurez."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He aprendido de los errores del pasado sin quedar preso de ellos?",
+        "¿El miedo me ha impedido obedecer lo que Dios ya mostró?",
+        "¿Puedo reconocer el cuidado de Dios incluso en tiempos difíciles?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 2:7 resume la fidelidad de Dios en el desierto: aun durante la disciplina, el Señor sostuvo y acompañó a su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 30,
+          "verse_end": 31,
+          "referencia": "Deuteronomio 1:30-31",
+          "nota": "Recuerda que Dios peleó por Israel y lo llevó como un padre lleva a su hijo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 1,
+          "verse_start": 32,
+          "verse_end": 32,
+          "referencia": "Deuteronomio 1:32",
+          "nota": "Muestra el problema central de la generación: la falta de confianza en el Señor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 2,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Deuteronomio 2:7",
+          "nota": "Destaca el cuidado constante de Dios durante el camino por el desierto."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memoria",
+          "significado": "Recordación espiritual que ayuda al pueblo a aprender del camino."
+        },
+        {
+          "termo": "Incredulidad",
+          "significado": "Rechazo a confiar en la palabra y la promesa de Dios."
+        },
+        {
+          "termo": "Fidelidad",
+          "significado": "Constancia de Dios al sostener y conducir a su pueblo."
+        }
+      ],
+      "oracao": "Señor, ayúdame a aprender de mi caminar y a confiar más en tu palabra. Que el miedo no gobierne mis decisiones, y que reconozca tu fidelidad en cada etapa. Amén."
+    }
+  }
+}

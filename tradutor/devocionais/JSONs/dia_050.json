@@ -1,0 +1,416 @@
+{
+  "dia": 50,
+  "data": "2027-02-19",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 14–15",
+    "en": "Numbers 14–15",
+    "es": "Números 14–15"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 14,
+      "chapter_end": 15
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 14,
+    "verse_start": 8,
+    "verse_end": 9,
+    "referencia": {
+      "pt": "Números 14:8-9",
+      "en": "Numbers 14:8-9",
+      "es": "Números 14:8-9"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_050.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_050.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_050.mp3",
+      "versiculo_central": "audio/en/verses/day_050.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_050.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_050.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 14–15 — Incredulidade, Juízo e Memória",
+      "contexto": "Números 14 e 15 mostra a reação do povo ao relatório dos espias, a intercessão de Moisés, o juízo sobre a geração incrédula e novas instruções para a vida diante de Deus. Mesmo depois da rebelião, o Senhor preserva sua promessa e ensina o povo a lembrar seus mandamentos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Rebelião diante da promessa",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 10
+          },
+          "comentario": "O povo responde com medo e desejo de voltar atrás. Josué e Calebe chamam Israel a confiar no Senhor e não se rebelar.",
+          "aplicacao": "A incredulidade transforma desafios em desculpas para abandonar a obediência."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Intercessão, juízo e consequência",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 11,
+            "chapter_end": 14,
+            "verse_end": 45
+          },
+          "comentario": "Moisés intercede, Deus revela misericórdia, mas a geração incrédula colherá as consequências de sua rebelião.",
+          "aplicacao": "O perdão de Deus é real, mas o pecado continua produzindo consequências que devem ser levadas a sério."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofertas, obediência e memória",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 41
+          },
+          "comentario": "As instruções sobre ofertas, pecado e franjas nas vestes ensinam Israel a viver lembrando a santidade do Senhor.",
+          "aplicacao": "A fé precisa de memória espiritual: lembrar a Palavra ajuda o coração a permanecer obediente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 95,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Salmos 95:8-11",
+            "nota": "Recorda a rebelião no deserto como advertência contra o endurecimento do coração."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Hebreus 4:1-11",
+            "nota": "Aplica a advertência do deserto à perseverança na fé."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 5,
+            "verse_end": 11,
+            "referencia": "1 Coríntios 10:5-11",
+            "nota": "Usa a experiência de Israel como exemplo e alerta para a igreja."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho deixado o medo enfraquecer minha obediência?",
+        "Reconheço que a incredulidade pode ter consequências profundas?",
+        "Quais práticas me ajudam a lembrar a Palavra de Deus diariamente?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 14:8-9 reúne o chamado central do bloco: confiar no favor do Senhor, não temer e não se rebelar contra Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Números 14:18",
+          "nota": "Revela o caráter de Deus em misericórdia, paciência e justiça."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Números 14:24",
+          "nota": "Destaca Calebe como exemplo de fidelidade perseverante."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 15,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Números 15:39-40",
+          "nota": "Mostra a importância de lembrar e praticar os mandamentos do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Incredulidade",
+          "significado": "Recusa de confiar na promessa de Deus diante das circunstâncias."
+        },
+        {
+          "termo": "Intercessão",
+          "significado": "Clamor em favor de outros diante de Deus."
+        },
+        {
+          "termo": "Memória espiritual",
+          "significado": "Lembrança ativa da Palavra que orienta a obediência."
+        }
+      ],
+      "oracao": "Senhor, fortalece minha fé quando o medo tentar dominar meu coração. Ajuda-me a confiar na tua promessa, lembrar tua Palavra e obedecer com perseverança. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 14–15 — Unbelief, Judgment, and Memory",
+      "contexto": "Numbers 14 and 15 shows the people’s reaction to the spies’ report, Moses’ intercession, judgment upon the unbelieving generation, and new instructions for life before God. Even after rebellion, the Lord preserves his promise and teaches the people to remember his commandments.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Rebellion before the promise",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 10
+          },
+          "comentario": "The people respond with fear and a desire to turn back. Joshua and Caleb call Israel to trust the Lord and not rebel.",
+          "aplicacao": "Unbelief turns challenges into excuses for abandoning obedience."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Intercession, judgment, and consequence",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 11,
+            "chapter_end": 14,
+            "verse_end": 45
+          },
+          "comentario": "Moses intercedes, God reveals mercy, but the unbelieving generation will bear the consequences of its rebellion.",
+          "aplicacao": "God’s forgiveness is real, but sin still produces consequences that must be taken seriously."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Offerings, obedience, and memory",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 41
+          },
+          "comentario": "The instructions about offerings, sin, and tassels teach Israel to live while remembering the holiness of the Lord.",
+          "aplicacao": "Faith needs spiritual memory: remembering the Word helps the heart remain obedient."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 95,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Psalm 95:8-11",
+            "nota": "Recalls the wilderness rebellion as a warning against hardening the heart."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Hebrews 4:1-11",
+            "nota": "Applies the wilderness warning to perseverance in faith."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 5,
+            "verse_end": 11,
+            "referencia": "1 Corinthians 10:5-11",
+            "nota": "Uses Israel’s experience as an example and warning for the church."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I allowed fear to weaken my obedience?",
+        "Do I recognize that unbelief can have deep consequences?",
+        "What practices help me remember God’s Word each day?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 14:8-9 gathers the central call of the passage: trust the Lord’s favor, do not fear, and do not rebel against God."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Numbers 14:18",
+          "nota": "Reveals God’s character in mercy, patience, and justice."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Numbers 14:24",
+          "nota": "Highlights Caleb as an example of persevering faithfulness."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 15,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Numbers 15:39-40",
+          "nota": "Shows the importance of remembering and practicing the Lord’s commandments."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Unbelief",
+          "significado": "Refusal to trust God’s promise in the face of circumstances."
+        },
+        {
+          "termo": "Intercession",
+          "significado": "Pleading before God on behalf of others."
+        },
+        {
+          "termo": "Spiritual memory",
+          "significado": "Active remembrance of the Word that guides obedience."
+        }
+      ],
+      "oracao": "Lord, strengthen my faith when fear tries to rule my heart. Help me trust your promise, remember your Word, and obey with perseverance. Amen."
+    },
+    "es": {
+      "titulo": "Números 14–15 — Incredulidad, Juicio y Memoria",
+      "contexto": "Números 14 y 15 muestra la reacción del pueblo al informe de los espías, la intercesión de Moisés, el juicio sobre la generación incrédula y nuevas instrucciones para la vida delante de Dios. Incluso después de la rebelión, el Señor preserva su promesa y enseña al pueblo a recordar sus mandamientos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Rebelión ante la promesa",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 10
+          },
+          "comentario": "El pueblo responde con miedo y deseo de volver atrás. Josué y Caleb llaman a Israel a confiar en el Señor y no rebelarse.",
+          "aplicacao": "La incredulidad transforma los desafíos en excusas para abandonar la obediencia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Intercesión, juicio y consecuencia",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 14,
+            "verse_start": 11,
+            "chapter_end": 14,
+            "verse_end": 45
+          },
+          "comentario": "Moisés intercede, Dios revela misericordia, pero la generación incrédula cosechará las consecuencias de su rebelión.",
+          "aplicacao": "El perdón de Dios es real, pero el pecado sigue produciendo consecuencias que deben tomarse en serio."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Ofrendas, obediencia y memoria",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 41
+          },
+          "comentario": "Las instrucciones sobre ofrendas, pecado y flecos en las vestiduras enseñan a Israel a vivir recordando la santidad del Señor.",
+          "aplicacao": "La fe necesita memoria espiritual: recordar la Palabra ayuda al corazón a permanecer obediente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 95,
+            "verse_start": 8,
+            "verse_end": 11,
+            "referencia": "Salmos 95:8-11",
+            "nota": "Recuerda la rebelión en el desierto como advertencia contra el endurecimiento del corazón."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Hebreos 4:1-11",
+            "nota": "Aplica la advertencia del desierto a la perseverancia en la fe."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 5,
+            "verse_end": 11,
+            "referencia": "1 Corintios 10:5-11",
+            "nota": "Usa la experiencia de Israel como ejemplo y advertencia para la iglesia."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He dejado que el miedo debilite mi obediencia?",
+        "¿Reconozco que la incredulidad puede tener consecuencias profundas?",
+        "¿Qué prácticas me ayudan a recordar la Palabra de Dios diariamente?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 14:8-9 reúne el llamado central del bloque: confiar en el favor del Señor, no temer y no rebelarse contra Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Números 14:18",
+          "nota": "Revela el carácter de Dios en misericordia, paciencia y justicia."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 14,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Números 14:24",
+          "nota": "Destaca a Caleb como ejemplo de fidelidad perseverante."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 15,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Números 15:39-40",
+          "nota": "Muestra la importancia de recordar y practicar los mandamientos del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Incredulidad",
+          "significado": "Rechazo a confiar en la promesa de Dios ante las circunstancias."
+        },
+        {
+          "termo": "Intercesión",
+          "significado": "Clamor en favor de otros delante de Dios."
+        },
+        {
+          "termo": "Memoria espiritual",
+          "significado": "Recuerdo activo de la Palabra que orienta la obediencia."
+        }
+      ],
+      "oracao": "Señor, fortalece mi fe cuando el miedo intente dominar mi corazón. Ayúdame a confiar en tu promesa, recordar tu Palabra y obedecer con perseverancia. Amén."
+    }
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "dia": 27,
+  "data": "2027-01-27",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 22–24",
+    "en": "Exodus 22–24",
+    "es": "Éxodo 22–24"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 22,
+      "chapter_end": 24
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 24,
+    "verse_start": 7,
+    "verse_end": 8,
+    "referencia": {
+      "pt": "Êxodo 24:7-8",
+      "en": "Exodus 24:7-8",
+      "es": "Éxodo 24:7-8"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_027.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_027.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/027/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/024.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/027/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/024.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/027/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/024.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/027/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/024.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_027.mp3",
+      "versiculo_central": "audio/en/verses/day_027.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/027/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/en/en-US-AriaNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/en/en-US-AriaNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/en/en-US-AriaNeural/024.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/027/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/en/en-US-JennyNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/en/en-US-JennyNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/en/en-US-JennyNeural/024.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/027/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/en/en-US-GuyNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/en/en-US-GuyNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/en/en-US-GuyNeural/024.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/027/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/en/en-US-BrianNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/en/en-US-BrianNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/en/en-US-BrianNeural/024.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_027.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_027.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/027/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/es/es-ES-ElviraNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/es/es-ES-ElviraNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/es/es-ES-ElviraNeural/024.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/027/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/es/es-MX-DaliaNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/es/es-MX-DaliaNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/es/es-MX-DaliaNeural/024.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/027/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/es/es-ES-AlvaroNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/es/es-ES-AlvaroNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/es/es-ES-AlvaroNeural/024.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/027/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/027/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/027/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_22": "audio/biblia/EXO/es/es-MX-JorgeNeural/022.m4a",
+          "EXO_23": "audio/biblia/EXO/es/es-MX-JorgeNeural/023.m4a",
+          "EXO_24": "audio/biblia/EXO/es/es-MX-JorgeNeural/024.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 22–24 — Justiça, Aliança e Comunhão com Deus",
+      "contexto": "Êxodo 22 a 24 continua a aplicação da lei da aliança à vida do povo. O Senhor orienta Israel sobre justiça, responsabilidade, misericórdia, adoração e fidelidade. O bloco culmina na confirmação da aliança, quando o povo ouve a Palavra de Deus e se compromete a obedecer.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Justiça nas relações e nos prejuízos",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 31
+          },
+          "comentario": "As ordenanças tratam de restituição, responsabilidade, cuidado com o vulnerável e reverência diante de Deus. A aliança alcança a vida concreta, não apenas o culto formal.",
+          "aplicacao": "A fé bíblica deve produzir justiça prática. Deus se importa com a forma como tratamos pessoas, bens, compromissos e necessidades alheias."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Verdade, misericórdia e descanso",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 19
+          },
+          "comentario": "Deus proíbe falso testemunho, injustiça coletiva e exploração. Também ordena descanso, cuidado com a terra e celebrações que mantêm viva a memória da libertação.",
+          "aplicacao": "A obediência a Deus envolve verdade, compaixão e ritmos saudáveis de vida diante do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A confirmação da aliança",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 20,
+            "chapter_end": 24,
+            "verse_end": 18
+          },
+          "comentario": "O Senhor promete guiar o povo e Moisés confirma a aliança com leitura da Palavra, sangue e comunhão diante de Deus. Israel é chamado a caminhar sob a direção divina.",
+          "aplicacao": "A aliança exige escuta, compromisso e dependência da presença de Deus em cada passo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 9,
+            "referencia": "Deuteronômio 6:4-9",
+            "nota": "Mostra que a aliança deveria moldar a escuta, o amor e a vida diária de Israel."
+          },
+          {
+            "book_id": "JER",
+            "chapter": 31,
+            "verse_start": 31,
+            "verse_end": 34,
+            "referencia": "Jeremias 31:31-34",
+            "nota": "Anuncia uma nova aliança escrita no coração do povo de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 18,
+            "verse_end": 22,
+            "referencia": "Hebreus 9:18-22",
+            "nota": "Relaciona a confirmação da aliança no Sinai ao significado do sangue na adoração bíblica."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 26,
+            "verse_start": 26,
+            "verse_end": 28,
+            "referencia": "Mateus 26:26-28",
+            "nota": "Aponta para Cristo e o sangue da nova aliança."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha fé aparece em atitudes justas e responsáveis?",
+        "Tenho ouvido a Palavra de Deus com disposição real para obedecer?",
+        "Reconheço que comunhão com Deus exige compromisso, reverência e fidelidade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 24:7-8 resume o ponto alto do bloco: a Palavra é ouvida, a obediência é assumida e a aliança é confirmada diante do Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 22,
+          "verse_start": 21,
+          "verse_end": 22,
+          "referencia": "Êxodo 22:21-22",
+          "nota": "Mostra o cuidado de Deus com estrangeiros, viúvas e órfãos."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 23,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Êxodo 23:20",
+          "nota": "Apresenta a direção divina para o caminho do povo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 24,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Êxodo 24:7-8",
+          "nota": "Marca a confirmação da aliança entre Deus e Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso soberano de Deus que chama o povo à fidelidade e à obediência."
+        },
+        {
+          "termo": "Justiça",
+          "significado": "Prática concreta da vontade de Deus nas relações humanas."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta de fé de quem ouve a Palavra do Senhor e se submete a ela."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a ouvir tua Palavra com reverência e obedecer com sinceridade. Que minha vida revele justiça, misericórdia e fidelidade diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 22–24 — Justice, Covenant, and Communion with God",
+      "contexto": "Exodus 22 to 24 continues applying the law of the covenant to the life of the people. The Lord guides Israel in justice, responsibility, mercy, worship, and faithfulness. The passage culminates in the confirmation of the covenant, as the people hear God’s Word and commit themselves to obey.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Justice in relationships and losses",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 31
+          },
+          "comentario": "The ordinances address restitution, responsibility, care for the vulnerable, and reverence before God. The covenant reaches concrete life, not only formal worship.",
+          "aplicacao": "Biblical faith should produce practical justice. God cares about how we treat people, possessions, commitments, and the needs of others."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Truth, mercy, and rest",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 19
+          },
+          "comentario": "God forbids false testimony, collective injustice, and exploitation. He also commands rest, care for the land, and celebrations that keep the memory of deliverance alive.",
+          "aplicacao": "Obedience to God involves truth, compassion, and healthy rhythms of life before the Lord."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The confirmation of the covenant",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 20,
+            "chapter_end": 24,
+            "verse_end": 18
+          },
+          "comentario": "The Lord promises to guide the people, and Moses confirms the covenant through the reading of the Word, blood, and communion before God. Israel is called to walk under divine direction.",
+          "aplicacao": "The covenant requires listening, commitment, and dependence on God’s presence at every step."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 9,
+            "referencia": "Deuteronomy 6:4-9",
+            "nota": "Shows that the covenant was meant to shape Israel’s listening, love, and daily life."
+          },
+          {
+            "book_id": "JER",
+            "chapter": 31,
+            "verse_start": 31,
+            "verse_end": 34,
+            "referencia": "Jeremiah 31:31-34",
+            "nota": "Announces a new covenant written on the hearts of God’s people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 18,
+            "verse_end": 22,
+            "referencia": "Hebrews 9:18-22",
+            "nota": "Connects the confirmation of the covenant at Sinai with the meaning of blood in biblical worship."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 26,
+            "verse_start": 26,
+            "verse_end": 28,
+            "referencia": "Matthew 26:26-28",
+            "nota": "Points to Christ and the blood of the new covenant."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my faith appear in just and responsible actions?",
+        "Do I hear God’s Word with a real willingness to obey?",
+        "Do I recognize that communion with God requires commitment, reverence, and faithfulness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 24:7-8 summarizes the high point of the passage: the Word is heard, obedience is embraced, and the covenant is confirmed before the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 22,
+          "verse_start": 21,
+          "verse_end": 22,
+          "referencia": "Exodus 22:21-22",
+          "nota": "Shows God’s care for foreigners, widows, and orphans."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 23,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Exodus 23:20",
+          "nota": "Presents divine guidance for the people’s path."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 24,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Exodus 24:7-8",
+          "nota": "Marks the confirmation of the covenant between God and Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "God’s sovereign commitment that calls his people to faithfulness and obedience."
+        },
+        {
+          "termo": "Justice",
+          "significado": "The concrete practice of God’s will in human relationships."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "The faithful response of those who hear the Lord’s Word and submit to it."
+        }
+      ],
+      "oracao": "Lord, teach me to hear your Word with reverence and obey with sincerity. May my life reveal justice, mercy, and faithfulness before you. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 22–24 — Justicia, Alianza y Comunión con Dios",
+      "contexto": "Éxodo 22 al 24 continúa aplicando la ley de la alianza a la vida del pueblo. El Señor orienta a Israel sobre justicia, responsabilidad, misericordia, adoración y fidelidad. El bloque culmina con la confirmación de la alianza, cuando el pueblo escucha la Palabra de Dios y se compromete a obedecer.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Justicia en las relaciones y los daños",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 31
+          },
+          "comentario": "Las ordenanzas tratan de restitución, responsabilidad, cuidado del vulnerable y reverencia delante de Dios. La alianza alcanza la vida concreta, no solo el culto formal.",
+          "aplicacao": "La fe bíblica debe producir justicia práctica. Dios se interesa por la forma en que tratamos a las personas, los bienes, los compromisos y las necesidades ajenas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Verdad, misericordia y descanso",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 19
+          },
+          "comentario": "Dios prohíbe el falso testimonio, la injusticia colectiva y la explotación. También ordena descanso, cuidado de la tierra y celebraciones que mantienen viva la memoria de la liberación.",
+          "aplicacao": "La obediencia a Dios incluye verdad, compasión y ritmos saludables de vida delante del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La confirmación de la alianza",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 23,
+            "verse_start": 20,
+            "chapter_end": 24,
+            "verse_end": 18
+          },
+          "comentario": "El Señor promete guiar al pueblo y Moisés confirma la alianza con lectura de la Palabra, sangre y comunión delante de Dios. Israel es llamado a caminar bajo la dirección divina.",
+          "aplicacao": "La alianza requiere escucha, compromiso y dependencia de la presencia de Dios en cada paso."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 9,
+            "referencia": "Deuteronomio 6:4-9",
+            "nota": "Muestra que la alianza debía moldear la escucha, el amor y la vida diaria de Israel."
+          },
+          {
+            "book_id": "JER",
+            "chapter": 31,
+            "verse_start": 31,
+            "verse_end": 34,
+            "referencia": "Jeremías 31:31-34",
+            "nota": "Anuncia una nueva alianza escrita en el corazón del pueblo de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 9,
+            "verse_start": 18,
+            "verse_end": 22,
+            "referencia": "Hebreos 9:18-22",
+            "nota": "Relaciona la confirmación de la alianza en Sinaí con el significado de la sangre en la adoración bíblica."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 26,
+            "verse_start": 26,
+            "verse_end": 28,
+            "referencia": "Mateo 26:26-28",
+            "nota": "Apunta a Cristo y a la sangre de la nueva alianza."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi fe aparece en actitudes justas y responsables?",
+        "¿Escucho la Palabra de Dios con disposición real para obedecer?",
+        "¿Reconozco que la comunión con Dios requiere compromiso, reverencia y fidelidad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 24:7-8 resume el punto culminante del bloque: la Palabra es escuchada, la obediencia es asumida y la alianza es confirmada delante del Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 22,
+          "verse_start": 21,
+          "verse_end": 22,
+          "referencia": "Éxodo 22:21-22",
+          "nota": "Muestra el cuidado de Dios por extranjeros, viudas y huérfanos."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 23,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Éxodo 23:20",
+          "nota": "Presenta la dirección divina para el camino del pueblo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 24,
+          "verse_start": 7,
+          "verse_end": 8,
+          "referencia": "Éxodo 24:7-8",
+          "nota": "Marca la confirmación de la alianza entre Dios e Israel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso soberano de Dios que llama a su pueblo a la fidelidad y la obediencia."
+        },
+        {
+          "termo": "Justicia",
+          "significado": "Práctica concreta de la voluntad de Dios en las relaciones humanas."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta de fe de quien escucha la Palabra del Señor y se somete a ella."
+        }
+      ],
+      "oracao": "Señor, enséñame a escuchar tu Palabra con reverencia y obedecer con sinceridad. Que mi vida revele justicia, misericordia y fidelidad delante de ti. Amén."
+    }
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "dia": 77,
+  "data": "2027-03-18",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 23–24; Juízes 1",
+    "en": "Joshua 23–24; Judges 1",
+    "es": "Josué 23–24; Jueces 1"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 23,
+      "chapter_end": 24
+    },
+    {
+      "book_id": "JDG",
+      "chapter_start": 1,
+      "chapter_end": 1
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 24,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Josué 24:15",
+      "en": "Joshua 24:15",
+      "es": "Josué 24:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_077.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_077.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_077.mp3",
+      "versiculo_central": "audio/en/verses/day_077.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_077.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_077.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 23–24; Juízes 1 — Aliança, Escolha e Transição",
+      "contexto": "Esta leitura encerra o ministério de Josué e abre a transição para o período dos juízes. Josué chama Israel a permanecer fiel ao Senhor, renova a aliança e lembra que a terra recebida exige obediência contínua. Juízes 1 mostra que a conquista ainda precisava ser vivida com fidelidade em cada geração.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A despedida de Josué e o chamado à fidelidade",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 16
+          },
+          "comentario": "Josué recorda que o Senhor lutou por Israel e adverte o povo a não se misturar com a idolatria das nações. A vitória recebida pela graça exige perseverança na obediência.",
+          "aplicacao": "A fidelidade não deve depender apenas de momentos marcantes; ela precisa continuar quando a responsabilidade passa para a vida diária."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A renovação da aliança em Siquém",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 33
+          },
+          "comentario": "Josué reúne o povo, relembra a história da graça de Deus e coloca diante de Israel uma escolha clara: servir ao Senhor ou seguir outros deuses.",
+          "aplicacao": "A fé bíblica exige decisão consciente, lealdade integral e rejeição de tudo que compete com Deus no coração."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O início do período dos juízes",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 36
+          },
+          "comentario": "Após a morte de Josué, algumas tribos avançam, mas outras deixam de completar a obediência. A incompletude prepara o cenário espiritual de Juízes.",
+          "aplicacao": "Obediência parcial enfraquece a vida espiritual e abre espaço para compromissos que Deus não aprovou."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 5,
+            "referencia": "Deuteronômio 6:4-5",
+            "nota": "Mostra que amar o Senhor de todo o coração é o centro da aliança."
+          },
+          {
+            "book_id": "1KI",
+            "chapter": 18,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 Reis 18:21",
+            "nota": "Elias também chama o povo a abandonar a divisão espiritual e servir somente ao Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 6,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Mateus 6:24",
+            "nota": "Jesus ensina que ninguém pode servir a dois senhores."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Hebreus 3:14",
+            "nota": "A perseverança confirma a realidade da fé até o fim."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha fé continua firme quando não estou sob forte liderança externa?",
+        "Tenho escolhido servir ao Senhor com integridade, sem dividir o coração?",
+        "Existe alguma área de obediência parcial que precisa ser entregue a Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 24:15 resume a convocação principal da leitura: decidir servir ao Senhor com fidelidade, em contraste com a idolatria e a obediência incompleta."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 23,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Josué 23:10",
+          "nota": "Recorda que a força de Israel vinha do Senhor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 24,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Josué 24:15",
+          "nota": "Apresenta a decisão de servir ao Senhor como prioridade da aliança."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 1,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Juízes 1:19",
+          "nota": "Mostra a tensão entre conquistas reais e obediência ainda incompleta."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso de fidelidade entre Deus e o seu povo, fundamentado na graça e expresso em obediência."
+        },
+        {
+          "termo": "Servir ao Senhor",
+          "significado": "Viver com lealdade prática, adoração exclusiva e submissão à vontade de Deus."
+        },
+        {
+          "termo": "Transição",
+          "significado": "Momento em que uma geração precisa assumir pessoalmente a fé recebida."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a escolher servir-te com todo o coração. Livra-me da obediência parcial e firma minha vida na tua aliança. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 23–24; Judges 1 — Covenant, Choice, and Transition",
+      "contexto": "This reading closes Joshua’s ministry and opens the transition into the period of the judges. Joshua calls Israel to remain faithful to the Lord, renews the covenant, and reminds the people that the land they received calls for continuing obedience. Judges 1 shows that the conquest still had to be lived out faithfully in each generation.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Joshua’s farewell and the call to faithfulness",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 16
+          },
+          "comentario": "Joshua remembers that the Lord fought for Israel and warns the people not to join the idolatry of the nations. Victory received by grace calls for perseverance in obedience.",
+          "aplicacao": "Faithfulness must not depend only on memorable moments; it must continue when responsibility becomes part of daily life."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The covenant renewed at Shechem",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 33
+          },
+          "comentario": "Joshua gathers the people, retells the story of God’s grace, and sets before Israel a clear choice: serve the Lord or follow other gods.",
+          "aplicacao": "Biblical faith requires conscious decision, wholehearted loyalty, and rejection of everything that competes with God in the heart."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The beginning of the period of the judges",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 36
+          },
+          "comentario": "After Joshua’s death, some tribes advance, but others fail to complete their obedience. This incompleteness prepares the spiritual setting of Judges.",
+          "aplicacao": "Partial obedience weakens spiritual life and opens room for compromises God never approved."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 5,
+            "referencia": "Deuteronomy 6:4-5",
+            "nota": "Shows that loving the Lord with all the heart is central to the covenant."
+          },
+          {
+            "book_id": "1KI",
+            "chapter": 18,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 Kings 18:21",
+            "nota": "Elijah also calls the people to abandon spiritual division and serve the Lord alone."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 6,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Matthew 6:24",
+            "nota": "Jesus teaches that no one can serve two masters."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Hebrews 3:14",
+            "nota": "Perseverance confirms the reality of faith to the end."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my faith remain steady when I am not under strong external leadership?",
+        "Have I chosen to serve the Lord with integrity, without a divided heart?",
+        "Is there any area of partial obedience that must be surrendered to God?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 24:15 summarizes the main call of the reading: to choose to serve the Lord faithfully, in contrast to idolatry and incomplete obedience."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 23,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Joshua 23:10",
+          "nota": "Reminds Israel that their strength came from the Lord."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 24,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Joshua 24:15",
+          "nota": "Presents the decision to serve the Lord as the priority of the covenant."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 1,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Judges 1:19",
+          "nota": "Shows the tension between real victories and still incomplete obedience."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "A commitment of faithfulness between God and his people, grounded in grace and expressed in obedience."
+        },
+        {
+          "termo": "Serving the Lord",
+          "significado": "Living with practical loyalty, exclusive worship, and submission to God’s will."
+        },
+        {
+          "termo": "Transition",
+          "significado": "A moment when a generation must personally embrace the faith it received."
+        }
+      ],
+      "oracao": "Lord, help me choose to serve you with all my heart. Deliver me from partial obedience and establish my life in your covenant. Amen."
+    },
+    "es": {
+      "titulo": "Josué 23–24; Jueces 1 — Alianza, Decisión y Transición",
+      "contexto": "Esta lectura cierra el ministerio de Josué y abre la transición hacia el período de los jueces. Josué llama a Israel a permanecer fiel al Señor, renueva la alianza y recuerda que la tierra recibida exige obediencia continua. Jueces 1 muestra que la conquista aún debía vivirse con fidelidad en cada generación.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La despedida de Josué y el llamado a la fidelidad",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 16
+          },
+          "comentario": "Josué recuerda que el Señor peleó por Israel y advierte al pueblo que no se una a la idolatría de las naciones. La victoria recibida por gracia exige perseverancia en la obediencia.",
+          "aplicacao": "La fidelidad no debe depender solo de momentos memorables; debe continuar cuando la responsabilidad llega a la vida diaria."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La alianza renovada en Siquem",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 33
+          },
+          "comentario": "Josué reúne al pueblo, recuerda la historia de la gracia de Dios y pone delante de Israel una decisión clara: servir al Señor o seguir a otros dioses.",
+          "aplicacao": "La fe bíblica exige decisión consciente, lealtad completa y rechazo de todo lo que compite con Dios en el corazón."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El comienzo del período de los jueces",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 36
+          },
+          "comentario": "Después de la muerte de Josué, algunas tribus avanzan, pero otras no completan la obediencia. Esa falta de plenitud prepara el escenario espiritual de Jueces.",
+          "aplicacao": "La obediencia parcial debilita la vida espiritual y abre espacio a compromisos que Dios no aprobó."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 6,
+            "verse_start": 4,
+            "verse_end": 5,
+            "referencia": "Deuteronomio 6:4-5",
+            "nota": "Muestra que amar al Señor con todo el corazón es el centro de la alianza."
+          },
+          {
+            "book_id": "1KI",
+            "chapter": 18,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 Reyes 18:21",
+            "nota": "Elías también llama al pueblo a abandonar la división espiritual y servir solo al Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 6,
+            "verse_start": 24,
+            "verse_end": 24,
+            "referencia": "Mateo 6:24",
+            "nota": "Jesús enseña que nadie puede servir a dos señores."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 14,
+            "verse_end": 14,
+            "referencia": "Hebreos 3:14",
+            "nota": "La perseverancia confirma la realidad de la fe hasta el fin."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi fe permanece firme cuando no estoy bajo un liderazgo externo fuerte?",
+        "¿He elegido servir al Señor con integridad, sin dividir el corazón?",
+        "¿Existe alguna área de obediencia parcial que deba entregar a Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 24:15 resume el llamado principal de la lectura: decidir servir al Señor con fidelidad, en contraste con la idolatría y la obediencia incompleta."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 23,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Josué 23:10",
+          "nota": "Recuerda que la fuerza de Israel venía del Señor."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 24,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Josué 24:15",
+          "nota": "Presenta la decisión de servir al Señor como prioridad de la alianza."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 1,
+          "verse_start": 19,
+          "verse_end": 19,
+          "referencia": "Jueces 1:19",
+          "nota": "Muestra la tensión entre victorias reales y obediencia todavía incompleta."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso de fidelidad entre Dios y su pueblo, fundamentado en la gracia y expresado en obediencia."
+        },
+        {
+          "termo": "Servir al Señor",
+          "significado": "Vivir con lealtad práctica, adoración exclusiva y sumisión a la voluntad de Dios."
+        },
+        {
+          "termo": "Transición",
+          "significado": "Momento en que una generación debe asumir personalmente la fe recibida."
+        }
+      ],
+      "oracao": "Señor, ayúdame a elegir servirte con todo mi corazón. Líbrame de la obediencia parcial y afirma mi vida en tu alianza. Amén."
+    }
+  }
+}

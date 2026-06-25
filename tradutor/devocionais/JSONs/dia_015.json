@@ -1,0 +1,512 @@
+{
+  "dia": 15,
+  "data": "2027-01-15",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 38–40",
+    "en": "Genesis 38–40",
+    "es": "Génesis 38–40"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 38,
+      "chapter_end": 40
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 39,
+    "verse_start": 2,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Gênesis 39:2",
+      "en": "Genesis 39:2",
+      "es": "Génesis 39:2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_015.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_015.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/015/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/040.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/015/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/040.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/015/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/040.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/015/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/040.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_015.mp3",
+      "versiculo_central": "audio/en/verses/day_015.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/015/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/en/en-US-AriaNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/en/en-US-AriaNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/en/en-US-AriaNeural/040.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/015/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/en/en-US-JennyNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/en/en-US-JennyNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/en/en-US-JennyNeural/040.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/015/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/en/en-US-GuyNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/en/en-US-GuyNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/en/en-US-GuyNeural/040.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/015/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/en/en-US-BrianNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/en/en-US-BrianNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/en/en-US-BrianNeural/040.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_015.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_015.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/015/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/es/es-ES-ElviraNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/es/es-ES-ElviraNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/es/es-ES-ElviraNeural/040.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/015/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/es/es-MX-DaliaNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/es/es-MX-DaliaNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/es/es-MX-DaliaNeural/040.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/015/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/es/es-ES-AlvaroNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/es/es-ES-AlvaroNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/es/es-ES-AlvaroNeural/040.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/015/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/015/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/015/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_38": "audio/biblia/GEN/es/es-MX-JorgeNeural/038.m4a",
+          "GEN_39": "audio/biblia/GEN/es/es-MX-JorgeNeural/039.m4a",
+          "GEN_40": "audio/biblia/GEN/es/es-MX-JorgeNeural/040.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 38–40 — Falhas Humanas e Presença de Deus",
+      "contexto": "Gênesis 38 a 40 alterna entre a história de Judá e a trajetória de José no Egito. O texto expõe pecado, injustiça e sofrimento, mas também mostra que Deus preserva sua promessa e permanece com José em situações de humilhação e prisão.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Judá e Tamar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 30
+          },
+          "comentario": "A história revela falhas morais, negligência e a complexidade da linhagem pela qual Deus continuaria sua promessa.",
+          "aplicacao": "Deus não esconde o pecado humano, mas sua graça pode agir em histórias quebradas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José na casa de Potifar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 23
+          },
+          "comentario": "José prospera porque o Senhor está com ele, mas também enfrenta falsa acusação e prisão por permanecer fiel.",
+          "aplicacao": "A fidelidade a Deus pode trazer custos, mas a presença do Senhor é maior que a injustiça sofrida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José interpreta sonhos na prisão",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 23
+          },
+          "comentario": "Na prisão, José serve, discerne e reconhece que a interpretação pertence a Deus, mesmo sendo depois esquecido.",
+          "aplicacao": "Servir com fidelidade em lugares difíceis prepara o coração para os propósitos de Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Salmos 105:17-19",
+            "nota": "Recorda o sofrimento de José até o cumprimento da palavra de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 1,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Mateus 1:3",
+            "nota": "Inclui Judá e Tamar na genealogia que conduz a Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Permaneço fiel quando fazer o certo custa caro?",
+        "Reconheço a presença de Deus em ambientes difíceis?",
+        "Sirvo com integridade mesmo quando não recebo reconhecimento imediato?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 39:2 destaca que a presença do Senhor acompanhava José, mesmo em terra estrangeira e em meio a provações."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 38,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Gênesis 38:26",
+          "nota": "Mostra Judá reconhecendo sua culpa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 39,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Gênesis 39:2",
+          "nota": "Afirma que o Senhor estava com José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 40,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Gênesis 40:8",
+          "nota": "Reconhece que a interpretação pertence a Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Presença de Deus",
+          "significado": "Realidade do cuidado do Senhor mesmo em sofrimento e injustiça."
+        },
+        {
+          "termo": "Integridade",
+          "significado": "Fidelidade a Deus quando há tentação ou pressão."
+        },
+        {
+          "termo": "Providência",
+          "significado": "Condução divina mesmo quando José parece esquecido."
+        }
+      ],
+      "oracao": "Senhor, sustenta minha integridade quando eu enfrentar pressão ou injustiça. Que tua presença seja minha força e que eu continue fiel onde estiver. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 38–40 — Human Failure and God's Presence",
+      "contexto": "Genesis 38 to 40 alternates between Judah's story and Joseph's journey in Egypt. The text exposes sin, injustice, and suffering, but also shows that God preserves his promise and remains with Joseph in humiliation and prison.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Judah and Tamar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 30
+          },
+          "comentario": "The story reveals moral failure, negligence, and the complexity of the lineage through which God would continue his promise.",
+          "aplicacao": "God does not hide human sin, but his grace can act in broken stories."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Joseph in Potiphar's house",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 23
+          },
+          "comentario": "Joseph prospers because the Lord is with him, but he also faces false accusation and prison for remaining faithful.",
+          "aplicacao": "Faithfulness to God can be costly, but the Lord's presence is greater than suffered injustice."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joseph interprets dreams in prison",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 23
+          },
+          "comentario": "In prison, Joseph serves, discerns, and recognizes that interpretation belongs to God, even though he is later forgotten.",
+          "aplicacao": "Serving faithfully in difficult places prepares the heart for God's purposes."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Psalm 105:17-19",
+            "nota": "Recalls Joseph's suffering until God's word was fulfilled."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 1,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Matthew 1:3",
+            "nota": "Includes Judah and Tamar in the genealogy that leads to Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I remain faithful when doing what is right is costly?",
+        "Do I recognize God's presence in difficult environments?",
+        "Do I serve with integrity even when I receive no immediate recognition?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 39:2 highlights that the Lord's presence accompanied Joseph, even in a foreign land and amid trials."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 38,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Genesis 38:26",
+          "nota": "Shows Judah acknowledging his guilt."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 39,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Genesis 39:2",
+          "nota": "Affirms that the Lord was with Joseph."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 40,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Genesis 40:8",
+          "nota": "Recognizes that interpretation belongs to God."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "God's presence",
+          "significado": "The reality of the Lord's care even in suffering and injustice."
+        },
+        {
+          "termo": "Integrity",
+          "significado": "Faithfulness to God under temptation or pressure."
+        },
+        {
+          "termo": "Providence",
+          "significado": "Divine guidance even when Joseph seems forgotten."
+        }
+      ],
+      "oracao": "Lord, sustain my integrity when I face pressure or injustice. May your presence be my strength, and may I remain faithful wherever I am. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 38–40 — Fallas Humanas y Presencia de Dios",
+      "contexto": "Génesis 38 al 40 alterna entre la historia de Judá y el camino de José en Egipto. El texto expone pecado, injusticia y sufrimiento, pero también muestra que Dios preserva su promesa y permanece con José en la humillación y la prisión.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Judá y Tamar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 30
+          },
+          "comentario": "La historia revela fallas morales, negligencia y la complejidad del linaje por el cual Dios continuaría su promesa.",
+          "aplicacao": "Dios no esconde el pecado humano, pero su gracia puede actuar en historias quebradas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José en la casa de Potifar",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 23
+          },
+          "comentario": "José prospera porque el Señor está con él, pero también enfrenta falsa acusación y prisión por permanecer fiel.",
+          "aplicacao": "La fidelidad a Dios puede traer costos, pero la presencia del Señor es mayor que la injusticia sufrida."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José interpreta sueños en la prisión",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 40,
+            "verse_start": 1,
+            "chapter_end": 40,
+            "verse_end": 23
+          },
+          "comentario": "En la prisión, José sirve, discierne y reconoce que la interpretación pertenece a Dios, aunque después sea olvidado.",
+          "aplicacao": "Servir con fidelidad en lugares difíciles prepara el corazón para los propósitos de Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 17,
+            "verse_end": 19,
+            "referencia": "Salmos 105:17-19",
+            "nota": "Recuerda el sufrimiento de José hasta el cumplimiento de la palabra de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 1,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Mateo 1:3",
+            "nota": "Incluye a Judá y Tamar en la genealogía que conduce a Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Permanezco fiel cuando hacer lo correcto tiene un costo?",
+        "¿Reconozco la presencia de Dios en ambientes difíciles?",
+        "¿Sirvo con integridad aunque no reciba reconocimiento inmediato?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 39:2 destaca que la presencia del Señor acompañaba a José, aun en tierra extranjera y en medio de pruebas."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 38,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Génesis 38:26",
+          "nota": "Muestra a Judá reconociendo su culpa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 39,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Génesis 39:2",
+          "nota": "Afirma que el Señor estaba con José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 40,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Génesis 40:8",
+          "nota": "Reconoce que la interpretación pertenece a Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Presencia de Dios",
+          "significado": "Realidad del cuidado del Señor incluso en sufrimiento e injusticia."
+        },
+        {
+          "termo": "Integridad",
+          "significado": "Fidelidad a Dios ante tentación o presión."
+        },
+        {
+          "termo": "Providencia",
+          "significado": "Conducción divina aunque José parezca olvidado."
+        }
+      ],
+      "oracao": "Señor, sostén mi integridad cuando enfrente presión o injusticia. Que tu presencia sea mi fuerza y que permanezca fiel donde esté. Amén."
+    }
+  }
+}

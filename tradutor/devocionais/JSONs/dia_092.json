@@ -1,0 +1,479 @@
+{
+  "dia": 92,
+  "data": "2027-04-02",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 21–24",
+    "en": "1 Samuel 21–24",
+    "es": "1 Samuel 21–24"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 21,
+      "chapter_end": 24
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 24,
+    "verse_start": 12,
+    "verse_end": 12,
+    "referencia": {
+      "pt": "1 Samuel 24:12",
+      "en": "1 Samuel 24:12",
+      "es": "1 Samuel 24:12"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_092.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_092.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_092.mp3",
+      "versiculo_central": "audio/en/verses/day_092.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_092.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_092.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 21–24 — Integridade no Deserto e Confiança na Justiça de Deus",
+      "contexto": "1 Samuel 21 a 24 mostra Davi como fugitivo, pressionado pela perseguição de Saul e cercado por decisões difíceis. A leitura revela fraquezas humanas, injustiças dolorosas e a formação de um líder que aprende a confiar no tempo e na justiça do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Davi foge e aprende no caminho da fragilidade",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 15
+          },
+          "comentario": "Davi busca pão, proteção e escape. O texto mostra um homem escolhido por Deus, mas ainda vulnerável, aprendendo em meio ao medo e à instabilidade.",
+          "aplicacao": "A fragilidade não impede Deus de continuar formando seus servos. Em tempos de medo, precisamos buscar direção e misericórdia no Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A injustiça contra os sacerdotes",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 23
+          },
+          "comentario": "A violência de Saul contra os sacerdotes revela o perigo de um coração dominado pelo medo e pelo poder. A injustiça produz sofrimento real, mas não escapa ao olhar de Deus.",
+          "aplicacao": "O abuso de poder e a dureza do coração devem ser rejeitados. Deus chama seu povo a proteger a vida e praticar justiça."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Deus guia Davi no deserto",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 29
+          },
+          "comentario": "Davi consulta o Senhor, livra Queila e continua sendo preservado. Mesmo no deserto, Deus dá direção, livramento e companheirismo.",
+          "aplicacao": "A direção de Deus pode ser buscada em cada decisão, especialmente quando o caminho parece inseguro."
+        },
+        {
+          "ordem": 4,
+          "titulo": "Davi poupa Saul e entrega o julgamento ao Senhor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 22
+          },
+          "comentario": "Davi tem oportunidade de matar Saul, mas escolhe não tomar a justiça em suas próprias mãos. Ele entrega sua causa ao Senhor e preserva a integridade.",
+          "aplicacao": "A fé madura não confunde oportunidade com permissão. Esperar pela justiça de Deus é parte da obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Salmos 34",
+            "nota": "Salmo associado ao período em que Davi buscou escape, destacando o cuidado do Senhor pelos aflitos."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 57,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Salmos 57",
+            "nota": "Expressa confiança em Deus no contexto de perigo e refúgio."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romanos 12:19",
+            "nota": "Ensina a não tomar vingança, mas confiar a justiça ao Senhor."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 23,
+            "verse_end": 23,
+            "referencia": "1 Pedro 2:23",
+            "nota": "Apresenta Cristo como aquele que sofreu injustamente e entregou sua causa ao justo Juiz."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Consigo buscar a direção de Deus quando estou sob pressão?",
+        "Tenho rejeitado atalhos que ferem a integridade?",
+        "Confio que Deus é justo mesmo quando a justiça parece demorar?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 24:12 resume a postura de Davi: ele recusa a vingança pessoal e entrega sua causa ao julgamento justo do Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "1 Samuel 22:2",
+          "nota": "Mostra Davi reunindo pessoas aflitas, formando uma comunidade em meio ao deserto."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 23,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "1 Samuel 23:16",
+          "nota": "Destaca Jônatas fortalecendo Davi em Deus."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 24:12",
+          "nota": "Expressa a confiança de Davi na justiça do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integridade",
+          "significado": "Fidelidade ao que é correto diante de Deus, mesmo quando há vantagem em agir de outro modo."
+        },
+        {
+          "termo": "Deserto",
+          "significado": "Lugar de provação, dependência e formação espiritual."
+        },
+        {
+          "termo": "Justiça de Deus",
+          "significado": "A certeza de que o Senhor julga retamente e no tempo certo."
+        }
+      ],
+      "oracao": "Senhor, guarda minha integridade nos dias difíceis. Ensina-me a buscar tua direção, rejeitar a vingança e confiar que a tua justiça é perfeita. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 21–24 — Integrity in the Wilderness and Trust in God’s Justice",
+      "contexto": "1 Samuel 21 to 24 shows David as a fugitive, pressured by Saul’s persecution and surrounded by difficult decisions. The reading reveals human weakness, painful injustice, and the formation of a leader who learns to trust the Lord’s timing and justice.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David flees and learns in weakness",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 15
+          },
+          "comentario": "David seeks bread, protection, and escape. The text shows a man chosen by God, yet still vulnerable, learning amid fear and instability.",
+          "aplicacao": "Weakness does not prevent God from continuing to form his servants. In times of fear, we need to seek direction and mercy in the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Injustice against the priests",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 23
+          },
+          "comentario": "Saul’s violence against the priests reveals the danger of a heart ruled by fear and power. Injustice produces real suffering, but it does not escape God’s sight.",
+          "aplicacao": "The abuse of power and hardness of heart must be rejected. God calls his people to protect life and practice justice."
+        },
+        {
+          "ordem": 3,
+          "titulo": "God guides David in the wilderness",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 29
+          },
+          "comentario": "David seeks the Lord, delivers Keilah, and continues to be preserved. Even in the wilderness, God gives direction, deliverance, and companionship.",
+          "aplicacao": "God’s direction can be sought in every decision, especially when the path seems unsafe."
+        },
+        {
+          "ordem": 4,
+          "titulo": "David spares Saul and leaves judgment to the Lord",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 22
+          },
+          "comentario": "David has an opportunity to kill Saul, but chooses not to take justice into his own hands. He entrusts his cause to the Lord and preserves integrity.",
+          "aplicacao": "Mature faith does not confuse opportunity with permission. Waiting for God’s justice is part of obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Psalm 34",
+            "nota": "A psalm associated with the period when David sought escape, highlighting the Lord’s care for the afflicted."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 57,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Psalm 57",
+            "nota": "Expresses trust in God in a context of danger and refuge."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romans 12:19",
+            "nota": "Teaches not to take revenge, but to entrust justice to the Lord."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 23,
+            "verse_end": 23,
+            "referencia": "1 Peter 2:23",
+            "nota": "Presents Christ as the one who suffered unjustly and entrusted his cause to the righteous Judge."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Can I seek God’s direction when I am under pressure?",
+        "Have I rejected shortcuts that compromise integrity?",
+        "Do I trust that God is just even when justice seems delayed?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 24:12 summarizes David’s posture: he refuses personal revenge and entrusts his cause to the righteous judgment of the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "1 Samuel 22:2",
+          "nota": "Shows David gathering distressed people, forming a community in the wilderness."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 23,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "1 Samuel 23:16",
+          "nota": "Highlights Jonathan strengthening David in God."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 24:12",
+          "nota": "Expresses David’s trust in the Lord’s justice."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integrity",
+          "significado": "Faithfulness to what is right before God, even when there is an advantage in acting otherwise."
+        },
+        {
+          "termo": "Wilderness",
+          "significado": "A place of testing, dependence, and spiritual formation."
+        },
+        {
+          "termo": "God’s justice",
+          "significado": "The certainty that the Lord judges rightly and in the proper time."
+        }
+      ],
+      "oracao": "Lord, guard my integrity in difficult days. Teach me to seek your direction, reject revenge, and trust that your justice is perfect. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 21–24 — Integridad en el Desierto y Confianza en la Justicia de Dios",
+      "contexto": "1 Samuel 21 al 24 muestra a David como fugitivo, presionado por la persecución de Saúl y rodeado de decisiones difíciles. La lectura revela debilidades humanas, injusticias dolorosas y la formación de un líder que aprende a confiar en el tiempo y la justicia del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David huye y aprende en la fragilidad",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 15
+          },
+          "comentario": "David busca pan, protección y escape. El texto muestra a un hombre elegido por Dios, pero todavía vulnerable, aprendiendo en medio del miedo y la inestabilidad.",
+          "aplicacao": "La fragilidad no impide que Dios siga formando a sus siervos. En tiempos de miedo, necesitamos buscar dirección y misericordia en el Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La injusticia contra los sacerdotes",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 23
+          },
+          "comentario": "La violencia de Saúl contra los sacerdotes revela el peligro de un corazón dominado por el miedo y el poder. La injusticia produce sufrimiento real, pero no escapa a la mirada de Dios.",
+          "aplicacao": "El abuso de poder y la dureza del corazón deben ser rechazados. Dios llama a su pueblo a proteger la vida y practicar la justicia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Dios guía a David en el desierto",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 29
+          },
+          "comentario": "David consulta al Señor, libra a Keila y sigue siendo preservado. Incluso en el desierto, Dios da dirección, libramiento y compañía.",
+          "aplicacao": "La dirección de Dios puede buscarse en cada decisión, especialmente cuando el camino parece inseguro."
+        },
+        {
+          "ordem": 4,
+          "titulo": "David perdona a Saúl y entrega el juicio al Señor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 22
+          },
+          "comentario": "David tiene oportunidad de matar a Saúl, pero elige no tomar la justicia en sus propias manos. Entrega su causa al Señor y preserva la integridad.",
+          "aplicacao": "La fe madura no confunde oportunidad con permiso. Esperar la justicia de Dios es parte de la obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 34,
+            "verse_start": 1,
+            "verse_end": 22,
+            "referencia": "Salmos 34",
+            "nota": "Salmo asociado al período en que David buscó escape, destacando el cuidado del Señor por los afligidos."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 57,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "Salmos 57",
+            "nota": "Expresa confianza en Dios en un contexto de peligro y refugio."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 19,
+            "referencia": "Romanos 12:19",
+            "nota": "Enseña a no tomar venganza, sino confiar la justicia al Señor."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 23,
+            "verse_end": 23,
+            "referencia": "1 Pedro 2:23",
+            "nota": "Presenta a Cristo como aquel que sufrió injustamente y entregó su causa al justo Juez."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Puedo buscar la dirección de Dios cuando estoy bajo presión?",
+        "¿He rechazado atajos que dañan la integridad?",
+        "¿Confío en que Dios es justo aunque la justicia parezca tardar?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 24:12 resume la postura de David: rechaza la venganza personal y entrega su causa al juicio justo del Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 22,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "1 Samuel 22:2",
+          "nota": "Muestra a David reuniendo personas afligidas, formando una comunidad en medio del desierto."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 23,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "1 Samuel 23:16",
+          "nota": "Destaca a Jonatán fortaleciendo a David en Dios."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "1 Samuel 24:12",
+          "nota": "Expresa la confianza de David en la justicia del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Integridad",
+          "significado": "Fidelidad a lo que es correcto delante de Dios, aun cuando haya ventaja en actuar de otro modo."
+        },
+        {
+          "termo": "Desierto",
+          "significado": "Lugar de prueba, dependencia y formación espiritual."
+        },
+        {
+          "termo": "Justicia de Dios",
+          "significado": "La certeza de que el Señor juzga rectamente y en el tiempo adecuado."
+        }
+      ],
+      "oracao": "Señor, guarda mi integridad en los días difíciles. Enséñame a buscar tu dirección, rechazar la venganza y confiar en que tu justicia es perfecta. Amén."
+    }
+  }
+}

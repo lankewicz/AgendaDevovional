@@ -1,0 +1,548 @@
+{
+  "dia": 62,
+  "data": "2027-03-03",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 8–11",
+    "en": "Deuteronomy 8–11",
+    "es": "Deuteronomio 8–11"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 8,
+      "chapter_end": 11
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 10,
+    "verse_start": 12,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "Deuteronômio 10:12-13",
+      "en": "Deuteronomy 10:12-13",
+      "es": "Deuteronomio 10:12-13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_062.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_062.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/062/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/pt/pt-BR-FranciscaNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/pt/pt-BR-FranciscaNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/pt/pt-BR-FranciscaNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/pt/pt-BR-FranciscaNeural/011.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/062/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/pt/pt-BR-ThalitaNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/pt/pt-BR-ThalitaNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/pt/pt-BR-ThalitaNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/pt/pt-BR-ThalitaNeural/011.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/062/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/pt/pt-BR-AntonioNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/pt/pt-BR-AntonioNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/pt/pt-BR-AntonioNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/pt/pt-BR-AntonioNeural/011.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/062/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/pt/pt-PT-DuarteNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/pt/pt-PT-DuarteNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/pt/pt-PT-DuarteNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/pt/pt-PT-DuarteNeural/011.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_062.mp3",
+      "versiculo_central": "audio/en/verses/day_062.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/062/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/en/en-US-AriaNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/en/en-US-AriaNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/en/en-US-AriaNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/en/en-US-AriaNeural/011.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/062/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/en/en-US-JennyNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/en/en-US-JennyNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/en/en-US-JennyNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/en/en-US-JennyNeural/011.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/062/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/en/en-US-GuyNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/en/en-US-GuyNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/en/en-US-GuyNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/en/en-US-GuyNeural/011.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/062/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/en/en-US-BrianNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/en/en-US-BrianNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/en/en-US-BrianNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/en/en-US-BrianNeural/011.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_062.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_062.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/062/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/es/es-ES-ElviraNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/es/es-ES-ElviraNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/es/es-ES-ElviraNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/es/es-ES-ElviraNeural/011.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/062/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/es/es-MX-DaliaNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/es/es-MX-DaliaNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/es/es-MX-DaliaNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/es/es-MX-DaliaNeural/011.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/062/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/es/es-ES-AlvaroNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/es/es-ES-AlvaroNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/es/es-ES-AlvaroNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/es/es-ES-AlvaroNeural/011.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/062/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/062/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/062/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "DEU_8": "audio/biblia/DEU/es/es-MX-JorgeNeural/008.m4a",
+          "DEU_9": "audio/biblia/DEU/es/es-MX-JorgeNeural/009.m4a",
+          "DEU_10": "audio/biblia/DEU/es/es-MX-JorgeNeural/010.m4a",
+          "DEU_11": "audio/biblia/DEU/es/es-MX-JorgeNeural/011.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 8–11 — Lembrar, Amar e Obedecer",
+      "contexto": "Deuteronômio 8 a 11 chama Israel a lembrar o caminho pelo deserto, reconhecer que a vida depende do Senhor e permanecer fiel na terra prometida. Moisés adverte contra o orgulho, relembra a misericórdia de Deus após o pecado do povo e resume a aliança como vida de temor, amor, serviço e obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A memória que protege contra o orgulho",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 20
+          },
+          "comentario": "Moisés lembra que Deus sustentou o povo no deserto para ensiná-lo a depender da sua palavra, não apenas do pão.",
+          "aplicacao": "A prosperidade não deve produzir esquecimento. Tudo o que temos deve nos conduzir à gratidão e à dependência de Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A misericórdia de Deus diante da infidelidade",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 11
+          },
+          "comentario": "Israel não entraria na terra por justiça própria. A história do bezerro de ouro mostra a gravidade do pecado e a intercessão de Moisés.",
+          "aplicacao": "A salvação e a permanência diante de Deus não se apoiam em mérito humano, mas na misericórdia do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O coração da aliança",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 10,
+            "verse_start": 12,
+            "chapter_end": 11,
+            "verse_end": 32
+          },
+          "comentario": "Moisés resume o chamado de Deus: temer, amar, servir e guardar seus caminhos. A obediência deveria brotar de um coração entregue ao Senhor.",
+          "aplicacao": "Amar a Deus envolve escolhas concretas, direção diária e fidelidade em todas as áreas da vida."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Salmos 78:5-8",
+            "nota": "Recorda a importância de transmitir às gerações futuras os feitos e mandamentos do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 4,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Mateus 4:4",
+            "nota": "Jesus cita Deuteronômio para afirmar que o ser humano vive da palavra de Deus."
+          },
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Colossenses 3:1-2",
+            "nota": "Chama o povo de Cristo a orientar a vida por aquilo que vem de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho lembrado com gratidão o cuidado de Deus ao longo do caminho?",
+        "Meu coração depende mais das circunstâncias ou da palavra do Senhor?",
+        "Minha obediência nasce de amor sincero a Deus?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 10:12-13 resume o chamado do bloco: temer, amar, servir e obedecer ao Senhor para viver segundo sua aliança."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 8,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Deuteronômio 8:3",
+          "nota": "Ensina que a vida depende da palavra que procede de Deus."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Deuteronômio 9:6",
+          "nota": "Mostra que a bênção não se baseia na justiça própria do povo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 10,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Deuteronômio 10:12-13",
+          "nota": "Resume a resposta de amor e obediência esperada do povo da aliança."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memória",
+          "significado": "Lembrar os feitos de Deus para não cair no orgulho e na ingratidão."
+        },
+        {
+          "termo": "Temor do Senhor",
+          "significado": "Reverência obediente diante da santidade e da bondade de Deus."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta prática de amor e fidelidade ao Deus da aliança."
+        }
+      ],
+      "oracao": "Senhor, livra-me do esquecimento e do orgulho. Ensina-me a viver pela tua palavra, amar-te de todo o coração e obedecer aos teus caminhos com fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 8–11 — Remember, Love, and Obey",
+      "contexto": "Deuteronomy 8 to 11 calls Israel to remember the journey through the wilderness, recognize that life depends on the Lord, and remain faithful in the promised land. Moses warns against pride, recalls God's mercy after the people's sin, and summarizes the covenant as a life of fear, love, service, and obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Memory that guards against pride",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 20
+          },
+          "comentario": "Moses reminds the people that God sustained them in the wilderness to teach them dependence on his word, not only on bread.",
+          "aplicacao": "Prosperity must not produce forgetfulness. Everything we have should lead us to gratitude and dependence on God."
+        },
+        {
+          "ordem": 2,
+          "titulo": "God's mercy in the face of unfaithfulness",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 11
+          },
+          "comentario": "Israel would not enter the land because of its own righteousness. The account of the golden calf shows the seriousness of sin and Moses' intercession.",
+          "aplicacao": "Salvation and standing before God do not rest on human merit, but on the Lord's mercy."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The heart of the covenant",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 10,
+            "verse_start": 12,
+            "chapter_end": 11,
+            "verse_end": 32
+          },
+          "comentario": "Moses summarizes God's call: to fear, love, serve, and keep his ways. Obedience was to flow from a heart given to the Lord.",
+          "aplicacao": "Loving God involves concrete choices, daily direction, and faithfulness in every area of life."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Psalm 78:5-8",
+            "nota": "Recalls the importance of passing on the Lord's works and commandments to future generations."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 4,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Matthew 4:4",
+            "nota": "Jesus quotes Deuteronomy to affirm that humanity lives by the word of God."
+          },
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Colossians 3:1-2",
+            "nota": "Calls Christ's people to set their lives on what comes from God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I remember God's care with gratitude?",
+        "Does my heart depend more on circumstances or on the word of the Lord?",
+        "Does my obedience flow from sincere love for God?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 10:12-13 summarizes the call of the passage: to fear, love, serve, and obey the Lord according to his covenant."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 8,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Deuteronomy 8:3",
+          "nota": "Teaches that life depends on the word that comes from God."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Deuteronomy 9:6",
+          "nota": "Shows that blessing is not based on the people's own righteousness."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 10,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Deuteronomy 10:12-13",
+          "nota": "Summarizes the response of love and obedience expected from the covenant people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memory",
+          "significado": "Remembering God's works in order not to fall into pride and ingratitude."
+        },
+        {
+          "termo": "Fear of the Lord",
+          "significado": "Obedient reverence before God's holiness and goodness."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "The practical response of love and faithfulness to the God of the covenant."
+        }
+      ],
+      "oracao": "Lord, deliver me from forgetfulness and pride. Teach me to live by your word, love you with all my heart, and obey your ways faithfully. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 8–11 — Recordar, Amar y Obedecer",
+      "contexto": "Deuteronomio 8 al 11 llama a Israel a recordar el camino por el desierto, reconocer que la vida depende del Señor y permanecer fiel en la tierra prometida. Moisés advierte contra el orgullo, recuerda la misericordia de Dios después del pecado del pueblo y resume la alianza como vida de temor, amor, servicio y obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La memoria que protege contra el orgullo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 20
+          },
+          "comentario": "Moisés recuerda que Dios sostuvo al pueblo en el desierto para enseñarle a depender de su palabra, no solo del pan.",
+          "aplicacao": "La prosperidad no debe producir olvido. Todo lo que tenemos debe conducirnos a la gratitud y a la dependencia de Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La misericordia de Dios ante la infidelidad",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 11
+          },
+          "comentario": "Israel no entraría en la tierra por justicia propia. La historia del becerro de oro muestra la gravedad del pecado y la intercesión de Moisés.",
+          "aplicacao": "La salvación y la permanencia delante de Dios no se apoyan en mérito humano, sino en la misericordia del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El corazón de la alianza",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 10,
+            "verse_start": 12,
+            "chapter_end": 11,
+            "verse_end": 32
+          },
+          "comentario": "Moisés resume el llamado de Dios: temer, amar, servir y guardar sus caminos. La obediencia debía brotar de un corazón entregado al Señor.",
+          "aplicacao": "Amar a Dios implica decisiones concretas, dirección diaria y fidelidad en todas las áreas de la vida."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 5,
+            "verse_end": 8,
+            "referencia": "Salmos 78:5-8",
+            "nota": "Recuerda la importancia de transmitir a las futuras generaciones las obras y mandamientos del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 4,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Mateo 4:4",
+            "nota": "Jesús cita Deuteronomio para afirmar que el ser humano vive de la palabra de Dios."
+          },
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Colosenses 3:1-2",
+            "nota": "Llama al pueblo de Cristo a orientar la vida por lo que viene de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Recuerdo con gratitud el cuidado de Dios en el camino?",
+        "¿Mi corazón depende más de las circunstancias o de la palabra del Señor?",
+        "¿Mi obediencia nace de un amor sincero a Dios?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 10:12-13 resume el llamado del bloque: temer, amar, servir y obedecer al Señor según su alianza."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 8,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Deuteronomio 8:3",
+          "nota": "Enseña que la vida depende de la palabra que procede de Dios."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 9,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Deuteronomio 9:6",
+          "nota": "Muestra que la bendición no se basa en la justicia propia del pueblo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 10,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Deuteronomio 10:12-13",
+          "nota": "Resume la respuesta de amor y obediencia esperada del pueblo de la alianza."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Memoria",
+          "significado": "Recordar las obras de Dios para no caer en orgullo e ingratitud."
+        },
+        {
+          "termo": "Temor del Señor",
+          "significado": "Reverencia obediente ante la santidad y la bondad de Dios."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta práctica de amor y fidelidad al Dios de la alianza."
+        }
+      ],
+      "oracao": "Señor, líbrame del olvido y del orgullo. Enséñame a vivir por tu palabra, amarte de todo corazón y obedecer tus caminos con fidelidad. Amén."
+    }
+  }
+}

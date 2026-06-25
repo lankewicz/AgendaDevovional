@@ -1,0 +1,416 @@
+{
+  "dia": 76,
+  "data": "2027-03-17",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Josué 20–22",
+    "en": "Joshua 20–22",
+    "es": "Josué 20–22"
+  },
+  "leitura": [
+    {
+      "book_id": "JOS",
+      "chapter_start": 20,
+      "chapter_end": 22
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JOS",
+    "chapter": 21,
+    "verse_start": 45,
+    "verse_end": 45,
+    "referencia": {
+      "pt": "Josué 21:45",
+      "en": "Joshua 21:45",
+      "es": "Josué 21:45"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_076.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_076.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_076.mp3",
+      "versiculo_central": "audio/en/verses/day_076.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_076.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_076.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Josué 20–22 — Refúgio, Fidelidade e Unidade",
+      "contexto": "Josué 20 a 22 reúne três temas importantes: as cidades de refúgio, a porção dos levitas e o retorno das tribos do oriente. A leitura mostra que Deus cuida da justiça, cumpre suas promessas e chama seu povo a preservar a unidade diante de possíveis conflitos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As cidades de refúgio",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 9
+          },
+          "comentario": "As cidades de refúgio revelam que a justiça de Deus não é movida por vingança desordenada, mas por verdade, proteção e processo correto.",
+          "aplicacao": "A fé bíblica nos chama a valorizar justiça, misericórdia e responsabilidade diante dos conflitos humanos."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A fidelidade do Senhor às suas promessas",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 45
+          },
+          "comentario": "Os levitas recebem suas cidades, e o texto declara que nenhuma boa promessa do Senhor falhou. A distribuição confirma a fidelidade de Deus ao seu povo.",
+          "aplicacao": "A confiança do crente não está na estabilidade das circunstâncias, mas no caráter fiel de Deus."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O altar de testemunho e a unidade do povo",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 34
+          },
+          "comentario": "As tribos do oriente retornam e levantam um altar que quase gera conflito. O diálogo esclarece a intenção e preserva a unidade entre irmãos.",
+          "aplicacao": "Antes de julgar intenções, o povo de Deus deve buscar verdade, escuta e reconciliação."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 35,
+            "verse_start": 9,
+            "verse_end": 15,
+            "referencia": "Números 35:9-15",
+            "nota": "Apresenta a instituição das cidades de refúgio."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebreus 6:18",
+            "nota": "Usa a linguagem de refúgio para falar da esperança em Deus."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Efésios 4:1-6",
+            "nota": "Exorta à preservação da unidade no vínculo da paz."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha confiança está firmada na fidelidade de Deus?",
+        "Busco justiça com misericórdia e responsabilidade?",
+        "Procuro diálogo antes de levantar acusações contra irmãos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 21:45 resume a leitura ao declarar a fidelidade absoluta do Senhor no cumprimento de suas promessas."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 20,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Josué 20:3",
+          "nota": "Mostra o propósito das cidades de refúgio."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 21,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Josué 21:45",
+          "nota": "Declara que as promessas do Senhor se cumpriram."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 22,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Josué 22:27",
+          "nota": "Apresenta o altar como testemunho de pertencimento ao Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Refúgio",
+          "significado": "Lugar de proteção e justiça estabelecido por Deus."
+        },
+        {
+          "termo": "Fidelidade",
+          "significado": "Certeza de que Deus cumpre aquilo que promete."
+        },
+        {
+          "termo": "Unidade",
+          "significado": "Comunhão preservada pelo compromisso com verdade, escuta e paz."
+        }
+      ],
+      "oracao": "Senhor, obrigado porque nenhuma das tuas promessas falha. Ajuda-me a viver com justiça, buscar reconciliação e preservar a unidade do teu povo. Amém."
+    },
+    "en": {
+      "titulo": "Joshua 20–22 — Refuge, Faithfulness, and Unity",
+      "contexto": "Joshua 20 to 22 brings together three important themes: the cities of refuge, the portion of the Levites, and the return of the eastern tribes. The reading shows that God cares for justice, fulfills his promises, and calls his people to preserve unity before possible conflicts.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The cities of refuge",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 9
+          },
+          "comentario": "The cities of refuge reveal that God’s justice is not driven by disorderly revenge, but by truth, protection, and proper process.",
+          "aplicacao": "Biblical faith calls us to value justice, mercy, and responsibility in human conflicts."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The Lord’s faithfulness to his promises",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 45
+          },
+          "comentario": "The Levites receive their cities, and the text declares that none of the Lord’s good promises failed. The distribution confirms God’s faithfulness to his people.",
+          "aplicacao": "The believer’s confidence is not in the stability of circumstances, but in the faithful character of God."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The altar of witness and the unity of the people",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 34
+          },
+          "comentario": "The eastern tribes return and build an altar that nearly causes conflict. Dialogue clarifies the intention and preserves unity among brothers.",
+          "aplicacao": "Before judging intentions, God’s people should seek truth, listening, and reconciliation."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 35,
+            "verse_start": 9,
+            "verse_end": 15,
+            "referencia": "Numbers 35:9-15",
+            "nota": "Presents the institution of the cities of refuge."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebrews 6:18",
+            "nota": "Uses the language of refuge to speak of hope in God."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Ephesians 4:1-6",
+            "nota": "Calls believers to preserve unity in the bond of peace."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Is my confidence established in God’s faithfulness?",
+        "Do I seek justice with mercy and responsibility?",
+        "Do I pursue dialogue before raising accusations against brothers and sisters?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Joshua 21:45 summarizes the reading by declaring the absolute faithfulness of the Lord in fulfilling his promises."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 20,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Joshua 20:3",
+          "nota": "Shows the purpose of the cities of refuge."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 21,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Joshua 21:45",
+          "nota": "Declares that the Lord’s promises were fulfilled."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 22,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Joshua 22:27",
+          "nota": "Presents the altar as a witness of belonging to the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Refuge",
+          "significado": "A place of protection and justice established by God."
+        },
+        {
+          "termo": "Faithfulness",
+          "significado": "The certainty that God fulfills what he promises."
+        },
+        {
+          "termo": "Unity",
+          "significado": "Communion preserved by commitment to truth, listening, and peace."
+        }
+      ],
+      "oracao": "Lord, thank you because none of your promises fail. Help me live with justice, seek reconciliation, and preserve the unity of your people. Amen."
+    },
+    "es": {
+      "titulo": "Josué 20–22 — Refugio, Fidelidad y Unidad",
+      "contexto": "Josué 20 al 22 reúne tres temas importantes: las ciudades de refugio, la porción de los levitas y el regreso de las tribus del oriente. La lectura muestra que Dios cuida la justicia, cumple sus promesas y llama a su pueblo a preservar la unidad ante posibles conflictos.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las ciudades de refugio",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 9
+          },
+          "comentario": "Las ciudades de refugio revelan que la justicia de Dios no se mueve por venganza desordenada, sino por verdad, protección y proceso correcto.",
+          "aplicacao": "La fe bíblica nos llama a valorar la justicia, la misericordia y la responsabilidad ante los conflictos humanos."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La fidelidad del Señor a sus promesas",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 45
+          },
+          "comentario": "Los levitas reciben sus ciudades, y el texto declara que ninguna buena promesa del Señor falló. La distribución confirma la fidelidad de Dios a su pueblo.",
+          "aplicacao": "La confianza del creyente no está en la estabilidad de las circunstancias, sino en el carácter fiel de Dios."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El altar de testimonio y la unidad del pueblo",
+          "referencia": {
+            "book_id": "JOS",
+            "chapter_start": 22,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 34
+          },
+          "comentario": "Las tribus del oriente regresan y levantan un altar que casi genera conflicto. El diálogo aclara la intención y preserva la unidad entre hermanos.",
+          "aplicacao": "Antes de juzgar intenciones, el pueblo de Dios debe buscar verdad, escucha y reconciliación."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "NUM",
+            "chapter": 35,
+            "verse_start": 9,
+            "verse_end": 15,
+            "referencia": "Números 35:9-15",
+            "nota": "Presenta la institución de las ciudades de refugio."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 6,
+            "verse_start": 18,
+            "verse_end": 18,
+            "referencia": "Hebreos 6:18",
+            "nota": "Usa el lenguaje de refugio para hablar de la esperanza en Dios."
+          },
+          {
+            "book_id": "EPH",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 6,
+            "referencia": "Efesios 4:1-6",
+            "nota": "Exhorta a preservar la unidad en el vínculo de la paz."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi confianza está afirmada en la fidelidad de Dios?",
+        "¿Busco justicia con misericordia y responsabilidad?",
+        "¿Procuro el diálogo antes de levantar acusaciones contra hermanos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Josué 21:45 resume la lectura al declarar la fidelidad absoluta del Señor en el cumplimiento de sus promesas."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JOS",
+          "chapter": 20,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Josué 20:3",
+          "nota": "Muestra el propósito de las ciudades de refugio."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 21,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Josué 21:45",
+          "nota": "Declara que las promesas del Señor se cumplieron."
+        },
+        {
+          "book_id": "JOS",
+          "chapter": 22,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Josué 22:27",
+          "nota": "Presenta el altar como testimonio de pertenencia al Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Refugio",
+          "significado": "Lugar de protección y justicia establecido por Dios."
+        },
+        {
+          "termo": "Fidelidad",
+          "significado": "Certeza de que Dios cumple aquello que promete."
+        },
+        {
+          "termo": "Unidad",
+          "significado": "Comunión preservada por el compromiso con la verdad, la escucha y la paz."
+        }
+      ],
+      "oracao": "Señor, gracias porque ninguna de tus promesas falla. Ayúdame a vivir con justicia, buscar reconciliación y preservar la unidad de tu pueblo. Amén."
+    }
+  }
+}

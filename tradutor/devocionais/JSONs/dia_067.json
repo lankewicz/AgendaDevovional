@@ -1,0 +1,416 @@
+{
+  "dia": 67,
+  "data": "2027-03-08",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 27–28",
+    "en": "Deuteronomy 27–28",
+    "es": "Deuteronomio 27–28"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 27,
+      "chapter_end": 28
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 28,
+    "verse_start": 1,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Deuteronômio 28:1-2",
+      "en": "Deuteronomy 28:1-2",
+      "es": "Deuteronomio 28:1-2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_067.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_067.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_067.mp3",
+      "versiculo_central": "audio/en/verses/day_067.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_067.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_067.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 27–28 — Aliança, Obediência e Consequências",
+      "contexto": "Deuteronômio 27 e 28 coloca Israel diante da seriedade da aliança. O povo deveria registrar a lei, responder publicamente à Palavra do Senhor e compreender que a obediência e a desobediência trazem consequências reais. O texto não apresenta uma fé superficial, mas uma vida inteira orientada pela voz de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A lei gravada e a resposta do povo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 10
+          },
+          "comentario": "Moisés ordena que a lei seja escrita e lembrada ao entrar na terra. A Palavra deveria permanecer visível, pública e central na identidade da nação.",
+          "aplicacao": "A fé precisa ser alimentada pela lembrança constante da Palavra, para que decisões e atitudes sejam guiadas por Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Maldições sobre a infidelidade oculta",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 11,
+            "chapter_end": 27,
+            "verse_end": 26
+          },
+          "comentario": "As declarações de maldição revelam que Deus vê não apenas pecados públicos, mas também injustiças escondidas e desobediência silenciosa.",
+          "aplicacao": "A integridade diante de Deus exige verdade no íntimo, mesmo quando ninguém mais está vendo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bênçãos e consequências da aliança",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 68
+          },
+          "comentario": "O capítulo contrasta as bênçãos da obediência com as consequências da rebeldia. A vida do povo dependeria de ouvir cuidadosamente a voz do Senhor.",
+          "aplicacao": "Obedecer a Deus não é apenas cumprir regras, mas permanecer em comunhão com aquele que conduz o seu povo em fidelidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 8,
+            "verse_start": 30,
+            "verse_end": 35,
+            "referencia": "Josué 8:30-35",
+            "nota": "Mostra Israel renovando publicamente a aliança conforme a instrução de Moisés."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 10,
+            "verse_end": 14,
+            "referencia": "Gálatas 3:10-14",
+            "nota": "Mostra que Cristo nos resgata da maldição da lei."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 25,
+            "referencia": "Tiago 1:22-25",
+            "nota": "Ensina que a Palavra deve ser praticada, não apenas ouvida."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado a Palavra de Deus como fundamento real das minhas escolhas?",
+        "Minha obediência acontece apenas em público ou também no secreto?",
+        "Reconheço que Cristo é minha esperança diante da minha incapacidade de cumprir perfeitamente a lei?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 28:1-2 resume o chamado central da leitura: ouvir a voz do Senhor e viver a aliança com obediência."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 27,
+          "verse_start": 9,
+          "verse_end": 10,
+          "referencia": "Deuteronômio 27:9-10",
+          "nota": "Chama o povo a ouvir a voz do Senhor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 1,
+          "verse_end": 2,
+          "referencia": "Deuteronômio 28:1-2",
+          "nota": "Apresenta a obediência como resposta à aliança."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 58,
+          "verse_end": 58,
+          "referencia": "Deuteronômio 28:58",
+          "nota": "Destaca o temor ao nome glorioso do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso estabelecido por Deus que chama o povo à fidelidade."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta prática de quem ouve a voz do Senhor."
+        },
+        {
+          "termo": "Consequência",
+          "significado": "Resultado espiritual e comunitário da fidelidade ou da rebeldia."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a ouvir tua Palavra com reverência e a obedecer com sinceridade. Que minha vida seja marcada por fidelidade, gratidão e dependência da tua graça. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 27–28 — Covenant, Obedience, and Consequences",
+      "contexto": "Deuteronomy 27 and 28 places Israel before the seriousness of the covenant. The people were to record the law, respond publicly to the word of the Lord, and understand that obedience and disobedience bring real consequences. The passage does not present a shallow faith, but an entire life shaped by God's voice.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The law written and the people's response",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 10
+          },
+          "comentario": "Moses commands that the law be written and remembered as the people enter the land. The Word was to remain visible, public, and central to the nation's identity.",
+          "aplicacao": "Faith must be nourished by the constant remembrance of God's Word, so that decisions and actions are guided by him."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Curses over hidden unfaithfulness",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 11,
+            "chapter_end": 27,
+            "verse_end": 26
+          },
+          "comentario": "The declarations of curse reveal that God sees not only public sins, but also hidden injustice and silent disobedience.",
+          "aplicacao": "Integrity before God requires truth within, even when no one else is watching."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Blessings and covenant consequences",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 68
+          },
+          "comentario": "The chapter contrasts the blessings of obedience with the consequences of rebellion. The life of the people would depend on carefully listening to the Lord's voice.",
+          "aplicacao": "Obeying God is not merely following rules, but remaining in communion with the one who leads his people faithfully."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 8,
+            "verse_start": 30,
+            "verse_end": 35,
+            "referencia": "Joshua 8:30-35",
+            "nota": "Shows Israel publicly renewing the covenant according to Moses' instruction."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 10,
+            "verse_end": 14,
+            "referencia": "Galatians 3:10-14",
+            "nota": "Shows that Christ redeems us from the curse of the law."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 25,
+            "referencia": "James 1:22-25",
+            "nota": "Teaches that the Word must be practiced, not merely heard."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat God's Word as the true foundation of my choices?",
+        "Does my obedience happen only in public, or also in secret?",
+        "Do I recognize that Christ is my hope before my inability to keep the law perfectly?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 28:1-2 summarizes the central call of the reading: to hear the Lord's voice and live the covenant in obedience."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 27,
+          "verse_start": 9,
+          "verse_end": 10,
+          "referencia": "Deuteronomy 27:9-10",
+          "nota": "Calls the people to hear the voice of the Lord."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 1,
+          "verse_end": 2,
+          "referencia": "Deuteronomy 28:1-2",
+          "nota": "Presents obedience as the response to the covenant."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 58,
+          "verse_end": 58,
+          "referencia": "Deuteronomy 28:58",
+          "nota": "Highlights reverence for the glorious name of the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "A commitment established by God that calls his people to faithfulness."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "The practical response of those who hear the Lord's voice."
+        },
+        {
+          "termo": "Consequence",
+          "significado": "The spiritual and communal result of faithfulness or rebellion."
+        }
+      ],
+      "oracao": "Lord, help me hear your Word with reverence and obey with sincerity. May my life be marked by faithfulness, gratitude, and dependence on your grace. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 27–28 — Alianza, Obediencia y Consecuencias",
+      "contexto": "Deuteronomio 27 y 28 coloca a Israel ante la seriedad de la alianza. El pueblo debía registrar la ley, responder públicamente a la Palabra del Señor y comprender que la obediencia y la desobediencia traen consecuencias reales. El texto no presenta una fe superficial, sino una vida entera orientada por la voz de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La ley escrita y la respuesta del pueblo",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 10
+          },
+          "comentario": "Moisés ordena que la ley sea escrita y recordada al entrar en la tierra. La Palabra debía permanecer visible, pública y central en la identidad de la nación.",
+          "aplicacao": "La fe debe alimentarse del recuerdo constante de la Palabra, para que decisiones y acciones sean guiadas por Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Maldiciones sobre la infidelidad oculta",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 27,
+            "verse_start": 11,
+            "chapter_end": 27,
+            "verse_end": 26
+          },
+          "comentario": "Las declaraciones de maldición revelan que Dios ve no solo pecados públicos, sino también injusticias escondidas y desobediencia silenciosa.",
+          "aplicacao": "La integridad delante de Dios exige verdad en lo íntimo, aun cuando nadie más esté mirando."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bendiciones y consecuencias de la alianza",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 28,
+            "verse_start": 1,
+            "chapter_end": 28,
+            "verse_end": 68
+          },
+          "comentario": "El capítulo contrasta las bendiciones de la obediencia con las consecuencias de la rebeldía. La vida del pueblo dependería de escuchar cuidadosamente la voz del Señor.",
+          "aplicacao": "Obedecer a Dios no es solo cumplir reglas, sino permanecer en comunión con aquel que conduce a su pueblo con fidelidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 8,
+            "verse_start": 30,
+            "verse_end": 35,
+            "referencia": "Josué 8:30-35",
+            "nota": "Muestra a Israel renovando públicamente la alianza según la instrucción de Moisés."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 10,
+            "verse_end": 14,
+            "referencia": "Gálatas 3:10-14",
+            "nota": "Muestra que Cristo nos rescata de la maldición de la ley."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 25,
+            "referencia": "Santiago 1:22-25",
+            "nota": "Enseña que la Palabra debe ser practicada, no solo escuchada."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato la Palabra de Dios como fundamento real de mis decisiones?",
+        "¿Mi obediencia ocurre solo en público o también en secreto?",
+        "¿Reconozco que Cristo es mi esperanza ante mi incapacidad de cumplir perfectamente la ley?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 28:1-2 resume el llamado central de la lectura: escuchar la voz del Señor y vivir la alianza con obediencia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 27,
+          "verse_start": 9,
+          "verse_end": 10,
+          "referencia": "Deuteronomio 27:9-10",
+          "nota": "Llama al pueblo a escuchar la voz del Señor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 1,
+          "verse_end": 2,
+          "referencia": "Deuteronomio 28:1-2",
+          "nota": "Presenta la obediencia como respuesta a la alianza."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 28,
+          "verse_start": 58,
+          "verse_end": 58,
+          "referencia": "Deuteronomio 28:58",
+          "nota": "Destaca el temor al nombre glorioso del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso establecido por Dios que llama al pueblo a la fidelidad."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta práctica de quien escucha la voz del Señor."
+        },
+        {
+          "termo": "Consecuencia",
+          "significado": "Resultado espiritual y comunitario de la fidelidad o de la rebeldía."
+        }
+      ],
+      "oracao": "Señor, ayúdame a escuchar tu Palabra con reverencia y obedecer con sinceridad. Que mi vida sea marcada por fidelidad, gratitud y dependencia de tu gracia. Amén."
+    }
+  }
+}

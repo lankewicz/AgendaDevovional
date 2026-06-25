@@ -1,0 +1,416 @@
+{
+  "dia": 54,
+  "data": "2027-02-23",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 25–26",
+    "en": "Numbers 25–26",
+    "es": "Números 25–26"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 25,
+      "chapter_end": 26
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 25,
+    "verse_start": 12,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "Números 25:12-13",
+      "en": "Numbers 25:12-13",
+      "es": "Números 25:12-13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_054.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_054.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_054.mp3",
+      "versiculo_central": "audio/en/verses/day_054.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_054.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_054.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 25–26 — Santidade e Nova Geração",
+      "contexto": "Números 25 e 26 mostra a queda de Israel em Baal-Peor, o zelo de Fineias e a nova contagem da geração que entraria na terra prometida. Depois de juízo e infidelidade, Deus preserva sua promessa e prepara um povo renovado para prosseguir.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A sedução da idolatria",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 5
+          },
+          "comentario": "Israel se envolve com idolatria e imoralidade, revelando que a ameaça espiritual nem sempre vem apenas de fora, mas também do coração dividido.",
+          "aplicacao": "A fidelidade a Deus exige discernimento diante de influências que afastam o coração do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O zelo de Fineias",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 6,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "Fineias age com zelo pela santidade de Deus, e o juízo é contido. O texto destaca a seriedade da aliança.",
+          "aplicacao": "Zelo espiritual não é orgulho religioso, mas compromisso com a honra de Deus e a saúde do povo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A nova contagem do povo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 65
+          },
+          "comentario": "O censo marca uma nova etapa. A geração rebelde passa, mas a promessa de Deus continua em direção à terra.",
+          "aplicacao": "Deus disciplina, mas também preserva seu propósito e conduz uma nova geração à obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 28,
+            "verse_end": 31,
+            "referencia": "Salmos 106:28-31",
+            "nota": "Recorda o pecado de Baal-Peor e o zelo de Fineias."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "1 Coríntios 10:8",
+            "nota": "Usa esse episódio como advertência contra a imoralidade."
+          },
+          {
+            "book_id": "JUD",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Judas 1:11",
+            "nota": "Adverte contra o caminho de Balaão e a corrupção espiritual."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Quais influências têm disputado a fidelidade do meu coração?",
+        "Tenho zelo pela santidade de Deus sem perder humildade?",
+        "Creio que Deus pode recomeçar sua obra mesmo após disciplina?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 25:12-13 destaca a resposta de Deus ao zelo pela aliança e mostra que santidade e paz caminham juntas diante do Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 25:3",
+          "nota": "Mostra a gravidade da idolatria que dominou parte do povo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Números 25:12-13",
+          "nota": "Destaca o zelo pela santidade e a aliança de paz."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 26,
+          "verse_start": 64,
+          "verse_end": 65,
+          "referencia": "Números 26:64-65",
+          "nota": "Mostra a transição para uma nova geração conforme a palavra do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatria",
+          "significado": "Substituição da fidelidade ao Senhor por outros desejos, poderes ou lealdades."
+        },
+        {
+          "termo": "Zelo",
+          "significado": "Compromisso reverente com a santidade e a honra de Deus."
+        },
+        {
+          "termo": "Nova geração",
+          "significado": "Continuidade da promessa de Deus apesar da infidelidade passada."
+        }
+      ],
+      "oracao": "Senhor, guarda meu coração da idolatria e ensina-me a viver com zelo santo, humildade e fidelidade à tua aliança. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 25–26 — Holiness and a New Generation",
+      "contexto": "Numbers 25 and 26 shows Israel’s fall at Baal Peor, the zeal of Phinehas, and the new census of the generation that would enter the promised land. After judgment and unfaithfulness, God preserves his promise and prepares a renewed people to continue.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The seduction of idolatry",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 5
+          },
+          "comentario": "Israel becomes involved in idolatry and immorality, revealing that spiritual danger does not come only from outside, but also from a divided heart.",
+          "aplicacao": "Faithfulness to God requires discernment before influences that draw the heart away from the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The zeal of Phinehas",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 6,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "Phinehas acts with zeal for God’s holiness, and judgment is restrained. The text highlights the seriousness of the covenant.",
+          "aplicacao": "Spiritual zeal is not religious pride, but commitment to God’s honor and the health of the people."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The new census of the people",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 65
+          },
+          "comentario": "The census marks a new stage. The rebellious generation passes, but God’s promise continues toward the land.",
+          "aplicacao": "God disciplines, but he also preserves his purpose and leads a new generation into obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 28,
+            "verse_end": 31,
+            "referencia": "Psalm 106:28-31",
+            "nota": "Recalls the sin of Baal Peor and the zeal of Phinehas."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "1 Corinthians 10:8",
+            "nota": "Uses this episode as a warning against immorality."
+          },
+          {
+            "book_id": "JUD",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Jude 1:11",
+            "nota": "Warns against the way of Balaam and spiritual corruption."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "What influences are competing for the faithfulness of my heart?",
+        "Do I have zeal for God’s holiness without losing humility?",
+        "Do I believe God can renew his work even after discipline?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 25:12-13 highlights God’s response to zeal for the covenant and shows that holiness and peace belong together before the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Numbers 25:3",
+          "nota": "Shows the seriousness of the idolatry that captured part of the people."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Numbers 25:12-13",
+          "nota": "Highlights zeal for holiness and the covenant of peace."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 26,
+          "verse_start": 64,
+          "verse_end": 65,
+          "referencia": "Numbers 26:64-65",
+          "nota": "Shows the transition to a new generation according to the Lord’s word."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatry",
+          "significado": "Replacing faithfulness to the Lord with other desires, powers, or loyalties."
+        },
+        {
+          "termo": "Zeal",
+          "significado": "Reverent commitment to God’s holiness and honor."
+        },
+        {
+          "termo": "New generation",
+          "significado": "The continuation of God’s promise despite past unfaithfulness."
+        }
+      ],
+      "oracao": "Lord, guard my heart from idolatry and teach me to live with holy zeal, humility, and faithfulness to your covenant. Amen."
+    },
+    "es": {
+      "titulo": "Números 25–26 — Santidad y Nueva Generación",
+      "contexto": "Números 25 y 26 muestra la caída de Israel en Baal-peor, el celo de Finees y el nuevo censo de la generación que entraría en la tierra prometida. Después del juicio y la infidelidad, Dios preserva su promesa y prepara a un pueblo renovado para continuar.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La seducción de la idolatría",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 5
+          },
+          "comentario": "Israel se involucra con idolatría e inmoralidad, revelando que el peligro espiritual no viene solo de afuera, sino también de un corazón dividido.",
+          "aplicacao": "La fidelidad a Dios requiere discernimiento ante influencias que alejan el corazón del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El celo de Finees",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 25,
+            "verse_start": 6,
+            "chapter_end": 25,
+            "verse_end": 18
+          },
+          "comentario": "Finees actúa con celo por la santidad de Dios, y el juicio es detenido. El texto destaca la seriedad de la alianza.",
+          "aplicacao": "El celo espiritual no es orgullo religioso, sino compromiso con la honra de Dios y la salud del pueblo."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El nuevo censo del pueblo",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 65
+          },
+          "comentario": "El censo marca una nueva etapa. La generación rebelde pasa, pero la promesa de Dios continúa hacia la tierra.",
+          "aplicacao": "Dios disciplina, pero también preserva su propósito y conduce a una nueva generación a la obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 106,
+            "verse_start": 28,
+            "verse_end": 31,
+            "referencia": "Salmos 106:28-31",
+            "nota": "Recuerda el pecado de Baal-peor y el celo de Finees."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "1 Corintios 10:8",
+            "nota": "Usa este episodio como advertencia contra la inmoralidad."
+          },
+          {
+            "book_id": "JUD",
+            "chapter": 1,
+            "verse_start": 11,
+            "verse_end": 11,
+            "referencia": "Judas 1:11",
+            "nota": "Advierte contra el camino de Balaam y la corrupción espiritual."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Qué influencias disputan la fidelidad de mi corazón?",
+        "¿Tengo celo por la santidad de Dios sin perder humildad?",
+        "¿Creo que Dios puede renovar su obra aun después de la disciplina?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 25:12-13 destaca la respuesta de Dios al celo por la alianza y muestra que santidad y paz caminan juntas delante del Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Números 25:3",
+          "nota": "Muestra la gravedad de la idolatría que dominó a parte del pueblo."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 25,
+          "verse_start": 12,
+          "verse_end": 13,
+          "referencia": "Números 25:12-13",
+          "nota": "Destaca el celo por la santidad y la alianza de paz."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 26,
+          "verse_start": 64,
+          "verse_end": 65,
+          "referencia": "Números 26:64-65",
+          "nota": "Muestra la transición hacia una nueva generación conforme a la palabra del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Idolatría",
+          "significado": "Sustitución de la fidelidad al Señor por otros deseos, poderes o lealtades."
+        },
+        {
+          "termo": "Celo",
+          "significado": "Compromiso reverente con la santidad y la honra de Dios."
+        },
+        {
+          "termo": "Nueva generación",
+          "significado": "Continuidad de la promesa de Dios a pesar de la infidelidad pasada."
+        }
+      ],
+      "oracao": "Señor, guarda mi corazón de la idolatría y enséñame a vivir con celo santo, humildad y fidelidad a tu alianza. Amén."
+    }
+  }
+}

@@ -1,0 +1,500 @@
+{
+  "dia": 16,
+  "data": "2027-01-16",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 41–42",
+    "en": "Genesis 41–42",
+    "es": "Génesis 41–42"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 41,
+      "chapter_end": 42
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 41,
+    "verse_start": 16,
+    "verse_end": 16,
+    "referencia": {
+      "pt": "Gênesis 41:16",
+      "en": "Genesis 41:16",
+      "es": "Génesis 41:16"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_016.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_016.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/016/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/042.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/016/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/042.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/016/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/042.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/016/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/042.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_016.mp3",
+      "versiculo_central": "audio/en/verses/day_016.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/016/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/en/en-US-AriaNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/en/en-US-AriaNeural/042.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/016/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/en/en-US-JennyNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/en/en-US-JennyNeural/042.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/016/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/en/en-US-GuyNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/en/en-US-GuyNeural/042.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/016/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/en/en-US-BrianNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/en/en-US-BrianNeural/042.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_016.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_016.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/016/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/es/es-ES-ElviraNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/es/es-ES-ElviraNeural/042.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/016/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/es/es-MX-DaliaNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/es/es-MX-DaliaNeural/042.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/016/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/es/es-ES-AlvaroNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/es/es-ES-AlvaroNeural/042.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/016/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/016/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/016/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_41": "audio/biblia/GEN/es/es-MX-JorgeNeural/041.m4a",
+          "GEN_42": "audio/biblia/GEN/es/es-MX-JorgeNeural/042.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 41–42 — Sabedoria, Exaltação e Providência",
+      "contexto": "Gênesis 41 e 42 mostra José saindo da prisão para interpretar os sonhos de Faraó e administrar o Egito em tempo de crise. A fome alcança também a família de Jacó, e os irmãos de José chegam ao Egito sem saber que Deus já havia preparado um caminho de preservação.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "José diante de Faraó",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 1,
+            "chapter_end": 41,
+            "verse_end": 36
+          },
+          "comentario": "José não toma para si a glória da interpretação, mas aponta para Deus como aquele que revela e governa o futuro.",
+          "aplicacao": "A verdadeira sabedoria reconhece que Deus é a fonte do discernimento e da direção."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Da prisão à administração",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 37,
+            "chapter_end": 41,
+            "verse_end": 57
+          },
+          "comentario": "José é exaltado e recebe responsabilidade para preparar o Egito para anos de fome. O sofrimento anterior se torna caminho para serviço.",
+          "aplicacao": "Deus pode transformar períodos de espera e dor em preparo para servir outras pessoas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Os irmãos de José no Egito",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 42,
+            "verse_start": 1,
+            "chapter_end": 42,
+            "verse_end": 38
+          },
+          "comentario": "A fome leva os irmãos de José até ele. A história começa a aproximar culpa antiga, providência e possibilidade de restauração.",
+          "aplicacao": "Deus sabe conduzir encontros que trazem à luz o passado e abrem caminho para cura."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Provérbios 2:6",
+            "nota": "Afirma que o Senhor dá sabedoria."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Tiago 1:5",
+            "nota": "Ensina a pedir sabedoria a Deus com confiança."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Reconheço Deus como fonte da sabedoria que preciso?",
+        "Vejo meus processos difíceis como possíveis instrumentos de preparo?",
+        "Permito que Deus trate culpas antigas e conduza restauração?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 41:16 revela a humildade de José ao reconhecer que a resposta pertence a Deus, não à sua própria capacidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Gênesis 41:16",
+          "nota": "Mostra José atribuindo a Deus a resposta ao sonho."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Gênesis 41:39-40",
+          "nota": "Registra a exaltação de José para governar no Egito."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 42,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Gênesis 42:6",
+          "nota": "Mostra os irmãos de José chegando ao cumprimento inicial dos sonhos."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sabedoria",
+          "significado": "Discernimento dado por Deus para agir com fidelidade e prudência."
+        },
+        {
+          "termo": "Exaltação",
+          "significado": "Mudança de condição conduzida por Deus para cumprir seus propósitos."
+        },
+        {
+          "termo": "Preservação",
+          "significado": "Ação divina que guarda vidas em meio à crise."
+        }
+      ],
+      "oracao": "Senhor, dá-me sabedoria para agir com humildade e fidelidade. Usa meus processos para servir ao próximo e conduze minha história segundo tua providência. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 41–42 — Wisdom, Exaltation, and Providence",
+      "contexto": "Genesis 41 and 42 shows Joseph leaving prison to interpret Pharaoh's dreams and administer Egypt in a time of crisis. The famine also reaches Jacob's family, and Joseph's brothers arrive in Egypt without knowing that God had already prepared a path of preservation.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Joseph before Pharaoh",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 1,
+            "chapter_end": 41,
+            "verse_end": 36
+          },
+          "comentario": "Joseph does not take glory for the interpretation, but points to God as the one who reveals and governs the future.",
+          "aplicacao": "True wisdom recognizes that God is the source of discernment and direction."
+        },
+        {
+          "ordem": 2,
+          "titulo": "From prison to administration",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 37,
+            "chapter_end": 41,
+            "verse_end": 57
+          },
+          "comentario": "Joseph is exalted and receives responsibility to prepare Egypt for years of famine. Previous suffering becomes a path for service.",
+          "aplicacao": "God can transform seasons of waiting and pain into preparation to serve others."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joseph's brothers in Egypt",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 42,
+            "verse_start": 1,
+            "chapter_end": 42,
+            "verse_end": 38
+          },
+          "comentario": "The famine leads Joseph's brothers to him. The story begins to bring old guilt, providence, and the possibility of restoration together.",
+          "aplicacao": "God knows how to lead encounters that bring the past to light and open a path for healing."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Proverbs 2:6",
+            "nota": "Affirms that the Lord gives wisdom."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "James 1:5",
+            "nota": "Teaches believers to ask God for wisdom with confidence."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I recognize God as the source of the wisdom I need?",
+        "Do I see difficult processes as possible instruments of preparation?",
+        "Do I allow God to deal with old guilt and lead restoration?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 41:16 reveals Joseph's humility in recognizing that the answer belongs to God, not to his own ability."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Genesis 41:16",
+          "nota": "Shows Joseph attributing the answer to the dream to God."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Genesis 41:39-40",
+          "nota": "Records Joseph's exaltation to govern in Egypt."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 42,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Genesis 42:6",
+          "nota": "Shows Joseph's brothers arriving in the initial fulfillment of the dreams."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Wisdom",
+          "significado": "Discernment given by God to act with faithfulness and prudence."
+        },
+        {
+          "termo": "Exaltation",
+          "significado": "A change of condition led by God to fulfill his purposes."
+        },
+        {
+          "termo": "Preservation",
+          "significado": "Divine action that guards lives amid crisis."
+        }
+      ],
+      "oracao": "Lord, give me wisdom to act with humility and faithfulness. Use my processes to serve others and guide my story according to your providence. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 41–42 — Sabiduría, Exaltación y Providencia",
+      "contexto": "Génesis 41 y 42 muestra a José saliendo de la prisión para interpretar los sueños de Faraón y administrar Egipto en tiempo de crisis. El hambre alcanza también a la familia de Jacob, y los hermanos de José llegan a Egipto sin saber que Dios ya había preparado un camino de preservación.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "José delante de Faraón",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 1,
+            "chapter_end": 41,
+            "verse_end": 36
+          },
+          "comentario": "José no toma para sí la gloria de la interpretación, sino que señala a Dios como aquel que revela y gobierna el futuro.",
+          "aplicacao": "La verdadera sabiduría reconoce que Dios es la fuente del discernimiento y la dirección."
+        },
+        {
+          "ordem": 2,
+          "titulo": "De la prisión a la administración",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 41,
+            "verse_start": 37,
+            "chapter_end": 41,
+            "verse_end": 57
+          },
+          "comentario": "José es exaltado y recibe responsabilidad para preparar a Egipto para años de hambre. El sufrimiento anterior se convierte en camino para servir.",
+          "aplicacao": "Dios puede transformar tiempos de espera y dolor en preparación para servir a otras personas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Los hermanos de José en Egipto",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 42,
+            "verse_start": 1,
+            "chapter_end": 42,
+            "verse_end": 38
+          },
+          "comentario": "El hambre lleva a los hermanos de José hasta él. La historia comienza a acercar culpa antigua, providencia y posibilidad de restauración.",
+          "aplicacao": "Dios sabe conducir encuentros que sacan a la luz el pasado y abren camino para la sanidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 6,
+            "referencia": "Proverbios 2:6",
+            "nota": "Afirma que el Señor da sabiduría."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Santiago 1:5",
+            "nota": "Enseña a pedir sabiduría a Dios con confianza."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Reconozco a Dios como fuente de la sabiduría que necesito?",
+        "¿Veo mis procesos difíciles como posibles instrumentos de preparación?",
+        "¿Permito que Dios trate culpas antiguas y conduzca restauración?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 41:16 revela la humildad de José al reconocer que la respuesta pertenece a Dios, no a su propia capacidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Génesis 41:16",
+          "nota": "Muestra a José atribuyendo a Dios la respuesta al sueño."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 41,
+          "verse_start": 39,
+          "verse_end": 40,
+          "referencia": "Génesis 41:39-40",
+          "nota": "Registra la exaltación de José para gobernar en Egipto."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 42,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Génesis 42:6",
+          "nota": "Muestra a los hermanos de José llegando al cumplimiento inicial de los sueños."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sabiduría",
+          "significado": "Discernimiento dado por Dios para actuar con fidelidad y prudencia."
+        },
+        {
+          "termo": "Exaltación",
+          "significado": "Cambio de condición conducido por Dios para cumplir sus propósitos."
+        },
+        {
+          "termo": "Preservación",
+          "significado": "Acción divina que guarda vidas en medio de la crisis."
+        }
+      ],
+      "oracao": "Señor, dame sabiduría para actuar con humildad y fidelidad. Usa mis procesos para servir al prójimo y conduce mi historia según tu providencia. Amén."
+    }
+  }
+}

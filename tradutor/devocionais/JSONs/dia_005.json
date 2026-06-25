@@ -1,0 +1,587 @@
+{
+  "dia": 5,
+  "data": "2027-01-05",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 13–16",
+    "en": "Genesis 13–16",
+    "es": "Génesis 13–16"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 13,
+      "chapter_end": 16
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 15,
+    "verse_start": 6,
+    "verse_end": 6,
+    "referencia": {
+      "pt": "Gênesis 15:6",
+      "en": "Genesis 15:6",
+      "es": "Génesis 15:6"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_005.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_005.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/005/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/016.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/005/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/016.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/005/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/016.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/005/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/016.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_005.mp3",
+      "versiculo_central": "audio/en/verses/day_005.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/005/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/en/en-US-AriaNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/en/en-US-AriaNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/en/en-US-AriaNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/en/en-US-AriaNeural/016.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/005/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/en/en-US-JennyNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/en/en-US-JennyNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/en/en-US-JennyNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/en/en-US-JennyNeural/016.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/005/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/en/en-US-GuyNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/en/en-US-GuyNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/en/en-US-GuyNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/en/en-US-GuyNeural/016.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/005/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/en/en-US-BrianNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/en/en-US-BrianNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/en/en-US-BrianNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/en/en-US-BrianNeural/016.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_005.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_005.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/005/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/es/es-ES-ElviraNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/es/es-ES-ElviraNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/es/es-ES-ElviraNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/es/es-ES-ElviraNeural/016.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/005/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/es/es-MX-DaliaNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/es/es-MX-DaliaNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/es/es-MX-DaliaNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/es/es-MX-DaliaNeural/016.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/005/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/es/es-ES-AlvaroNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/es/es-ES-AlvaroNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/es/es-ES-AlvaroNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/es/es-ES-AlvaroNeural/016.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/005/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/005/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/005/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_13": "audio/biblia/GEN/es/es-MX-JorgeNeural/013.m4a",
+          "GEN_14": "audio/biblia/GEN/es/es-MX-JorgeNeural/014.m4a",
+          "GEN_15": "audio/biblia/GEN/es/es-MX-JorgeNeural/015.m4a",
+          "GEN_16": "audio/biblia/GEN/es/es-MX-JorgeNeural/016.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 13–16 — Fé, Promessa e Espera",
+      "contexto": "Gênesis 13 a 16 acompanha Abraão em decisões, conflitos, promessas e esperas. A narrativa mostra que a fé não elimina tensões, mas aprende a confiar no Deus que promete, guia e permanece fiel mesmo quando o ser humano tenta resolver tudo por seus próprios meios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A separação entre Abraão e Ló",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Abraão escolhe a paz em vez da disputa e permite que Ló escolha primeiro. Deus reafirma a promessa depois dessa decisão.",
+          "aplicacao": "A fé não precisa agir com ansiedade ou competição. Quem confia em Deus pode escolher a paz sem medo de perder o cuidado do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Vitória, intercessão e dependência",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 24
+          },
+          "comentario": "Abraão resgata Ló e reconhece que sua vitória vem do Deus Altíssimo. Ele recusa depender de alianças que poderiam diminuir a glória de Deus.",
+          "aplicacao": "A gratidão nos ajuda a reconhecer a fonte da provisão. A fidelidade exige discernimento sobre de onde esperamos segurança."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A promessa recebida pela fé",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 21
+          },
+          "comentario": "Deus reafirma a promessa a Abraão e o chama a crer. A justiça é recebida pela fé, não como conquista humana.",
+          "aplicacao": "A caminhada com Deus se firma na confiança em sua Palavra. A fé descansa no caráter daquele que promete."
+        },
+        {
+          "ordem": 4,
+          "titulo": "A pressa humana diante da promessa",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 16
+          },
+          "comentario": "Sarai e Abraão tentam antecipar a promessa por seus próprios meios. Mesmo em meio às consequências, Deus vê Agar e ouve sua aflição.",
+          "aplicacao": "A espera exige confiança. Quando nossas soluções apressadas geram dor, Deus ainda vê, ouve e chama ao caminho da obediência."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HAB",
+            "chapter": 2,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Habacuque 2:4",
+            "nota": "Afirma que o justo viverá pela fé."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Romanos 4:1-5",
+            "nota": "Explica Abraão como exemplo de justificação pela fé."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "Gálatas 3:6-9",
+            "nota": "Relaciona a fé de Abraão com a bênção prometida."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho escolhido a paz quando poderia escolher a disputa?",
+        "Minha confiança está na promessa de Deus ou na pressa de controlar resultados?",
+        "Consigo lembrar que Deus vê e ouve pessoas feridas no caminho?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 15:6 destaca a fé de Abraão como resposta à promessa de Deus e antecipa um tema central da salvação bíblica."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 13,
+          "verse_start": 14,
+          "verse_end": 15,
+          "referencia": "Gênesis 13:14-15",
+          "nota": "Deus reafirma sua promessa depois da separação de Ló."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 15,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Gênesis 15:6",
+          "nota": "Apresenta a fé como resposta que Deus considera justa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Gênesis 16:13",
+          "nota": "Revela Deus como aquele que vê a aflição de Agar."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Fé",
+          "significado": "Confiança na Palavra e no caráter de Deus."
+        },
+        {
+          "termo": "Promessa",
+          "significado": "Compromisso de Deus que sustenta a esperança do seu povo."
+        },
+        {
+          "termo": "Espera",
+          "significado": "Tempo em que a confiança é provada e amadurecida."
+        }
+      ],
+      "oracao": "Senhor, fortalece minha fé para confiar na tua promessa sem agir pela ansiedade. Ensina-me a esperar com obediência e a lembrar que tu vês cada aflição. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 13–16 — Faith, Promise, and Waiting",
+      "contexto": "Genesis 13 to 16 follows Abraham through decisions, conflicts, promises, and waiting. The narrative shows that faith does not remove tension, but learns to trust the God who promises, guides, and remains faithful even when human beings try to solve everything by their own means.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The separation between Abraham and Lot",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Abraham chooses peace instead of conflict and allows Lot to choose first. God reaffirms the promise after this decision.",
+          "aplicacao": "Faith does not need to act with anxiety or competition. Those who trust God can choose peace without fearing the loss of the Lord's care."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Victory, intercession, and dependence",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 24
+          },
+          "comentario": "Abraham rescues Lot and recognizes that his victory comes from God Most High. He refuses to depend on alliances that could diminish God's glory.",
+          "aplicacao": "Gratitude helps us recognize the source of provision. Faithfulness requires discernment about where we seek security."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The promise received by faith",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 21
+          },
+          "comentario": "God reaffirms the promise to Abraham and calls him to believe. Righteousness is received by faith, not as a human achievement.",
+          "aplicacao": "Walking with God is grounded in trust in his Word. Faith rests in the character of the one who promises."
+        },
+        {
+          "ordem": 4,
+          "titulo": "Human haste before the promise",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 16
+          },
+          "comentario": "Sarai and Abraham try to anticipate the promise by their own means. Even amid the consequences, God sees Hagar and hears her affliction.",
+          "aplicacao": "Waiting requires trust. When our rushed solutions bring pain, God still sees, hears, and calls us back to obedience."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HAB",
+            "chapter": 2,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Habakkuk 2:4",
+            "nota": "Affirms that the righteous shall live by faith."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Romans 4:1-5",
+            "nota": "Explains Abraham as an example of justification by faith."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "Galatians 3:6-9",
+            "nota": "Connects Abraham's faith with the promised blessing."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I choose peace when I could choose conflict?",
+        "Is my trust in God's promise or in the haste to control outcomes?",
+        "Can I remember that God sees and hears wounded people along the way?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 15:6 highlights Abraham's faith as a response to God's promise and anticipates a central theme of biblical salvation."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 13,
+          "verse_start": 14,
+          "verse_end": 15,
+          "referencia": "Genesis 13:14-15",
+          "nota": "God reaffirms his promise after Lot's separation."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 15,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Genesis 15:6",
+          "nota": "Presents faith as the response God counts as righteous."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Genesis 16:13",
+          "nota": "Reveals God as the one who sees Hagar's affliction."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Faith",
+          "significado": "Trust in God's Word and character."
+        },
+        {
+          "termo": "Promise",
+          "significado": "God's commitment that sustains the hope of his people."
+        },
+        {
+          "termo": "Waiting",
+          "significado": "A time in which trust is tested and matured."
+        }
+      ],
+      "oracao": "Lord, strengthen my faith to trust your promise without acting from anxiety. Teach me to wait with obedience and to remember that you see every affliction. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 13–16 — Fe, Promesa y Espera",
+      "contexto": "Génesis 13 al 16 acompaña a Abraham en decisiones, conflictos, promesas y esperas. La narración muestra que la fe no elimina las tensiones, sino que aprende a confiar en el Dios que promete, guía y permanece fiel aun cuando el ser humano intenta resolver todo por sus propios medios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La separación entre Abraham y Lot",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 13,
+            "verse_start": 1,
+            "chapter_end": 13,
+            "verse_end": 18
+          },
+          "comentario": "Abraham elige la paz en lugar de la disputa y permite que Lot escoja primero. Dios reafirma la promesa después de esta decisión.",
+          "aplicacao": "La fe no necesita actuar con ansiedad ni competencia. Quien confía en Dios puede elegir la paz sin temer perder el cuidado del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Victoria, intercesión y dependencia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 24
+          },
+          "comentario": "Abraham rescata a Lot y reconoce que su victoria viene del Dios Altísimo. Rechaza depender de alianzas que podrían disminuir la gloria de Dios.",
+          "aplicacao": "La gratitud nos ayuda a reconocer la fuente de la provisión. La fidelidad exige discernimiento sobre dónde buscamos seguridad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La promesa recibida por la fe",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 21
+          },
+          "comentario": "Dios reafirma la promesa a Abraham y lo llama a creer. La justicia se recibe por la fe, no como logro humano.",
+          "aplicacao": "El caminar con Dios se afirma en la confianza en su Palabra. La fe descansa en el carácter de aquel que promete."
+        },
+        {
+          "ordem": 4,
+          "titulo": "La prisa humana ante la promesa",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 16
+          },
+          "comentario": "Sarai y Abraham intentan anticipar la promesa por sus propios medios. Aun en medio de las consecuencias, Dios ve a Agar y escucha su aflicción.",
+          "aplicacao": "La espera exige confianza. Cuando nuestras soluciones apresuradas producen dolor, Dios aún ve, escucha y llama al camino de la obediencia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "HAB",
+            "chapter": 2,
+            "verse_start": 4,
+            "verse_end": 4,
+            "referencia": "Habacuc 2:4",
+            "nota": "Afirma que el justo vivirá por la fe."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 4,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Romanos 4:1-5",
+            "nota": "Explica a Abraham como ejemplo de justificación por la fe."
+          },
+          {
+            "book_id": "GAL",
+            "chapter": 3,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "Gálatas 3:6-9",
+            "nota": "Relaciona la fe de Abraham con la bendición prometida."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He elegido la paz cuando podría elegir la disputa?",
+        "¿Mi confianza está en la promesa de Dios o en la prisa por controlar los resultados?",
+        "¿Puedo recordar que Dios ve y escucha a las personas heridas en el camino?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 15:6 destaca la fe de Abraham como respuesta a la promesa de Dios y anticipa un tema central de la salvación bíblica."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 13,
+          "verse_start": 14,
+          "verse_end": 15,
+          "referencia": "Génesis 13:14-15",
+          "nota": "Dios reafirma su promesa después de la separación de Lot."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 15,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Génesis 15:6",
+          "nota": "Presenta la fe como respuesta que Dios considera justa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 16,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Génesis 16:13",
+          "nota": "Revela a Dios como aquel que ve la aflicción de Agar."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Fe",
+          "significado": "Confianza en la Palabra y el carácter de Dios."
+        },
+        {
+          "termo": "Promesa",
+          "significado": "Compromiso de Dios que sostiene la esperanza de su pueblo."
+        },
+        {
+          "termo": "Espera",
+          "significado": "Tiempo en que la confianza es probada y madurada."
+        }
+      ],
+      "oracao": "Señor, fortalece mi fe para confiar en tu promesa sin actuar por ansiedad. Enséñame a esperar con obediencia y a recordar que tú ves cada aflicción. Amén."
+    }
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "dia": 8,
+  "data": "2027-01-08",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 23–24",
+    "en": "Genesis 23–24",
+    "es": "Génesis 23–24"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 23,
+      "chapter_end": 24
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 24,
+    "verse_start": 27,
+    "verse_end": 27,
+    "referencia": {
+      "pt": "Gênesis 24:27",
+      "en": "Genesis 24:27",
+      "es": "Génesis 24:27"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_008.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_008.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/008/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/024.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/008/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/024.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/008/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/024.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/008/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/024.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_008.mp3",
+      "versiculo_central": "audio/en/verses/day_008.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/008/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/en/en-US-AriaNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/en/en-US-AriaNeural/024.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/008/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/en/en-US-JennyNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/en/en-US-JennyNeural/024.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/008/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/en/en-US-GuyNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/en/en-US-GuyNeural/024.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/008/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/en/en-US-BrianNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/en/en-US-BrianNeural/024.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_008.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_008.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/008/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/es/es-ES-ElviraNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/es/es-ES-ElviraNeural/024.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/008/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/es/es-MX-DaliaNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/es/es-MX-DaliaNeural/024.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/008/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/es/es-ES-AlvaroNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/es/es-ES-AlvaroNeural/024.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/008/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/008/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/008/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_23": "audio/biblia/GEN/es/es-MX-JorgeNeural/023.m4a",
+          "GEN_24": "audio/biblia/GEN/es/es-MX-JorgeNeural/024.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 23–24 — Luto, Continuidade e Direção de Deus",
+      "contexto": "Gênesis 23 e 24 mostra Abraão enfrentando a morte de Sara e buscando a continuidade da promessa por meio do casamento de Isaque. O texto une luto, responsabilidade, fidelidade e direção divina, revelando que Deus conduz sua promessa mesmo nas transições da vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A morte de Sara e a esperança ligada à terra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 20
+          },
+          "comentario": "Abraão sepulta Sara em Canaã e adquire uma porção de terra. O gesto aponta para a permanência da promessa, mesmo diante da morte.",
+          "aplicacao": "A fé não ignora o luto, mas aprende a atravessá-lo com esperança na fidelidade de Deus."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A busca por uma esposa para Isaque",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 28
+          },
+          "comentario": "O servo de Abraão ora por direção e reconhece a providência do Senhor. A continuidade da promessa é tratada com seriedade e dependência de Deus.",
+          "aplicacao": "Decisões importantes devem ser feitas com oração, prudência e submissão à direção do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Rebeca e a continuidade da família da promessa",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 29,
+            "chapter_end": 24,
+            "verse_end": 67
+          },
+          "comentario": "Rebeca responde ao chamado e se torna parte da linhagem da promessa. Deus age por meio de decisões humanas, encontros e caminhos cuidadosamente conduzidos.",
+          "aplicacao": "A providência de Deus também se manifesta nos detalhes da vida comum e nas decisões tomadas com fé."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Provérbios 3:5-6",
+            "nota": "Ensina a confiar no Senhor e buscar sua direção."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 8,
+            "verse_end": 16,
+            "referencia": "Hebreus 11:8-16",
+            "nota": "Mostra Abraão vivendo como peregrino, esperando o cumprimento das promessas de Deus."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Tiago 1:5",
+            "nota": "Chama o povo de Deus a pedir sabedoria ao Senhor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho atravessado perdas mantendo minha esperança no Senhor?",
+        "Busco a direção de Deus antes de decisões importantes?",
+        "Reconheço a providência de Deus nos detalhes simples da vida?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 24:27 expressa gratidão pela direção fiel de Deus e resume a providência presente no capítulo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Gênesis 23:19-20",
+          "nota": "Mostra o sepultamento de Sara e a ligação da promessa com a terra."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 14,
+          "referencia": "Gênesis 24:12-14",
+          "nota": "Apresenta a oração por direção na missão do servo."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Gênesis 24:27",
+          "nota": "Reconhece a bondade e a fidelidade do Senhor na condução da história."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providência",
+          "significado": "O cuidado soberano de Deus conduzindo pessoas, decisões e circunstâncias."
+        },
+        {
+          "termo": "Peregrinação",
+          "significado": "Vida de fé que caminha na promessa mesmo sem possuir tudo plenamente."
+        },
+        {
+          "termo": "Direção",
+          "significado": "Sabedoria de Deus buscada em oração para decisões importantes."
+        }
+      ],
+      "oracao": "Senhor, guia minhas decisões e fortalece minha fé nas transições da vida. Ajuda-me a reconhecer tua providência e a caminhar com esperança na tua fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 23–24 — Grief, Continuity, and God's Guidance",
+      "contexto": "Genesis 23 and 24 shows Abraham facing Sarah's death and seeking the continuity of the promise through Isaac's marriage. The text brings together grief, responsibility, faithfulness, and divine guidance, revealing that God leads his promise even through life's transitions.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Sarah's death and hope connected to the land",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 20
+          },
+          "comentario": "Abraham buries Sarah in Canaan and acquires a portion of land. The act points to the permanence of the promise even in the face of death.",
+          "aplicacao": "Faith does not ignore grief, but learns to walk through it with hope in God's faithfulness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The search for a wife for Isaac",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 28
+          },
+          "comentario": "Abraham's servant prays for guidance and recognizes the Lord's providence. The continuity of the promise is handled with seriousness and dependence on God.",
+          "aplicacao": "Important decisions should be made with prayer, wisdom, and submission to the Lord's guidance."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Rebekah and the continuity of the family of promise",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 29,
+            "chapter_end": 24,
+            "verse_end": 67
+          },
+          "comentario": "Rebekah responds to the call and becomes part of the line of promise. God works through human decisions, meetings, and carefully guided paths.",
+          "aplicacao": "God's providence is also seen in the details of ordinary life and in decisions made by faith."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Proverbs 3:5-6",
+            "nota": "Teaches trust in the Lord and the pursuit of his guidance."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 8,
+            "verse_end": 16,
+            "referencia": "Hebrews 11:8-16",
+            "nota": "Shows Abraham living as a pilgrim while awaiting the fulfillment of God's promises."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "James 1:5",
+            "nota": "Calls God's people to ask the Lord for wisdom."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I walk through loss while keeping my hope in the Lord?",
+        "Do I seek God's guidance before important decisions?",
+        "Do I recognize God's providence in the simple details of life?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 24:27 expresses gratitude for God's faithful guidance and summarizes the providence present in the chapter."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Genesis 23:19-20",
+          "nota": "Shows Sarah's burial and the connection between the promise and the land."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 14,
+          "referencia": "Genesis 24:12-14",
+          "nota": "Presents the prayer for guidance in the servant's mission."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Genesis 24:27",
+          "nota": "Recognizes the Lord's kindness and faithfulness in guiding the story."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providence",
+          "significado": "God's sovereign care guiding people, decisions, and circumstances."
+        },
+        {
+          "termo": "Pilgrimage",
+          "significado": "A life of faith that walks in the promise without possessing everything fully yet."
+        },
+        {
+          "termo": "Guidance",
+          "significado": "God's wisdom sought in prayer for important decisions."
+        }
+      ],
+      "oracao": "Lord, guide my decisions and strengthen my faith through life's transitions. Help me recognize your providence and walk with hope in your faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 23–24 — Duelo, Continuidad y Dirección de Dios",
+      "contexto": "Génesis 23 y 24 muestra a Abraham enfrentando la muerte de Sara y buscando la continuidad de la promesa por medio del matrimonio de Isaac. El texto une duelo, responsabilidad, fidelidad y dirección divina, revelando que Dios conduce su promesa aun en las transiciones de la vida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La muerte de Sara y la esperanza ligada a la tierra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 23,
+            "verse_start": 1,
+            "chapter_end": 23,
+            "verse_end": 20
+          },
+          "comentario": "Abraham sepulta a Sara en Canaán y adquiere una porción de tierra. El gesto señala la permanencia de la promesa incluso frente a la muerte.",
+          "aplicacao": "La fe no ignora el duelo, sino que aprende a atravesarlo con esperanza en la fidelidad de Dios."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La búsqueda de una esposa para Isaac",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 1,
+            "chapter_end": 24,
+            "verse_end": 28
+          },
+          "comentario": "El siervo de Abraham ora por dirección y reconoce la providencia del Señor. La continuidad de la promesa se trata con seriedad y dependencia de Dios.",
+          "aplicacao": "Las decisiones importantes deben tomarse con oración, prudencia y sumisión a la dirección del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Rebeca y la continuidad de la familia de la promesa",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 24,
+            "verse_start": 29,
+            "chapter_end": 24,
+            "verse_end": 67
+          },
+          "comentario": "Rebeca responde al llamado y llega a formar parte del linaje de la promesa. Dios actúa por medio de decisiones humanas, encuentros y caminos cuidadosamente conducidos.",
+          "aplicacao": "La providencia de Dios también se manifiesta en los detalles de la vida común y en las decisiones tomadas con fe."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Proverbios 3:5-6",
+            "nota": "Enseña a confiar en el Señor y buscar su dirección."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 8,
+            "verse_end": 16,
+            "referencia": "Hebreos 11:8-16",
+            "nota": "Muestra a Abraham viviendo como peregrino, esperando el cumplimiento de las promesas de Dios."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Santiago 1:5",
+            "nota": "Llama al pueblo de Dios a pedir sabiduría al Señor."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Atravieso las pérdidas manteniendo mi esperanza en el Señor?",
+        "¿Busco la dirección de Dios antes de decisiones importantes?",
+        "¿Reconozco la providencia de Dios en los detalles sencillos de la vida?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 24:27 expresa gratitud por la dirección fiel de Dios y resume la providencia presente en el capítulo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 23,
+          "verse_start": 19,
+          "verse_end": 20,
+          "referencia": "Génesis 23:19-20",
+          "nota": "Muestra el sepultamiento de Sara y la conexión de la promesa con la tierra."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 12,
+          "verse_end": 14,
+          "referencia": "Génesis 24:12-14",
+          "nota": "Presenta la oración por dirección en la misión del siervo."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 24,
+          "verse_start": 27,
+          "verse_end": 27,
+          "referencia": "Génesis 24:27",
+          "nota": "Reconoce la bondad y la fidelidad del Señor al conducir la historia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providencia",
+          "significado": "El cuidado soberano de Dios que conduce personas, decisiones y circunstancias."
+        },
+        {
+          "termo": "Peregrinación",
+          "significado": "Vida de fe que camina en la promesa aunque todavía no lo posea todo plenamente."
+        },
+        {
+          "termo": "Dirección",
+          "significado": "Sabiduría de Dios buscada en oración para decisiones importantes."
+        }
+      ],
+      "oracao": "Señor, guía mis decisiones y fortalece mi fe en las transiciones de la vida. Ayúdame a reconocer tu providencia y a caminar con esperanza en tu fidelidad. Amén."
+    }
+  }
+}

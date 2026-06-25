@@ -92,7 +92,8 @@ class MensagensRepository(
                 spotifyUrl = if (obj.has("spotifyUrl")) obj.getString("spotifyUrl") else null,
                 instagramUrl = if (obj.has("instagramUrl")) obj.getString("instagramUrl") else null,
                 facebookUrl = if (obj.has("facebookUrl")) obj.getString("facebookUrl") else null,
-                tiktokUrl = if (obj.has("tiktokUrl")) obj.getString("tiktokUrl") else null
+                tiktokUrl = if (obj.has("tiktokUrl")) obj.getString("tiktokUrl") else null,
+                leituraReferencia = if (obj.has("leitura_referencia")) obj.getString("leitura_referencia") else null
             )
         }
         return lista
@@ -126,6 +127,7 @@ class MensagensRepository(
                     instagramUrl = if (obj.has("instagramUrl")) obj.getString("instagramUrl") else null,
                     facebookUrl = if (obj.has("facebookUrl")) obj.getString("facebookUrl") else null,
                     tiktokUrl = if (obj.has("tiktokUrl")) obj.getString("tiktokUrl") else null,
+                    leituraReferencia = if (obj.has("leitura_referencia")) obj.getString("leitura_referencia") else null,
                     isFavorite = localMsg?.isFavorite ?: false,
                     anotacao = localMsg?.anotacao,
                     audioPath = localMsg?.audioPath
@@ -173,6 +175,7 @@ class MensagensRepository(
                     instagramUrl = if (obj.has("instagramUrl")) obj.getString("instagramUrl") else null,
                     facebookUrl = if (obj.has("facebookUrl")) obj.getString("facebookUrl") else null,
                     tiktokUrl = if (obj.has("tiktokUrl")) obj.getString("tiktokUrl") else null,
+                    leituraReferencia = if (obj.has("leitura_referencia")) obj.getString("leitura_referencia") else null,
                     isFavorite = localMsg?.isFavorite ?: false,
                     anotacao = localMsg?.anotacao,
                     audioPath = localMsg?.audioPath

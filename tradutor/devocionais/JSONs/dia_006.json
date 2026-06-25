@@ -1,0 +1,575 @@
+{
+  "dia": 6,
+  "data": "2027-01-06",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 17–19",
+    "en": "Genesis 17–19",
+    "es": "Génesis 17–19"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 17,
+      "chapter_end": 19
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 18,
+    "verse_start": 14,
+    "verse_end": 14,
+    "referencia": {
+      "pt": "Gênesis 18:14",
+      "en": "Genesis 18:14",
+      "es": "Génesis 18:14"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_006.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_006.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/006/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/019.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/006/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/019.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/006/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/019.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/006/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/019.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_006.mp3",
+      "versiculo_central": "audio/en/verses/day_006.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/006/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/en/en-US-AriaNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/en/en-US-AriaNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/en/en-US-AriaNeural/019.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/006/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/en/en-US-JennyNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/en/en-US-JennyNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/en/en-US-JennyNeural/019.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/006/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/en/en-US-GuyNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/en/en-US-GuyNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/en/en-US-GuyNeural/019.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/006/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/en/en-US-BrianNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/en/en-US-BrianNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/en/en-US-BrianNeural/019.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_006.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_006.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/006/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/es/es-ES-ElviraNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/es/es-ES-ElviraNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/es/es-ES-ElviraNeural/019.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/006/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/es/es-MX-DaliaNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/es/es-MX-DaliaNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/es/es-MX-DaliaNeural/019.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/006/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/es/es-ES-AlvaroNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/es/es-ES-AlvaroNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/es/es-ES-AlvaroNeural/019.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/006/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/006/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/006/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_17": "audio/biblia/GEN/es/es-MX-JorgeNeural/017.m4a",
+          "GEN_18": "audio/biblia/GEN/es/es-MX-JorgeNeural/018.m4a",
+          "GEN_19": "audio/biblia/GEN/es/es-MX-JorgeNeural/019.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 17–19 — Aliança, Promessa e Juízo",
+      "contexto": "Gênesis 17 a 19 reúne três movimentos importantes: Deus confirma sua aliança com Abraão, anuncia novamente o nascimento de Isaque e julga Sodoma e Gomorra. A leitura mostra que o Senhor é fiel à promessa, paciente em revelar seus caminhos e justo diante da corrupção.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A aliança confirmada",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 27
+          },
+          "comentario": "Deus muda os nomes de Abrão e Sarai, reafirma a promessa e estabelece o sinal da aliança. A identidade deles passa a ser marcada pela palavra do Senhor.",
+          "aplicacao": "A aliança de Deus redefine identidade, futuro e obediência. Pertencer ao Senhor transforma a forma de viver."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A promessa diante do impossível",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 15
+          },
+          "comentario": "O anúncio do nascimento de Isaque confronta a limitação humana. A pergunta do Senhor revela que nada é difícil demais para ele.",
+          "aplicacao": "A fé aprende a olhar para o poder de Deus acima das impossibilidades humanas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Intercessão e justiça",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 16,
+            "chapter_end": 18,
+            "verse_end": 33
+          },
+          "comentario": "Abraão intercede por Sodoma e dialoga com Deus sobre justiça. O texto mostra a seriedade do juízo e a confiança no caráter justo do Senhor.",
+          "aplicacao": "A intercessão nasce de um coração que conhece a misericórdia de Deus e leva a sério a realidade do pecado."
+        },
+        {
+          "ordem": 4,
+          "titulo": "O juízo sobre Sodoma e Gomorra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 38
+          },
+          "comentario": "A destruição das cidades revela a gravidade da corrupção e a justiça de Deus. Ao mesmo tempo, a saída de Ló mostra misericórdia em meio ao juízo.",
+          "aplicacao": "A misericórdia de Deus não deve ser desprezada. Fugir do pecado e obedecer à voz do Senhor é uma resposta urgente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JER",
+            "chapter": 32,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Jeremias 32:17",
+            "nota": "Afirma que nada é difícil demais para o Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Lucas 1:37",
+            "nota": "Reafirma que para Deus nada é impossível."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "2 Pedro 2:6-9",
+            "nota": "Recorda Sodoma e Gomorra como advertência e mostra que Deus sabe livrar os piedosos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Permito que a aliança de Deus molde minha identidade e obediência?",
+        "Tenho limitado minha fé ao que parece possível aos olhos humanos?",
+        "Minha vida responde com seriedade à misericórdia e à justiça do Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 18:14 resume o poder de Deus diante do impossível e sustenta a esperança da promessa feita a Abraão e Sara."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 17,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Gênesis 17:7",
+          "nota": "Apresenta a aliança de Deus com Abraão e sua descendência."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Gênesis 18:14",
+          "nota": "Declara que nada é difícil demais para o Senhor."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 19,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Gênesis 19:16",
+          "nota": "Mostra a misericórdia de Deus ao livrar Ló."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso soberano de Deus com seu povo e suas promessas."
+        },
+        {
+          "termo": "Impossível",
+          "significado": "Limite humano que não restringe o poder de Deus."
+        },
+        {
+          "termo": "Juízo",
+          "significado": "A resposta justa de Deus contra a corrupção e o pecado."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a confiar no teu poder acima das impossibilidades. Que tua aliança molde minha vida e que eu responda à tua misericórdia com obediência. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 17–19 — Covenant, Promise, and Judgment",
+      "contexto": "Genesis 17 to 19 brings together three important movements: God confirms his covenant with Abraham, announces Isaac's birth again, and judges Sodom and Gomorrah. The reading shows that the Lord is faithful to his promise, patient in revealing his ways, and just before corruption.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The covenant confirmed",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 27
+          },
+          "comentario": "God changes the names of Abram and Sarai, reaffirms the promise, and establishes the sign of the covenant. Their identity becomes marked by the word of the Lord.",
+          "aplicacao": "God's covenant redefines identity, future, and obedience. Belonging to the Lord transforms the way we live."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The promise before the impossible",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 15
+          },
+          "comentario": "The announcement of Isaac's birth confronts human limitation. The Lord's question reveals that nothing is too difficult for him.",
+          "aplicacao": "Faith learns to look at God's power above human impossibilities."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Intercession and justice",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 16,
+            "chapter_end": 18,
+            "verse_end": 33
+          },
+          "comentario": "Abraham intercedes for Sodom and speaks with God about justice. The text shows the seriousness of judgment and confidence in the Lord's righteous character.",
+          "aplicacao": "Intercession is born from a heart that knows God's mercy and takes the reality of sin seriously."
+        },
+        {
+          "ordem": 4,
+          "titulo": "Judgment over Sodom and Gomorrah",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 38
+          },
+          "comentario": "The destruction of the cities reveals the gravity of corruption and the justice of God. At the same time, Lot's escape shows mercy in the midst of judgment.",
+          "aplicacao": "God's mercy must not be despised. Fleeing sin and obeying the Lord's voice is an urgent response."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JER",
+            "chapter": 32,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Jeremiah 32:17",
+            "nota": "Affirms that nothing is too difficult for the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Luke 1:37",
+            "nota": "Reaffirms that nothing is impossible with God."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "2 Peter 2:6-9",
+            "nota": "Recalls Sodom and Gomorrah as a warning and shows that God knows how to rescue the godly."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I allow God's covenant to shape my identity and obedience?",
+        "Have I limited my faith to what seems possible to human eyes?",
+        "Does my life respond seriously to the Lord's mercy and justice?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 18:14 summarizes God's power before the impossible and sustains the hope of the promise given to Abraham and Sarah."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 17,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Genesis 17:7",
+          "nota": "Presents God's covenant with Abraham and his offspring."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Genesis 18:14",
+          "nota": "Declares that nothing is too difficult for the Lord."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 19,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Genesis 19:16",
+          "nota": "Shows God's mercy in rescuing Lot."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "God's sovereign commitment to his people and his promises."
+        },
+        {
+          "termo": "Impossible",
+          "significado": "A human limit that does not restrict God's power."
+        },
+        {
+          "termo": "Judgment",
+          "significado": "God's just response against corruption and sin."
+        }
+      ],
+      "oracao": "Lord, help me trust your power above impossibilities. May your covenant shape my life, and may I respond to your mercy with obedience. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 17–19 — Alianza, Promesa y Juicio",
+      "contexto": "Génesis 17 al 19 reúne tres movimientos importantes: Dios confirma su alianza con Abraham, anuncia nuevamente el nacimiento de Isaac y juzga a Sodoma y Gomorra. La lectura muestra que el Señor es fiel a la promesa, paciente al revelar sus caminos y justo ante la corrupción.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La alianza confirmada",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 27
+          },
+          "comentario": "Dios cambia los nombres de Abram y Sarai, reafirma la promesa y establece la señal de la alianza. La identidad de ellos queda marcada por la palabra del Señor.",
+          "aplicacao": "La alianza de Dios redefine identidad, futuro y obediencia. Pertenecer al Señor transforma la forma de vivir."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La promesa ante lo imposible",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 15
+          },
+          "comentario": "El anuncio del nacimiento de Isaac confronta la limitación humana. La pregunta del Señor revela que nada es demasiado difícil para él.",
+          "aplicacao": "La fe aprende a mirar el poder de Dios por encima de las imposibilidades humanas."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Intercesión y justicia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 18,
+            "verse_start": 16,
+            "chapter_end": 18,
+            "verse_end": 33
+          },
+          "comentario": "Abraham intercede por Sodoma y dialoga con Dios sobre la justicia. El texto muestra la seriedad del juicio y la confianza en el carácter justo del Señor.",
+          "aplicacao": "La intercesión nace de un corazón que conoce la misericordia de Dios y toma en serio la realidad del pecado."
+        },
+        {
+          "ordem": 4,
+          "titulo": "El juicio sobre Sodoma y Gomorra",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 38
+          },
+          "comentario": "La destrucción de las ciudades revela la gravedad de la corrupción y la justicia de Dios. Al mismo tiempo, la salida de Lot muestra misericordia en medio del juicio.",
+          "aplicacao": "La misericordia de Dios no debe ser despreciada. Huir del pecado y obedecer la voz del Señor es una respuesta urgente."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JER",
+            "chapter": 32,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Jeremías 32:17",
+            "nota": "Afirma que nada es demasiado difícil para el Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 37,
+            "verse_end": 37,
+            "referencia": "Lucas 1:37",
+            "nota": "Reafirma que para Dios nada es imposible."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 6,
+            "verse_end": 9,
+            "referencia": "2 Pedro 2:6-9",
+            "nota": "Recuerda a Sodoma y Gomorra como advertencia y muestra que Dios sabe librar a los piadosos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Permito que la alianza de Dios moldee mi identidad y obediencia?",
+        "¿He limitado mi fe a lo que parece posible a los ojos humanos?",
+        "¿Mi vida responde con seriedad a la misericordia y la justicia del Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 18:14 resume el poder de Dios ante lo imposible y sostiene la esperanza de la promesa hecha a Abraham y Sara."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 17,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Génesis 17:7",
+          "nota": "Presenta la alianza de Dios con Abraham y su descendencia."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 18,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "Génesis 18:14",
+          "nota": "Declara que nada es demasiado difícil para el Señor."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 19,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Génesis 19:16",
+          "nota": "Muestra la misericordia de Dios al librar a Lot."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso soberano de Dios con su pueblo y sus promesas."
+        },
+        {
+          "termo": "Imposible",
+          "significado": "Límite humano que no restringe el poder de Dios."
+        },
+        {
+          "termo": "Juicio",
+          "significado": "Respuesta justa de Dios contra la corrupción y el pecado."
+        }
+      ],
+      "oracao": "Señor, ayúdame a confiar en tu poder por encima de las imposibilidades. Que tu alianza moldee mi vida y que responda a tu misericordia con obediencia. Amén."
+    }
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "dia": 37,
+  "data": "2027-02-06",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 9–11",
+    "en": "Leviticus 9–11",
+    "es": "Levítico 9–11"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 9,
+      "chapter_end": 11
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 11,
+    "verse_start": 45,
+    "verse_end": 45,
+    "referencia": {
+      "pt": "Levítico 11:45",
+      "en": "Leviticus 11:45",
+      "es": "Levítico 11:45"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_037.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_037.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/037/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/011.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/037/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/011.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/037/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/011.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/037/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/011.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_037.mp3",
+      "versiculo_central": "audio/en/verses/day_037.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/037/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/en/en-US-AriaNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/en/en-US-AriaNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/en/en-US-AriaNeural/011.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/037/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/en/en-US-JennyNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/en/en-US-JennyNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/en/en-US-JennyNeural/011.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/037/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/en/en-US-GuyNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/en/en-US-GuyNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/en/en-US-GuyNeural/011.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/037/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/en/en-US-BrianNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/en/en-US-BrianNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/en/en-US-BrianNeural/011.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_037.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_037.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/037/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/es/es-ES-ElviraNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/es/es-ES-ElviraNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/es/es-ES-ElviraNeural/011.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/037/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/es/es-MX-DaliaNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/es/es-MX-DaliaNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/es/es-MX-DaliaNeural/011.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/037/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/es/es-ES-AlvaroNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/es/es-ES-AlvaroNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/es/es-ES-AlvaroNeural/011.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/037/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/037/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/037/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_9": "audio/biblia/LEV/es/es-MX-JorgeNeural/009.m4a",
+          "LEV_10": "audio/biblia/LEV/es/es-MX-JorgeNeural/010.m4a",
+          "LEV_11": "audio/biblia/LEV/es/es-MX-JorgeNeural/011.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 9–11 — Santidade Diante da Presença de Deus",
+      "contexto": "Levítico 9 a 11 mostra o início público do ministério sacerdotal, a manifestação da glória do Senhor, o juízo sobre a irreverência de Nadabe e Abiú, e as instruções sobre pureza. O texto ensina que a presença de Deus é graça, mas também exige reverência, discernimento e santidade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A glória de Deus no culto do povo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 24
+          },
+          "comentario": "Arão oferece os sacrifícios conforme a ordem do Senhor, e a glória de Deus se manifesta diante do povo. A adoração nasce da iniciativa divina e deve seguir a vontade de Deus.",
+          "aplicacao": "A verdadeira adoração não é guiada apenas por emoção, mas por obediência, reverência e gratidão diante da presença do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O perigo da irreverência espiritual",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 20
+          },
+          "comentario": "Nadabe e Abiú tratam o serviço sagrado de maneira imprópria e sofrem juízo. O episódio mostra que aproximar-se de Deus sem reverência é grave.",
+          "aplicacao": "Servir a Deus exige humildade. Aquilo que é santo não deve ser tratado como comum, casual ou controlado pela vontade humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Pureza e distinção na vida diária",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 47
+          },
+          "comentario": "As instruções sobre animais puros e impuros ensinavam Israel a discernir entre o santo e o comum, formando uma vida marcada pela separação para Deus.",
+          "aplicacao": "A santidade não se limita ao culto. Ela alcança escolhas, hábitos e atitudes simples da vida diária."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaías 6:1-7",
+            "nota": "Mostra a santidade de Deus e a necessidade de purificação diante da sua presença."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Salmos 24:3-4",
+            "nota": "Relaciona o acesso à presença de Deus com pureza e integridade."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 12,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "Hebreus 12:28-29",
+            "nota": "Chama o povo de Deus a servir com reverência e santo temor."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 1,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "1 Pedro 1:15-16",
+            "nota": "Aplica o chamado à santidade à vida cristã."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado a presença de Deus com reverência?",
+        "Minha adoração é moldada pela Palavra de Deus ou apenas por preferências pessoais?",
+        "Minhas escolhas diárias expressam uma vida separada para o Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 11:45 resume o chamado do bloco: o Deus que libertou seu povo também o chama a viver em santidade diante dele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 9,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Levítico 9:24",
+          "nota": "Mostra a resposta do povo diante da manifestação da glória de Deus."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 10:3",
+          "nota": "Destaca a santidade de Deus no meio daqueles que se aproximam dele."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 11,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Levítico 11:45",
+          "nota": "Reúne libertação e santidade como marcas do povo de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidade",
+          "significado": "Separação para Deus em reverência, obediência e pureza."
+        },
+        {
+          "termo": "Reverência",
+          "significado": "Postura humilde diante da presença e da autoridade do Senhor."
+        },
+        {
+          "termo": "Pureza",
+          "significado": "Chamado para distinguir aquilo que agrada a Deus daquilo que contamina a vida."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a viver diante da tua presença com reverência. Purifica meu coração, orienta minhas escolhas e forma em mim uma vida santa para ti. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 9–11 — Holiness Before the Presence of God",
+      "contexto": "Leviticus 9 to 11 shows the public beginning of the priestly ministry, the manifestation of the Lord’s glory, the judgment upon Nadab and Abihu’s irreverence, and the instructions about purity. The passage teaches that God’s presence is grace, but it also requires reverence, discernment, and holiness.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "God’s glory in the worship of the people",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 24
+          },
+          "comentario": "Aaron offers the sacrifices according to the Lord’s command, and God’s glory is manifested before the people. Worship begins with divine initiative and must follow God’s will.",
+          "aplicacao": "True worship is not guided only by emotion, but by obedience, reverence, and gratitude before the Lord’s presence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The danger of spiritual irreverence",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 20
+          },
+          "comentario": "Nadab and Abihu treat sacred service improperly and come under judgment. The episode shows that approaching God without reverence is serious.",
+          "aplicacao": "Serving God requires humility. What is holy must not be treated as common, casual, or controlled by human will."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Purity and distinction in daily life",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 47
+          },
+          "comentario": "The instructions about clean and unclean animals taught Israel to discern between the holy and the common, forming a life set apart for God.",
+          "aplicacao": "Holiness is not limited to worship gatherings. It reaches choices, habits, and simple attitudes in daily life."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaiah 6:1-7",
+            "nota": "Shows God’s holiness and the need for purification before his presence."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Psalm 24:3-4",
+            "nota": "Connects access to God’s presence with purity and integrity."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 12,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "Hebrews 12:28-29",
+            "nota": "Calls God’s people to serve with reverence and holy fear."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 1,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "1 Peter 1:15-16",
+            "nota": "Applies the call to holiness to the Christian life."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat God’s presence with reverence?",
+        "Is my worship shaped by God’s Word or only by personal preferences?",
+        "Do my daily choices express a life set apart for the Lord?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 11:45 summarizes the call of the passage: the God who delivered his people also calls them to live in holiness before him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 9,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Leviticus 9:24",
+          "nota": "Shows the people’s response to the manifestation of God’s glory."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Leviticus 10:3",
+          "nota": "Highlights God’s holiness among those who draw near to him."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 11,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Leviticus 11:45",
+          "nota": "Joins deliverance and holiness as marks of God’s people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holiness",
+          "significado": "Being set apart for God in reverence, obedience, and purity."
+        },
+        {
+          "termo": "Reverence",
+          "significado": "A humble posture before the Lord’s presence and authority."
+        },
+        {
+          "termo": "Purity",
+          "significado": "The call to distinguish what pleases God from what contaminates life."
+        }
+      ],
+      "oracao": "Lord, teach me to live before your presence with reverence. Purify my heart, guide my choices, and form in me a holy life for you. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 9–11 — Santidad Delante de la Presencia de Dios",
+      "contexto": "Levítico 9 al 11 muestra el inicio público del ministerio sacerdotal, la manifestación de la gloria del Señor, el juicio sobre la irreverencia de Nadab y Abiú, y las instrucciones sobre pureza. El texto enseña que la presencia de Dios es gracia, pero también exige reverencia, discernimiento y santidad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La gloria de Dios en la adoración del pueblo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 24
+          },
+          "comentario": "Aarón ofrece los sacrificios conforme al mandato del Señor, y la gloria de Dios se manifiesta delante del pueblo. La adoración nace de la iniciativa divina y debe seguir la voluntad de Dios.",
+          "aplicacao": "La verdadera adoración no es guiada solo por la emoción, sino por la obediencia, la reverencia y la gratitud delante de la presencia del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El peligro de la irreverencia espiritual",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 20
+          },
+          "comentario": "Nadab y Abiú tratan el servicio sagrado de manera indebida y reciben juicio. El episodio muestra que acercarse a Dios sin reverencia es algo grave.",
+          "aplicacao": "Servir a Dios exige humildad. Lo que es santo no debe ser tratado como común, casual o controlado por la voluntad humana."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Pureza y distinción en la vida diaria",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 47
+          },
+          "comentario": "Las instrucciones sobre animales puros e impuros enseñaban a Israel a discernir entre lo santo y lo común, formando una vida apartada para Dios.",
+          "aplicacao": "La santidad no se limita a la adoración comunitaria. Alcanza elecciones, hábitos y actitudes sencillas de la vida diaria."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 6,
+            "verse_start": 1,
+            "verse_end": 7,
+            "referencia": "Isaías 6:1-7",
+            "nota": "Muestra la santidad de Dios y la necesidad de purificación delante de su presencia."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 24,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "Salmos 24:3-4",
+            "nota": "Relaciona el acceso a la presencia de Dios con pureza e integridad."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 12,
+            "verse_start": 28,
+            "verse_end": 29,
+            "referencia": "Hebreos 12:28-29",
+            "nota": "Llama al pueblo de Dios a servir con reverencia y santo temor."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 1,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "1 Pedro 1:15-16",
+            "nota": "Aplica el llamado a la santidad a la vida cristiana."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato la presencia de Dios con reverencia?",
+        "¿Mi adoración está formada por la Palabra de Dios o solo por preferencias personales?",
+        "¿Mis decisiones diarias expresan una vida apartada para el Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 11:45 resume el llamado del bloque: el Dios que libertó a su pueblo también lo llama a vivir en santidad delante de él."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 9,
+          "verse_start": 24,
+          "verse_end": 24,
+          "referencia": "Levítico 9:24",
+          "nota": "Muestra la respuesta del pueblo ante la manifestación de la gloria de Dios."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 10,
+          "verse_start": 3,
+          "verse_end": 3,
+          "referencia": "Levítico 10:3",
+          "nota": "Destaca la santidad de Dios entre aquellos que se acercan a él."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 11,
+          "verse_start": 45,
+          "verse_end": 45,
+          "referencia": "Levítico 11:45",
+          "nota": "Une liberación y santidad como marcas del pueblo de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Santidad",
+          "significado": "Separación para Dios en reverencia, obediencia y pureza."
+        },
+        {
+          "termo": "Reverencia",
+          "significado": "Postura humilde delante de la presencia y autoridad del Señor."
+        },
+        {
+          "termo": "Pureza",
+          "significado": "Llamado a distinguir lo que agrada a Dios de lo que contamina la vida."
+        }
+      ],
+      "oracao": "Señor, enséñame a vivir delante de tu presencia con reverencia. Purifica mi corazón, guía mis decisiones y forma en mí una vida santa para ti. Amén."
+    }
+  }
+}

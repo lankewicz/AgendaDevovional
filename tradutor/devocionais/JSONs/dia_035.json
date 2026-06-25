@@ -1,0 +1,560 @@
+{
+  "dia": 35,
+  "data": "2027-02-04",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 4–6",
+    "en": "Leviticus 4–6",
+    "es": "Levítico 4–6"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 4,
+      "chapter_end": 6
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 5,
+    "verse_start": 5,
+    "verse_end": 5,
+    "referencia": {
+      "pt": "Levítico 5:5",
+      "en": "Leviticus 5:5",
+      "es": "Levítico 5:5"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_035.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_035.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/035/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/006.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/035/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/006.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/035/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/006.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/035/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/006.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_035.mp3",
+      "versiculo_central": "audio/en/verses/day_035.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/035/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/en/en-US-AriaNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/en/en-US-AriaNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/en/en-US-AriaNeural/006.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/035/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/en/en-US-JennyNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/en/en-US-JennyNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/en/en-US-JennyNeural/006.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/035/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/en/en-US-GuyNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/en/en-US-GuyNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/en/en-US-GuyNeural/006.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/035/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/en/en-US-BrianNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/en/en-US-BrianNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/en/en-US-BrianNeural/006.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_035.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_035.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/035/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/es/es-ES-ElviraNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/es/es-ES-ElviraNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/es/es-ES-ElviraNeural/006.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/035/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/es/es-MX-DaliaNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/es/es-MX-DaliaNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/es/es-MX-DaliaNeural/006.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/035/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/es/es-ES-AlvaroNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/es/es-ES-AlvaroNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/es/es-ES-AlvaroNeural/006.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/035/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/035/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/035/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_4": "audio/biblia/LEV/es/es-MX-JorgeNeural/004.m4a",
+          "LEV_5": "audio/biblia/LEV/es/es-MX-JorgeNeural/005.m4a",
+          "LEV_6": "audio/biblia/LEV/es/es-MX-JorgeNeural/006.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 4–6 — Pecado, Confissão e Restauração",
+      "contexto": "Levítico 4 a 6 trata de ofertas pelo pecado, pela culpa e da responsabilidade diante de Deus e do próximo. O texto mostra que o pecado não deve ser minimizado, que a confissão é necessária e que a restauração envolve arrependimento, reparação e consagração contínua.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O pecado diante da santidade de Deus",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 35
+          },
+          "comentario": "As ofertas pelo pecado ensinam que a culpa humana precisa ser tratada diante do Senhor. Mesmo pecados cometidos sem intenção exigem purificação e reconciliação.",
+          "aplicacao": "A santidade de Deus nos chama a levar o pecado a sério e a buscar perdão com humildade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Confissão, culpa e reparação",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 7
+          },
+          "comentario": "O texto mostra pecados ligados ao silêncio, impureza, juramentos precipitados e prejuízos ao próximo. A restauração inclui confessar, reparar e buscar expiação.",
+          "aplicacao": "Arrependimento verdadeiro não é apenas sentimento; ele se expressa em confissão honesta e atitudes de reparação."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A chama contínua da consagração",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 6,
+            "verse_start": 8,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "As instruções sacerdotais mostram que o serviço diante de Deus deve ser constante. O altar permanece como sinal de adoração, expiação e dedicação contínua.",
+          "aplicacao": "A vida com Deus não deve depender de momentos isolados. Ele nos chama a uma consagração perseverante."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Salmos 51:16-17",
+            "nota": "Mostra que Deus deseja um coração quebrantado e arrependido."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaías 53:5-6",
+            "nota": "Aponta para o Servo que leva a culpa e traz cura ao povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 João 1:9",
+            "nota": "Ensina a confessar os pecados e confiar no perdão de Deus."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Mateus 5:23-24",
+            "nota": "Mostra que reconciliação com o próximo faz parte da adoração sincera."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho minimizado pecados que preciso confessar diante de Deus?",
+        "Busco reparar danos quando minhas atitudes afetam outras pessoas?",
+        "Minha consagração ao Senhor é contínua ou apenas ocasional?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 5:5 resume a resposta esperada diante da culpa: reconhecer o pecado e confessá-lo diante de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Levítico 4:20",
+          "nota": "Mostra a necessidade de expiação e perdão."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 5,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Levítico 5:5",
+          "nota": "Destaca a confissão como resposta ao pecado."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 6,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Levítico 6:13",
+          "nota": "Aponta para a continuidade da consagração diante do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Confissão",
+          "significado": "Reconhecimento sincero do pecado diante de Deus."
+        },
+        {
+          "termo": "Expiação",
+          "significado": "A provisão de Deus para tratar a culpa e restaurar a comunhão."
+        },
+        {
+          "termo": "Reparação",
+          "significado": "Atitude prática de corrigir danos causados ao próximo."
+        }
+      ],
+      "oracao": "Senhor, dá-me um coração sensível à tua santidade. Ajuda-me a confessar meus pecados, reparar o que for necessário e viver em consagração diante de ti. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 4–6 — Sin, Confession, and Restoration",
+      "contexto": "Leviticus 4 to 6 deals with offerings for sin, guilt, and responsibility before God and neighbor. The text shows that sin must not be minimized, that confession is necessary, and that restoration involves repentance, restitution, and continual consecration.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Sin before the holiness of God",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 35
+          },
+          "comentario": "The sin offerings teach that human guilt must be dealt with before the Lord. Even sins committed unintentionally require cleansing and reconciliation.",
+          "aplicacao": "God’s holiness calls us to take sin seriously and seek forgiveness with humility."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Confession, guilt, and restitution",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 7
+          },
+          "comentario": "The text addresses sins related to silence, impurity, rash oaths, and harm done to one’s neighbor. Restoration includes confessing, making restitution, and seeking atonement.",
+          "aplicacao": "True repentance is not only a feeling; it is expressed in honest confession and acts of repair."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The continual flame of consecration",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 6,
+            "verse_start": 8,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "The priestly instructions show that service before God must be constant. The altar remains as a sign of worship, atonement, and continual dedication.",
+          "aplicacao": "Life with God should not depend on isolated moments. He calls us to persevering consecration."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Psalm 51:16-17",
+            "nota": "Shows that God desires a broken and repentant heart."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaiah 53:5-6",
+            "nota": "Points to the Servant who bears guilt and brings healing to the people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 John 1:9",
+            "nota": "Teaches us to confess sins and trust in God’s forgiveness."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Matthew 5:23-24",
+            "nota": "Shows that reconciliation with others is part of sincere worship."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I minimized sins that I need to confess before God?",
+        "Do I seek to repair harm when my actions affect other people?",
+        "Is my consecration to the Lord continual or only occasional?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 5:5 summarizes the expected response to guilt: recognizing sin and confessing it before God."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Leviticus 4:20",
+          "nota": "Shows the need for atonement and forgiveness."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 5,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Leviticus 5:5",
+          "nota": "Highlights confession as the response to sin."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 6,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Leviticus 6:13",
+          "nota": "Points to the continuity of consecration before the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Confession",
+          "significado": "Sincere recognition of sin before God."
+        },
+        {
+          "termo": "Atonement",
+          "significado": "God’s provision to deal with guilt and restore communion."
+        },
+        {
+          "termo": "Restitution",
+          "significado": "The practical act of correcting harm done to another person."
+        }
+      ],
+      "oracao": "Lord, give me a heart sensitive to your holiness. Help me confess my sins, repair what is necessary, and live in consecration before you. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 4–6 — Pecado, Confesión y Restauración",
+      "contexto": "Levítico 4 al 6 trata de ofrendas por el pecado, por la culpa y de la responsabilidad delante de Dios y del prójimo. El texto muestra que el pecado no debe ser minimizado, que la confesión es necesaria y que la restauración implica arrepentimiento, restitución y consagración continua.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El pecado delante de la santidad de Dios",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 35
+          },
+          "comentario": "Las ofrendas por el pecado enseñan que la culpa humana debe ser tratada delante del Señor. Incluso los pecados cometidos sin intención requieren purificación y reconciliación.",
+          "aplicacao": "La santidad de Dios nos llama a tomar el pecado en serio y a buscar perdón con humildad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Confesión, culpa y restitución",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 7
+          },
+          "comentario": "El texto muestra pecados relacionados con el silencio, la impureza, los juramentos precipitados y los daños al prójimo. La restauración incluye confesar, restituir y buscar expiación.",
+          "aplicacao": "El arrepentimiento verdadero no es solo sentimiento; se expresa en confesión honesta y acciones de reparación."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La llama continua de la consagración",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 6,
+            "verse_start": 8,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "Las instrucciones sacerdotales muestran que el servicio delante de Dios debe ser constante. El altar permanece como señal de adoración, expiación y dedicación continua.",
+          "aplicacao": "La vida con Dios no debe depender de momentos aislados. Él nos llama a una consagración perseverante."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Salmos 51:16-17",
+            "nota": "Muestra que Dios desea un corazón quebrantado y arrepentido."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 53,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaías 53:5-6",
+            "nota": "Apunta al Siervo que lleva la culpa y trae sanidad al pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1JN",
+            "chapter": 1,
+            "verse_start": 9,
+            "verse_end": 9,
+            "referencia": "1 Juan 1:9",
+            "nota": "Enseña a confesar los pecados y confiar en el perdón de Dios."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Mateo 5:23-24",
+            "nota": "Muestra que la reconciliación con el prójimo forma parte de la adoración sincera."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He minimizado pecados que necesito confesar delante de Dios?",
+        "¿Busco reparar daños cuando mis actitudes afectan a otras personas?",
+        "¿Mi consagración al Señor es continua o solo ocasional?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 5:5 resume la respuesta esperada delante de la culpa: reconocer el pecado y confesarlo delante de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 4,
+          "verse_start": 20,
+          "verse_end": 20,
+          "referencia": "Levítico 4:20",
+          "nota": "Muestra la necesidad de expiación y perdón."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 5,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Levítico 5:5",
+          "nota": "Destaca la confesión como respuesta al pecado."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 6,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Levítico 6:13",
+          "nota": "Apunta a la continuidad de la consagración delante del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Confesión",
+          "significado": "Reconocimiento sincero del pecado delante de Dios."
+        },
+        {
+          "termo": "Expiación",
+          "significado": "La provisión de Dios para tratar la culpa y restaurar la comunión."
+        },
+        {
+          "termo": "Restitución",
+          "significado": "Actitud práctica de corregir daños causados al prójimo."
+        }
+      ],
+      "oracao": "Señor, dame un corazón sensible a tu santidad. Ayúdame a confesar mis pecados, reparar lo necesario y vivir en consagración delante de ti. Amén."
+    }
+  }
+}

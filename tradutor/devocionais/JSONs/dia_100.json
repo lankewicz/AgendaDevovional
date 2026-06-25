@@ -1,0 +1,440 @@
+{
+  "dia": 100,
+  "data": "2027-04-10",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 18–19",
+    "en": "2 Samuel 18–19",
+    "es": "2 Samuel 18–19"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 18,
+      "chapter_end": 19
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 18,
+    "verse_start": 33,
+    "verse_end": 33,
+    "referencia": {
+      "pt": "2 Samuel 18:33",
+      "en": "2 Samuel 18:33",
+      "es": "2 Samuel 18:33"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_100.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_100.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_100.mp3",
+      "versiculo_central": "audio/en/verses/day_100.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_100.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_100.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 18–19 — Vitória Dolorosa e Retorno Marcado pela Graça",
+      "contexto": "2 Samuel 18 a 19 apresenta o fim da rebelião de Absalão e o retorno de Davi. A vitória militar não elimina a dor familiar, e a restauração do reino acontece em meio a lamentos, tensões e decisões de misericórdia. A leitura mostra que pecado e graça podem aparecer juntos em histórias profundamente humanas.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A batalha e a morte de Absalão",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 18
+          },
+          "comentario": "A rebelião chega ao seu desfecho, e Absalão morre de modo trágico. A aparente vitória do reino carrega a dor das consequências acumuladas na casa de Davi.",
+          "aplicacao": "As escolhas têm consequências que podem alcançar outras pessoas. A sabedoria bíblica nos chama a tratar o pecado antes que ele produza destruição."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O lamento de Davi",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 19,
+            "chapter_end": 19,
+            "verse_end": 8
+          },
+          "comentario": "Davi chora por Absalão como pai, não apenas como rei. Sua dor revela a profundidade das feridas familiares e a complexidade de uma vitória marcada por perda.",
+          "aplicacao": "A fé não nega a dor. Deus nos permite lamentar, mas também nos chama a continuar cumprindo responsabilidades com humildade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O retorno do rei e os gestos de misericórdia",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 19,
+            "verse_start": 9,
+            "chapter_end": 19,
+            "verse_end": 43
+          },
+          "comentario": "Davi retorna a Jerusalém lidando com alianças, pedidos de perdão e conflitos. O rei demonstra misericórdia em momentos que poderiam ser dominados por vingança.",
+          "aplicacao": "Restauração exige verdade, paciência e misericórdia. Deus nos chama a agir com justiça sem perder a compaixão."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 19,
+            "referencia": "Salmos 51",
+            "nota": "Mostra arrependimento e pedido de restauração após o pecado de Davi."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 14,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Provérbios 14:12",
+            "nota": "Recorda que caminhos aparentemente corretos podem terminar em morte."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 15,
+            "verse_start": 20,
+            "verse_end": 24,
+            "referencia": "Lucas 15:20-24",
+            "nota": "Mostra a compaixão do pai diante do filho perdido."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Romanos 12:21",
+            "nota": "Ensina a vencer o mal com o bem."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho considerado as consequências espirituais e relacionais das minhas escolhas?",
+        "Consigo lamentar diante de Deus sem abandonar minhas responsabilidades?",
+        "Tenho praticado misericórdia quando seria mais fácil responder com dureza?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 18:33 concentra a dor do bloco: mesmo quando a rebelião termina, a ferida do pecado permanece e revela a necessidade de graça e restauração."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "2 Samuel 18:5",
+          "nota": "Mostra o pedido de Davi para que Absalão fosse tratado com brandura."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "2 Samuel 18:33",
+          "nota": "Expressa o lamento profundo de Davi por seu filho."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 19,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "2 Samuel 19:22",
+          "nota": "Revela a decisão de Davi de não transformar o retorno em vingança."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Lamento",
+          "significado": "Expressão honesta da dor diante de Deus, sem negar a fé."
+        },
+        {
+          "termo": "Consequência",
+          "significado": "Fruto real das escolhas humanas, especialmente quando o pecado não é tratado."
+        },
+        {
+          "termo": "Misericórdia",
+          "significado": "Postura de compaixão que limita a vingança e abre caminho para restauração."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a tratar o pecado com seriedade e a caminhar em misericórdia. Sustenta-me nos dias de dor e guia meus passos em restauração. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 18–19 — Painful Victory and a Return Marked by Grace",
+      "contexto": "2 Samuel 18 to 19 presents the end of Absalom’s rebellion and David’s return. Military victory does not remove family grief, and the restoration of the kingdom takes place amid lament, tensions, and decisions of mercy. The reading shows that sin and grace can appear together in deeply human stories.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The battle and Absalom’s death",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 18
+          },
+          "comentario": "The rebellion reaches its end, and Absalom dies tragically. The apparent victory of the kingdom carries the pain of consequences accumulated in David’s house.",
+          "aplicacao": "Choices have consequences that can reach other people. Biblical wisdom calls us to deal with sin before it produces destruction."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David’s lament",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 19,
+            "chapter_end": 19,
+            "verse_end": 8
+          },
+          "comentario": "David weeps for Absalom as a father, not only as a king. His grief reveals the depth of family wounds and the complexity of a victory marked by loss.",
+          "aplicacao": "Faith does not deny grief. God allows us to lament, but also calls us to continue fulfilling responsibilities with humility."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The king’s return and acts of mercy",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 19,
+            "verse_start": 9,
+            "chapter_end": 19,
+            "verse_end": 43
+          },
+          "comentario": "David returns to Jerusalem dealing with alliances, pleas for forgiveness, and conflicts. The king shows mercy in moments that could have been ruled by revenge.",
+          "aplicacao": "Restoration requires truth, patience, and mercy. God calls us to act with justice without losing compassion."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 19,
+            "referencia": "Psalm 51",
+            "nota": "Shows repentance and a plea for restoration after David’s sin."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 14,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Proverbs 14:12",
+            "nota": "Reminds that ways that seem right can end in death."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 15,
+            "verse_start": 20,
+            "verse_end": 24,
+            "referencia": "Luke 15:20-24",
+            "nota": "Shows the father’s compassion toward the lost son."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Romans 12:21",
+            "nota": "Teaches believers to overcome evil with good."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I considered the spiritual and relational consequences of my choices?",
+        "Can I lament before God without abandoning my responsibilities?",
+        "Do I practice mercy when it would be easier to respond with harshness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 18:33 concentrates the pain of the passage: even when rebellion ends, the wound of sin remains and reveals the need for grace and restoration."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "2 Samuel 18:5",
+          "nota": "Shows David’s request that Absalom be treated gently."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "2 Samuel 18:33",
+          "nota": "Expresses David’s deep lament for his son."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 19,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "2 Samuel 19:22",
+          "nota": "Reveals David’s decision not to turn his return into revenge."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Lament",
+          "significado": "An honest expression of pain before God without denying faith."
+        },
+        {
+          "termo": "Consequence",
+          "significado": "The real fruit of human choices, especially when sin is not dealt with."
+        },
+        {
+          "termo": "Mercy",
+          "significado": "A compassionate posture that restrains revenge and opens a path for restoration."
+        }
+      ],
+      "oracao": "Lord, teach me to deal with sin seriously and to walk in mercy. Sustain me in days of grief and guide my steps toward restoration. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 18–19 — Victoria Dolorosa y Retorno Marcado por la Gracia",
+      "contexto": "2 Samuel 18 al 19 presenta el fin de la rebelión de Absalón y el regreso de David. La victoria militar no elimina el dolor familiar, y la restauración del reino ocurre en medio de lamentos, tensiones y decisiones de misericordia. La lectura muestra que pecado y gracia pueden aparecer juntos en historias profundamente humanas.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La batalla y la muerte de Absalón",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 18
+          },
+          "comentario": "La rebelión llega a su desenlace, y Absalón muere de forma trágica. La aparente victoria del reino carga el dolor de las consecuencias acumuladas en la casa de David.",
+          "aplicacao": "Las decisiones tienen consecuencias que pueden alcanzar a otras personas. La sabiduría bíblica nos llama a tratar el pecado antes de que produzca destrucción."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El lamento de David",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 18,
+            "verse_start": 19,
+            "chapter_end": 19,
+            "verse_end": 8
+          },
+          "comentario": "David llora por Absalón como padre, no solo como rey. Su dolor revela la profundidad de las heridas familiares y la complejidad de una victoria marcada por pérdida.",
+          "aplicacao": "La fe no niega el dolor. Dios nos permite lamentar, pero también nos llama a continuar cumpliendo responsabilidades con humildad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El regreso del rey y los gestos de misericordia",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 19,
+            "verse_start": 9,
+            "chapter_end": 19,
+            "verse_end": 43
+          },
+          "comentario": "David regresa a Jerusalén tratando con alianzas, pedidos de perdón y conflictos. El rey muestra misericordia en momentos que podrían haber sido dominados por venganza.",
+          "aplicacao": "La restauración requiere verdad, paciencia y misericordia. Dios nos llama a actuar con justicia sin perder la compasión."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 1,
+            "verse_end": 19,
+            "referencia": "Salmos 51",
+            "nota": "Muestra arrepentimiento y pedido de restauración después del pecado de David."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 14,
+            "verse_start": 12,
+            "verse_end": 12,
+            "referencia": "Proverbios 14:12",
+            "nota": "Recuerda que caminos aparentemente correctos pueden terminar en muerte."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 15,
+            "verse_start": 20,
+            "verse_end": 24,
+            "referencia": "Lucas 15:20-24",
+            "nota": "Muestra la compasión del padre hacia el hijo perdido."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "Romanos 12:21",
+            "nota": "Enseña a vencer el mal con el bien."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He considerado las consecuencias espirituales y relacionales de mis decisiones?",
+        "¿Puedo lamentar delante de Dios sin abandonar mis responsabilidades?",
+        "¿Practico misericordia cuando sería más fácil responder con dureza?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 18:33 concentra el dolor del bloque: aunque la rebelión termina, la herida del pecado permanece y revela la necesidad de gracia y restauración."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "2 Samuel 18:5",
+          "nota": "Muestra el pedido de David para que Absalón fuera tratado con misericordia."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 18,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "2 Samuel 18:33",
+          "nota": "Expresa el profundo lamento de David por su hijo."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 19,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "2 Samuel 19:22",
+          "nota": "Revela la decisión de David de no convertir el retorno en venganza."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Lamento",
+          "significado": "Expresión honesta del dolor delante de Dios sin negar la fe."
+        },
+        {
+          "termo": "Consecuencia",
+          "significado": "Fruto real de las decisiones humanas, especialmente cuando el pecado no es tratado."
+        },
+        {
+          "termo": "Misericordia",
+          "significado": "Postura de compasión que limita la venganza y abre camino a la restauración."
+        }
+      ],
+      "oracao": "Señor, enséñame a tratar el pecado con seriedad y a caminar en misericordia. Sostenme en los días de dolor y guía mis pasos en restauración. Amén."
+    }
+  }
+}

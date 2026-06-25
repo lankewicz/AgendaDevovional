@@ -1,0 +1,416 @@
+{
+  "dia": 61,
+  "data": "2027-03-02",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 5–7",
+    "en": "Deuteronomy 5–7",
+    "es": "Deuteronomio 5–7"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 5,
+      "chapter_end": 7
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 6,
+    "verse_start": 4,
+    "verse_end": 5,
+    "referencia": {
+      "pt": "Deuteronômio 6:4-5",
+      "en": "Deuteronomy 6:4-5",
+      "es": "Deuteronomio 6:4-5"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_061.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_061.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_061.mp3",
+      "versiculo_central": "audio/en/verses/day_061.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_061.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_061.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 5–7 — Amar o Senhor de Todo o Coração",
+      "contexto": "Deuteronômio 5 a 7 apresenta a renovação da aliança, o chamado para amar o Senhor e a identidade de Israel como povo escolhido. A obediência aos mandamentos não deveria ser apenas formal; deveria nascer de um coração que reconhece o único Deus e responde ao seu amor fiel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A aliança e os mandamentos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 33
+          },
+          "comentario": "Moisés relembra os mandamentos dados por Deus. A lei revela o caráter santo do Senhor e orienta a vida do povo da aliança.",
+          "aplicacao": "Obedecer a Deus é viver sob sua direção, reconhecendo que seus mandamentos conduzem à vida."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O chamado para amar o Senhor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 25
+          },
+          "comentario": "O amor ao Senhor deve envolver coração, alma e força. A fé deveria ser ensinada em casa, lembrada no caminho e transmitida às próximas gerações.",
+          "aplicacao": "A devoção a Deus não pertence apenas a momentos religiosos, mas deve formar toda a vida diária."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Um povo escolhido para viver em fidelidade",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "Israel não foi escolhido por grandeza própria, mas pelo amor e pela fidelidade de Deus. Por isso, deveria rejeitar alianças que levassem à idolatria.",
+          "aplicacao": "Nossa identidade diante de Deus nasce da graça, e essa graça nos chama a viver com santidade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Josué 24:14-15",
+            "nota": "Chama o povo a servir somente ao Senhor com fidelidade."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Mateus 22:37-40",
+            "nota": "Jesus identifica o amor a Deus e ao próximo como o centro da lei."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica ao povo de Cristo a linguagem de povo escolhido e pertencente a Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Meu amor por Deus envolve toda a minha vida ou apenas momentos isolados?",
+        "Tenho transmitido a fé com palavras, atitudes e prioridades diárias?",
+        "Reconheço que minha identidade diante de Deus nasce da graça e me chama à santidade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 6:4-5 resume o coração da aliança: reconhecer o único Deus e amá-lo com todo o ser."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 5,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "Deuteronômio 5:32-33",
+          "nota": "Chama Israel a andar fielmente no caminho ordenado pelo Senhor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 6,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Deuteronômio 6:4-5",
+          "nota": "Expressa a confissão central de Israel e o chamado ao amor integral a Deus."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 7,
+          "verse_start": 6,
+          "verse_end": 8,
+          "referencia": "Deuteronômio 7:6-8",
+          "nota": "Mostra que a eleição de Israel nasceu do amor fiel do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Aliança",
+          "significado": "Relacionamento estabelecido por Deus com seu povo, marcado por graça e compromisso."
+        },
+        {
+          "termo": "Amor",
+          "significado": "Resposta integral do coração, da alma e da força ao Senhor."
+        },
+        {
+          "termo": "Santidade",
+          "significado": "Vida separada para Deus, moldada por sua Palavra e seu caráter."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a amar-te com todo o coração, toda a alma e todas as forças. Que minha fé esteja presente na minha casa, nas decisões e em cada parte da vida. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 5–7 — Loving the Lord with All the Heart",
+      "contexto": "Deuteronomy 5 to 7 presents the renewal of the covenant, the call to love the Lord, and Israel’s identity as a chosen people. Obedience to the commandments was not to be merely formal; it had to flow from a heart that recognizes the one God and responds to his faithful love.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The covenant and the commandments",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 33
+          },
+          "comentario": "Moses recalls the commandments given by God. The law reveals the Lord’s holy character and guides the life of the covenant people.",
+          "aplicacao": "To obey God is to live under his direction, recognizing that his commands lead to life."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The call to love the Lord",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 25
+          },
+          "comentario": "Love for the Lord must involve heart, soul, and strength. Faith was to be taught at home, remembered on the way, and passed to the next generations.",
+          "aplicacao": "Devotion to God does not belong only to religious moments; it must shape all daily life."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A chosen people called to faithfulness",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "Israel was not chosen because of its own greatness, but because of God’s love and faithfulness. Therefore, they had to reject alliances that led to idolatry.",
+          "aplicacao": "Our identity before God is born from grace, and that grace calls us to live in holiness."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Joshua 24:14-15",
+            "nota": "Calls the people to serve only the Lord with faithfulness."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Matthew 22:37-40",
+            "nota": "Jesus identifies love for God and neighbor as the center of the law."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Peter 2:9-10",
+            "nota": "Applies to the people of Christ the language of a chosen people belonging to God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my love for God involve all my life or only isolated moments?",
+        "Have I passed on faith through words, attitudes, and daily priorities?",
+        "Do I recognize that my identity before God is born from grace and calls me to holiness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 6:4-5 summarizes the heart of the covenant: to recognize the one God and love him with the whole being."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 5,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "Deuteronomy 5:32-33",
+          "nota": "Calls Israel to walk faithfully in the way commanded by the Lord."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 6,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Deuteronomy 6:4-5",
+          "nota": "Expresses Israel’s central confession and the call to wholehearted love for God."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 7,
+          "verse_start": 6,
+          "verse_end": 8,
+          "referencia": "Deuteronomy 7:6-8",
+          "nota": "Shows that Israel’s election was born from the Lord’s faithful love."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Covenant",
+          "significado": "The relationship established by God with his people, marked by grace and commitment."
+        },
+        {
+          "termo": "Love",
+          "significado": "The whole response of heart, soul, and strength to the Lord."
+        },
+        {
+          "termo": "Holiness",
+          "significado": "A life set apart for God, shaped by his Word and character."
+        }
+      ],
+      "oracao": "Lord, teach me to love you with all my heart, all my soul, and all my strength. May my faith be present in my home, in my decisions, and in every part of life. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 5–7 — Amar al Señor con Todo el Corazón",
+      "contexto": "Deuteronomio 5 al 7 presenta la renovación del pacto, el llamado a amar al Señor y la identidad de Israel como pueblo escogido. La obediencia a los mandamientos no debía ser solo formal; debía nacer de un corazón que reconoce al único Dios y responde a su amor fiel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El pacto y los mandamientos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 33
+          },
+          "comentario": "Moisés recuerda los mandamientos dados por Dios. La ley revela el carácter santo del Señor y orienta la vida del pueblo del pacto.",
+          "aplicacao": "Obedecer a Dios es vivir bajo su dirección, reconociendo que sus mandamientos conducen a la vida."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El llamado a amar al Señor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 25
+          },
+          "comentario": "El amor al Señor debe envolver corazón, alma y fuerzas. La fe debía enseñarse en casa, recordarse en el camino y transmitirse a las próximas generaciones.",
+          "aplicacao": "La devoción a Dios no pertenece solo a momentos religiosos, sino que debe formar toda la vida diaria."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Un pueblo escogido para vivir en fidelidad",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 26
+          },
+          "comentario": "Israel no fue escogido por su propia grandeza, sino por el amor y la fidelidad de Dios. Por eso debía rechazar alianzas que llevaran a la idolatría.",
+          "aplicacao": "Nuestra identidad delante de Dios nace de la gracia, y esa gracia nos llama a vivir en santidad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 24,
+            "verse_start": 14,
+            "verse_end": 15,
+            "referencia": "Josué 24:14-15",
+            "nota": "Llama al pueblo a servir solamente al Señor con fidelidad."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Mateo 22:37-40",
+            "nota": "Jesús identifica el amor a Dios y al prójimo como el centro de la ley."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 2,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "1 Pedro 2:9-10",
+            "nota": "Aplica al pueblo de Cristo el lenguaje de pueblo escogido y perteneciente a Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi amor por Dios involucra toda mi vida o solo momentos aislados?",
+        "¿He transmitido la fe con palabras, actitudes y prioridades diarias?",
+        "¿Reconozco que mi identidad delante de Dios nace de la gracia y me llama a la santidad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 6:4-5 resume el corazón del pacto: reconocer al único Dios y amarlo con todo el ser."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 5,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "Deuteronomio 5:32-33",
+          "nota": "Llama a Israel a andar fielmente en el camino ordenado por el Señor."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 6,
+          "verse_start": 4,
+          "verse_end": 5,
+          "referencia": "Deuteronomio 6:4-5",
+          "nota": "Expresa la confesión central de Israel y el llamado al amor integral a Dios."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 7,
+          "verse_start": 6,
+          "verse_end": 8,
+          "referencia": "Deuteronomio 7:6-8",
+          "nota": "Muestra que la elección de Israel nació del amor fiel del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Pacto",
+          "significado": "Relación establecida por Dios con su pueblo, marcada por gracia y compromiso."
+        },
+        {
+          "termo": "Amor",
+          "significado": "Respuesta integral del corazón, del alma y de las fuerzas al Señor."
+        },
+        {
+          "termo": "Santidad",
+          "significado": "Vida separada para Dios, moldeada por su Palabra y su carácter."
+        }
+      ],
+      "oracao": "Señor, enséñame a amarte con todo el corazón, toda el alma y todas las fuerzas. Que mi fe esté presente en mi casa, en mis decisiones y en cada parte de la vida. Amén."
+    }
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "dia": 25,
+  "data": "2027-01-25",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 16–18",
+    "en": "Exodus 16–18",
+    "es": "Éxodo 16–18"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 16,
+      "chapter_end": 18
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 16,
+    "verse_start": 4,
+    "verse_end": 4,
+    "referencia": {
+      "pt": "Êxodo 16:4",
+      "en": "Exodus 16:4",
+      "es": "Éxodo 16:4"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_025.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_025.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/025/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/018.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/025/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/018.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/025/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/018.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/025/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/018.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_025.mp3",
+      "versiculo_central": "audio/en/verses/day_025.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/025/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/en/en-US-AriaNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/en/en-US-AriaNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/en/en-US-AriaNeural/018.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/025/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/en/en-US-JennyNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/en/en-US-JennyNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/en/en-US-JennyNeural/018.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/025/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/en/en-US-GuyNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/en/en-US-GuyNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/en/en-US-GuyNeural/018.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/025/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/en/en-US-BrianNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/en/en-US-BrianNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/en/en-US-BrianNeural/018.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_025.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_025.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/025/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/es/es-ES-ElviraNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/es/es-ES-ElviraNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/es/es-ES-ElviraNeural/018.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/025/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/es/es-MX-DaliaNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/es/es-MX-DaliaNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/es/es-MX-DaliaNeural/018.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/025/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/es/es-ES-AlvaroNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/es/es-ES-AlvaroNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/es/es-ES-AlvaroNeural/018.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/025/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/025/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/025/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_16": "audio/biblia/EXO/es/es-MX-JorgeNeural/016.m4a",
+          "EXO_17": "audio/biblia/EXO/es/es-MX-JorgeNeural/017.m4a",
+          "EXO_18": "audio/biblia/EXO/es/es-MX-JorgeNeural/018.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 16–18 — Provisão, Dependência e Sabedoria",
+      "contexto": "Êxodo 16 a 18 mostra Israel aprendendo a viver como povo livre no deserto. Deus provê alimento, água, vitória e orientação. A liberdade não elimina a dependência; ela ensina o povo a confiar diariamente no Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O maná e a provisão diária",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 36
+          },
+          "comentario": "Diante da fome, o povo murmura, mas Deus responde com pão do céu. A provisão vem com instruções que ensinam confiança diária e descanso.",
+          "aplicacao": "A dependência de Deus é aprendida no cotidiano, quando recebemos o suficiente para hoje e confiamos no cuidado de amanhã."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Água da rocha e vitória sobre Amaleque",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "Deus supre água em meio à sede e dá vitória quando Israel é atacado. A ajuda do Senhor se manifesta tanto na necessidade interna quanto na ameaça externa.",
+          "aplicacao": "Deus sustenta seu povo nas carências e nas batalhas. A oração e a perseverança permanecem essenciais."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O conselho de Jetro",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 27
+          },
+          "comentario": "Jetro reconhece a grandeza do Senhor e aconselha Moisés a repartir responsabilidades. A liderança do povo precisa de sabedoria, ordem e cooperação.",
+          "aplicacao": "Servir a Deus também exige humildade para receber conselho e repartir responsabilidades de modo saudável."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 8,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "Deuteronômio 8:2-3",
+            "nota": "Interpreta o maná como ensino sobre dependência da palavra de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 6,
+            "verse_start": 31,
+            "verse_end": 35,
+            "referencia": "João 6:31-35",
+            "nota": "Apresenta Jesus como o pão da vida."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "1 Coríntios 10:3-4",
+            "nota": "Relaciona a provisão no deserto à presença espiritual de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reconhecido a provisão diária de Deus com gratidão?",
+        "Minha fé permanece quando surgem necessidades e conflitos?",
+        "Recebo conselhos com humildade e sirvo de forma equilibrada?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 16:4 resume o tema da leitura: Deus provê no deserto e ensina seu povo a depender dele diariamente."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 16,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Êxodo 16:4",
+          "nota": "Apresenta a provisão diária do pão vindo do Senhor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 17,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Êxodo 17:6",
+          "nota": "Mostra Deus suprindo água no deserto."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 18,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Êxodo 18:21",
+          "nota": "Destaca sabedoria e caráter na organização da liderança."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Maná",
+          "significado": "Provisão diária de Deus para sustentar e ensinar seu povo no deserto."
+        },
+        {
+          "termo": "Dependência",
+          "significado": "Confiança contínua no cuidado de Deus para cada etapa da caminhada."
+        },
+        {
+          "termo": "Sabedoria",
+          "significado": "Discernimento prático para ordenar responsabilidades segundo a vontade de Deus."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a confiar em tua provisão diária. Dá-me gratidão, perseverança e sabedoria para servir com humildade e equilíbrio. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 16–18 — Provision, Dependence, and Wisdom",
+      "contexto": "Exodus 16 to 18 shows Israel learning to live as a free people in the wilderness. God provides food, water, victory, and guidance. Freedom does not remove dependence; it teaches the people to trust the Lord daily.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Manna and daily provision",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 36
+          },
+          "comentario": "Facing hunger, the people complain, but God responds with bread from heaven. Provision comes with instructions that teach daily trust and rest.",
+          "aplicacao": "Dependence on God is learned in daily life, when we receive enough for today and trust his care for tomorrow."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Water from the rock and victory over Amalek",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "God supplies water in the midst of thirst and gives victory when Israel is attacked. The Lord’s help appears both in internal need and external threat.",
+          "aplicacao": "God sustains his people in needs and battles. Prayer and perseverance remain essential."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Jethro’s counsel",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 27
+          },
+          "comentario": "Jethro recognizes the greatness of the Lord and advises Moses to share responsibilities. The leadership of the people needs wisdom, order, and cooperation.",
+          "aplicacao": "Serving God also requires humility to receive counsel and share responsibilities in a healthy way."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 8,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "Deuteronomy 8:2-3",
+            "nota": "Interprets manna as instruction about dependence on God’s word."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 6,
+            "verse_start": 31,
+            "verse_end": 35,
+            "referencia": "John 6:31-35",
+            "nota": "Presents Jesus as the bread of life."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "1 Corinthians 10:3-4",
+            "nota": "Connects the provision in the wilderness with the spiritual presence of Christ."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I recognize God’s daily provision with gratitude?",
+        "Does my faith remain when needs and conflicts arise?",
+        "Do I receive counsel with humility and serve in a balanced way?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 16:4 summarizes the theme of the reading: God provides in the wilderness and teaches his people to depend on him daily."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 16,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Exodus 16:4",
+          "nota": "Presents the daily provision of bread from the Lord."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 17,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Exodus 17:6",
+          "nota": "Shows God supplying water in the wilderness."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 18,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Exodus 18:21",
+          "nota": "Highlights wisdom and character in organizing leadership."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Manna",
+          "significado": "God’s daily provision to sustain and teach his people in the wilderness."
+        },
+        {
+          "termo": "Dependence",
+          "significado": "Continual trust in God’s care for every stage of the journey."
+        },
+        {
+          "termo": "Wisdom",
+          "significado": "Practical discernment to order responsibilities according to God’s will."
+        }
+      ],
+      "oracao": "Lord, teach me to trust your daily provision. Give me gratitude, perseverance, and wisdom to serve with humility and balance. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 16–18 — Provisión, Dependencia y Sabiduría",
+      "contexto": "Éxodo 16 al 18 muestra a Israel aprendiendo a vivir como pueblo libre en el desierto. Dios provee alimento, agua, victoria y orientación. La libertad no elimina la dependencia; enseña al pueblo a confiar diariamente en el Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El maná y la provisión diaria",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 16,
+            "verse_end": 36
+          },
+          "comentario": "Frente al hambre, el pueblo murmura, pero Dios responde con pan del cielo. La provisión viene con instrucciones que enseñan confianza diaria y descanso.",
+          "aplicacao": "La dependencia de Dios se aprende en lo cotidiano, cuando recibimos lo suficiente para hoy y confiamos en su cuidado para mañana."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Agua de la roca y victoria sobre Amalec",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 17,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 16
+          },
+          "comentario": "Dios suple agua en medio de la sed y da victoria cuando Israel es atacado. La ayuda del Señor se manifiesta tanto en la necesidad interna como en la amenaza externa.",
+          "aplicacao": "Dios sostiene a su pueblo en las carencias y en las batallas. La oración y la perseverancia siguen siendo esenciales."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El consejo de Jetro",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 18,
+            "verse_start": 1,
+            "chapter_end": 18,
+            "verse_end": 27
+          },
+          "comentario": "Jetro reconoce la grandeza del Señor y aconseja a Moisés repartir responsabilidades. El liderazgo del pueblo necesita sabiduría, orden y cooperación.",
+          "aplicacao": "Servir a Dios también exige humildad para recibir consejo y repartir responsabilidades de manera saludable."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "DEU",
+            "chapter": 8,
+            "verse_start": 2,
+            "verse_end": 3,
+            "referencia": "Deuteronomio 8:2-3",
+            "nota": "Interpreta el maná como enseñanza sobre la dependencia de la palabra de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 6,
+            "verse_start": 31,
+            "verse_end": 35,
+            "referencia": "Juan 6:31-35",
+            "nota": "Presenta a Jesús como el pan de vida."
+          },
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 3,
+            "verse_end": 4,
+            "referencia": "1 Corintios 10:3-4",
+            "nota": "Relaciona la provisión en el desierto con la presencia espiritual de Cristo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Reconozco la provisión diaria de Dios con gratitud?",
+        "¿Mi fe permanece cuando surgen necesidades y conflictos?",
+        "¿Recibo consejo con humildad y sirvo de forma equilibrada?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 16:4 resume el tema de la lectura: Dios provee en el desierto y enseña a su pueblo a depender de Él diariamente."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 16,
+          "verse_start": 4,
+          "verse_end": 4,
+          "referencia": "Éxodo 16:4",
+          "nota": "Presenta la provisión diaria del pan que viene del Señor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 17,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Éxodo 17:6",
+          "nota": "Muestra a Dios supliendo agua en el desierto."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 18,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Éxodo 18:21",
+          "nota": "Destaca sabiduría y carácter en la organización del liderazgo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Maná",
+          "significado": "Provisión diaria de Dios para sostener y enseñar a su pueblo en el desierto."
+        },
+        {
+          "termo": "Dependencia",
+          "significado": "Confianza continua en el cuidado de Dios para cada etapa del camino."
+        },
+        {
+          "termo": "Sabiduría",
+          "significado": "Discernimiento práctico para ordenar responsabilidades según la voluntad de Dios."
+        }
+      ],
+      "oracao": "Señor, enséñame a confiar en tu provisión diaria. Dame gratitud, perseverancia y sabiduría para servir con humildad y equilibrio. Amén."
+    }
+  }
+}

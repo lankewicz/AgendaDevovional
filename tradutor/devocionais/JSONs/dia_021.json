@@ -1,0 +1,536 @@
+{
+  "dia": 21,
+  "data": "2027-01-21",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 5–7",
+    "en": "Exodus 5–7",
+    "es": "Éxodo 5–7"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 5,
+      "chapter_end": 7
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 6,
+    "verse_start": 6,
+    "verse_end": 6,
+    "referencia": {
+      "pt": "Êxodo 6:6",
+      "en": "Exodus 6:6",
+      "es": "Éxodo 6:6"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_021.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_021.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/021/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/007.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/021/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/007.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/021/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/007.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/021/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/007.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_021.mp3",
+      "versiculo_central": "audio/en/verses/day_021.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/021/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/en/en-US-AriaNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/en/en-US-AriaNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/en/en-US-AriaNeural/007.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/021/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/en/en-US-JennyNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/en/en-US-JennyNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/en/en-US-JennyNeural/007.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/021/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/en/en-US-GuyNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/en/en-US-GuyNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/en/en-US-GuyNeural/007.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/021/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/en/en-US-BrianNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/en/en-US-BrianNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/en/en-US-BrianNeural/007.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_021.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_021.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/021/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/es/es-ES-ElviraNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/es/es-ES-ElviraNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/es/es-ES-ElviraNeural/007.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/021/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/es/es-MX-DaliaNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/es/es-MX-DaliaNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/es/es-MX-DaliaNeural/007.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/021/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/es/es-ES-AlvaroNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/es/es-ES-AlvaroNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/es/es-ES-AlvaroNeural/007.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/021/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/021/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/021/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_5": "audio/biblia/EXO/es/es-MX-JorgeNeural/005.m4a",
+          "EXO_6": "audio/biblia/EXO/es/es-MX-JorgeNeural/006.m4a",
+          "EXO_7": "audio/biblia/EXO/es/es-MX-JorgeNeural/007.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 5–7 — A Promessa de Libertação Diante da Resistência",
+      "contexto": "Êxodo 5 a 7 mostra o início do confronto com Faraó. A obediência de Moisés não produz alívio imediato; pelo contrário, a opressão aumenta. Mesmo assim, Deus reafirma sua identidade, sua aliança e sua promessa de libertar o povo com mão poderosa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A resistência de Faraó",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 23
+          },
+          "comentario": "Moisés anuncia a palavra do Senhor, mas Faraó responde com dureza e aumenta o peso sobre o povo. O início da missão parece piorar a situação.",
+          "aplicacao": "Obedecer a Deus não significa ausência de resistência, mas confiança em sua palavra acima das reações humanas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Deus reafirma sua promessa",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "Deus declara que libertará Israel, cumprirá sua aliança e tomará o povo para si. A promessa permanece firme mesmo quando o povo está abatido.",
+          "aplicacao": "A fé se apoia no caráter de Deus, especialmente quando as circunstâncias ainda não mudaram."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O início dos sinais diante do Egito",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "Moisés e Arão são enviados novamente, e os sinais começam a confrontar o poder do Egito. Deus revela que Faraó não governa a história.",
+          "aplicacao": "O Senhor é maior que os poderes que se levantam contra seu povo e contra sua vontade."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Êxodo 12:12-14",
+            "nota": "Mostra o juízo de Deus sobre o Egito e a instituição da Páscoa."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 8,
+            "verse_start": 34,
+            "verse_end": 36,
+            "referencia": "João 8:34-36",
+            "nota": "Aponta para a libertação mais profunda realizada pelo Filho."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romanos 9:17-18",
+            "nota": "Reflete sobre Faraó e a soberania de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Continuo confiando quando a obediência parece aumentar a pressão?",
+        "Minha esperança está nas circunstâncias ou no caráter de Deus?",
+        "Reconheço que Deus é maior que toda resistência contra sua vontade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 6:6 concentra a promessa de Deus: libertação, redenção e ação poderosa em favor do seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Êxodo 5:2",
+          "nota": "Revela a dureza de Faraó diante da palavra do Senhor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 6,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Êxodo 6:6",
+          "nota": "Resume a promessa de libertação e redenção."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 7,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Êxodo 7:5",
+          "nota": "Mostra que o Egito conheceria o Senhor por meio de seus atos."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Libertação",
+          "significado": "Ato de Deus em retirar seu povo da opressão."
+        },
+        {
+          "termo": "Redenção",
+          "significado": "Resgate realizado por Deus para tomar o povo para si."
+        },
+        {
+          "termo": "Resistência",
+          "significado": "Oposição humana à palavra e à vontade do Senhor."
+        }
+      ],
+      "oracao": "Senhor, fortalece minha fé quando a obediência encontrar resistência. Ajuda-me a confiar na tua promessa, na tua redenção e no teu poder. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 5–7 — The Promise of Deliverance Before Resistance",
+      "contexto": "Exodus 5 to 7 shows the beginning of the confrontation with Pharaoh. Moses’ obedience does not bring immediate relief; instead, oppression increases. Even so, God reaffirms his identity, his covenant, and his promise to deliver the people with a mighty hand.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Pharaoh’s resistance",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 23
+          },
+          "comentario": "Moses announces the word of the Lord, but Pharaoh responds with hardness and increases the burden on the people. The beginning of the mission seems to make the situation worse.",
+          "aplicacao": "Obeying God does not mean the absence of resistance, but trust in his word above human reactions."
+        },
+        {
+          "ordem": 2,
+          "titulo": "God reaffirms his promise",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "God declares that he will deliver Israel, fulfill his covenant, and take the people as his own. The promise remains firm even when the people are discouraged.",
+          "aplicacao": "Faith rests on God’s character, especially when circumstances have not yet changed."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The beginning of signs before Egypt",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "Moses and Aaron are sent again, and the signs begin to confront Egypt’s power. God reveals that Pharaoh does not rule history.",
+          "aplicacao": "The Lord is greater than the powers that rise against his people and his will."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Exodus 12:12-14",
+            "nota": "Shows God’s judgment over Egypt and the institution of Passover."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 8,
+            "verse_start": 34,
+            "verse_end": 36,
+            "referencia": "John 8:34-36",
+            "nota": "Points to the deeper freedom accomplished by the Son."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romans 9:17-18",
+            "nota": "Reflects on Pharaoh and God’s sovereignty."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I keep trusting when obedience seems to increase pressure?",
+        "Is my hope in circumstances or in God’s character?",
+        "Do I recognize that God is greater than all resistance against his will?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 6:6 gathers God’s promise: deliverance, redemption, and mighty action on behalf of his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Exodus 5:2",
+          "nota": "Reveals Pharaoh’s hardness before the word of the Lord."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 6,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Exodus 6:6",
+          "nota": "Summarizes the promise of deliverance and redemption."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 7,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Exodus 7:5",
+          "nota": "Shows that Egypt would know the Lord through his acts."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Deliverance",
+          "significado": "God’s act of bringing his people out of oppression."
+        },
+        {
+          "termo": "Redemption",
+          "significado": "The rescue God performs to take the people as his own."
+        },
+        {
+          "termo": "Resistance",
+          "significado": "Human opposition to the word and will of the Lord."
+        }
+      ],
+      "oracao": "Lord, strengthen my faith when obedience meets resistance. Help me trust your promise, your redemption, and your power. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 5–7 — La Promesa de Liberación Ante la Resistencia",
+      "contexto": "Éxodo 5 al 7 muestra el inicio del enfrentamiento con Faraón. La obediencia de Moisés no produce alivio inmediato; al contrario, la opresión aumenta. Aun así, Dios reafirma su identidad, su alianza y su promesa de liberar al pueblo con mano poderosa.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La resistencia de Faraón",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 5,
+            "verse_start": 1,
+            "chapter_end": 5,
+            "verse_end": 23
+          },
+          "comentario": "Moisés anuncia la palabra del Señor, pero Faraón responde con dureza y aumenta la carga sobre el pueblo. El inicio de la misión parece empeorar la situación.",
+          "aplicacao": "Obedecer a Dios no significa ausencia de resistencia, sino confianza en su palabra por encima de las reacciones humanas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Dios reafirma su promesa",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 6,
+            "verse_start": 1,
+            "chapter_end": 6,
+            "verse_end": 30
+          },
+          "comentario": "Dios declara que liberará a Israel, cumplirá su alianza y tomará al pueblo para sí. La promesa permanece firme incluso cuando el pueblo está abatido.",
+          "aplicacao": "La fe se apoya en el carácter de Dios, especialmente cuando las circunstancias todavía no han cambiado."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El inicio de las señales ante Egipto",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 25
+          },
+          "comentario": "Moisés y Aarón son enviados nuevamente, y las señales comienzan a confrontar el poder de Egipto. Dios revela que Faraón no gobierna la historia.",
+          "aplicacao": "El Señor es mayor que los poderes que se levantan contra su pueblo y contra su voluntad."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "EXO",
+            "chapter": 12,
+            "verse_start": 12,
+            "verse_end": 14,
+            "referencia": "Éxodo 12:12-14",
+            "nota": "Muestra el juicio de Dios sobre Egipto y la institución de la Pascua."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 8,
+            "verse_start": 34,
+            "verse_end": 36,
+            "referencia": "Juan 8:34-36",
+            "nota": "Apunta a la liberación más profunda realizada por el Hijo."
+          },
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romanos 9:17-18",
+            "nota": "Reflexiona sobre Faraón y la soberanía de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Sigo confiando cuando la obediencia parece aumentar la presión?",
+        "¿Mi esperanza está en las circunstancias o en el carácter de Dios?",
+        "¿Reconozco que Dios es mayor que toda resistencia contra su voluntad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 6:6 concentra la promesa de Dios: liberación, redención y acción poderosa a favor de su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 5,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Éxodo 5:2",
+          "nota": "Revela la dureza de Faraón ante la palabra del Señor."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 6,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Éxodo 6:6",
+          "nota": "Resume la promesa de liberación y redención."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 7,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Éxodo 7:5",
+          "nota": "Muestra que Egipto conocería al Señor por medio de sus actos."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Liberación",
+          "significado": "Acto de Dios al sacar a su pueblo de la opresión."
+        },
+        {
+          "termo": "Redención",
+          "significado": "Rescate realizado por Dios para tomar al pueblo para sí."
+        },
+        {
+          "termo": "Resistencia",
+          "significado": "Oposición humana a la palabra y a la voluntad del Señor."
+        }
+      ],
+      "oracao": "Señor, fortalece mi fe cuando la obediencia encuentre resistencia. Ayúdame a confiar en tu promesa, en tu redención y en tu poder. Amén."
+    }
+  }
+}

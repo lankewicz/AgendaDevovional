@@ -1,0 +1,416 @@
+{
+  "dia": 99,
+  "data": "2027-04-09",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 15–17",
+    "en": "2 Samuel 15–17",
+    "es": "2 Samuel 15–17"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 15,
+      "chapter_end": 17
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 15,
+    "verse_start": 25,
+    "verse_end": 26,
+    "referencia": {
+      "pt": "2 Samuel 15:25-26",
+      "en": "2 Samuel 15:25-26",
+      "es": "2 Samuel 15:25-26"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_099.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_099.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_099.mp3",
+      "versiculo_central": "audio/en/verses/day_099.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_099.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_099.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 15–17 — Rebelião, Fuga e Confiança na Vontade de Deus",
+      "contexto": "2 Samuel 15 a 17 mostra a rebelião de Absalão contra Davi. O rei deixa Jerusalém em humilhação, atravessa momentos de dor e traição, mas continua buscando o Senhor. A leitura revela que a liderança de Davi é provada não apenas nas vitórias, mas também na perda, na espera e na submissão à vontade de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A rebelião de Absalão",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 12
+          },
+          "comentario": "Absalão conquista a simpatia do povo e transforma a insatisfação em revolta. A ambição se apresenta como cuidado, mas seu fruto é divisão e infidelidade.",
+          "aplicacao": "É necessário discernir motivações e não confundir carisma com fidelidade. Deus valoriza integridade mais do que influência."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Davi foge e entrega seu caminho ao Senhor",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 13,
+            "chapter_end": 15,
+            "verse_end": 37
+          },
+          "comentario": "Davi deixa Jerusalém chorando, mas não tenta manipular a arca nem usar símbolos sagrados como garantia de controle. Ele se submete à vontade de Deus.",
+          "aplicacao": "A fé madura confia em Deus mesmo quando perde segurança, posição ou reconhecimento."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Conselhos, traições e providência",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 29
+          },
+          "comentario": "Davi enfrenta acusações, traições e estratégias políticas. Mesmo assim, Deus age de modo providencial, frustrando conselhos destrutivos e preservando seu servo.",
+          "aplicacao": "Quando não controlamos todos os acontecimentos, ainda podemos confiar que Deus governa até os caminhos ocultos da história."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Salmos 3",
+            "nota": "Salmo ligado à fuga de Davi diante de Absalão, expressando confiança em Deus no meio da ameaça."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 22,
+            "verse_start": 42,
+            "verse_end": 42,
+            "referencia": "Lucas 22:42",
+            "nota": "Jesus se submete à vontade do Pai no momento de angústia."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Pedro 5:6-7",
+            "nota": "Ensina a lançar sobre Deus as ansiedades e esperar sua exaltação no tempo certo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Consigo confiar em Deus quando perco controle sobre a situação?",
+        "Tenho buscado discernir motivações, minhas e dos outros, diante de conflitos?",
+        "Entrego minha causa ao Senhor ou tento usar meios espirituais para controlar resultados?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 15:25-26 revela a postura de Davi em meio à crise: ele não exige que Deus confirme seus planos, mas se coloca nas mãos da vontade divina."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 25,
+          "verse_end": 26,
+          "referencia": "2 Samuel 15:25-26",
+          "nota": "Expressa a submissão de Davi à vontade do Senhor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 15:31",
+          "nota": "Mostra Davi orando diante dos conselhos contrários."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 17:14",
+          "nota": "Destaca a providência de Deus frustrando o conselho de Aitofel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Submissão",
+          "significado": "Entrega confiante à vontade de Deus, mesmo quando ela passa por perdas e incertezas."
+        },
+        {
+          "termo": "Providência",
+          "significado": "O governo fiel de Deus sobre acontecimentos visíveis e ocultos."
+        },
+        {
+          "termo": "Ambição",
+          "significado": "Desejo de poder que, sem temor de Deus, gera divisão e injustiça."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a confiar em ti nos dias de perda e incerteza. Livra-me da ambição sem temor e ensina-me a descansar na tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 15–17 — Rebellion, Exile, and Trust in God’s Will",
+      "contexto": "2 Samuel 15 to 17 shows Absalom’s rebellion against David. The king leaves Jerusalem in humiliation, walking through grief and betrayal, yet he continues to seek the Lord. The reading reveals that David’s leadership is tested not only in victories, but also in loss, waiting, and submission to God’s will.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Absalom’s rebellion",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 12
+          },
+          "comentario": "Absalom wins the people’s sympathy and turns dissatisfaction into revolt. Ambition presents itself as care, but its fruit is division and unfaithfulness.",
+          "aplicacao": "Motives must be discerned, and charisma must not be confused with faithfulness. God values integrity more than influence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David flees and entrusts his path to the Lord",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 13,
+            "chapter_end": 15,
+            "verse_end": 37
+          },
+          "comentario": "David leaves Jerusalem weeping, but he does not try to manipulate the ark or use sacred symbols as a guarantee of control. He submits himself to God’s will.",
+          "aplicacao": "Mature faith trusts God even when security, position, or recognition is lost."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Counsel, betrayal, and providence",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 29
+          },
+          "comentario": "David faces accusations, betrayals, and political strategies. Even so, God acts providentially, frustrating destructive counsel and preserving his servant.",
+          "aplicacao": "When we do not control every event, we can still trust that God governs even the hidden paths of history."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Psalm 3",
+            "nota": "A psalm connected to David’s flight from Absalom, expressing trust in God amid threat."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 22,
+            "verse_start": 42,
+            "verse_end": 42,
+            "referencia": "Luke 22:42",
+            "nota": "Jesus submits to the Father’s will in a moment of anguish."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Peter 5:6-7",
+            "nota": "Teaches believers to cast anxieties on God and wait for his exaltation in due time."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Can I trust God when I lose control over the situation?",
+        "Am I seeking to discern motives, my own and others’, in times of conflict?",
+        "Do I entrust my cause to the Lord or try to use spiritual means to control outcomes?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 15:25-26 reveals David’s posture in the crisis: he does not demand that God confirm his plans, but places himself in the hands of divine will."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 25,
+          "verse_end": 26,
+          "referencia": "2 Samuel 15:25-26",
+          "nota": "Expresses David’s submission to the will of the Lord."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 15:31",
+          "nota": "Shows David praying in the face of opposing counsel."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 17:14",
+          "nota": "Highlights God’s providence in frustrating Ahithophel’s counsel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Submission",
+          "significado": "Trusting surrender to God’s will, even when it involves loss and uncertainty."
+        },
+        {
+          "termo": "Providence",
+          "significado": "God’s faithful rule over visible and hidden events."
+        },
+        {
+          "termo": "Ambition",
+          "significado": "A desire for power that, without the fear of God, produces division and injustice."
+        }
+      ],
+      "oracao": "Lord, help me trust you in days of loss and uncertainty. Deliver me from ambition without reverence and teach me to rest in your will. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 15–17 — Rebelión, Huida y Confianza en la Voluntad de Dios",
+      "contexto": "2 Samuel 15 al 17 muestra la rebelión de Absalón contra David. El rey sale de Jerusalén en humillación, atraviesa momentos de dolor y traición, pero continúa buscando al Señor. La lectura revela que el liderazgo de David es probado no solo en las victorias, sino también en la pérdida, la espera y la sumisión a la voluntad de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La rebelión de Absalón",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 12
+          },
+          "comentario": "Absalón conquista la simpatía del pueblo y transforma la insatisfacción en revuelta. La ambición se presenta como cuidado, pero su fruto es división e infidelidad.",
+          "aplicacao": "Es necesario discernir motivaciones y no confundir carisma con fidelidad. Dios valora la integridad más que la influencia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David huye y entrega su camino al Señor",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 15,
+            "verse_start": 13,
+            "chapter_end": 15,
+            "verse_end": 37
+          },
+          "comentario": "David sale de Jerusalén llorando, pero no intenta manipular el arca ni usar símbolos sagrados como garantía de control. Él se somete a la voluntad de Dios.",
+          "aplicacao": "La fe madura confía en Dios aun cuando pierde seguridad, posición o reconocimiento."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Consejos, traiciones y providencia",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 16,
+            "verse_start": 1,
+            "chapter_end": 17,
+            "verse_end": 29
+          },
+          "comentario": "David enfrenta acusaciones, traiciones y estrategias políticas. Aun así, Dios actúa providencialmente, frustrando consejos destructivos y preservando a su siervo.",
+          "aplicacao": "Cuando no controlamos todos los acontecimientos, aún podemos confiar en que Dios gobierna incluso los caminos ocultos de la historia."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 3,
+            "verse_start": 1,
+            "verse_end": 8,
+            "referencia": "Salmos 3",
+            "nota": "Salmo relacionado con la huida de David ante Absalón, expresando confianza en Dios en medio de la amenaza."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 22,
+            "verse_start": 42,
+            "verse_end": 42,
+            "referencia": "Lucas 22:42",
+            "nota": "Jesús se somete a la voluntad del Padre en el momento de angustia."
+          },
+          {
+            "book_id": "1PE",
+            "chapter": 5,
+            "verse_start": 6,
+            "verse_end": 7,
+            "referencia": "1 Pedro 5:6-7",
+            "nota": "Enseña a poner las ansiedades sobre Dios y esperar su exaltación en el tiempo adecuado."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Puedo confiar en Dios cuando pierdo control sobre la situación?",
+        "¿Busco discernir motivaciones, propias y ajenas, en medio de conflictos?",
+        "¿Entrego mi causa al Señor o intento usar medios espirituales para controlar resultados?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 15:25-26 revela la postura de David en medio de la crisis: no exige que Dios confirme sus planes, sino que se coloca en las manos de la voluntad divina."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 25,
+          "verse_end": 26,
+          "referencia": "2 Samuel 15:25-26",
+          "nota": "Expresa la sumisión de David a la voluntad del Señor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 15,
+          "verse_start": 31,
+          "verse_end": 31,
+          "referencia": "2 Samuel 15:31",
+          "nota": "Muestra a David orando frente a los consejos contrarios."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 17,
+          "verse_start": 14,
+          "verse_end": 14,
+          "referencia": "2 Samuel 17:14",
+          "nota": "Destaca la providencia de Dios frustrando el consejo de Ahitofel."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sumisión",
+          "significado": "Entrega confiada a la voluntad de Dios, incluso cuando pasa por pérdidas e incertidumbre."
+        },
+        {
+          "termo": "Providencia",
+          "significado": "El gobierno fiel de Dios sobre acontecimientos visibles y ocultos."
+        },
+        {
+          "termo": "Ambición",
+          "significado": "Deseo de poder que, sin temor de Dios, produce división e injusticia."
+        }
+      ],
+      "oracao": "Señor, ayúdame a confiar en ti en días de pérdida e incertidumbre. Líbrame de la ambición sin temor y enséñame a descansar en tu voluntad. Amén."
+    }
+  }
+}

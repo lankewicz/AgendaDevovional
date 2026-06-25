@@ -1,0 +1,560 @@
+{
+  "dia": 41,
+  "data": "2027-02-10",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 19–21",
+    "en": "Leviticus 19–21",
+    "es": "Levítico 19–21"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 19,
+      "chapter_end": 21
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 19,
+    "verse_start": 2,
+    "verse_end": 2,
+    "referencia": {
+      "pt": "Levítico 19:2",
+      "en": "Leviticus 19:2",
+      "es": "Levítico 19:2"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_041.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_041.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/041/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/021.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/041/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/021.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/041/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/021.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/041/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/021.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_041.mp3",
+      "versiculo_central": "audio/en/verses/day_041.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/041/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/en/en-US-AriaNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/en/en-US-AriaNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/en/en-US-AriaNeural/021.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/041/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/en/en-US-JennyNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/en/en-US-JennyNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/en/en-US-JennyNeural/021.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/041/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/en/en-US-GuyNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/en/en-US-GuyNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/en/en-US-GuyNeural/021.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/041/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/en/en-US-BrianNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/en/en-US-BrianNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/en/en-US-BrianNeural/021.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_041.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_041.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/041/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/es/es-ES-ElviraNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/es/es-ES-ElviraNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/es/es-ES-ElviraNeural/021.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/041/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/es/es-MX-DaliaNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/es/es-MX-DaliaNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/es/es-MX-DaliaNeural/021.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/041/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/es/es-ES-AlvaroNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/es/es-ES-AlvaroNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/es/es-ES-AlvaroNeural/021.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/041/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/041/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/041/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_19": "audio/biblia/LEV/es/es-MX-JorgeNeural/019.m4a",
+          "LEV_20": "audio/biblia/LEV/es/es-MX-JorgeNeural/020.m4a",
+          "LEV_21": "audio/biblia/LEV/es/es-MX-JorgeNeural/021.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 19–21 — Santidade em Toda a Vida",
+      "contexto": "Levítico 19 a 21 amplia o chamado à santidade para várias áreas da vida: relacionamentos, justiça, trabalho, cuidado com o próximo, práticas espirituais e responsabilidades sacerdotais. A santidade de Deus não é apenas doutrina; ela deve moldar a ética, a convivência e o serviço do povo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Santidade no amor ao próximo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 18
+          },
+          "comentario": "O chamado à santidade aparece em mandamentos sobre família, trabalho, justiça e amor. Amar o próximo faz parte da vida separada para Deus.",
+          "aplicacao": "Santidade não é isolamento frio. Ela se manifesta em justiça, honestidade, cuidado e amor concreto."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Fidelidade contra práticas corrompidas",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 19,
+            "chapter_end": 20,
+            "verse_end": 27
+          },
+          "comentario": "O povo é advertido contra costumes que desonram a Deus e ferem a comunidade. O Senhor chama Israel a uma identidade distinta.",
+          "aplicacao": "A fidelidade a Deus exige discernimento para rejeitar práticas que prometem poder, prazer ou vantagem, mas afastam o coração do Senhor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A responsabilidade dos sacerdotes",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 24
+          },
+          "comentario": "Os sacerdotes recebem exigências específicas porque servem em funções sagradas diante de Deus e do povo. A responsabilidade espiritual exige seriedade.",
+          "aplicacao": "Quanto maior a responsabilidade de serviço, maior deve ser o compromisso com integridade, reverência e exemplo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Miquéias 6:8",
+            "nota": "Resume a vida que agrada a Deus em justiça, misericórdia e humildade."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 15,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Salmos 15:1-5",
+            "nota": "Descreve a integridade de quem habita diante do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Mateus 22:37-40",
+            "nota": "Jesus relaciona o amor a Deus e ao próximo como resumo da Lei."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Tiago 2:8",
+            "nota": "Chama o amor ao próximo de lei real."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha santidade aparece no modo como trato as pessoas?",
+        "Sou justo, honesto e cuidadoso nas relações comuns da vida?",
+        "Minha responsabilidade espiritual tem sido acompanhada de integridade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 19:2 apresenta o fundamento da ética do povo: a santidade de Deus deve formar a santidade da vida."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Levítico 19:2",
+          "nota": "Estabelece o chamado central à santidade."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Levítico 19:18",
+          "nota": "Liga santidade ao amor concreto ao próximo."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 20,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Levítico 20:26",
+          "nota": "Reforça a separação do povo para pertencer ao Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Ética santa",
+          "significado": "Modo de viver que reflete o caráter de Deus nas relações diárias."
+        },
+        {
+          "termo": "Amor ao próximo",
+          "significado": "Expressão prática da obediência a Deus no cuidado com outras pessoas."
+        },
+        {
+          "termo": "Integridade",
+          "significado": "Coerência entre fé, caráter, palavras e ações."
+        }
+      ],
+      "oracao": "Senhor, forma em mim uma santidade visível no amor, na justiça e na integridade. Que minha vida reflita teu caráter em cada relação e responsabilidade. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 19–21 — Holiness in Every Area of Life",
+      "contexto": "Leviticus 19 to 21 expands the call to holiness into many areas of life: relationships, justice, work, care for others, spiritual practices, and priestly responsibilities. God’s holiness is not only doctrine; it must shape the ethics, community life, and service of his people.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Holiness in love for the neighbor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 18
+          },
+          "comentario": "The call to holiness appears in commands about family, work, justice, and love. Loving the neighbor is part of a life set apart for God.",
+          "aplicacao": "Holiness is not cold isolation. It is manifested in justice, honesty, care, and concrete love."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Faithfulness against corrupted practices",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 19,
+            "chapter_end": 20,
+            "verse_end": 27
+          },
+          "comentario": "The people are warned against customs that dishonor God and harm the community. The Lord calls Israel to a distinct identity.",
+          "aplicacao": "Faithfulness to God requires discernment to reject practices that promise power, pleasure, or advantage but draw the heart away from the Lord."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The responsibility of the priests",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 24
+          },
+          "comentario": "The priests receive specific requirements because they serve in sacred functions before God and the people. Spiritual responsibility requires seriousness.",
+          "aplicacao": "The greater the responsibility of service, the greater the commitment to integrity, reverence, and example must be."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Micah 6:8",
+            "nota": "Summarizes the life that pleases God in justice, mercy, and humility."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 15,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Psalm 15:1-5",
+            "nota": "Describes the integrity of the one who dwells before the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Matthew 22:37-40",
+            "nota": "Jesus connects love for God and neighbor as the summary of the Law."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "James 2:8",
+            "nota": "Calls love for the neighbor the royal law."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my holiness appear in the way I treat people?",
+        "Am I just, honest, and careful in ordinary relationships?",
+        "Has my spiritual responsibility been accompanied by integrity?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 19:2 presents the foundation of the people’s ethics: God’s holiness must form the holiness of life."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Leviticus 19:2",
+          "nota": "Establishes the central call to holiness."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Leviticus 19:18",
+          "nota": "Connects holiness with concrete love for the neighbor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 20,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Leviticus 20:26",
+          "nota": "Reinforces the separation of the people to belong to the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Holy ethics",
+          "significado": "A way of life that reflects God’s character in daily relationships."
+        },
+        {
+          "termo": "Love for neighbor",
+          "significado": "Practical expression of obedience to God in caring for other people."
+        },
+        {
+          "termo": "Integrity",
+          "significado": "Consistency between faith, character, words, and actions."
+        }
+      ],
+      "oracao": "Lord, form in me a holiness visible in love, justice, and integrity. May my life reflect your character in every relationship and responsibility. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 19–21 — Santidad en Toda la Vida",
+      "contexto": "Levítico 19 al 21 amplía el llamado a la santidad hacia varias áreas de la vida: relaciones, justicia, trabajo, cuidado del prójimo, prácticas espirituales y responsabilidades sacerdotales. La santidad de Dios no es solo doctrina; debe moldear la ética, la convivencia y el servicio del pueblo.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Santidad en el amor al prójimo",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 18
+          },
+          "comentario": "El llamado a la santidad aparece en mandamientos sobre familia, trabajo, justicia y amor. Amar al prójimo forma parte de la vida apartada para Dios.",
+          "aplicacao": "La santidad no es aislamiento frío. Se manifiesta en justicia, honestidad, cuidado y amor concreto."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Fidelidad contra prácticas corrompidas",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 19,
+            "verse_start": 19,
+            "chapter_end": 20,
+            "verse_end": 27
+          },
+          "comentario": "El pueblo es advertido contra costumbres que deshonran a Dios y hieren a la comunidad. El Señor llama a Israel a una identidad distinta.",
+          "aplicacao": "La fidelidad a Dios exige discernimiento para rechazar prácticas que prometen poder, placer o ventaja, pero alejan el corazón del Señor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La responsabilidad de los sacerdotes",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 21,
+            "verse_end": 24
+          },
+          "comentario": "Los sacerdotes reciben exigencias específicas porque sirven en funciones sagradas delante de Dios y del pueblo. La responsabilidad espiritual exige seriedad.",
+          "aplicacao": "Cuanto mayor es la responsabilidad de servicio, mayor debe ser el compromiso con integridad, reverencia y ejemplo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "MIC",
+            "chapter": 6,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Miqueas 6:8",
+            "nota": "Resume la vida que agrada a Dios en justicia, misericordia y humildad."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 15,
+            "verse_start": 1,
+            "verse_end": 5,
+            "referencia": "Salmos 15:1-5",
+            "nota": "Describe la integridad de quien habita delante del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 22,
+            "verse_start": 37,
+            "verse_end": 40,
+            "referencia": "Mateo 22:37-40",
+            "nota": "Jesús relaciona el amor a Dios y al prójimo como resumen de la Ley."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 2,
+            "verse_start": 8,
+            "verse_end": 8,
+            "referencia": "Santiago 2:8",
+            "nota": "Llama al amor al prójimo la ley real."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi santidad aparece en la manera en que trato a las personas?",
+        "¿Soy justo, honesto y cuidadoso en las relaciones comunes de la vida?",
+        "¿Mi responsabilidad espiritual ha estado acompañada de integridad?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 19:2 presenta el fundamento de la ética del pueblo: la santidad de Dios debe formar la santidad de la vida."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Levítico 19:2",
+          "nota": "Establece el llamado central a la santidad."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 19,
+          "verse_start": 18,
+          "verse_end": 18,
+          "referencia": "Levítico 19:18",
+          "nota": "Une santidad con amor concreto al prójimo."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 20,
+          "verse_start": 26,
+          "verse_end": 26,
+          "referencia": "Levítico 20:26",
+          "nota": "Refuerza la separación del pueblo para pertenecer al Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Ética santa",
+          "significado": "Modo de vivir que refleja el carácter de Dios en las relaciones diarias."
+        },
+        {
+          "termo": "Amor al prójimo",
+          "significado": "Expresión práctica de la obediencia a Dios en el cuidado de otras personas."
+        },
+        {
+          "termo": "Integridad",
+          "significado": "Coherencia entre fe, carácter, palabras y acciones."
+        }
+      ],
+      "oracao": "Señor, forma en mí una santidad visible en amor, justicia e integridad. Que mi vida refleje tu carácter en cada relación y responsabilidad. Amén."
+    }
+  }
+}

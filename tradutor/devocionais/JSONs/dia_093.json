@@ -1,0 +1,440 @@
+{
+  "dia": 93,
+  "data": "2027-04-03",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 25–27",
+    "en": "1 Samuel 25–27",
+    "es": "1 Samuel 25–27"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 25,
+      "chapter_end": 27
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 26,
+    "verse_start": 23,
+    "verse_end": 23,
+    "referencia": {
+      "pt": "1 Samuel 26:23",
+      "en": "1 Samuel 26:23",
+      "es": "1 Samuel 26:23"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_093.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_093.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_093.mp3",
+      "versiculo_central": "audio/en/verses/day_093.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_093.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_093.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 25–27 — Sabedoria, Domínio Próprio e Confiança no Senhor",
+      "contexto": "1 Samuel 25 a 27 mostra Davi em uma fase de tensão, fuga e decisões difíceis. Abigail impede uma vingança precipitada, Davi poupa Saul novamente e depois busca refúgio entre os filisteus. A leitura destaca que a fidelidade a Deus também aparece quando alguém recusa a vingança e espera pelo tempo do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Abigail age com sabedoria e impede derramamento de sangue",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 44
+          },
+          "comentario": "A atitude de Nabal provoca ira em Davi, mas Abigail age com humildade, discernimento e coragem. Sua intervenção impede que Davi manche sua caminhada com vingança pessoal.",
+          "aplicacao": "A sabedoria de Deus nos ajuda a interromper ciclos de ofensa, orgulho e reação precipitada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Davi poupa Saul e entrega a justiça ao Senhor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 25
+          },
+          "comentario": "Mesmo tendo oportunidade de matar Saul, Davi se recusa a tomar o juízo nas próprias mãos. Ele reconhece que a justiça pertence ao Senhor e escolhe agir com temor de Deus.",
+          "aplicacao": "Nem toda oportunidade deve ser interpretada como permissão. A fé sabe esperar quando a vingança parece fácil."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Davi busca sobrevivência em território filisteu",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 12
+          },
+          "comentario": "Cansado da perseguição, Davi procura refúgio entre os filisteus. O texto revela a pressão da fuga e a complexidade das escolhas feitas em tempos de insegurança.",
+          "aplicacao": "Momentos de cansaço exigem vigilância espiritual, para que o medo não conduza decisões distantes da confiança plena em Deus."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 20,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Provérbios 20:22",
+            "nota": "Ensina a não buscar vingança, mas esperar o livramento do Senhor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 5,
+            "verse_end": 7,
+            "referencia": "Salmos 37:5-7",
+            "nota": "Chama o fiel a entregar o caminho ao Senhor e descansar nele."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 21,
+            "referencia": "Romanos 12:19-21",
+            "nota": "Reforça que a vingança pertence a Deus e que o mal deve ser vencido com o bem."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 44,
+            "verse_end": 45,
+            "referencia": "Mateus 5:44-45",
+            "nota": "Jesus chama seus discípulos a amar os inimigos e agir de modo diferente do padrão comum."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reagido às ofensas com sabedoria ou com impulso?",
+        "Consigo entregar a justiça ao Senhor quando sou ferido?",
+        "Minhas decisões em tempos de pressão nascem da fé ou do medo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 26:23 resume a atitude de Davi: ele reconhece que Deus vê a justiça e a fidelidade, por isso não precisa tomar a vingança nas próprias mãos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 25,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "1 Samuel 25:32-33",
+          "nota": "Davi reconhece que Deus usou Abigail para impedi-lo de agir com violência."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 26,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 26:23",
+          "nota": "Afirma que o Senhor recompensa justiça e fidelidade."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 27,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "1 Samuel 27:1",
+          "nota": "Revela o desgaste interior de Davi diante da perseguição constante."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Domínio próprio",
+          "significado": "Capacidade de submeter reações e desejos à vontade de Deus."
+        },
+        {
+          "termo": "Justiça",
+          "significado": "A confiança de que Deus julga retamente e no tempo certo."
+        },
+        {
+          "termo": "Sabedoria",
+          "significado": "Discernimento espiritual para agir com prudência em situações de tensão."
+        }
+      ],
+      "oracao": "Senhor, guarda meu coração de reações precipitadas. Ensina-me a agir com sabedoria, a entregar a justiça em tuas mãos e a confiar em ti nos dias de pressão. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 25–27 — Wisdom, Self-Control, and Trust in the Lord",
+      "contexto": "1 Samuel 25 to 27 shows David in a season of tension, flight, and difficult decisions. Abigail prevents a rushed act of revenge, David spares Saul again, and later seeks refuge among the Philistines. The reading highlights that faithfulness to God is also seen when a person refuses revenge and waits for the Lord's timing.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Abigail acts wisely and prevents bloodshed",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 44
+          },
+          "comentario": "Nabal's attitude provokes David's anger, but Abigail acts with humility, discernment, and courage. Her intervention prevents David from staining his path with personal revenge.",
+          "aplicacao": "God's wisdom helps us interrupt cycles of offense, pride, and rushed reaction."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David spares Saul and leaves justice to the Lord",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 25
+          },
+          "comentario": "Even when he has the opportunity to kill Saul, David refuses to take judgment into his own hands. He recognizes that justice belongs to the Lord and chooses to act in the fear of God.",
+          "aplicacao": "Not every opportunity should be understood as permission. Faith knows how to wait when revenge seems easy."
+        },
+        {
+          "ordem": 3,
+          "titulo": "David seeks survival in Philistine territory",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 12
+          },
+          "comentario": "Worn down by persecution, David seeks refuge among the Philistines. The text reveals the pressure of flight and the complexity of choices made in times of insecurity.",
+          "aplicacao": "Times of weariness require spiritual watchfulness, so fear does not lead decisions away from full trust in God."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 20,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Proverbs 20:22",
+            "nota": "Teaches not to seek revenge, but to wait for the Lord's deliverance."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 5,
+            "verse_end": 7,
+            "referencia": "Psalm 37:5-7",
+            "nota": "Calls the faithful to commit their way to the Lord and rest in him."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 21,
+            "referencia": "Romans 12:19-21",
+            "nota": "Reinforces that vengeance belongs to God and that evil must be overcome with good."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 44,
+            "verse_end": 45,
+            "referencia": "Matthew 5:44-45",
+            "nota": "Jesus calls his disciples to love their enemies and act differently from the common pattern."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I respond to offenses with wisdom or impulse?",
+        "Can I leave justice in the Lord's hands when I am hurt?",
+        "Do my decisions in times of pressure come from faith or from fear?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 26:23 summarizes David's attitude: he recognizes that God sees righteousness and faithfulness, so he does not need to take revenge into his own hands."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 25,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "1 Samuel 25:32-33",
+          "nota": "David recognizes that God used Abigail to keep him from acting violently."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 26,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 26:23",
+          "nota": "Affirms that the Lord rewards righteousness and faithfulness."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 27,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "1 Samuel 27:1",
+          "nota": "Reveals David's inner weariness under constant persecution."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Self-control",
+          "significado": "The ability to submit reactions and desires to God's will."
+        },
+        {
+          "termo": "Justice",
+          "significado": "Trust that God judges rightly and at the right time."
+        },
+        {
+          "termo": "Wisdom",
+          "significado": "Spiritual discernment to act prudently in tense situations."
+        }
+      ],
+      "oracao": "Lord, guard my heart from rushed reactions. Teach me to act with wisdom, to leave justice in your hands, and to trust you in days of pressure. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 25–27 — Sabiduría, Dominio Propio y Confianza en el Señor",
+      "contexto": "1 Samuel 25 al 27 muestra a David en una etapa de tensión, huida y decisiones difíciles. Abigail impide una venganza precipitada, David perdona otra vez la vida de Saúl y luego busca refugio entre los filisteos. La lectura destaca que la fidelidad a Dios también se ve cuando alguien rechaza la venganza y espera el tiempo del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Abigail actúa con sabiduría e impide derramamiento de sangre",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 44
+          },
+          "comentario": "La actitud de Nabal provoca la ira de David, pero Abigail actúa con humildad, discernimiento y valentía. Su intervención impide que David manche su camino con una venganza personal.",
+          "aplicacao": "La sabiduría de Dios nos ayuda a interrumpir ciclos de ofensa, orgullo y reacción precipitada."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David perdona a Saúl y entrega la justicia al Señor",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 25
+          },
+          "comentario": "Aunque tiene la oportunidad de matar a Saúl, David se niega a tomar el juicio en sus propias manos. Reconoce que la justicia pertenece al Señor y decide actuar con temor de Dios.",
+          "aplicacao": "No toda oportunidad debe entenderse como permiso. La fe sabe esperar cuando la venganza parece fácil."
+        },
+        {
+          "ordem": 3,
+          "titulo": "David busca sobrevivir en territorio filisteo",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 27,
+            "verse_start": 1,
+            "chapter_end": 27,
+            "verse_end": 12
+          },
+          "comentario": "Cansado de la persecución, David busca refugio entre los filisteos. El texto revela la presión de la huida y la complejidad de las decisiones tomadas en tiempos de inseguridad.",
+          "aplicacao": "Los momentos de cansancio requieren vigilancia espiritual, para que el miedo no conduzca decisiones lejos de la plena confianza en Dios."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 20,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Proverbios 20:22",
+            "nota": "Enseña a no buscar venganza, sino esperar el libramiento del Señor."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 37,
+            "verse_start": 5,
+            "verse_end": 7,
+            "referencia": "Salmos 37:5-7",
+            "nota": "Llama al fiel a encomendar su camino al Señor y descansar en él."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 12,
+            "verse_start": 19,
+            "verse_end": 21,
+            "referencia": "Romanos 12:19-21",
+            "nota": "Reafirma que la venganza pertenece a Dios y que el mal debe vencerse con el bien."
+          },
+          {
+            "book_id": "MAT",
+            "chapter": 5,
+            "verse_start": 44,
+            "verse_end": 45,
+            "referencia": "Mateo 5:44-45",
+            "nota": "Jesús llama a sus discípulos a amar a sus enemigos y actuar de forma diferente al patrón común."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Respondo a las ofensas con sabiduría o con impulso?",
+        "¿Puedo entregar la justicia en manos del Señor cuando soy herido?",
+        "¿Mis decisiones en tiempos de presión nacen de la fe o del miedo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 26:23 resume la actitud de David: reconoce que Dios ve la justicia y la fidelidad, por eso no necesita tomar la venganza en sus propias manos."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 25,
+          "verse_start": 32,
+          "verse_end": 33,
+          "referencia": "1 Samuel 25:32-33",
+          "nota": "David reconoce que Dios usó a Abigail para impedirle actuar con violencia."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 26,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 26:23",
+          "nota": "Afirma que el Señor recompensa la justicia y la fidelidad."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 27,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "1 Samuel 27:1",
+          "nota": "Revela el desgaste interior de David ante la persecución constante."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Dominio propio",
+          "significado": "Capacidad de someter reacciones y deseos a la voluntad de Dios."
+        },
+        {
+          "termo": "Justicia",
+          "significado": "La confianza de que Dios juzga rectamente y en el tiempo correcto."
+        },
+        {
+          "termo": "Sabiduría",
+          "significado": "Discernimiento espiritual para actuar con prudencia en situaciones de tensión."
+        }
+      ],
+      "oracao": "Señor, guarda mi corazón de reacciones precipitadas. Enséñame a actuar con sabiduría, a entregar la justicia en tus manos y a confiar en ti en los días de presión. Amén."
+    }
+  }
+}

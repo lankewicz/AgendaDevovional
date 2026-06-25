@@ -1,0 +1,500 @@
+{
+  "dia": 14,
+  "data": "2027-01-14",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 36–37",
+    "en": "Genesis 36–37",
+    "es": "Génesis 36–37"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 36,
+      "chapter_end": 37
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 37,
+    "verse_start": 28,
+    "verse_end": 28,
+    "referencia": {
+      "pt": "Gênesis 37:28",
+      "en": "Genesis 37:28",
+      "es": "Génesis 37:28"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_014.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_014.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/014/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/037.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/014/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/037.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/014/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/037.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/014/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/037.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_014.mp3",
+      "versiculo_central": "audio/en/verses/day_014.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/014/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/en/en-US-AriaNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/en/en-US-AriaNeural/037.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/014/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/en/en-US-JennyNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/en/en-US-JennyNeural/037.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/014/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/en/en-US-GuyNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/en/en-US-GuyNeural/037.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/014/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/en/en-US-BrianNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/en/en-US-BrianNeural/037.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_014.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_014.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/014/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/es/es-ES-ElviraNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/es/es-ES-ElviraNeural/037.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/014/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/es/es-MX-DaliaNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/es/es-MX-DaliaNeural/037.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/014/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/es/es-ES-AlvaroNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/es/es-ES-AlvaroNeural/037.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/014/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/014/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/014/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_36": "audio/biblia/GEN/es/es-MX-JorgeNeural/036.m4a",
+          "GEN_37": "audio/biblia/GEN/es/es-MX-JorgeNeural/037.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 36–37 — Linhagens, Sonhos e Providência",
+      "contexto": "Gênesis 36 registra a linhagem de Esaú, enquanto Gênesis 37 inicia a história de José. O texto mostra que a promessa segue por uma família imperfeita, marcada por favoritismo, inveja e traição. Ainda assim, Deus começa a conduzir sua providência por caminhos inesperados.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A descendência de Esaú",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 43
+          },
+          "comentario": "A genealogia de Esaú mostra o desenvolvimento de uma linhagem importante, mas distinta da linha principal da promessa.",
+          "aplicacao": "Deus governa não apenas histórias individuais, mas também povos, famílias e gerações."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José, os sonhos e a inveja",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 11
+          },
+          "comentario": "José é amado por seu pai e odiado por seus irmãos. Seus sonhos apontam para um futuro que eles ainda não compreendem.",
+          "aplicacao": "Nem todos compreenderão de imediato aquilo que Deus está formando, mas isso não impede sua providência."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José vendido por seus irmãos",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 12,
+            "chapter_end": 37,
+            "verse_end": 36
+          },
+          "comentario": "A inveja se transforma em violência e traição. José é vendido, e Jacó é mergulhado em luto.",
+          "aplicacao": "Deus pode agir mesmo quando a maldade humana parece dominar a cena."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Salmos 105:16-22",
+            "nota": "Interpreta o envio de José como parte da providência de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Atos 7:9-10",
+            "nota": "Resume a rejeição de José e a libertação dada por Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Como reajo quando vejo o favor de Deus na vida de outra pessoa?",
+        "Permito que inveja ou comparação endureçam meu coração?",
+        "Confio que Deus continua trabalhando mesmo quando a história parece injusta?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 37:28 marca o início do sofrimento de José, que mais tarde será revelado como parte da providência de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Gênesis 37:5",
+          "nota": "Introduz os sonhos de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Gênesis 37:11",
+          "nota": "Mostra diferentes reações aos sonhos de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "Gênesis 37:28",
+          "nota": "Registra José sendo vendido e levado ao Egito."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providência",
+          "significado": "Ação soberana de Deus conduzindo a história mesmo em caminhos difíceis."
+        },
+        {
+          "termo": "Inveja",
+          "significado": "Corrupção do coração que transforma comparação em hostilidade."
+        },
+        {
+          "termo": "Sonhos",
+          "significado": "Meio narrativo pelo qual o futuro de José começa a ser indicado."
+        }
+      ],
+      "oracao": "Senhor, livra meu coração da inveja e ajuda-me a confiar na tua providência. Mesmo quando eu não entender o caminho, sustenta minha fé em ti. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 36–37 — Lineages, Dreams, and Providence",
+      "contexto": "Genesis 36 records the lineage of Esau, while Genesis 37 begins Joseph's story. The text shows that the promise continues through an imperfect family marked by favoritism, envy, and betrayal. Yet God begins to lead his providence through unexpected paths.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The descendants of Esau",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 43
+          },
+          "comentario": "Esau's genealogy shows the development of an important lineage, yet distinct from the main line of promise.",
+          "aplicacao": "God governs not only individual stories, but also peoples, families, and generations."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Joseph, dreams, and envy",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 11
+          },
+          "comentario": "Joseph is loved by his father and hated by his brothers. His dreams point to a future they do not yet understand.",
+          "aplicacao": "Not everyone will immediately understand what God is forming, but that does not stop his providence."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joseph sold by his brothers",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 12,
+            "chapter_end": 37,
+            "verse_end": 36
+          },
+          "comentario": "Envy turns into violence and betrayal. Joseph is sold, and Jacob is plunged into grief.",
+          "aplicacao": "God can act even when human evil seems to dominate the scene."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Psalm 105:16-22",
+            "nota": "Interprets Joseph's sending as part of God's providence."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Acts 7:9-10",
+            "nota": "Summarizes Joseph's rejection and the deliverance given by God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "How do I react when I see God's favor in someone else's life?",
+        "Do I allow envy or comparison to harden my heart?",
+        "Do I trust that God keeps working even when the story seems unfair?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 37:28 marks the beginning of Joseph's suffering, which will later be revealed as part of God's providence."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Genesis 37:5",
+          "nota": "Introduces Joseph's dreams."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Genesis 37:11",
+          "nota": "Shows different reactions to Joseph's dreams."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "Genesis 37:28",
+          "nota": "Records Joseph being sold and taken to Egypt."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providence",
+          "significado": "God's sovereign action guiding history even through difficult paths."
+        },
+        {
+          "termo": "Envy",
+          "significado": "A corruption of the heart that turns comparison into hostility."
+        },
+        {
+          "termo": "Dreams",
+          "significado": "A narrative means by which Joseph's future begins to be indicated."
+        }
+      ],
+      "oracao": "Lord, free my heart from envy and help me trust your providence. Even when I do not understand the path, sustain my faith in you. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 36–37 — Linajes, Sueños y Providencia",
+      "contexto": "Génesis 36 registra el linaje de Esaú, mientras que Génesis 37 inicia la historia de José. El texto muestra que la promesa sigue por una familia imperfecta, marcada por favoritismo, envidia y traición. Aun así, Dios comienza a conducir su providencia por caminos inesperados.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La descendencia de Esaú",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 36,
+            "verse_start": 1,
+            "chapter_end": 36,
+            "verse_end": 43
+          },
+          "comentario": "La genealogía de Esaú muestra el desarrollo de un linaje importante, pero distinto de la línea principal de la promesa.",
+          "aplicacao": "Dios gobierna no solo historias individuales, sino también pueblos, familias y generaciones."
+        },
+        {
+          "ordem": 2,
+          "titulo": "José, los sueños y la envidia",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 1,
+            "chapter_end": 37,
+            "verse_end": 11
+          },
+          "comentario": "José es amado por su padre y odiado por sus hermanos. Sus sueños señalan un futuro que ellos aún no comprenden.",
+          "aplicacao": "No todos comprenderán de inmediato lo que Dios está formando, pero eso no detiene su providencia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José vendido por sus hermanos",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 37,
+            "verse_start": 12,
+            "chapter_end": 37,
+            "verse_end": 36
+          },
+          "comentario": "La envidia se transforma en violencia y traición. José es vendido, y Jacob queda sumido en duelo.",
+          "aplicacao": "Dios puede actuar incluso cuando la maldad humana parece dominar la escena."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Salmos 105:16-22",
+            "nota": "Interpreta el envío de José como parte de la providencia de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Hechos 7:9-10",
+            "nota": "Resume el rechazo de José y la liberación dada por Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Cómo reacciono cuando veo el favor de Dios en la vida de otra persona?",
+        "¿Permito que la envidia o la comparación endurezcan mi corazón?",
+        "¿Confío en que Dios sigue trabajando incluso cuando la historia parece injusta?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 37:28 marca el inicio del sufrimiento de José, que más tarde será revelado como parte de la providencia de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Génesis 37:5",
+          "nota": "Introduce los sueños de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 11,
+          "verse_end": 11,
+          "referencia": "Génesis 37:11",
+          "nota": "Muestra diferentes reacciones a los sueños de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 37,
+          "verse_start": 28,
+          "verse_end": 28,
+          "referencia": "Génesis 37:28",
+          "nota": "Registra que José fue vendido y llevado a Egipto."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providencia",
+          "significado": "Acción soberana de Dios conduciendo la historia incluso por caminos difíciles."
+        },
+        {
+          "termo": "Envidia",
+          "significado": "Corrupción del corazón que convierte la comparación en hostilidad."
+        },
+        {
+          "termo": "Sueños",
+          "significado": "Medio narrativo por el cual el futuro de José comienza a ser indicado."
+        }
+      ],
+      "oracao": "Señor, libra mi corazón de la envidia y ayúdame a confiar en tu providencia. Aunque no entienda el camino, sostén mi fe en ti. Amén."
+    }
+  }
+}

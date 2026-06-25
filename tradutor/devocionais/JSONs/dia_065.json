@@ -1,0 +1,416 @@
+{
+  "dia": 65,
+  "data": "2027-03-06",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 19–22",
+    "en": "Deuteronomy 19–22",
+    "es": "Deuteronomio 19–22"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 19,
+      "chapter_end": 22
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 19,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Deuteronômio 19:15",
+      "en": "Deuteronomy 19:15",
+      "es": "Deuteronomio 19:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_065.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_065.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_065.mp3",
+      "versiculo_central": "audio/en/verses/day_065.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_065.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_065.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 19–22 — Justiça, Verdade e Responsabilidade",
+      "contexto": "Deuteronômio 19 a 22 apresenta leis que protegem a vida, a verdade, a ordem comunitária e a responsabilidade diante de Deus. O povo deveria tratar crimes, testemunhos, conflitos, propriedade, pureza e relações sociais com seriedade, porque a vida na aliança exigia justiça concreta.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Proteção da vida e justiça nos testemunhos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 21
+          },
+          "comentario": "As cidades de refúgio protegiam o inocente, e a exigência de testemunhas confiáveis preservava a justiça contra falsas acusações.",
+          "aplicacao": "Deus valoriza a vida e a verdade; por isso, nossas palavras e julgamentos devem ser tratados com temor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Confiança em Deus nos conflitos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 20
+          },
+          "comentario": "As leis de guerra lembram que a vitória não dependeria apenas de força militar, mas da presença e direção do Senhor.",
+          "aplicacao": "Diante de conflitos e temores, a confiança no Senhor deve governar nossas atitudes."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Responsabilidade comunitária e pureza nas relações",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 30
+          },
+          "comentario": "As instruções tratam de família, cuidado com o próximo, honestidade, segurança e pureza, mostrando que a fé alcança a vida prática.",
+          "aplicacao": "A obediência a Deus aparece em detalhes da convivência, no respeito ao próximo e na proteção da dignidade humana."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Provérbios 6:16-19",
+            "nota": "Revela que o Senhor abomina a testemunha falsa e mãos que derramam sangue inocente."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 18,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Mateus 18:15-16",
+            "nota": "Jesus retoma o princípio de confirmação por testemunhas na vida comunitária."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 10,
+            "referencia": "Tiago 3:5-10",
+            "nota": "Mostra a responsabilidade espiritual no uso das palavras."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado minhas palavras com responsabilidade diante de Deus?",
+        "Busco justiça sem precipitação, parcialidade ou vingança?",
+        "Minha fé aparece no cuidado concreto com a dignidade do próximo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 19:15 resume o princípio da verdade responsável, essencial para a justiça comunitária diante de Deus."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Deuteronômio 19:10",
+          "nota": "Mostra o cuidado de Deus para que sangue inocente não fosse derramado."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronômio 19:15",
+          "nota": "Estabelece o princípio de testemunho responsável."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 22,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronômio 22:8",
+          "nota": "Ensina responsabilidade pela segurança e proteção do próximo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justiça",
+          "significado": "Prática de retidão que protege a vida e a verdade."
+        },
+        {
+          "termo": "Testemunho",
+          "significado": "Palavra responsável diante de Deus e da comunidade."
+        },
+        {
+          "termo": "Responsabilidade",
+          "significado": "Cuidado concreto com o próximo nas decisões e ações diárias."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a amar a verdade, proteger a vida e agir com justiça. Que minhas palavras e atitudes honrem a tua santidade. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 19–22 — Justice, Truth, and Responsibility",
+      "contexto": "Deuteronomy 19 to 22 presents laws that protect life, truth, community order, and responsibility before God. The people were to deal with crimes, testimonies, conflicts, property, purity, and social relationships seriously, because covenant life required concrete justice.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Protection of life and justice in testimony",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 21
+          },
+          "comentario": "The cities of refuge protected the innocent, and the requirement for trustworthy witnesses preserved justice against false accusations.",
+          "aplicacao": "God values life and truth; therefore, our words and judgments must be handled with reverence."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Trusting God in conflicts",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 20
+          },
+          "comentario": "The laws of war remind the people that victory would not depend only on military strength, but on the Lord's presence and direction.",
+          "aplicacao": "In the face of conflicts and fears, trust in the Lord should govern our attitudes."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Community responsibility and purity in relationships",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 30
+          },
+          "comentario": "The instructions address family, care for neighbors, honesty, safety, and purity, showing that faith reaches practical life.",
+          "aplicacao": "Obedience to God appears in the details of relationships, respect for others, and protection of human dignity."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Proverbs 6:16-19",
+            "nota": "Reveals that the Lord hates a false witness and hands that shed innocent blood."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 18,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Matthew 18:15-16",
+            "nota": "Jesus echoes the principle of confirmation by witnesses in community life."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 10,
+            "referencia": "James 3:5-10",
+            "nota": "Shows the spiritual responsibility involved in the use of words."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat my words responsibly before God?",
+        "Do I seek justice without haste, partiality, or revenge?",
+        "Does my faith appear in concrete care for my neighbor's dignity?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 19:15 summarizes the principle of responsible truth, essential for community justice before God."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Deuteronomy 19:10",
+          "nota": "Shows God's concern that innocent blood not be shed."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronomy 19:15",
+          "nota": "Establishes the principle of responsible testimony."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 22,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronomy 22:8",
+          "nota": "Teaches responsibility for the safety and protection of others."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justice",
+          "significado": "The practice of righteousness that protects life and truth."
+        },
+        {
+          "termo": "Testimony",
+          "significado": "Responsible speech before God and the community."
+        },
+        {
+          "termo": "Responsibility",
+          "significado": "Concrete care for one's neighbor in daily decisions and actions."
+        }
+      ],
+      "oracao": "Lord, teach me to love truth, protect life, and act justly. May my words and actions honor your holiness. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 19–22 — Justicia, Verdad y Responsabilidad",
+      "contexto": "Deuteronomio 19 al 22 presenta leyes que protegen la vida, la verdad, el orden comunitario y la responsabilidad delante de Dios. El pueblo debía tratar delitos, testimonios, conflictos, propiedad, pureza y relaciones sociales con seriedad, porque la vida en la alianza exigía justicia concreta.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Protección de la vida y justicia en los testimonios",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 19,
+            "verse_start": 1,
+            "chapter_end": 19,
+            "verse_end": 21
+          },
+          "comentario": "Las ciudades de refugio protegían al inocente, y la exigencia de testigos confiables preservaba la justicia contra falsas acusaciones.",
+          "aplicacao": "Dios valora la vida y la verdad; por eso, nuestras palabras y juicios deben tratarse con temor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Confianza en Dios en los conflictos",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 20,
+            "verse_start": 1,
+            "chapter_end": 20,
+            "verse_end": 20
+          },
+          "comentario": "Las leyes de guerra recuerdan que la victoria no dependería solo de la fuerza militar, sino de la presencia y dirección del Señor.",
+          "aplicacao": "Ante conflictos y temores, la confianza en el Señor debe gobernar nuestras actitudes."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Responsabilidad comunitaria y pureza en las relaciones",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 21,
+            "verse_start": 1,
+            "chapter_end": 22,
+            "verse_end": 30
+          },
+          "comentario": "Las instrucciones tratan de familia, cuidado del prójimo, honestidad, seguridad y pureza, mostrando que la fe alcanza la vida práctica.",
+          "aplicacao": "La obediencia a Dios aparece en detalles de la convivencia, en el respeto al prójimo y en la protección de la dignidad humana."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 19,
+            "referencia": "Proverbios 6:16-19",
+            "nota": "Revela que el Señor aborrece al testigo falso y las manos que derraman sangre inocente."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 18,
+            "verse_start": 15,
+            "verse_end": 16,
+            "referencia": "Mateo 18:15-16",
+            "nota": "Jesús retoma el principio de confirmación por testigos en la vida comunitaria."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 3,
+            "verse_start": 5,
+            "verse_end": 10,
+            "referencia": "Santiago 3:5-10",
+            "nota": "Muestra la responsabilidad espiritual en el uso de las palabras."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato mis palabras con responsabilidad delante de Dios?",
+        "¿Busco justicia sin precipitación, parcialidad ni venganza?",
+        "¿Mi fe aparece en el cuidado concreto de la dignidad del prójimo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 19:15 resume el principio de la verdad responsable, esencial para la justicia comunitaria delante de Dios."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Deuteronomio 19:10",
+          "nota": "Muestra el cuidado de Dios para que no se derrame sangre inocente."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 19,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Deuteronomio 19:15",
+          "nota": "Establece el principio del testimonio responsable."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 22,
+          "verse_start": 8,
+          "verse_end": 8,
+          "referencia": "Deuteronomio 22:8",
+          "nota": "Enseña responsabilidad por la seguridad y protección del prójimo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Justicia",
+          "significado": "Práctica de rectitud que protege la vida y la verdad."
+        },
+        {
+          "termo": "Testimonio",
+          "significado": "Palabra responsable delante de Dios y de la comunidad."
+        },
+        {
+          "termo": "Responsabilidad",
+          "significado": "Cuidado concreto del prójimo en decisiones y acciones diarias."
+        }
+      ],
+      "oracao": "Señor, enséñame a amar la verdad, proteger la vida y actuar con justicia. Que mis palabras y actitudes honren tu santidad. Amén."
+    }
+  }
+}

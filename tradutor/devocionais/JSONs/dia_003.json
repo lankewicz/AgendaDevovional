@@ -1,0 +1,536 @@
+{
+  "dia": 3,
+  "data": "2027-01-03",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 7–9",
+    "en": "Genesis 7–9",
+    "es": "Génesis 7–9"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 7,
+      "chapter_end": 9
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 9,
+    "verse_start": 13,
+    "verse_end": 13,
+    "referencia": {
+      "pt": "Gênesis 9:13",
+      "en": "Genesis 9:13",
+      "es": "Génesis 9:13"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/dia/3/pt.m4a",
+      "versiculo_central": "audio/pt/versiculos/dia_003.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/003/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/009.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/003/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/009.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/003/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/009.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/003/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/009.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_003.mp3",
+      "versiculo_central": "audio/en/verses/day_003.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/003/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/en/en-US-AriaNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/en/en-US-AriaNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/en/en-US-AriaNeural/009.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/003/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/en/en-US-JennyNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/en/en-US-JennyNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/en/en-US-JennyNeural/009.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/003/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/en/en-US-GuyNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/en/en-US-GuyNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/en/en-US-GuyNeural/009.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/003/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/en/en-US-BrianNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/en/en-US-BrianNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/en/en-US-BrianNeural/009.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_003.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_003.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/003/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/es/es-ES-ElviraNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/es/es-ES-ElviraNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/es/es-ES-ElviraNeural/009.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/003/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/es/es-MX-DaliaNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/es/es-MX-DaliaNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/es/es-MX-DaliaNeural/009.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/003/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/es/es-ES-AlvaroNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/es/es-ES-AlvaroNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/es/es-ES-AlvaroNeural/009.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/003/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/003/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/003/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_7": "audio/biblia/GEN/es/es-MX-JorgeNeural/007.m4a",
+          "GEN_8": "audio/biblia/GEN/es/es-MX-JorgeNeural/008.m4a",
+          "GEN_9": "audio/biblia/GEN/es/es-MX-JorgeNeural/009.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 7–9 — Juízo, Preservação e Aliança",
+      "contexto": "Gênesis 7 a 9 apresenta o dilúvio, a preservação de Noé e sua família, e a aliança de Deus com a criação. O texto revela que Deus julga o pecado, mas também preserva a vida e estabelece sinais de sua misericórdia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O juízo sobre uma geração corrompida",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 24
+          },
+          "comentario": "O dilúvio revela a seriedade do pecado e a justiça de Deus. O mal humano não é ignorado pelo Senhor.",
+          "aplicacao": "A santidade de Deus deve nos conduzir ao arrependimento, à reverência e à obediência."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A preservação da vida",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 22
+          },
+          "comentario": "Deus se lembra de Noé e conduz a arca até um novo começo. A preservação da vida revela a fidelidade do Senhor.",
+          "aplicacao": "Mesmo em tempos de juízo e crise, Deus não perde o controle da história."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A aliança com Noé",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 29
+          },
+          "comentario": "Deus estabelece uma aliança e dá um sinal visível de sua promessa. A criação continua sob o cuidado e a paciência do Senhor.",
+          "aplicacao": "A fidelidade de Deus nos chama a viver com gratidão, responsabilidade e confiança."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 54,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Isaías 54:9-10",
+            "nota": "Recorda as águas de Noé como sinal da fidelidade da aliança de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 24,
+            "verse_start": 37,
+            "verse_end": 39,
+            "referencia": "Mateus 24:37-39",
+            "nota": "Jesus usa os dias de Noé como advertência sobre vigilância e juízo."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "2 Pedro 2:5",
+            "nota": "Apresenta Noé como pregador da justiça em meio a uma geração ímpia."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho tratado o pecado com a seriedade que a Palavra de Deus ensina?",
+        "Confio que Deus se lembra dos seus mesmo em tempos difíceis?",
+        "Vivo com gratidão pela paciência e fidelidade do Senhor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 9:13 resume o sinal da aliança de Deus com a criação, apontando para sua fidelidade após o juízo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Gênesis 8:1",
+          "nota": "Mostra que Deus se lembra de Noé e preserva sua promessa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Gênesis 8:22",
+          "nota": "Reafirma a continuidade da criação sob o cuidado de Deus."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Gênesis 9:13",
+          "nota": "Apresenta o sinal visível da aliança de Deus."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Juízo",
+          "significado": "A resposta justa de Deus diante do pecado e da corrupção."
+        },
+        {
+          "termo": "Aliança",
+          "significado": "Compromisso soberano de Deus em preservar e conduzir sua criação."
+        },
+        {
+          "termo": "Misericórdia",
+          "significado": "A bondade de Deus demonstrada ao preservar a vida mesmo após o juízo."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a reconhecer tua justiça e tua misericórdia. Ajuda-me a viver com reverência, gratidão e confiança na tua fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 7–9 — Judgment, Preservation, and Covenant",
+      "contexto": "Genesis 7 to 9 presents the flood, the preservation of Noah and his family, and God's covenant with creation. The text reveals that God judges sin, but also preserves life and establishes signs of his mercy.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Judgment over a corrupted generation",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 24
+          },
+          "comentario": "The flood reveals the seriousness of sin and the justice of God. Human evil is not ignored by the Lord.",
+          "aplicacao": "God's holiness should lead us to repentance, reverence, and obedience."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The preservation of life",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 22
+          },
+          "comentario": "God remembers Noah and brings the ark into a new beginning. The preservation of life reveals the Lord's faithfulness.",
+          "aplicacao": "Even in times of judgment and crisis, God does not lose control of history."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The covenant with Noah",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 29
+          },
+          "comentario": "God establishes a covenant and gives a visible sign of his promise. Creation remains under the Lord's care and patience.",
+          "aplicacao": "God's faithfulness calls us to live with gratitude, responsibility, and trust."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 54,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Isaiah 54:9-10",
+            "nota": "Recalls the waters of Noah as a sign of God's covenant faithfulness."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 24,
+            "verse_start": 37,
+            "verse_end": 39,
+            "referencia": "Matthew 24:37-39",
+            "nota": "Jesus uses the days of Noah as a warning about watchfulness and judgment."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "2 Peter 2:5",
+            "nota": "Presents Noah as a preacher of righteousness in the midst of an ungodly generation."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I treat sin with the seriousness taught by God's Word?",
+        "Do I trust that God remembers his people even in difficult times?",
+        "Do I live with gratitude for the Lord's patience and faithfulness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 9:13 summarizes the sign of God's covenant with creation, pointing to his faithfulness after judgment."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Genesis 8:1",
+          "nota": "Shows that God remembers Noah and preserves his promise."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Genesis 8:22",
+          "nota": "Reaffirms the continuity of creation under God's care."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Genesis 9:13",
+          "nota": "Presents the visible sign of God's covenant."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Judgment",
+          "significado": "God's just response to sin and corruption."
+        },
+        {
+          "termo": "Covenant",
+          "significado": "God's sovereign commitment to preserve and guide his creation."
+        },
+        {
+          "termo": "Mercy",
+          "significado": "God's goodness shown in preserving life even after judgment."
+        }
+      ],
+      "oracao": "Lord, teach me to recognize your justice and your mercy. Help me live with reverence, gratitude, and trust in your faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 7–9 — Juicio, Preservación y Alianza",
+      "contexto": "Génesis 7 al 9 presenta el diluvio, la preservación de Noé y su familia, y la alianza de Dios con la creación. El texto revela que Dios juzga el pecado, pero también preserva la vida y establece señales de su misericordia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El juicio sobre una generación corrompida",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 7,
+            "verse_start": 1,
+            "chapter_end": 7,
+            "verse_end": 24
+          },
+          "comentario": "El diluvio revela la seriedad del pecado y la justicia de Dios. El mal humano no es ignorado por el Señor.",
+          "aplicacao": "La santidad de Dios debe conducirnos al arrepentimiento, la reverencia y la obediencia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La preservación de la vida",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 22
+          },
+          "comentario": "Dios se acuerda de Noé y conduce el arca hacia un nuevo comienzo. La preservación de la vida revela la fidelidad del Señor.",
+          "aplicacao": "Incluso en tiempos de juicio y crisis, Dios no pierde el control de la historia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La alianza con Noé",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 29
+          },
+          "comentario": "Dios establece una alianza y da una señal visible de su promesa. La creación continúa bajo el cuidado y la paciencia del Señor.",
+          "aplicacao": "La fidelidad de Dios nos llama a vivir con gratitud, responsabilidad y confianza."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 54,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Isaías 54:9-10",
+            "nota": "Recuerda las aguas de Noé como señal de la fidelidad de la alianza de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "MAT",
+            "chapter": 24,
+            "verse_start": 37,
+            "verse_end": 39,
+            "referencia": "Mateo 24:37-39",
+            "nota": "Jesús usa los días de Noé como advertencia sobre vigilancia y juicio."
+          },
+          {
+            "book_id": "2PE",
+            "chapter": 2,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "2 Pedro 2:5",
+            "nota": "Presenta a Noé como pregonero de justicia en medio de una generación impía."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Trato el pecado con la seriedad que enseña la Palabra de Dios?",
+        "¿Confío en que Dios se acuerda de los suyos incluso en tiempos difíciles?",
+        "¿Vivo con gratitud por la paciencia y fidelidad del Señor?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 9:13 resume la señal de la alianza de Dios con la creación, señalando su fidelidad después del juicio."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "Génesis 8:1",
+          "nota": "Muestra que Dios se acuerda de Noé y preserva su promesa."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 8,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Génesis 8:22",
+          "nota": "Reafirma la continuidad de la creación bajo el cuidado de Dios."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 9,
+          "verse_start": 13,
+          "verse_end": 13,
+          "referencia": "Génesis 9:13",
+          "nota": "Presenta la señal visible de la alianza de Dios."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Juicio",
+          "significado": "La respuesta justa de Dios ante el pecado y la corrupción."
+        },
+        {
+          "termo": "Alianza",
+          "significado": "Compromiso soberano de Dios para preservar y conducir su creación."
+        },
+        {
+          "termo": "Misericordia",
+          "significado": "La bondad de Dios demostrada al preservar la vida incluso después del juicio."
+        }
+      ],
+      "oracao": "Señor, enséñame a reconocer tu justicia y tu misericordia. Ayúdame a vivir con reverencia, gratitud y confianza en tu fidelidad. Amén."
+    }
+  }
+}

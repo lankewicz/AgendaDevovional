@@ -1,0 +1,416 @@
+{
+  "dia": 60,
+  "data": "2027-03-01",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Deuteronômio 3–4",
+    "en": "Deuteronomy 3–4",
+    "es": "Deuteronomio 3–4"
+  },
+  "leitura": [
+    {
+      "book_id": "DEU",
+      "chapter_start": 3,
+      "chapter_end": 4
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "DEU",
+    "chapter": 4,
+    "verse_start": 39,
+    "verse_end": 39,
+    "referencia": {
+      "pt": "Deuteronômio 4:39",
+      "en": "Deuteronomy 4:39",
+      "es": "Deuteronomio 4:39"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_060.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_060.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_060.mp3",
+      "versiculo_central": "audio/en/verses/day_060.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_060.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_060.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Deuteronômio 3–4 — O Senhor é Deus",
+      "contexto": "Deuteronômio 3 e 4 reúne memória, advertência e chamado à fidelidade. Moisés relembra vitórias concedidas por Deus, sua própria limitação diante da terra prometida e a necessidade de Israel guardar a Palavra. O centro da mensagem é claro: o Senhor é Deus, e seu povo deve viver sem idolatria.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Vitórias concedidas pelo Senhor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "As vitórias sobre reis poderosos mostram que Israel não avançava por força própria, mas porque Deus cumpria sua promessa.",
+          "aplicacao": "A confiança do povo de Deus não está na própria capacidade, mas no Senhor que conduz a história."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Moisés, limite e continuidade da missão",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 23,
+            "chapter_end": 3,
+            "verse_end": 29
+          },
+          "comentario": "Moisés não entraria na terra, mas a promessa continuaria por meio de Josué. A obra de Deus é maior que um líder individual.",
+          "aplicacao": "Servir a Deus exige humildade para reconhecer limites e confiar que ele continua sua obra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Guardar a Palavra e rejeitar a idolatria",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "Moisés chama Israel a obedecer, lembrar e não fabricar imagens. O Deus vivo não pode ser reduzido a objetos, desejos ou controle humano.",
+          "aplicacao": "A fidelidade começa quando reconhecemos o Senhor como único Deus e submetemos a vida à sua Palavra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 45,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaías 45:5-6",
+            "nota": "Reafirma que não há outro Deus além do Senhor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 17,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "João 17:3",
+            "nota": "Jesus apresenta a vida eterna como conhecer o único Deus verdadeiro."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 5,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 João 5:21",
+            "nota": "Exorta os filhos de Deus a se guardarem dos ídolos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho reconhecido o Senhor como Deus sobre todas as áreas da vida?",
+        "Existem ídolos modernos ocupando o lugar que pertence somente a Deus?",
+        "Guardo a Palavra com atenção ou trato os mandamentos de Deus com descuido?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronômio 4:39 resume o chamado do texto: reconhecer que o Senhor é o único Deus e responder a essa verdade com obediência."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 3,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Deuteronômio 3:22",
+          "nota": "Encoraja Israel a não temer, pois o Senhor peleja por seu povo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "referencia": "Deuteronômio 4:9",
+          "nota": "Chama o povo a guardar a alma e transmitir a memória da fé às próximas gerações."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 39,
+          "verse_end": 39,
+          "referencia": "Deuteronômio 4:39",
+          "nota": "Declara a soberania exclusiva do Senhor sobre céus e terra."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Soberania",
+          "significado": "O governo absoluto de Deus sobre toda a criação e toda a história."
+        },
+        {
+          "termo": "Idolatria",
+          "significado": "Substituir Deus por qualquer coisa que receba confiança, amor ou obediência suprema."
+        },
+        {
+          "termo": "Obediência",
+          "significado": "Resposta fiel à Palavra do Senhor."
+        }
+      ],
+      "oracao": "Senhor, reconheço que só tu és Deus. Guarda meu coração de toda idolatria e ajuda-me a viver pela tua Palavra com reverência, humildade e fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "Deuteronomy 3–4 — The Lord Is God",
+      "contexto": "Deuteronomy 3 and 4 brings together memory, warning, and a call to faithfulness. Moses recalls victories given by God, his own limitation before the promised land, and Israel’s need to keep the Word. The center of the message is clear: the Lord is God, and his people must live without idolatry.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Victories granted by the Lord",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "The victories over powerful kings show that Israel did not move forward by its own strength, but because God fulfilled his promise.",
+          "aplicacao": "The confidence of God’s people is not in their own ability, but in the Lord who guides history."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Moses, limitation, and the continuity of the mission",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 23,
+            "chapter_end": 3,
+            "verse_end": 29
+          },
+          "comentario": "Moses would not enter the land, but the promise would continue through Joshua. God’s work is greater than any individual leader.",
+          "aplicacao": "Serving God requires humility to recognize limits and trust that he continues his work."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Keeping the Word and rejecting idolatry",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "Moses calls Israel to obey, remember, and not make images. The living God cannot be reduced to objects, desires, or human control.",
+          "aplicacao": "Faithfulness begins when we recognize the Lord as the only God and submit life to his Word."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 45,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaiah 45:5-6",
+            "nota": "Reaffirms that there is no God besides the Lord."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 17,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "John 17:3",
+            "nota": "Jesus presents eternal life as knowing the only true God."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 5,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 John 5:21",
+            "nota": "Exhorts God’s children to keep themselves from idols."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I recognized the Lord as God over every area of life?",
+        "Are there modern idols occupying the place that belongs only to God?",
+        "Do I keep the Word attentively or treat God’s commands carelessly?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomy 4:39 summarizes the call of the text: to recognize that the Lord is the only God and respond to this truth with obedience."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 3,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Deuteronomy 3:22",
+          "nota": "Encourages Israel not to fear, because the Lord fights for his people."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "referencia": "Deuteronomy 4:9",
+          "nota": "Calls the people to guard their soul and pass the memory of faith to the next generations."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 39,
+          "verse_end": 39,
+          "referencia": "Deuteronomy 4:39",
+          "nota": "Declares the exclusive sovereignty of the Lord over heaven and earth."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sovereignty",
+          "significado": "God’s absolute rule over all creation and all history."
+        },
+        {
+          "termo": "Idolatry",
+          "significado": "Replacing God with anything that receives supreme trust, love, or obedience."
+        },
+        {
+          "termo": "Obedience",
+          "significado": "A faithful response to the Word of the Lord."
+        }
+      ],
+      "oracao": "Lord, I recognize that you alone are God. Guard my heart from every form of idolatry and help me live by your Word with reverence, humility, and faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "Deuteronomio 3–4 — El Señor es Dios",
+      "contexto": "Deuteronomio 3 y 4 reúne memoria, advertencia y llamado a la fidelidad. Moisés recuerda victorias concedidas por Dios, su propia limitación ante la tierra prometida y la necesidad de Israel de guardar la Palabra. El centro del mensaje es claro: el Señor es Dios, y su pueblo debe vivir sin idolatría.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Victorias concedidas por el Señor",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 1,
+            "chapter_end": 3,
+            "verse_end": 22
+          },
+          "comentario": "Las victorias sobre reyes poderosos muestran que Israel no avanzaba por su propia fuerza, sino porque Dios cumplía su promesa.",
+          "aplicacao": "La confianza del pueblo de Dios no está en su propia capacidad, sino en el Señor que conduce la historia."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Moisés, límite y continuidad de la misión",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 3,
+            "verse_start": 23,
+            "chapter_end": 3,
+            "verse_end": 29
+          },
+          "comentario": "Moisés no entraría en la tierra, pero la promesa continuaría por medio de Josué. La obra de Dios es mayor que un líder individual.",
+          "aplicacao": "Servir a Dios requiere humildad para reconocer límites y confiar en que él continúa su obra."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Guardar la Palabra y rechazar la idolatría",
+          "referencia": {
+            "book_id": "DEU",
+            "chapter_start": 4,
+            "verse_start": 1,
+            "chapter_end": 4,
+            "verse_end": 49
+          },
+          "comentario": "Moisés llama a Israel a obedecer, recordar y no fabricar imágenes. El Dios vivo no puede ser reducido a objetos, deseos o control humano.",
+          "aplicacao": "La fidelidad comienza cuando reconocemos al Señor como único Dios y sometemos la vida a su Palabra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 45,
+            "verse_start": 5,
+            "verse_end": 6,
+            "referencia": "Isaías 45:5-6",
+            "nota": "Reafirma que no hay otro Dios fuera del Señor."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 17,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Juan 17:3",
+            "nota": "Jesús presenta la vida eterna como conocer al único Dios verdadero."
+          },
+          {
+            "book_id": "1JN",
+            "chapter": 5,
+            "verse_start": 21,
+            "verse_end": 21,
+            "referencia": "1 Juan 5:21",
+            "nota": "Exhorta a los hijos de Dios a guardarse de los ídolos."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He reconocido al Señor como Dios sobre todas las áreas de la vida?",
+        "¿Hay ídolos modernos ocupando el lugar que pertenece solo a Dios?",
+        "¿Guardo la Palabra con atención o trato los mandamientos de Dios con descuido?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Deuteronomio 4:39 resume el llamado del texto: reconocer que el Señor es el único Dios y responder a esa verdad con obediencia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "DEU",
+          "chapter": 3,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "Deuteronomio 3:22",
+          "nota": "Anima a Israel a no temer, porque el Señor pelea por su pueblo."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 9,
+          "verse_end": 9,
+          "referencia": "Deuteronomio 4:9",
+          "nota": "Llama al pueblo a guardar su alma y transmitir la memoria de la fe a las próximas generaciones."
+        },
+        {
+          "book_id": "DEU",
+          "chapter": 4,
+          "verse_start": 39,
+          "verse_end": 39,
+          "referencia": "Deuteronomio 4:39",
+          "nota": "Declara la soberanía exclusiva del Señor sobre cielos y tierra."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Soberanía",
+          "significado": "Gobierno absoluto de Dios sobre toda la creación y toda la historia."
+        },
+        {
+          "termo": "Idolatría",
+          "significado": "Sustituir a Dios por cualquier cosa que reciba confianza, amor u obediencia suprema."
+        },
+        {
+          "termo": "Obediencia",
+          "significado": "Respuesta fiel a la Palabra del Señor."
+        }
+      ],
+      "oracao": "Señor, reconozco que solo tú eres Dios. Guarda mi corazón de toda idolatría y ayúdame a vivir por tu Palabra con reverencia, humildad y fidelidad. Amén."
+    }
+  }
+}

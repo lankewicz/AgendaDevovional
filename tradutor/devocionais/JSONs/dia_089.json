@@ -1,0 +1,440 @@
+{
+  "dia": 89,
+  "data": "2027-03-30",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "1 Samuel 14–15",
+    "en": "1 Samuel 14–15",
+    "es": "1 Samuel 14–15"
+  },
+  "leitura": [
+    {
+      "book_id": "1SA",
+      "chapter_start": 14,
+      "chapter_end": 15
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "1SA",
+    "chapter": 15,
+    "verse_start": 22,
+    "verse_end": 22,
+    "referencia": {
+      "pt": "1 Samuel 15:22",
+      "en": "1 Samuel 15:22",
+      "es": "1 Samuel 15:22"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_089.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_089.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_089.mp3",
+      "versiculo_central": "audio/en/verses/day_089.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_089.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_089.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "1 Samuel 14–15 — Fé Corajosa e Obediência Incompleta",
+      "contexto": "1 Samuel 14 a 15 contrasta a coragem confiante de Jônatas com a instabilidade espiritual de Saul. A leitura mostra que Deus pode salvar por muitos ou por poucos, mas também revela que obediência parcial continua sendo desobediência diante do Senhor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "A fé corajosa de Jônatas",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 23
+          },
+          "comentario": "Jônatas age com confiança no poder de Deus, reconhecendo que o Senhor não depende de números para livrar seu povo. Sua fé contrasta com a passividade e a insegurança ao redor.",
+          "aplicacao": "A confiança em Deus permite agir com coragem responsável, mesmo quando os recursos parecem limitados."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A precipitação de Saul e seus efeitos",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 24,
+            "chapter_end": 14,
+            "verse_end": 52
+          },
+          "comentario": "Saul faz um juramento precipitado que enfraquece o povo e quase condena Jônatas. A liderança sem discernimento transforma zelo aparente em peso para os outros.",
+          "aplicacao": "Decisões espirituais precisam de sabedoria, humildade e atenção ao bem do povo que Deus colocou ao nosso redor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A desobediência de Saul contra Amaleque",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 35
+          },
+          "comentario": "Saul preserva o que Deus havia mandado destruir e tenta justificar sua atitude com aparência religiosa. Samuel declara que o Senhor se agrada mais da obediência do que de rituais vazios.",
+          "aplicacao": "Deus não se impressiona com aparência espiritual quando o coração resiste à sua Palavra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 21,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Provérbios 21:3",
+            "nota": "Afirma que praticar justiça e juízo é mais aceitável ao Senhor do que sacrifício."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Salmos 51:16-17",
+            "nota": "Mostra que Deus deseja um coração quebrantado, não religiosidade superficial."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "João 14:15",
+            "nota": "Jesus relaciona amor verdadeiro a obediência aos seus mandamentos."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Tiago 1:22",
+            "nota": "Chama os crentes a serem praticantes da Palavra, não apenas ouvintes."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Minha coragem nasce da confiança em Deus ou da impulsividade?",
+        "Tenho tomado decisões que edificam ou sobrecarregam outras pessoas?",
+        "Existe alguma área em que tenho chamado obediência parcial de fidelidade?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 15:22 resume o ensino principal da leitura: Deus valoriza obediência sincera acima de gestos religiosos usados para encobrir resistência à sua Palavra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 14,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 14:6",
+          "nota": "Expressa a confiança de Jônatas no poder livre de Deus para salvar."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "1 Samuel 15:22",
+          "nota": "Ensina que obedecer é melhor do que sacrificar."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 15:23",
+          "nota": "Revela a gravidade espiritual da rebelião contra a Palavra do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Coragem",
+          "significado": "Firmeza para agir com fé quando a confiança está no Senhor."
+        },
+        {
+          "termo": "Obediência parcial",
+          "significado": "Atitude de cumprir apenas parte da vontade de Deus enquanto preserva interesses pessoais."
+        },
+        {
+          "termo": "Sacrifício",
+          "significado": "Ato religioso que perde valor quando é separado de um coração obediente."
+        }
+      ],
+      "oracao": "Senhor, dá-me um coração obediente. Livra-me de justificar resistências com aparência religiosa e ensina-me a confiar em ti com coragem, humildade e fidelidade. Amém."
+    },
+    "en": {
+      "titulo": "1 Samuel 14–15 — Courageous Faith and Incomplete Obedience",
+      "contexto": "1 Samuel 14 to 15 contrasts Jonathan’s trusting courage with Saul’s spiritual instability. The reading shows that God can save by many or by few, but it also reveals that partial obedience remains disobedience before the Lord.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Jonathan’s courageous faith",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 23
+          },
+          "comentario": "Jonathan acts with confidence in God’s power, recognizing that the Lord does not depend on numbers to deliver his people. His faith contrasts with the passivity and insecurity around him.",
+          "aplicacao": "Trust in God enables responsible courage, even when resources seem limited."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Saul’s rashness and its effects",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 24,
+            "chapter_end": 14,
+            "verse_end": 52
+          },
+          "comentario": "Saul makes a rash oath that weakens the people and nearly condemns Jonathan. Leadership without discernment turns apparent zeal into a burden for others.",
+          "aplicacao": "Spiritual decisions need wisdom, humility, and concern for the people God has placed around us."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Saul’s disobedience against Amalek",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 35
+          },
+          "comentario": "Saul preserves what God had commanded to be destroyed and tries to justify his action with religious appearance. Samuel declares that the Lord delights more in obedience than in empty rituals.",
+          "aplicacao": "God is not impressed by spiritual appearance when the heart resists his Word."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 21,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Proverbs 21:3",
+            "nota": "Affirms that doing righteousness and justice is more acceptable to the Lord than sacrifice."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Psalm 51:16-17",
+            "nota": "Shows that God desires a broken heart, not superficial religiosity."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "John 14:15",
+            "nota": "Jesus connects true love with obedience to his commandments."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "James 1:22",
+            "nota": "Calls believers to be doers of the Word, not hearers only."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my courage arise from trust in God or from impulsiveness?",
+        "Have my decisions built others up or burdened them?",
+        "Is there any area where I have called partial obedience faithfulness?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 15:22 summarizes the main teaching of the reading: God values sincere obedience above religious gestures used to cover resistance to his Word."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 14,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 14:6",
+          "nota": "Expresses Jonathan’s confidence in God’s free power to save."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "1 Samuel 15:22",
+          "nota": "Teaches that obedience is better than sacrifice."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 15:23",
+          "nota": "Reveals the spiritual seriousness of rebellion against the Lord’s Word."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Courage",
+          "significado": "Steadfastness to act in faith when confidence rests in the Lord."
+        },
+        {
+          "termo": "Partial obedience",
+          "significado": "The attitude of fulfilling only part of God’s will while preserving personal interests."
+        },
+        {
+          "termo": "Sacrifice",
+          "significado": "A religious act that loses value when separated from an obedient heart."
+        }
+      ],
+      "oracao": "Lord, give me an obedient heart. Free me from justifying resistance with religious appearance, and teach me to trust you with courage, humility, and faithfulness. Amen."
+    },
+    "es": {
+      "titulo": "1 Samuel 14–15 — Fe Valiente y Obediencia Incompleta",
+      "contexto": "1 Samuel 14 al 15 contrasta la valentía confiada de Jonatán con la inestabilidad espiritual de Saúl. La lectura muestra que Dios puede salvar con muchos o con pocos, pero también revela que la obediencia parcial sigue siendo desobediencia delante del Señor.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La fe valiente de Jonatán",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 1,
+            "chapter_end": 14,
+            "verse_end": 23
+          },
+          "comentario": "Jonatán actúa con confianza en el poder de Dios, reconociendo que el Señor no depende de números para librar a su pueblo. Su fe contrasta con la pasividad y la inseguridad a su alrededor.",
+          "aplicacao": "La confianza en Dios permite actuar con valentía responsable, aun cuando los recursos parecen limitados."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La precipitación de Saúl y sus efectos",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 14,
+            "verse_start": 24,
+            "chapter_end": 14,
+            "verse_end": 52
+          },
+          "comentario": "Saúl hace un juramento precipitado que debilita al pueblo y casi condena a Jonatán. El liderazgo sin discernimiento transforma el celo aparente en carga para otros.",
+          "aplicacao": "Las decisiones espirituales necesitan sabiduría, humildad y atención al bien de las personas que Dios ha puesto a nuestro alrededor."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La desobediencia de Saúl contra Amalec",
+          "referencia": {
+            "book_id": "1SA",
+            "chapter_start": 15,
+            "verse_start": 1,
+            "chapter_end": 15,
+            "verse_end": 35
+          },
+          "comentario": "Saúl conserva lo que Dios había mandado destruir e intenta justificar su actitud con apariencia religiosa. Samuel declara que el Señor se agrada más de la obediencia que de rituales vacíos.",
+          "aplicacao": "Dios no se impresiona con apariencia espiritual cuando el corazón resiste su Palabra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 21,
+            "verse_start": 3,
+            "verse_end": 3,
+            "referencia": "Proverbios 21:3",
+            "nota": "Afirma que practicar justicia y juicio es más aceptable al Señor que el sacrificio."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Salmos 51:16-17",
+            "nota": "Muestra que Dios desea un corazón quebrantado, no religiosidad superficial."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 15,
+            "verse_end": 15,
+            "referencia": "Juan 14:15",
+            "nota": "Jesús relaciona el amor verdadero con la obediencia a sus mandamientos."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 22,
+            "verse_end": 22,
+            "referencia": "Santiago 1:22",
+            "nota": "Llama a los creyentes a ser hacedores de la Palabra, no solo oidores."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi valentía nace de la confianza en Dios o de la impulsividad?",
+        "¿Mis decisiones edifican o sobrecargan a otras personas?",
+        "¿Hay alguna área en la que he llamado fidelidad a una obediencia parcial?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "1 Samuel 15:22 resume la enseñanza principal de la lectura: Dios valora la obediencia sincera por encima de gestos religiosos usados para encubrir resistencia a su Palabra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "1SA",
+          "chapter": 14,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "1 Samuel 14:6",
+          "nota": "Expresa la confianza de Jonatán en el poder libre de Dios para salvar."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 22,
+          "verse_end": 22,
+          "referencia": "1 Samuel 15:22",
+          "nota": "Enseña que obedecer es mejor que sacrificar."
+        },
+        {
+          "book_id": "1SA",
+          "chapter": 15,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "1 Samuel 15:23",
+          "nota": "Revela la gravedad espiritual de la rebelión contra la Palabra del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Valentía",
+          "significado": "Firmeza para actuar con fe cuando la confianza está en el Señor."
+        },
+        {
+          "termo": "Obediencia parcial",
+          "significado": "Actitud de cumplir solo parte de la voluntad de Dios mientras se preservan intereses personales."
+        },
+        {
+          "termo": "Sacrificio",
+          "significado": "Acto religioso que pierde valor cuando se separa de un corazón obediente."
+        }
+      ],
+      "oracao": "Señor, dame un corazón obediente. Líbrame de justificar resistencias con apariencia religiosa y enséñame a confiar en ti con valentía, humildad y fidelidad. Amén."
+    }
+  }
+}

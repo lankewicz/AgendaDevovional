@@ -1,0 +1,524 @@
+{
+  "dia": 43,
+  "data": "2027-02-12",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Levítico 25–26",
+    "en": "Leviticus 25–26",
+    "es": "Levítico 25–26"
+  },
+  "leitura": [
+    {
+      "book_id": "LEV",
+      "chapter_start": 25,
+      "chapter_end": 26
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "LEV",
+    "chapter": 26,
+    "verse_start": 12,
+    "verse_end": 12,
+    "referencia": {
+      "pt": "Levítico 26:12",
+      "en": "Leviticus 26:12",
+      "es": "Levítico 26:12"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_043.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_043.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/043/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/pt/pt-BR-FranciscaNeural/026.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/043/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/pt/pt-BR-ThalitaNeural/026.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/043/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/pt/pt-BR-AntonioNeural/026.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/043/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/pt/pt-PT-DuarteNeural/026.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_043.mp3",
+      "versiculo_central": "audio/en/verses/day_043.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/043/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/en/en-US-AriaNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/en/en-US-AriaNeural/026.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/043/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/en/en-US-JennyNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/en/en-US-JennyNeural/026.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/043/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/en/en-US-GuyNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/en/en-US-GuyNeural/026.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/043/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/en/en-US-BrianNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/en/en-US-BrianNeural/026.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_043.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_043.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/043/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/es/es-ES-ElviraNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/es/es-ES-ElviraNeural/026.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/043/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/es/es-MX-DaliaNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/es/es-MX-DaliaNeural/026.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/043/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/es/es-ES-AlvaroNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/es/es-ES-AlvaroNeural/026.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/043/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/043/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/043/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "LEV_25": "audio/biblia/LEV/es/es-MX-JorgeNeural/025.m4a",
+          "LEV_26": "audio/biblia/LEV/es/es-MX-JorgeNeural/026.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Levítico 25–26 — Descanso, Liberdade e Aliança",
+      "contexto": "Levítico 25 e 26 apresenta o ano sabático, o jubileu e as bênçãos e advertências da aliança. A terra, o tempo, as posses e a vida social pertencem ao Senhor. Deus chama o povo a viver com descanso, justiça, confiança e obediência.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O descanso da terra e a confiança no Senhor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 7
+          },
+          "comentario": "O ano sabático ensinava que até a terra deveria descansar. Israel precisava confiar que Deus sustentaria o povo além do esforço humano.",
+          "aplicacao": "A fé aprende a descansar em Deus, reconhecendo que provisão não depende apenas de controle e produtividade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "O jubileu e a restauração da comunidade",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 8,
+            "chapter_end": 25,
+            "verse_end": 55
+          },
+          "comentario": "O jubileu apontava para libertação, devolução e recomeço. Deus limitava a exploração e lembrava que o povo pertencia a ele.",
+          "aplicacao": "A vida diante de Deus deve promover misericórdia, justiça e cuidado com quem passa por perdas ou fragilidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bênçãos, advertências e fidelidade da aliança",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 46
+          },
+          "comentario": "Deus apresenta o caminho da obediência e as consequências da rebeldia, mas também abre espaço para arrependimento e restauração.",
+          "aplicacao": "A obediência não é mero dever externo; é resposta de confiança ao Deus que deseja habitar entre o seu povo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaías 61:1-2",
+            "nota": "Anuncia libertação e restauração, ecoando temas do jubileu."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Lucas 4:18-21",
+            "nota": "Jesus aplica a si mesmo a promessa de boas-novas, libertação e restauração."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 18,
+            "referencia": "2 Coríntios 6:16-18",
+            "nota": "Retoma a promessa de Deus habitar no meio do seu povo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Confio em Deus também quando preciso descansar e abrir mão do controle?",
+        "Tenho praticado justiça e misericórdia nas relações com outras pessoas?",
+        "Minha obediência nasce do amor ao Deus que deseja comunhão comigo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 26:12 expressa o coração da aliança: Deus deseja andar no meio do seu povo e formar uma comunidade pertencente a ele."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Levítico 25:10",
+          "nota": "Apresenta o jubileu como tempo de liberdade e restauração."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Levítico 25:23",
+          "nota": "Lembra que a terra pertence ao Senhor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 26,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 26:12",
+          "nota": "Resume a presença de Deus e o relacionamento da aliança."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Jubileu",
+          "significado": "Tempo de libertação, devolução e recomeço estabelecido por Deus."
+        },
+        {
+          "termo": "Descanso",
+          "significado": "Confiança prática de que Deus sustenta seu povo."
+        },
+        {
+          "termo": "Aliança",
+          "significado": "Relacionamento comprometido entre Deus e o povo que ele separou para si."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a confiar em tua provisão, praticar justiça e viver como parte do teu povo. Que minha obediência seja resposta de amor à tua presença. Amém."
+    },
+    "en": {
+      "titulo": "Leviticus 25–26 — Rest, Freedom, and Covenant",
+      "contexto": "Leviticus 25 and 26 presents the sabbatical year, the jubilee, and the blessings and warnings of the covenant. The land, time, possessions, and social life belong to the Lord. God calls his people to live with rest, justice, trust, and obedience.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The land's rest and trust in the Lord",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 7
+          },
+          "comentario": "The sabbatical year taught that even the land should rest. Israel had to trust that God would sustain the people beyond human effort.",
+          "aplicacao": "Faith learns to rest in God, recognizing that provision does not depend only on control and productivity."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The jubilee and the restoration of the community",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 8,
+            "chapter_end": 25,
+            "verse_end": 55
+          },
+          "comentario": "The jubilee pointed to release, return, and new beginnings. God limited exploitation and reminded the people that they belonged to him.",
+          "aplicacao": "Life before God should promote mercy, justice, and care for those who experience loss or weakness."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Blessings, warnings, and covenant faithfulness",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 46
+          },
+          "comentario": "God presents the path of obedience and the consequences of rebellion, while also opening the way for repentance and restoration.",
+          "aplicacao": "Obedience is not merely an external duty; it is a response of trust to the God who desires to dwell among his people."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaiah 61:1-2",
+            "nota": "Announces liberty and restoration, echoing themes of the jubilee."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Luke 4:18-21",
+            "nota": "Jesus applies to himself the promise of good news, freedom, and restoration."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 18,
+            "referencia": "2 Corinthians 6:16-18",
+            "nota": "Takes up the promise that God will dwell among his people."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I trust God when I need to rest and release control?",
+        "Am I practicing justice and mercy in my relationships with others?",
+        "Does my obedience grow out of love for the God who desires communion with me?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Leviticus 26:12 expresses the heart of the covenant: God desires to walk among his people and form a community that belongs to him."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Leviticus 25:10",
+          "nota": "Presents the jubilee as a time of freedom and restoration."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Leviticus 25:23",
+          "nota": "Reminds the people that the land belongs to the Lord."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 26,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Leviticus 26:12",
+          "nota": "Summarizes God's presence and the relationship of the covenant."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Jubilee",
+          "significado": "A time of release, return, and new beginning established by God."
+        },
+        {
+          "termo": "Rest",
+          "significado": "Practical trust that God sustains his people."
+        },
+        {
+          "termo": "Covenant",
+          "significado": "The committed relationship between God and the people he set apart for himself."
+        }
+      ],
+      "oracao": "Lord, help me trust your provision, practice justice, and live as part of your people. May my obedience be a response of love to your presence. Amen."
+    },
+    "es": {
+      "titulo": "Levítico 25–26 — Descanso, Libertad y Alianza",
+      "contexto": "Levítico 25 y 26 presenta el año sabático, el jubileo y las bendiciones y advertencias de la alianza. La tierra, el tiempo, las posesiones y la vida social pertenecen al Señor. Dios llama a su pueblo a vivir con descanso, justicia, confianza y obediencia.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El descanso de la tierra y la confianza en el Señor",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 1,
+            "chapter_end": 25,
+            "verse_end": 7
+          },
+          "comentario": "El año sabático enseñaba que incluso la tierra debía descansar. Israel necesitaba confiar en que Dios sostendría al pueblo más allá del esfuerzo humano.",
+          "aplicacao": "La fe aprende a descansar en Dios, reconociendo que la provisión no depende solo del control y la productividad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "El jubileo y la restauración de la comunidad",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 25,
+            "verse_start": 8,
+            "chapter_end": 25,
+            "verse_end": 55
+          },
+          "comentario": "El jubileo apuntaba a liberación, devolución y nuevo comienzo. Dios limitaba la explotación y recordaba que el pueblo le pertenecía.",
+          "aplicacao": "La vida delante de Dios debe promover misericordia, justicia y cuidado por quienes pasan por pérdidas o fragilidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Bendiciones, advertencias y fidelidad de la alianza",
+          "referencia": {
+            "book_id": "LEV",
+            "chapter_start": 26,
+            "verse_start": 1,
+            "chapter_end": 26,
+            "verse_end": 46
+          },
+          "comentario": "Dios presenta el camino de la obediencia y las consecuencias de la rebeldía, pero también abre espacio para arrepentimiento y restauración.",
+          "aplicacao": "La obediencia no es mero deber externo; es respuesta de confianza al Dios que desea habitar entre su pueblo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "ISA",
+            "chapter": 61,
+            "verse_start": 1,
+            "verse_end": 2,
+            "referencia": "Isaías 61:1-2",
+            "nota": "Anuncia libertad y restauración, haciendo eco de los temas del jubileo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "LUK",
+            "chapter": 4,
+            "verse_start": 18,
+            "verse_end": 21,
+            "referencia": "Lucas 4:18-21",
+            "nota": "Jesús aplica a sí mismo la promesa de buenas nuevas, libertad y restauración."
+          },
+          {
+            "book_id": "2CO",
+            "chapter": 6,
+            "verse_start": 16,
+            "verse_end": 18,
+            "referencia": "2 Corintios 6:16-18",
+            "nota": "Retoma la promesa de Dios de habitar en medio de su pueblo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Confío en Dios también cuando necesito descansar y soltar el control?",
+        "¿Practico justicia y misericordia en mis relaciones con otras personas?",
+        "¿Mi obediencia nace del amor al Dios que desea comunión conmigo?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Levítico 26:12 expresa el corazón de la alianza: Dios desea caminar en medio de su pueblo y formar una comunidad que le pertenece."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Levítico 25:10",
+          "nota": "Presenta el jubileo como tiempo de libertad y restauración."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 25,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Levítico 25:23",
+          "nota": "Recuerda que la tierra pertenece al Señor."
+        },
+        {
+          "book_id": "LEV",
+          "chapter": 26,
+          "verse_start": 12,
+          "verse_end": 12,
+          "referencia": "Levítico 26:12",
+          "nota": "Resume la presencia de Dios y la relación de la alianza."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Jubileo",
+          "significado": "Tiempo de liberación, devolución y nuevo comienzo establecido por Dios."
+        },
+        {
+          "termo": "Descanso",
+          "significado": "Confianza práctica en que Dios sostiene a su pueblo."
+        },
+        {
+          "termo": "Alianza",
+          "significado": "Relación comprometida entre Dios y el pueblo que él apartó para sí."
+        }
+      ],
+      "oracao": "Señor, ayúdame a confiar en tu provisión, practicar justicia y vivir como parte de tu pueblo. Que mi obediencia sea respuesta de amor a tu presencia. Amén."
+    }
+  }
+}

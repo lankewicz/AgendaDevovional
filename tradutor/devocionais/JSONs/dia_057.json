@@ -1,0 +1,416 @@
+{
+  "dia": 57,
+  "data": "2027-02-26",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Números 32–33",
+    "en": "Numbers 32–33",
+    "es": "Números 32–33"
+  },
+  "leitura": [
+    {
+      "book_id": "NUM",
+      "chapter_start": 32,
+      "chapter_end": 33
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "NUM",
+    "chapter": 33,
+    "verse_start": 53,
+    "verse_end": 53,
+    "referencia": {
+      "pt": "Números 33:53",
+      "en": "Numbers 33:53",
+      "es": "Números 33:53"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_057.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_057.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_057.mp3",
+      "versiculo_central": "audio/en/verses/day_057.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_057.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_057.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Números 32–33 — Compromisso, Memória e Herança",
+      "contexto": "Números 32 e 33 acompanha Israel às portas da terra prometida. Algumas tribos desejam se estabelecer a leste do Jordão, mas são chamadas a manter compromisso com todo o povo. Em seguida, Moisés registra as etapas da caminhada, mostrando que Deus conduziu Israel por todo o deserto até a herança prometida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O pedido das tribos a leste do Jordão",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 15
+          },
+          "comentario": "Rúben e Gade veem boas terras para seus rebanhos, mas Moisés alerta que o desejo por conforto não poderia enfraquecer a missão comum do povo de Deus.",
+          "aplicacao": "As bênçãos recebidas não devem nos isolar das responsabilidades que temos diante de Deus e das pessoas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Compromisso antes da posse",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 16,
+            "chapter_end": 32,
+            "verse_end": 42
+          },
+          "comentario": "As tribos assumem o compromisso de atravessar o Jordão e ajudar seus irmãos. A herança pessoal deveria caminhar junto com fidelidade comunitária.",
+          "aplicacao": "Maturidade espiritual une gratidão, responsabilidade e disposição para servir além dos próprios interesses."
+        },
+        {
+          "ordem": 3,
+          "titulo": "A memória da jornada e a posse da terra",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 56
+          },
+          "comentario": "Moisés registra as etapas da caminhada para que Israel se lembre da direção de Deus. A entrada na terra exigiria obediência, santidade e confiança na promessa.",
+          "aplicacao": "Recordar a fidelidade de Deus fortalece a obediência no presente e prepara o coração para novos passos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 12,
+            "verse_end": 18,
+            "referencia": "Josué 1:12-18",
+            "nota": "Mostra as tribos do leste confirmando seu compromisso com a conquista da terra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "1 Coríntios 10:1-11",
+            "nota": "Usa a caminhada no deserto como advertência e ensino para o povo de Deus."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 12,
+            "verse_end": 19,
+            "referencia": "Hebreus 3:12-19",
+            "nota": "Exorta os crentes a não repetir a incredulidade da geração do deserto."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado apenas segurança pessoal ou também compromisso com o povo de Deus?",
+        "Minha memória da caminhada com Deus fortalece minha obediência hoje?",
+        "Estou disposto a avançar em fidelidade quando Deus chama para novos passos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 33:53 resume o movimento da leitura: Deus conduziu Israel até a terra, mas a posse da herança exigiria obediência e fidelidade."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 32,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 32:23",
+          "nota": "Adverte sobre a seriedade de não cumprir o compromisso assumido diante de Deus."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 33:2",
+          "nota": "Mostra o registro da jornada como memória da direção do Senhor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 53,
+          "verse_end": 53,
+          "referencia": "Números 33:53",
+          "nota": "Aponta para a posse da terra prometida em obediência ao Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Compromisso",
+          "significado": "Responsabilidade assumida diante de Deus e do seu povo."
+        },
+        {
+          "termo": "Memória",
+          "significado": "Recordação da fidelidade de Deus ao longo da caminhada."
+        },
+        {
+          "termo": "Herança",
+          "significado": "Aquilo que Deus entrega ao seu povo segundo sua promessa."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a lembrar da tua fidelidade e a viver com responsabilidade diante de ti. Que minhas escolhas não sejam guiadas apenas pelo conforto, mas pela obediência ao teu propósito. Amém."
+    },
+    "en": {
+      "titulo": "Numbers 32–33 — Commitment, Memory, and Inheritance",
+      "contexto": "Numbers 32 and 33 follows Israel at the borders of the promised land. Some tribes desire to settle east of the Jordan, but they are called to remain committed to the whole people. Then Moses records the stages of the journey, showing that God led Israel through the wilderness toward the promised inheritance.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The request of the tribes east of the Jordan",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 15
+          },
+          "comentario": "Reuben and Gad see good land for their livestock, but Moses warns that the desire for comfort must not weaken the shared mission of God’s people.",
+          "aplicacao": "The blessings we receive should not isolate us from the responsibilities we have before God and others."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Commitment before possession",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 16,
+            "chapter_end": 32,
+            "verse_end": 42
+          },
+          "comentario": "The tribes commit to crossing the Jordan and helping their brothers. Personal inheritance had to walk together with communal faithfulness.",
+          "aplicacao": "Spiritual maturity joins gratitude, responsibility, and willingness to serve beyond personal interests."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The memory of the journey and the possession of the land",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 56
+          },
+          "comentario": "Moses records the stages of the journey so Israel would remember God’s direction. Entering the land would require obedience, holiness, and trust in the promise.",
+          "aplicacao": "Remembering God’s faithfulness strengthens present obedience and prepares the heart for new steps."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 12,
+            "verse_end": 18,
+            "referencia": "Joshua 1:12-18",
+            "nota": "Shows the eastern tribes confirming their commitment to the conquest of the land."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "1 Corinthians 10:1-11",
+            "nota": "Uses the wilderness journey as warning and instruction for God’s people."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 12,
+            "verse_end": 19,
+            "referencia": "Hebrews 3:12-19",
+            "nota": "Exhorts believers not to repeat the unbelief of the wilderness generation."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Am I seeking only personal security, or also commitment to God’s people?",
+        "Does the memory of my walk with God strengthen my obedience today?",
+        "Am I willing to move forward in faithfulness when God calls me to new steps?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Numbers 33:53 summarizes the movement of the reading: God led Israel to the land, but possessing the inheritance required obedience and faithfulness."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 32,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Numbers 32:23",
+          "nota": "Warns about the seriousness of failing to fulfill a commitment made before God."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Numbers 33:2",
+          "nota": "Shows the record of the journey as a memory of the Lord’s direction."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 53,
+          "verse_end": 53,
+          "referencia": "Numbers 33:53",
+          "nota": "Points to the possession of the promised land in obedience to the Lord."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Commitment",
+          "significado": "Responsibility assumed before God and his people."
+        },
+        {
+          "termo": "Memory",
+          "significado": "The remembrance of God’s faithfulness throughout the journey."
+        },
+        {
+          "termo": "Inheritance",
+          "significado": "What God gives to his people according to his promise."
+        }
+      ],
+      "oracao": "Lord, help me remember your faithfulness and live responsibly before you. May my choices be guided not only by comfort, but by obedience to your purpose. Amen."
+    },
+    "es": {
+      "titulo": "Números 32–33 — Compromiso, Memoria y Herencia",
+      "contexto": "Números 32 y 33 acompaña a Israel a las puertas de la tierra prometida. Algunas tribus desean establecerse al este del Jordán, pero son llamadas a mantener su compromiso con todo el pueblo. Luego Moisés registra las etapas del camino, mostrando que Dios condujo a Israel por el desierto hasta la herencia prometida.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "La petición de las tribus al este del Jordán",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 1,
+            "chapter_end": 32,
+            "verse_end": 15
+          },
+          "comentario": "Rubén y Gad ven buenas tierras para sus ganados, pero Moisés advierte que el deseo de comodidad no debía debilitar la misión común del pueblo de Dios.",
+          "aplicacao": "Las bendiciones recibidas no deben aislarnos de las responsabilidades que tenemos delante de Dios y de las personas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Compromiso antes de la posesión",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 32,
+            "verse_start": 16,
+            "chapter_end": 32,
+            "verse_end": 42
+          },
+          "comentario": "Las tribus asumen el compromiso de cruzar el Jordán y ayudar a sus hermanos. La herencia personal debía caminar junto con la fidelidad comunitaria.",
+          "aplicacao": "La madurez espiritual une gratitud, responsabilidad y disposición para servir más allá de los propios intereses."
+        },
+        {
+          "ordem": 3,
+          "titulo": "La memoria del camino y la posesión de la tierra",
+          "referencia": {
+            "book_id": "NUM",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 56
+          },
+          "comentario": "Moisés registra las etapas del camino para que Israel recuerde la dirección de Dios. Entrar en la tierra requeriría obediencia, santidad y confianza en la promesa.",
+          "aplicacao": "Recordar la fidelidad de Dios fortalece la obediencia presente y prepara el corazón para nuevos pasos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "JOS",
+            "chapter": 1,
+            "verse_start": 12,
+            "verse_end": 18,
+            "referencia": "Josué 1:12-18",
+            "nota": "Muestra a las tribus del este confirmando su compromiso con la conquista de la tierra."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "1CO",
+            "chapter": 10,
+            "verse_start": 1,
+            "verse_end": 11,
+            "referencia": "1 Corintios 10:1-11",
+            "nota": "Usa el camino por el desierto como advertencia y enseñanza para el pueblo de Dios."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 3,
+            "verse_start": 12,
+            "verse_end": 19,
+            "referencia": "Hebreos 3:12-19",
+            "nota": "Exhorta a los creyentes a no repetir la incredulidad de la generación del desierto."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco solo seguridad personal o también compromiso con el pueblo de Dios?",
+        "¿La memoria de mi caminar con Dios fortalece mi obediencia hoy?",
+        "¿Estoy dispuesto a avanzar en fidelidad cuando Dios llama a nuevos pasos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Números 33:53 resume el movimiento de la lectura: Dios condujo a Israel hasta la tierra, pero poseer la herencia requería obediencia y fidelidad."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "NUM",
+          "chapter": 32,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Números 32:23",
+          "nota": "Advierte sobre la seriedad de no cumplir el compromiso asumido delante de Dios."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 2,
+          "verse_end": 2,
+          "referencia": "Números 33:2",
+          "nota": "Muestra el registro del camino como memoria de la dirección del Señor."
+        },
+        {
+          "book_id": "NUM",
+          "chapter": 33,
+          "verse_start": 53,
+          "verse_end": 53,
+          "referencia": "Números 33:53",
+          "nota": "Apunta a la posesión de la tierra prometida en obediencia al Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Compromiso",
+          "significado": "Responsabilidad asumida delante de Dios y de su pueblo."
+        },
+        {
+          "termo": "Memoria",
+          "significado": "Recuerdo de la fidelidad de Dios a lo largo del camino."
+        },
+        {
+          "termo": "Herencia",
+          "significado": "Aquello que Dios entrega a su pueblo según su promesa."
+        }
+      ],
+      "oracao": "Señor, ayúdame a recordar tu fidelidad y a vivir con responsabilidad delante de ti. Que mis decisiones no sean guiadas solo por la comodidad, sino por la obediencia a tu propósito. Amén."
+    }
+  }
+}

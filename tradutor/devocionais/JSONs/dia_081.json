@@ -1,0 +1,440 @@
+{
+  "dia": 81,
+  "data": "2027-03-22",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Juízes 10–12",
+    "en": "Judges 10–12",
+    "es": "Jueces 10–12"
+  },
+  "leitura": [
+    {
+      "book_id": "JDG",
+      "chapter_start": 10,
+      "chapter_end": 12
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "JDG",
+    "chapter": 10,
+    "verse_start": 16,
+    "verse_end": 16,
+    "referencia": {
+      "pt": "Juízes 10:16",
+      "en": "Judges 10:16",
+      "es": "Jueces 10:16"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_081.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_081.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_081.mp3",
+      "versiculo_central": "audio/en/verses/day_081.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_081.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_081.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Juízes 10–12 — Arrependimento, Livramento e Consequências",
+      "contexto": "Juízes 10 a 12 mostra novamente Israel afastando-se do Senhor e sofrendo opressão. O povo reconhece seu pecado, remove deuses estranhos e recebe livramento por meio de Jefté. A leitura também mostra que decisões precipitadas e conflitos internos podem trazer consequências dolorosas.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O clamor de Israel e a compaixão de Deus",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 18
+          },
+          "comentario": "Israel volta à idolatria, mas ao sentir a opressão reconhece seu pecado e abandona os deuses estranhos. O texto revela que Deus não trata o sofrimento do seu povo com indiferença.",
+          "aplicacao": "Arrependimento verdadeiro envolve confissão, abandono do pecado e retorno sincero ao Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jefté, rejeição e chamado para liderar",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 28
+          },
+          "comentario": "Jefté é marcado por rejeição familiar, mas é chamado para liderar em tempo de crise. Sua história mostra como Deus pode usar pessoas feridas e improváveis.",
+          "aplicacao": "O passado de rejeição não precisa definir o futuro de obediência quando Deus chama alguém para servir."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Vitória, voto precipitado e conflito entre irmãos",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 15
+          },
+          "comentario": "Jefté vence, mas seu voto precipitado traz dor. Depois, o conflito com Efraim revela a fragilidade espiritual de um povo que ainda luta contra divisão interna.",
+          "aplicacao": "A fé precisa de zelo, mas também de sabedoria, prudência nas palavras e compromisso com a paz entre irmãos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 11,
+            "referencia": "1 Samuel 12:10-11",
+            "nota": "Recorda o clamor de Israel e os livramentos concedidos pelo Senhor."
+          },
+          {
+            "book_id": "ECC",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 5,
+            "referencia": "Eclesiastes 5:2-5",
+            "nota": "Adverte contra votos precipitados diante de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 32,
+            "referencia": "Hebreus 11:32",
+            "nota": "Inclui Jefté entre os nomes lembrados na história da fé."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 19,
+            "verse_end": 20,
+            "referencia": "Tiago 1:19-20",
+            "nota": "Ensina prudência nas palavras e no trato com a ira."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Meu arrependimento envolve abandono concreto do pecado?",
+        "Permito que rejeições antigas limitem minha obediência ao chamado de Deus?",
+        "Tenho sido prudente com promessas, palavras e conflitos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Juízes 10:16 mostra um ponto decisivo da leitura: o povo abandona os deuses estranhos, serve ao Senhor, e Deus se compadece da aflição de Israel."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 10,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Juízes 10:16",
+          "nota": "Mostra arrependimento prático e a compaixão do Senhor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 11,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Juízes 11:29",
+          "nota": "Aponta para a capacitação de Deus sobre Jefté antes da vitória."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 12,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Juízes 12:6",
+          "nota": "Revela a gravidade da divisão interna entre o povo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Arrependimento",
+          "significado": "Retorno sincero a Deus que inclui reconhecer o pecado e abandonar falsos deuses."
+        },
+        {
+          "termo": "Prudência",
+          "significado": "Sabedoria prática para falar, prometer e agir diante de Deus e das pessoas."
+        },
+        {
+          "termo": "Compaixão divina",
+          "significado": "A sensibilidade misericordiosa do Senhor diante da aflição do seu povo."
+        }
+      ],
+      "oracao": "Senhor, leva-me a um arrependimento verdadeiro. Cura minhas feridas, guarda minhas palavras e ensina-me a servir-te com sabedoria. Amém."
+    },
+    "en": {
+      "titulo": "Judges 10–12 — Repentance, Deliverance, and Consequences",
+      "contexto": "Judges 10 to 12 again shows Israel turning away from the Lord and suffering oppression. The people acknowledge their sin, put away foreign gods, and receive deliverance through Jephthah. The reading also shows that rash decisions and internal conflicts can bring painful consequences.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Israel’s cry and God’s compassion",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 18
+          },
+          "comentario": "Israel returns to idolatry, but under oppression recognizes its sin and puts away foreign gods. The text reveals that God does not treat his people’s suffering with indifference.",
+          "aplicacao": "True repentance involves confession, turning away from sin, and sincerely returning to the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jephthah, rejection, and the call to lead",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 28
+          },
+          "comentario": "Jephthah is marked by family rejection, yet he is called to lead in a time of crisis. His story shows that God can use wounded and unlikely people.",
+          "aplicacao": "A past of rejection does not have to define a future of obedience when God calls someone to serve."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Victory, rash vow, and conflict among brothers",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 15
+          },
+          "comentario": "Jephthah wins, but his rash vow brings grief. Then the conflict with Ephraim reveals the spiritual fragility of a people still struggling with internal division.",
+          "aplicacao": "Faith needs zeal, but also wisdom, careful words, and commitment to peace among brothers and sisters."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 11,
+            "referencia": "1 Samuel 12:10-11",
+            "nota": "Recalls Israel’s cry and the deliverances granted by the Lord."
+          },
+          {
+            "book_id": "ECC",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 5,
+            "referencia": "Ecclesiastes 5:2-5",
+            "nota": "Warns against rash vows before God."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 32,
+            "referencia": "Hebrews 11:32",
+            "nota": "Includes Jephthah among the names remembered in the history of faith."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 19,
+            "verse_end": 20,
+            "referencia": "James 1:19-20",
+            "nota": "Teaches prudence in words and in dealing with anger."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Does my repentance include concrete turning away from sin?",
+        "Do I allow old rejections to limit my obedience to God’s calling?",
+        "Have I been prudent with promises, words, and conflicts?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Judges 10:16 shows a decisive point in the reading: the people put away foreign gods, serve the Lord, and God is moved by Israel’s misery."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 10,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Judges 10:16",
+          "nota": "Shows practical repentance and the Lord’s compassion."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 11,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Judges 11:29",
+          "nota": "Points to God’s empowering of Jephthah before the victory."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 12,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Judges 12:6",
+          "nota": "Reveals the seriousness of internal division among the people."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Repentance",
+          "significado": "A sincere return to God that includes recognizing sin and abandoning false gods."
+        },
+        {
+          "termo": "Prudence",
+          "significado": "Practical wisdom to speak, promise, and act before God and people."
+        },
+        {
+          "termo": "Divine compassion",
+          "significado": "The Lord’s merciful sensitivity toward the affliction of his people."
+        }
+      ],
+      "oracao": "Lord, lead me to true repentance. Heal my wounds, guard my words, and teach me to serve you with wisdom. Amen."
+    },
+    "es": {
+      "titulo": "Jueces 10–12 — Arrepentimiento, Liberación y Consecuencias",
+      "contexto": "Jueces 10 al 12 muestra nuevamente a Israel apartándose del Señor y sufriendo opresión. El pueblo reconoce su pecado, quita los dioses extraños y recibe liberación por medio de Jefté. La lectura también muestra que las decisiones precipitadas y los conflictos internos pueden traer consecuencias dolorosas.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El clamor de Israel y la compasión de Dios",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 10,
+            "verse_start": 1,
+            "chapter_end": 10,
+            "verse_end": 18
+          },
+          "comentario": "Israel vuelve a la idolatría, pero al sentir la opresión reconoce su pecado y abandona los dioses extraños. El texto revela que Dios no trata el sufrimiento de su pueblo con indiferencia.",
+          "aplicacao": "El arrepentimiento verdadero implica confesión, abandono del pecado y retorno sincero al Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Jefté, rechazo y llamado a liderar",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 1,
+            "chapter_end": 11,
+            "verse_end": 28
+          },
+          "comentario": "Jefté está marcado por el rechazo familiar, pero es llamado a liderar en tiempo de crisis. Su historia muestra que Dios puede usar personas heridas e improbables.",
+          "aplicacao": "El pasado de rechazo no tiene que definir el futuro de obediencia cuando Dios llama a alguien a servir."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Victoria, voto precipitado y conflicto entre hermanos",
+          "referencia": {
+            "book_id": "JDG",
+            "chapter_start": 11,
+            "verse_start": 29,
+            "chapter_end": 12,
+            "verse_end": 15
+          },
+          "comentario": "Jefté vence, pero su voto precipitado trae dolor. Luego, el conflicto con Efraín revela la fragilidad espiritual de un pueblo que todavía lucha contra la división interna.",
+          "aplicacao": "La fe necesita celo, pero también sabiduría, prudencia en las palabras y compromiso con la paz entre hermanos."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "1SA",
+            "chapter": 12,
+            "verse_start": 10,
+            "verse_end": 11,
+            "referencia": "1 Samuel 12:10-11",
+            "nota": "Recuerda el clamor de Israel y las liberaciones concedidas por el Señor."
+          },
+          {
+            "book_id": "ECC",
+            "chapter": 5,
+            "verse_start": 2,
+            "verse_end": 5,
+            "referencia": "Eclesiastés 5:2-5",
+            "nota": "Advierte contra votos precipitados delante de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "HEB",
+            "chapter": 11,
+            "verse_start": 32,
+            "verse_end": 32,
+            "referencia": "Hebreos 11:32",
+            "nota": "Incluye a Jefté entre los nombres recordados en la historia de la fe."
+          },
+          {
+            "book_id": "JAS",
+            "chapter": 1,
+            "verse_start": 19,
+            "verse_end": 20,
+            "referencia": "Santiago 1:19-20",
+            "nota": "Enseña prudencia en las palabras y en el trato con la ira."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Mi arrepentimiento incluye abandono concreto del pecado?",
+        "¿Permito que rechazos antiguos limiten mi obediencia al llamado de Dios?",
+        "¿He sido prudente con promesas, palabras y conflictos?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Jueces 10:16 muestra un punto decisivo de la lectura: el pueblo abandona los dioses extraños, sirve al Señor, y Dios se compadece de la aflicción de Israel."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "JDG",
+          "chapter": 10,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Jueces 10:16",
+          "nota": "Muestra arrepentimiento práctico y la compasión del Señor."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 11,
+          "verse_start": 29,
+          "verse_end": 29,
+          "referencia": "Jueces 11:29",
+          "nota": "Apunta a la capacitación de Dios sobre Jefté antes de la victoria."
+        },
+        {
+          "book_id": "JDG",
+          "chapter": 12,
+          "verse_start": 6,
+          "verse_end": 6,
+          "referencia": "Jueces 12:6",
+          "nota": "Revela la gravedad de la división interna entre el pueblo."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Arrepentimiento",
+          "significado": "Retorno sincero a Dios que incluye reconocer el pecado y abandonar falsos dioses."
+        },
+        {
+          "termo": "Prudencia",
+          "significado": "Sabiduría práctica para hablar, prometer y actuar delante de Dios y de las personas."
+        },
+        {
+          "termo": "Compasión divina",
+          "significado": "La sensibilidad misericordiosa del Señor ante la aflicción de su pueblo."
+        }
+      ],
+      "oracao": "Señor, llévame a un arrepentimiento verdadero. Sana mis heridas, guarda mis palabras y enséñame a servirte con sabiduría. Amén."
+    }
+  }
+}

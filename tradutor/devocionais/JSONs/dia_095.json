@@ -1,0 +1,440 @@
+{
+  "dia": 95,
+  "data": "2027-04-05",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "2 Samuel 1–3",
+    "en": "2 Samuel 1–3",
+    "es": "2 Samuel 1–3"
+  },
+  "leitura": [
+    {
+      "book_id": "2SA",
+      "chapter_start": 1,
+      "chapter_end": 3
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "2SA",
+    "chapter": 2,
+    "verse_start": 1,
+    "verse_end": 1,
+    "referencia": {
+      "pt": "2 Samuel 2:1",
+      "en": "2 Samuel 2:1",
+      "es": "2 Samuel 2:1"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_095.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_095.mp3"
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_095.mp3",
+      "versiculo_central": "audio/en/verses/day_095.mp3"
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_095.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_095.mp3"
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "2 Samuel 1–3 — Luto, Direção e o Início do Reino de Davi",
+      "contexto": "2 Samuel 1 a 3 inicia a transição do reinado de Saul para o reinado de Davi. Em vez de celebrar a queda do inimigo, Davi lamenta Saul e Jônatas. Depois, ele busca direção do Senhor e começa a reinar em Judá enquanto conflitos internos continuam em Israel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Davi lamenta Saul e Jônatas",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 27
+          },
+          "comentario": "Davi recebe a notícia da morte de Saul e Jônatas com dor, não com triunfalismo. Seu lamento revela honra, amor e reverência pela história que Deus conduziu.",
+          "aplicacao": "A maturidade espiritual não se alegra com a queda alheia, mas responde com temor, compaixão e sobriedade."
+        },
+        {
+          "ordem": 2,
+          "titulo": "Davi busca direção antes de subir a Hebrom",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 7
+          },
+          "comentario": "Antes de avançar, Davi consulta o Senhor. Mesmo depois de anos de promessa e espera, ele não presume o caminho; busca direção divina para o próximo passo.",
+          "aplicacao": "Promessas de Deus não eliminam a necessidade de oração, dependência e direção diária."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O reino cresce em meio a conflito",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 8,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "A casa de Saul e a casa de Davi entram em tensão, e o processo de consolidação do reino não acontece sem dor. Ainda assim, Deus conduz a história conforme seu propósito.",
+          "aplicacao": "Nem toda transição fiel é simples. É preciso permanecer íntegro enquanto Deus firma seus propósitos no tempo certo."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 20,
+            "verse_end": 29,
+            "referencia": "Salmos 89:20-29",
+            "nota": "Celebra a escolha de Davi e a promessa ligada à sua descendência."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 24,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Provérbios 24:17-18",
+            "nota": "Adverte contra alegrar-se com a queda do inimigo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Atos 13:22-23",
+            "nota": "Liga Davi à linhagem pela qual Deus traria o Salvador."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Lucas 1:32-33",
+            "nota": "Aponta para Cristo como o Filho de Davi cujo reino não terá fim."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado direção de Deus antes de avançar em decisões importantes?",
+        "Consigo honrar pessoas e histórias mesmo quando houve dor?",
+        "Permaneço fiel em processos lentos e transições difíceis?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 2:1 mostra Davi buscando a direção do Senhor antes de iniciar uma nova etapa, revelando dependência mesmo após a promessa recebida."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "2 Samuel 1:17",
+          "nota": "Mostra Davi lamentando Saul e Jônatas com honra e dor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 2,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 2:1",
+          "nota": "Revela Davi consultando o Senhor antes de avançar."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 3:1",
+          "nota": "Resume o processo gradual pelo qual a casa de Davi se fortalecia."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Direção",
+          "significado": "Busca da vontade de Deus antes de decisões e transições."
+        },
+        {
+          "termo": "Honra",
+          "significado": "Postura de respeito e sobriedade mesmo diante de histórias difíceis."
+        },
+        {
+          "termo": "Reino",
+          "significado": "Governo estabelecido sob o propósito de Deus e ligado à promessa davídica."
+        }
+      ],
+      "oracao": "Senhor, ensina-me a buscar tua direção antes de cada novo passo. Dá-me um coração íntegro, capaz de honrar, esperar e confiar no teu tempo. Amém."
+    },
+    "en": {
+      "titulo": "2 Samuel 1–3 — Grief, Direction, and the Beginning of David's Kingdom",
+      "contexto": "2 Samuel 1 to 3 begins the transition from Saul's reign to David's reign. Instead of celebrating the fall of his enemy, David mourns Saul and Jonathan. Then he seeks the Lord's direction and begins to reign in Judah while internal conflicts continue in Israel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David mourns Saul and Jonathan",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 27
+          },
+          "comentario": "David receives the news of Saul and Jonathan's death with grief, not triumphalism. His lament reveals honor, love, and reverence for the story God had led.",
+          "aplicacao": "Spiritual maturity does not rejoice over another person's fall, but responds with reverence, compassion, and sobriety."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David seeks direction before going up to Hebron",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 7
+          },
+          "comentario": "Before moving forward, David inquires of the Lord. Even after years of promise and waiting, he does not presume the path; he seeks divine direction for the next step.",
+          "aplicacao": "God's promises do not remove the need for prayer, dependence, and daily guidance."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The kingdom grows amid conflict",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 8,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "The house of Saul and the house of David enter into tension, and the consolidation of the kingdom does not happen without pain. Still, God leads history according to his purpose.",
+          "aplicacao": "Not every faithful transition is simple. We must remain upright while God establishes his purposes in the right time."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 20,
+            "verse_end": 29,
+            "referencia": "Psalm 89:20-29",
+            "nota": "Celebrates the choosing of David and the promise linked to his offspring."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 24,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Proverbs 24:17-18",
+            "nota": "Warns against rejoicing over an enemy's fall."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Acts 13:22-23",
+            "nota": "Connects David to the line through which God would bring the Savior."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Luke 1:32-33",
+            "nota": "Points to Christ as the Son of David whose kingdom will have no end."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek God's direction before moving forward in important decisions?",
+        "Can I honor people and stories even when there has been pain?",
+        "Do I remain faithful in slow processes and difficult transitions?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 2:1 shows David seeking the Lord's direction before entering a new stage, revealing dependence even after the promise he had received."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "2 Samuel 1:17",
+          "nota": "Shows David mourning Saul and Jonathan with honor and grief."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 2,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 2:1",
+          "nota": "Reveals David inquiring of the Lord before moving forward."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 3:1",
+          "nota": "Summarizes the gradual process by which David's house grew stronger."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Direction",
+          "significado": "Seeking God's will before decisions and transitions."
+        },
+        {
+          "termo": "Honor",
+          "significado": "A posture of respect and sobriety even in difficult stories."
+        },
+        {
+          "termo": "Kingdom",
+          "significado": "Rule established under God's purpose and linked to the Davidic promise."
+        }
+      ],
+      "oracao": "Lord, teach me to seek your direction before every new step. Give me an upright heart, able to honor, wait, and trust your timing. Amen."
+    },
+    "es": {
+      "titulo": "2 Samuel 1–3 — Duelo, Dirección y el Inicio del Reino de David",
+      "contexto": "2 Samuel 1 al 3 inicia la transición del reinado de Saúl al reinado de David. En vez de celebrar la caída de su enemigo, David lamenta a Saúl y a Jonatán. Después busca dirección del Señor y comienza a reinar en Judá mientras continúan conflictos internos en Israel.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "David lamenta a Saúl y a Jonatán",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 1,
+            "verse_start": 1,
+            "chapter_end": 1,
+            "verse_end": 27
+          },
+          "comentario": "David recibe la noticia de la muerte de Saúl y Jonatán con dolor, no con triunfalismo. Su lamento revela honra, amor y reverencia por la historia que Dios condujo.",
+          "aplicacao": "La madurez espiritual no se alegra con la caída ajena, sino que responde con temor, compasión y sobriedad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "David busca dirección antes de subir a Hebrón",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 1,
+            "chapter_end": 2,
+            "verse_end": 7
+          },
+          "comentario": "Antes de avanzar, David consulta al Señor. Aunque había esperado años por la promesa, no presume el camino; busca dirección divina para el próximo paso.",
+          "aplicacao": "Las promesas de Dios no eliminan la necesidad de oración, dependencia y dirección diaria."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El reino crece en medio del conflicto",
+          "referencia": {
+            "book_id": "2SA",
+            "chapter_start": 2,
+            "verse_start": 8,
+            "chapter_end": 3,
+            "verse_end": 39
+          },
+          "comentario": "La casa de Saúl y la casa de David entran en tensión, y el proceso de consolidación del reino no ocurre sin dolor. Aun así, Dios conduce la historia según su propósito.",
+          "aplicacao": "No toda transición fiel es sencilla. Es necesario permanecer íntegro mientras Dios afirma sus propósitos en el tiempo correcto."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 89,
+            "verse_start": 20,
+            "verse_end": 29,
+            "referencia": "Salmos 89:20-29",
+            "nota": "Celebra la elección de David y la promesa ligada a su descendencia."
+          },
+          {
+            "book_id": "PRO",
+            "chapter": 24,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Proverbios 24:17-18",
+            "nota": "Advierte contra alegrarse por la caída del enemigo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ACT",
+            "chapter": 13,
+            "verse_start": 22,
+            "verse_end": 23,
+            "referencia": "Hechos 13:22-23",
+            "nota": "Relaciona a David con la línea por la cual Dios traería al Salvador."
+          },
+          {
+            "book_id": "LUK",
+            "chapter": 1,
+            "verse_start": 32,
+            "verse_end": 33,
+            "referencia": "Lucas 1:32-33",
+            "nota": "Apunta a Cristo como el Hijo de David cuyo reino no tendrá fin."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco la dirección de Dios antes de avanzar en decisiones importantes?",
+        "¿Puedo honrar personas e historias aun cuando hubo dolor?",
+        "¿Permanezco fiel en procesos lentos y transiciones difíciles?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "2 Samuel 2:1 muestra a David buscando la dirección del Señor antes de iniciar una nueva etapa, revelando dependencia aun después de la promesa recibida."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "2SA",
+          "chapter": 1,
+          "verse_start": 17,
+          "verse_end": 17,
+          "referencia": "2 Samuel 1:17",
+          "nota": "Muestra a David lamentando a Saúl y Jonatán con honra y dolor."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 2,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 2:1",
+          "nota": "Revela a David consultando al Señor antes de avanzar."
+        },
+        {
+          "book_id": "2SA",
+          "chapter": 3,
+          "verse_start": 1,
+          "verse_end": 1,
+          "referencia": "2 Samuel 3:1",
+          "nota": "Resume el proceso gradual por el cual la casa de David se fortalecía."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Dirección",
+          "significado": "Búsqueda de la voluntad de Dios antes de decisiones y transiciones."
+        },
+        {
+          "termo": "Honra",
+          "significado": "Postura de respeto y sobriedad incluso ante historias difíciles."
+        },
+        {
+          "termo": "Reino",
+          "significado": "Gobierno establecido bajo el propósito de Dios y ligado a la promesa davídica."
+        }
+      ],
+      "oracao": "Señor, enséñame a buscar tu dirección antes de cada nuevo paso. Dame un corazón íntegro, capaz de honrar, esperar y confiar en tu tiempo. Amén."
+    }
+  }
+}

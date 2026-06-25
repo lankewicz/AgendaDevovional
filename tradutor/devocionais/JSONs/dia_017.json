@@ -1,0 +1,536 @@
+{
+  "dia": 17,
+  "data": "2027-01-17",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Gênesis 43–45",
+    "en": "Genesis 43–45",
+    "es": "Génesis 43–45"
+  },
+  "leitura": [
+    {
+      "book_id": "GEN",
+      "chapter_start": 43,
+      "chapter_end": 45
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "GEN",
+    "chapter": 45,
+    "verse_start": 5,
+    "verse_end": 5,
+    "referencia": {
+      "pt": "Gênesis 45:5",
+      "en": "Genesis 45:5",
+      "es": "Génesis 45:5"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_017.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_017.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/017/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/pt/pt-BR-FranciscaNeural/045.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/017/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/pt/pt-BR-ThalitaNeural/045.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/017/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/pt/pt-BR-AntonioNeural/045.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/017/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/pt/pt-PT-DuarteNeural/045.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_017.mp3",
+      "versiculo_central": "audio/en/verses/day_017.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/017/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/en/en-US-AriaNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/en/en-US-AriaNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/en/en-US-AriaNeural/045.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/017/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/en/en-US-JennyNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/en/en-US-JennyNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/en/en-US-JennyNeural/045.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/017/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/en/en-US-GuyNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/en/en-US-GuyNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/en/en-US-GuyNeural/045.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/017/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/en/en-US-BrianNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/en/en-US-BrianNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/en/en-US-BrianNeural/045.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_017.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_017.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/017/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/es/es-ES-ElviraNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/es/es-ES-ElviraNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/es/es-ES-ElviraNeural/045.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/017/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/es/es-MX-DaliaNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/es/es-MX-DaliaNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/es/es-MX-DaliaNeural/045.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/017/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/es/es-ES-AlvaroNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/es/es-ES-AlvaroNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/es/es-ES-AlvaroNeural/045.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/017/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/017/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/017/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "GEN_43": "audio/biblia/GEN/es/es-MX-JorgeNeural/043.m4a",
+          "GEN_44": "audio/biblia/GEN/es/es-MX-JorgeNeural/044.m4a",
+          "GEN_45": "audio/biblia/GEN/es/es-MX-JorgeNeural/045.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Gênesis 43–45 — Perdão, Providência e Preservação",
+      "contexto": "Gênesis 43 a 45 mostra o reencontro entre José e seus irmãos avançando para uma profunda revelação. A fome força a família de Jacó a retornar ao Egito, Judá assume responsabilidade por Benjamim, e José finalmente revela sua identidade. O sofrimento do passado é visto à luz da providência de Deus.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O retorno dos irmãos ao Egito",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 43,
+            "verse_start": 1,
+            "chapter_end": 43,
+            "verse_end": 34
+          },
+          "comentario": "A necessidade leva os filhos de Jacó de volta ao Egito. A presença de Benjamim aumenta a tensão e prepara o caminho para a restauração familiar.",
+          "aplicacao": "Deus pode usar circunstâncias difíceis para trazer à luz feridas que precisam ser tratadas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A prova do coração dos irmãos",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 44,
+            "verse_start": 1,
+            "chapter_end": 44,
+            "verse_end": 34
+          },
+          "comentario": "José testa seus irmãos e Judá se apresenta como responsável por Benjamim. A mudança de atitude revela que Deus estava trabalhando naquela família.",
+          "aplicacao": "Arrependimento verdadeiro aparece quando deixamos de proteger apenas a nós mesmos e passamos a agir com responsabilidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José revela a providência de Deus",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 45,
+            "verse_start": 1,
+            "chapter_end": 45,
+            "verse_end": 28
+          },
+          "comentario": "José revela sua identidade, chora com seus irmãos e interpreta sua dor a partir do governo de Deus. O mal praticado não é negado, mas Deus o transforma em preservação.",
+          "aplicacao": "A fé permite olhar para a história com esperança, sem chamar o mal de bem, mas reconhecendo que Deus é maior que o mal."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Salmos 105:16-22",
+            "nota": "Recorda como Deus enviou José antes da família para preservar vidas."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romanos 8:28",
+            "nota": "Ensina que Deus age soberanamente em favor daqueles que o amam."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 14,
+            "referencia": "Atos 7:9-14",
+            "nota": "Resume a história de José como parte da preservação do povo de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho buscado reconciliação com responsabilidade e verdade?",
+        "Consigo reconhecer a ação de Deus mesmo em histórias dolorosas?",
+        "Minha fé me ajuda a perdoar sem negar a seriedade do pecado?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Gênesis 45:5 resume a interpretação de José: Deus conduziu a história para preservar vidas, mesmo através de sofrimento e injustiça."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 44,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "Gênesis 44:33",
+          "nota": "Mostra Judá assumindo responsabilidade por Benjamim."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Gênesis 45:5",
+          "nota": "Aponta para a providência de Deus na história de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Gênesis 45:7",
+          "nota": "Mostra que Deus preservou a família para cumprir sua promessa."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providência",
+          "significado": "O governo sábio de Deus sobre a história, inclusive em circunstâncias difíceis."
+        },
+        {
+          "termo": "Reconciliação",
+          "significado": "Restauração de relacionamento marcada por verdade, responsabilidade e graça."
+        },
+        {
+          "termo": "Preservação",
+          "significado": "A ação de Deus para guardar a vida e dar continuidade à sua promessa."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a enxergar tua mão mesmo nas histórias difíceis. Dá-me um coração disposto ao perdão, à verdade e à reconciliação segundo a tua vontade. Amém."
+    },
+    "en": {
+      "titulo": "Genesis 43–45 — Forgiveness, Providence, and Preservation",
+      "contexto": "Genesis 43 to 45 shows the reunion between Joseph and his brothers moving toward a deep revelation. Famine forces Jacob’s family to return to Egypt, Judah takes responsibility for Benjamin, and Joseph finally reveals his identity. Past suffering is seen in light of God’s providence.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The brothers return to Egypt",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 43,
+            "verse_start": 1,
+            "chapter_end": 43,
+            "verse_end": 34
+          },
+          "comentario": "Need brings Jacob’s sons back to Egypt. Benjamin’s presence increases the tension and prepares the way for family restoration.",
+          "aplicacao": "God can use difficult circumstances to bring hidden wounds into the light so they may be healed."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The testing of the brothers’ hearts",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 44,
+            "verse_start": 1,
+            "chapter_end": 44,
+            "verse_end": 34
+          },
+          "comentario": "Joseph tests his brothers, and Judah offers himself as responsible for Benjamin. Their changed attitude reveals that God had been working in the family.",
+          "aplicacao": "True repentance appears when we stop protecting only ourselves and begin to act with responsibility."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Joseph reveals God’s providence",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 45,
+            "verse_start": 1,
+            "chapter_end": 45,
+            "verse_end": 28
+          },
+          "comentario": "Joseph reveals his identity, weeps with his brothers, and interprets his pain through God’s rule. The evil done is not denied, but God turns it toward preservation.",
+          "aplicacao": "Faith allows us to look at history with hope, not calling evil good, but recognizing that God is greater than evil."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Psalm 105:16-22",
+            "nota": "Recalls how God sent Joseph ahead of the family to preserve lives."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romans 8:28",
+            "nota": "Teaches that God works sovereignly for those who love him."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 14,
+            "referencia": "Acts 7:9-14",
+            "nota": "Summarizes Joseph’s story as part of the preservation of God’s people."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I seek reconciliation with responsibility and truth?",
+        "Can I recognize God’s action even in painful stories?",
+        "Does my faith help me forgive without denying the seriousness of sin?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Genesis 45:5 summarizes Joseph’s interpretation: God guided the story to preserve life, even through suffering and injustice."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 44,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "Genesis 44:33",
+          "nota": "Shows Judah taking responsibility for Benjamin."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Genesis 45:5",
+          "nota": "Points to God’s providence in Joseph’s story."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Genesis 45:7",
+          "nota": "Shows that God preserved the family to fulfill his promise."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providence",
+          "significado": "God’s wise rule over history, including difficult circumstances."
+        },
+        {
+          "termo": "Reconciliation",
+          "significado": "Restoration of relationship marked by truth, responsibility, and grace."
+        },
+        {
+          "termo": "Preservation",
+          "significado": "God’s action to guard life and continue his promise."
+        }
+      ],
+      "oracao": "Lord, help me see your hand even in difficult stories. Give me a heart willing to forgive, to walk in truth, and to seek reconciliation according to your will. Amen."
+    },
+    "es": {
+      "titulo": "Génesis 43–45 — Perdón, Providencia y Preservación",
+      "contexto": "Génesis 43 al 45 muestra el reencuentro entre José y sus hermanos avanzando hacia una profunda revelación. El hambre obliga a la familia de Jacob a volver a Egipto, Judá asume responsabilidad por Benjamín, y José finalmente revela su identidad. El sufrimiento pasado es visto a la luz de la providencia de Dios.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El regreso de los hermanos a Egipto",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 43,
+            "verse_start": 1,
+            "chapter_end": 43,
+            "verse_end": 34
+          },
+          "comentario": "La necesidad lleva a los hijos de Jacob de vuelta a Egipto. La presencia de Benjamín aumenta la tensión y prepara el camino para la restauración familiar.",
+          "aplicacao": "Dios puede usar circunstancias difíciles para sacar a la luz heridas que necesitan ser tratadas."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La prueba del corazón de los hermanos",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 44,
+            "verse_start": 1,
+            "chapter_end": 44,
+            "verse_end": 34
+          },
+          "comentario": "José prueba a sus hermanos y Judá se presenta como responsable por Benjamín. El cambio de actitud revela que Dios estaba trabajando en aquella familia.",
+          "aplicacao": "El arrepentimiento verdadero aparece cuando dejamos de proteger solo a nosotros mismos y empezamos a actuar con responsabilidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "José revela la providencia de Dios",
+          "referencia": {
+            "book_id": "GEN",
+            "chapter_start": 45,
+            "verse_start": 1,
+            "chapter_end": 45,
+            "verse_end": 28
+          },
+          "comentario": "José revela su identidad, llora con sus hermanos e interpreta su dolor desde el gobierno de Dios. El mal cometido no es negado, pero Dios lo transforma en preservación.",
+          "aplicacao": "La fe permite mirar la historia con esperanza, sin llamar bueno al mal, pero reconociendo que Dios es mayor que el mal."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 105,
+            "verse_start": 16,
+            "verse_end": 22,
+            "referencia": "Salmos 105:16-22",
+            "nota": "Recuerda cómo Dios envió a José antes que su familia para preservar vidas."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 8,
+            "verse_start": 28,
+            "verse_end": 28,
+            "referencia": "Romanos 8:28",
+            "nota": "Enseña que Dios obra soberanamente a favor de quienes lo aman."
+          },
+          {
+            "book_id": "ACT",
+            "chapter": 7,
+            "verse_start": 9,
+            "verse_end": 14,
+            "referencia": "Hechos 7:9-14",
+            "nota": "Resume la historia de José como parte de la preservación del pueblo de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Busco reconciliación con responsabilidad y verdad?",
+        "¿Puedo reconocer la acción de Dios incluso en historias dolorosas?",
+        "¿Mi fe me ayuda a perdonar sin negar la seriedad del pecado?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Génesis 45:5 resume la interpretación de José: Dios condujo la historia para preservar vidas, incluso a través del sufrimiento y la injusticia."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "GEN",
+          "chapter": 44,
+          "verse_start": 33,
+          "verse_end": 33,
+          "referencia": "Génesis 44:33",
+          "nota": "Muestra a Judá asumiendo responsabilidad por Benjamín."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 5,
+          "verse_end": 5,
+          "referencia": "Génesis 45:5",
+          "nota": "Señala la providencia de Dios en la historia de José."
+        },
+        {
+          "book_id": "GEN",
+          "chapter": 45,
+          "verse_start": 7,
+          "verse_end": 7,
+          "referencia": "Génesis 45:7",
+          "nota": "Muestra que Dios preservó a la familia para cumplir su promesa."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Providencia",
+          "significado": "El gobierno sabio de Dios sobre la historia, incluso en circunstancias difíciles."
+        },
+        {
+          "termo": "Reconciliación",
+          "significado": "Restauración de una relación marcada por verdad, responsabilidad y gracia."
+        },
+        {
+          "termo": "Preservación",
+          "significado": "La acción de Dios para guardar la vida y dar continuidad a su promesa."
+        }
+      ],
+      "oracao": "Señor, ayúdame a ver tu mano incluso en las historias difíciles. Dame un corazón dispuesto al perdón, a la verdad y a la reconciliación según tu voluntad. Amén."
+    }
+  }
+}

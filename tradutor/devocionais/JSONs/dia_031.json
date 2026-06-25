@@ -1,0 +1,560 @@
+{
+  "dia": 31,
+  "data": "2027-01-31",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 33–35",
+    "en": "Exodus 33–35",
+    "es": "Éxodo 33–35"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 33,
+      "chapter_end": 35
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 33,
+    "verse_start": 15,
+    "verse_end": 15,
+    "referencia": {
+      "pt": "Êxodo 33:15",
+      "en": "Exodus 33:15",
+      "es": "Éxodo 33:15"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_031.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_031.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/031/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/035.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/031/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/035.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/031/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/035.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/031/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/035.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_031.mp3",
+      "versiculo_central": "audio/en/verses/day_031.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/031/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/en/en-US-AriaNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/en/en-US-AriaNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/en/en-US-AriaNeural/035.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/031/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/en/en-US-JennyNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/en/en-US-JennyNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/en/en-US-JennyNeural/035.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/031/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/en/en-US-GuyNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/en/en-US-GuyNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/en/en-US-GuyNeural/035.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/031/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/en/en-US-BrianNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/en/en-US-BrianNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/en/en-US-BrianNeural/035.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_031.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_031.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/031/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/es/es-ES-ElviraNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/es/es-ES-ElviraNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/es/es-ES-ElviraNeural/035.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/031/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/es/es-MX-DaliaNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/es/es-MX-DaliaNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/es/es-MX-DaliaNeural/035.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/031/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/es/es-ES-AlvaroNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/es/es-ES-AlvaroNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/es/es-ES-AlvaroNeural/035.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/031/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/031/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/031/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_33": "audio/biblia/EXO/es/es-MX-JorgeNeural/033.m4a",
+          "EXO_34": "audio/biblia/EXO/es/es-MX-JorgeNeural/034.m4a",
+          "EXO_35": "audio/biblia/EXO/es/es-MX-JorgeNeural/035.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 33–35 — A Presença de Deus e a Restauração da Aliança",
+      "contexto": "Êxodo 33 a 35 mostra o povo depois do pecado do bezerro de ouro. Moisés busca a presença do Senhor, intercede pela continuidade da caminhada e recebe a renovação da aliança. A resposta correta ao perdão de Deus aparece em adoração, obediência e generosidade.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Sem a presença de Deus, a caminhada perde sentido",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 23
+          },
+          "comentario": "Moisés entende que a terra prometida não basta sem a presença do Senhor. Ele pede que Deus acompanhe o povo e revela profundo desejo por sua glória.",
+          "aplicacao": "As bênçãos de Deus não substituem o próprio Deus. A maior necessidade do povo é a presença do Senhor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A renovação da aliança e o caráter do Senhor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 35
+          },
+          "comentario": "Deus renova as tábuas da aliança e proclama seu nome, revelando misericórdia, graça, paciência, justiça e fidelidade. Moisés desce transformado pela comunhão com Deus.",
+          "aplicacao": "Conhecer o caráter de Deus transforma a forma como adoramos, obedecemos e recomeçamos depois da queda."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obediência e ofertas para a obra do tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 35
+          },
+          "comentario": "O povo recebe novamente o chamado ao descanso, à oferta voluntária e ao serviço habilidoso. A restauração da aliança gera participação generosa na obra do Senhor.",
+          "aplicacao": "Quem foi alcançado pela misericórdia de Deus responde com obediência, generosidade e serviço sincero."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 10,
+            "verse_end": 12,
+            "referencia": "Salmos 51:10-12",
+            "nota": "Expressa o clamor por restauração e pela permanência da presença de Deus."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 63,
+            "verse_start": 7,
+            "verse_end": 14,
+            "referencia": "Isaías 63:7-14",
+            "nota": "Recorda a presença do Senhor guiando e sustentando seu povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 3,
+            "verse_start": 7,
+            "verse_end": 18,
+            "referencia": "2 Coríntios 3:7-18",
+            "nota": "Contrasta a glória refletida em Moisés com a transformação pelo Espírito."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "João 14:16-17",
+            "nota": "Aponta para a presença de Deus com seu povo por meio do Espírito Santo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho desejado a presença de Deus acima das bênçãos que Ele pode dar?",
+        "Permito que o caráter misericordioso e santo do Senhor me conduza ao arrependimento?",
+        "Minha gratidão se transforma em obediência, generosidade e serviço?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 33:15 expressa o centro do bloco: a presença de Deus é indispensável para a caminhada do seu povo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 33,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Êxodo 33:15",
+          "nota": "Declara que a presença do Senhor é essencial para a caminhada."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 34,
+          "verse_start": 6,
+          "verse_end": 7,
+          "referencia": "Êxodo 34:6-7",
+          "nota": "Revela o caráter misericordioso, justo e fiel de Deus."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 35,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Êxodo 35:21",
+          "nota": "Mostra o povo ofertando de coração voluntário para a obra do Senhor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Presença",
+          "significado": "Comunhão viva de Deus com seu povo, guiando e sustentando a caminhada."
+        },
+        {
+          "termo": "Restauração",
+          "significado": "Ação de Deus que chama o povo de volta à aliança após o pecado."
+        },
+        {
+          "termo": "Generosidade",
+          "significado": "Resposta voluntária e grata à graça e à misericórdia do Senhor."
+        }
+      ],
+      "oracao": "Senhor, não quero caminhar sem tua presença. Restaura meu coração, revela-me teu caráter e faz minha vida responder com obediência, gratidão e serviço. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 33–35 — God’s Presence and the Restoration of the Covenant",
+      "contexto": "Exodus 33 to 35 shows the people after the sin of the golden calf. Moses seeks the Lord’s presence, intercedes for the journey to continue, and receives the renewal of the covenant. The right response to God’s forgiveness appears in worship, obedience, and generosity.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Without God’s presence, the journey loses meaning",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 23
+          },
+          "comentario": "Moses understands that the promised land is not enough without the Lord’s presence. He asks God to go with the people and reveals a deep desire for his glory.",
+          "aplicacao": "God’s blessings do not replace God himself. The greatest need of the people is the presence of the Lord."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The renewal of the covenant and the Lord’s character",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 35
+          },
+          "comentario": "God renews the tablets of the covenant and proclaims his name, revealing mercy, grace, patience, justice, and faithfulness. Moses comes down transformed by communion with God.",
+          "aplicacao": "Knowing God’s character transforms the way we worship, obey, and begin again after failure."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obedience and offerings for the work of the tabernacle",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 35
+          },
+          "comentario": "The people receive again the call to rest, freewill offerings, and skillful service. The restoration of the covenant produces generous participation in the Lord’s work.",
+          "aplicacao": "Those who have been reached by God’s mercy respond with obedience, generosity, and sincere service."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 10,
+            "verse_end": 12,
+            "referencia": "Psalm 51:10-12",
+            "nota": "Expresses the cry for restoration and for the continuance of God’s presence."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 63,
+            "verse_start": 7,
+            "verse_end": 14,
+            "referencia": "Isaiah 63:7-14",
+            "nota": "Recalls the Lord’s presence guiding and sustaining his people."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 3,
+            "verse_start": 7,
+            "verse_end": 18,
+            "referencia": "2 Corinthians 3:7-18",
+            "nota": "Contrasts the glory reflected in Moses with transformation by the Spirit."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "John 14:16-17",
+            "nota": "Points to God’s presence with his people through the Holy Spirit."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I desire God’s presence above the blessings he can give?",
+        "Do I allow the merciful and holy character of the Lord to lead me to repentance?",
+        "Does my gratitude become obedience, generosity, and service?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 33:15 expresses the center of the passage: God’s presence is indispensable for the journey of his people."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 33,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Exodus 33:15",
+          "nota": "Declares that the Lord’s presence is essential for the journey."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 34,
+          "verse_start": 6,
+          "verse_end": 7,
+          "referencia": "Exodus 34:6-7",
+          "nota": "Reveals God’s merciful, just, and faithful character."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 35,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Exodus 35:21",
+          "nota": "Shows the people giving with willing hearts for the Lord’s work."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Presence",
+          "significado": "The living communion of God with his people, guiding and sustaining the journey."
+        },
+        {
+          "termo": "Restoration",
+          "significado": "God’s action calling his people back to the covenant after sin."
+        },
+        {
+          "termo": "Generosity",
+          "significado": "A willing and grateful response to the Lord’s grace and mercy."
+        }
+      ],
+      "oracao": "Lord, I do not want to walk without your presence. Restore my heart, reveal your character to me, and make my life respond with obedience, gratitude, and service. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 33–35 — La Presencia de Dios y la Restauración de la Alianza",
+      "contexto": "Éxodo 33 al 35 muestra al pueblo después del pecado del becerro de oro. Moisés busca la presencia del Señor, intercede por la continuidad del camino y recibe la renovación de la alianza. La respuesta correcta al perdón de Dios aparece en adoración, obediencia y generosidad.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Sin la presencia de Dios, el camino pierde sentido",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 33,
+            "verse_start": 1,
+            "chapter_end": 33,
+            "verse_end": 23
+          },
+          "comentario": "Moisés entiende que la tierra prometida no basta sin la presencia del Señor. Pide que Dios acompañe al pueblo y revela un profundo deseo por su gloria.",
+          "aplicacao": "Las bendiciones de Dios no sustituyen a Dios mismo. La mayor necesidad del pueblo es la presencia del Señor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La renovación de la alianza y el carácter del Señor",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 34,
+            "verse_start": 1,
+            "chapter_end": 34,
+            "verse_end": 35
+          },
+          "comentario": "Dios renueva las tablas de la alianza y proclama su nombre, revelando misericordia, gracia, paciencia, justicia y fidelidad. Moisés desciende transformado por la comunión con Dios.",
+          "aplicacao": "Conocer el carácter de Dios transforma la forma en que adoramos, obedecemos y comenzamos de nuevo después de la caída."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Obediencia y ofrendas para la obra del tabernáculo",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 35,
+            "verse_start": 1,
+            "chapter_end": 35,
+            "verse_end": 35
+          },
+          "comentario": "El pueblo recibe nuevamente el llamado al descanso, a la ofrenda voluntaria y al servicio habilidoso. La restauración de la alianza produce participación generosa en la obra del Señor.",
+          "aplicacao": "Quien fue alcanzado por la misericordia de Dios responde con obediencia, generosidad y servicio sincero."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 51,
+            "verse_start": 10,
+            "verse_end": 12,
+            "referencia": "Salmos 51:10-12",
+            "nota": "Expresa el clamor por restauración y por la permanencia de la presencia de Dios."
+          },
+          {
+            "book_id": "ISA",
+            "chapter": 63,
+            "verse_start": 7,
+            "verse_end": 14,
+            "referencia": "Isaías 63:7-14",
+            "nota": "Recuerda la presencia del Señor guiando y sosteniendo a su pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "2CO",
+            "chapter": 3,
+            "verse_start": 7,
+            "verse_end": 18,
+            "referencia": "2 Corintios 3:7-18",
+            "nota": "Contrasta la gloria reflejada en Moisés con la transformación por el Espíritu."
+          },
+          {
+            "book_id": "JHN",
+            "chapter": 14,
+            "verse_start": 16,
+            "verse_end": 17,
+            "referencia": "Juan 14:16-17",
+            "nota": "Apunta a la presencia de Dios con su pueblo por medio del Espíritu Santo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Deseo la presencia de Dios por encima de las bendiciones que Él puede dar?",
+        "¿Permito que el carácter misericordioso y santo del Señor me conduzca al arrepentimiento?",
+        "¿Mi gratitud se transforma en obediencia, generosidad y servicio?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 33:15 expresa el centro del bloque: la presencia de Dios es indispensable para el camino de su pueblo."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 33,
+          "verse_start": 15,
+          "verse_end": 15,
+          "referencia": "Éxodo 33:15",
+          "nota": "Declara que la presencia del Señor es esencial para el camino."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 34,
+          "verse_start": 6,
+          "verse_end": 7,
+          "referencia": "Éxodo 34:6-7",
+          "nota": "Revela el carácter misericordioso, justo y fiel de Dios."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 35,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Éxodo 35:21",
+          "nota": "Muestra al pueblo ofrendando de corazón voluntario para la obra del Señor."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Presencia",
+          "significado": "Comunión viva de Dios con su pueblo, guiando y sosteniendo el camino."
+        },
+        {
+          "termo": "Restauración",
+          "significado": "Acción de Dios que llama a su pueblo de regreso a la alianza después del pecado."
+        },
+        {
+          "termo": "Generosidad",
+          "significado": "Respuesta voluntaria y agradecida a la gracia y misericordia del Señor."
+        }
+      ],
+      "oracao": "Señor, no quiero caminar sin tu presencia. Restaura mi corazón, revélame tu carácter y haz que mi vida responda con obediencia, gratitud y servicio. Amén."
+    }
+  }
+}

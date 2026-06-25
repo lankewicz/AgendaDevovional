@@ -1,0 +1,524 @@
+{
+  "dia": 22,
+  "data": "2027-01-22",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 8–9",
+    "en": "Exodus 8–9",
+    "es": "Éxodo 8–9"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 8,
+      "chapter_end": 9
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 9,
+    "verse_start": 16,
+    "verse_end": 16,
+    "referencia": {
+      "pt": "Êxodo 9:16",
+      "en": "Exodus 9:16",
+      "es": "Éxodo 9:16"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_022.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_022.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/022/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/009.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/022/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/009.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/022/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/009.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/022/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/009.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_022.mp3",
+      "versiculo_central": "audio/en/verses/day_022.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/022/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/en/en-US-AriaNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/en/en-US-AriaNeural/009.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/022/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/en/en-US-JennyNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/en/en-US-JennyNeural/009.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/022/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/en/en-US-GuyNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/en/en-US-GuyNeural/009.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/022/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/en/en-US-BrianNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/en/en-US-BrianNeural/009.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_022.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_022.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/022/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/es/es-ES-ElviraNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/es/es-ES-ElviraNeural/009.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/022/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/es/es-MX-DaliaNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/es/es-MX-DaliaNeural/009.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/022/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/es/es-ES-AlvaroNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/es/es-ES-AlvaroNeural/009.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/022/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/022/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/022/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_8": "audio/biblia/EXO/es/es-MX-JorgeNeural/008.m4a",
+          "EXO_9": "audio/biblia/EXO/es/es-MX-JorgeNeural/009.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 8–9 — O Senhor Revela Seu Poder no Egito",
+      "contexto": "Êxodo 8 a 9 continua o confronto entre o Senhor e Faraó. As pragas expõem a fragilidade dos poderes do Egito, revelam a justiça de Deus e mostram que a libertação do seu povo não depende da vontade humana, mas da soberania divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "As pragas confrontam a falsa segurança",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 32
+          },
+          "comentario": "Rãs, piolhos e moscas atingem a terra e demonstram que Faraó não controla aquilo que julgava dominar. Deus distingue seu povo e revela que sua autoridade alcança toda a criação.",
+          "aplicacao": "A falsa segurança cai quando Deus revela sua soberania. O coração precisa se render antes que a resistência produza mais dor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A justiça de Deus contra a dureza humana",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 12
+          },
+          "comentario": "A peste nos animais e as úlceras mostram que a rebeldia de Faraó atinge também a vida ao seu redor. Mesmo diante de sinais claros, o coração endurecido continua resistindo.",
+          "aplicacao": "A teimosia espiritual pode nos tornar insensíveis à voz de Deus. Obedecer cedo é melhor do que persistir na resistência."
+        },
+        {
+          "ordem": 3,
+          "titulo": "O poder do Senhor proclamado entre as nações",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 13,
+            "chapter_end": 9,
+            "verse_end": 35
+          },
+          "comentario": "A praga da saraiva revela que Deus age não apenas para libertar Israel, mas para tornar seu nome conhecido. Alguns egípcios temem a palavra do Senhor, enquanto Faraó volta a endurecer o coração.",
+          "aplicacao": "Deus não desperdiça seus atos. Sua justiça e misericórdia chamam todos a reconhecerem quem Ele é."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 43,
+            "verse_end": 51,
+            "referencia": "Salmos 78:43-51",
+            "nota": "Recorda os sinais realizados no Egito como demonstração do poder de Deus."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romanos 9:17-18",
+            "nota": "Relaciona Faraó à manifestação soberana do poder e do nome de Deus."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 16,
+            "verse_start": 1,
+            "verse_end": 21,
+            "referencia": "Apocalipse 16:1-21",
+            "nota": "Mostra juízos que ecoam a linguagem das pragas do Êxodo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho resistido à voz de Deus em alguma área da vida?",
+        "Reconheço que o Senhor governa sobre aquilo que não controlo?",
+        "Permito que os atos de Deus me conduzam à reverência e à obediência?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 9:16 resume o propósito do confronto: Deus revela seu poder e faz seu nome conhecido em toda a terra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Êxodo 8:10",
+          "nota": "Afirma que não há outro como o Senhor Deus."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Êxodo 8:23",
+          "nota": "Mostra Deus fazendo distinção entre seu povo e o Egito."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 9,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Êxodo 9:16",
+          "nota": "Revela o propósito de Deus em manifestar seu poder."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Soberania",
+          "significado": "O governo de Deus sobre reis, povos, natureza e história."
+        },
+        {
+          "termo": "Dureza de coração",
+          "significado": "Resistência persistente à voz e à vontade de Deus."
+        },
+        {
+          "termo": "Juízo",
+          "significado": "A resposta justa de Deus contra a rebeldia e a opressão."
+        }
+      ],
+      "oracao": "Senhor, livra-me de um coração resistente. Ensina-me a reconhecer teu poder, obedecer à tua voz e viver para que teu nome seja honrado. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 8–9 — The Lord Reveals His Power in Egypt",
+      "contexto": "Exodus 8 to 9 continues the confrontation between the Lord and Pharaoh. The plagues expose the weakness of Egypt’s powers, reveal God’s justice, and show that the deliverance of his people does not depend on human will but on divine sovereignty.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The plagues confront false security",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 32
+          },
+          "comentario": "Frogs, gnats, and flies strike the land and show that Pharaoh does not control what he thought he ruled. God distinguishes his people and reveals that his authority reaches all creation.",
+          "aplicacao": "False security falls when God reveals his sovereignty. The heart must surrender before resistance produces greater pain."
+        },
+        {
+          "ordem": 2,
+          "titulo": "God’s justice against human hardness",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 12
+          },
+          "comentario": "The plague on livestock and the boils show that Pharaoh’s rebellion affects life around him. Even before clear signs, a hardened heart keeps resisting.",
+          "aplicacao": "Spiritual stubbornness can make us insensitive to God’s voice. Early obedience is better than continued resistance."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The Lord’s power proclaimed among the nations",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 13,
+            "chapter_end": 9,
+            "verse_end": 35
+          },
+          "comentario": "The plague of hail reveals that God acts not only to deliver Israel but to make his name known. Some Egyptians fear the Lord’s word, while Pharaoh hardens his heart again.",
+          "aplicacao": "God does not waste his works. His justice and mercy call all people to recognize who he is."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 43,
+            "verse_end": 51,
+            "referencia": "Psalm 78:43-51",
+            "nota": "Recalls the signs performed in Egypt as a demonstration of God’s power."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romans 9:17-18",
+            "nota": "Connects Pharaoh with the sovereign display of God’s power and name."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 16,
+            "verse_start": 1,
+            "verse_end": 21,
+            "referencia": "Revelation 16:1-21",
+            "nota": "Shows judgments that echo the language of the plagues in Exodus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Have I resisted God’s voice in any area of life?",
+        "Do I recognize that the Lord rules over what I cannot control?",
+        "Do I allow God’s works to lead me into reverence and obedience?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 9:16 summarizes the purpose of the confrontation: God reveals his power and makes his name known in all the earth."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Exodus 8:10",
+          "nota": "Affirms that there is none like the Lord God."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Exodus 8:23",
+          "nota": "Shows God making a distinction between his people and Egypt."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 9,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Exodus 9:16",
+          "nota": "Reveals God’s purpose in manifesting his power."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Sovereignty",
+          "significado": "God’s rule over kings, peoples, nature, and history."
+        },
+        {
+          "termo": "Hardness of heart",
+          "significado": "Persistent resistance to God’s voice and will."
+        },
+        {
+          "termo": "Judgment",
+          "significado": "God’s just response against rebellion and oppression."
+        }
+      ],
+      "oracao": "Lord, deliver me from a resistant heart. Teach me to recognize your power, obey your voice, and live so that your name is honored. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 8–9 — El Señor Revela Su Poder en Egipto",
+      "contexto": "Éxodo 8 al 9 continúa el enfrentamiento entre el Señor y Faraón. Las plagas exponen la fragilidad de los poderes de Egipto, revelan la justicia de Dios y muestran que la liberación de su pueblo no depende de la voluntad humana, sino de la soberanía divina.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "Las plagas confrontan la falsa seguridad",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 8,
+            "verse_start": 1,
+            "chapter_end": 8,
+            "verse_end": 32
+          },
+          "comentario": "Ranas, piojos y moscas golpean la tierra y demuestran que Faraón no controla aquello que creía dominar. Dios distingue a su pueblo y revela que su autoridad alcanza toda la creación.",
+          "aplicacao": "La falsa seguridad cae cuando Dios revela su soberanía. El corazón necesita rendirse antes de que la resistencia produzca más dolor."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La justicia de Dios contra la dureza humana",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 1,
+            "chapter_end": 9,
+            "verse_end": 12
+          },
+          "comentario": "La peste sobre los animales y las úlceras muestran que la rebeldía de Faraón afecta también la vida a su alrededor. Incluso ante señales claras, el corazón endurecido sigue resistiendo.",
+          "aplicacao": "La terquedad espiritual puede volvernos insensibles a la voz de Dios. Obedecer temprano es mejor que persistir en la resistencia."
+        },
+        {
+          "ordem": 3,
+          "titulo": "El poder del Señor proclamado entre las naciones",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 9,
+            "verse_start": 13,
+            "chapter_end": 9,
+            "verse_end": 35
+          },
+          "comentario": "La plaga del granizo revela que Dios actúa no solo para liberar a Israel, sino para dar a conocer su nombre. Algunos egipcios temen la palabra del Señor, mientras Faraón vuelve a endurecer su corazón.",
+          "aplicacao": "Dios no desperdicia sus obras. Su justicia y misericordia llaman a todos a reconocer quién es Él."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PSA",
+            "chapter": 78,
+            "verse_start": 43,
+            "verse_end": 51,
+            "referencia": "Salmos 78:43-51",
+            "nota": "Recuerda las señales realizadas en Egipto como demostración del poder de Dios."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "ROM",
+            "chapter": 9,
+            "verse_start": 17,
+            "verse_end": 18,
+            "referencia": "Romanos 9:17-18",
+            "nota": "Relaciona a Faraón con la manifestación soberana del poder y del nombre de Dios."
+          },
+          {
+            "book_id": "REV",
+            "chapter": 16,
+            "verse_start": 1,
+            "verse_end": 21,
+            "referencia": "Apocalipsis 16:1-21",
+            "nota": "Muestra juicios que hacen eco del lenguaje de las plagas del Éxodo."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿He resistido la voz de Dios en alguna área de mi vida?",
+        "¿Reconozco que el Señor gobierna sobre aquello que no controlo?",
+        "¿Permito que las obras de Dios me conduzcan a la reverencia y la obediencia?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 9:16 resume el propósito del enfrentamiento: Dios revela su poder y da a conocer su nombre en toda la tierra."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 10,
+          "verse_end": 10,
+          "referencia": "Éxodo 8:10",
+          "nota": "Afirma que no hay otro como el Señor Dios."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 8,
+          "verse_start": 23,
+          "verse_end": 23,
+          "referencia": "Éxodo 8:23",
+          "nota": "Muestra a Dios haciendo distinción entre su pueblo y Egipto."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 9,
+          "verse_start": 16,
+          "verse_end": 16,
+          "referencia": "Éxodo 9:16",
+          "nota": "Revela el propósito de Dios al manifestar su poder."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Soberanía",
+          "significado": "El gobierno de Dios sobre reyes, pueblos, naturaleza e historia."
+        },
+        {
+          "termo": "Dureza de corazón",
+          "significado": "Resistencia persistente a la voz y la voluntad de Dios."
+        },
+        {
+          "termo": "Juicio",
+          "significado": "La respuesta justa de Dios contra la rebeldía y la opresión."
+        }
+      ],
+      "oracao": "Señor, líbrame de un corazón resistente. Enséñame a reconocer tu poder, obedecer tu voz y vivir para que tu nombre sea honrado. Amén."
+    }
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "dia": 33,
+  "data": "2027-02-02",
+  "plano": "biblia_1_ano_2027",
+  "leitura_referencia": {
+    "pt": "Êxodo 38–39",
+    "en": "Exodus 38–39",
+    "es": "Éxodo 38–39"
+  },
+  "leitura": [
+    {
+      "book_id": "EXO",
+      "chapter_start": 38,
+      "chapter_end": 39
+    }
+  ],
+  "versiculo_central": {
+    "book_id": "EXO",
+    "chapter": 39,
+    "verse_start": 43,
+    "verse_end": 43,
+    "referencia": {
+      "pt": "Êxodo 39:43",
+      "en": "Exodus 39:43",
+      "es": "Éxodo 39:43"
+    }
+  },
+  "audio": {
+    "pt": {
+      "devocional": "audio/pt/devocionais/dia_033.mp3",
+      "versiculo_central": "audio/pt/versiculos/dia_033.mp3",
+      "pt-BR-FranciscaNeural": {
+        "devocional": "audio/dia/033/pt/pt-BR-FranciscaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/pt/pt-BR-FranciscaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/pt/pt-BR-FranciscaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/pt/pt-BR-FranciscaNeural/039.m4a"
+        }
+      },
+      "pt-BR-ThalitaNeural": {
+        "devocional": "audio/dia/033/pt/pt-BR-ThalitaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/pt/pt-BR-ThalitaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/pt/pt-BR-ThalitaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/pt/pt-BR-ThalitaNeural/039.m4a"
+        }
+      },
+      "pt-BR-AntonioNeural": {
+        "devocional": "audio/dia/033/pt/pt-BR-AntonioNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/pt/pt-BR-AntonioNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/pt/pt-BR-AntonioNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/pt/pt-BR-AntonioNeural/039.m4a"
+        }
+      },
+      "pt-PT-DuarteNeural": {
+        "devocional": "audio/dia/033/pt/pt-PT-DuarteNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/pt/pt-PT-DuarteNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/pt/pt-PT-DuarteNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/pt/pt-PT-DuarteNeural/039.m4a"
+        }
+      }
+    },
+    "en": {
+      "devocional": "audio/en/devotionals/day_033.mp3",
+      "versiculo_central": "audio/en/verses/day_033.mp3",
+      "en-US-AriaNeural": {
+        "devocional": "audio/dia/033/en/en-US-AriaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/en/en-US-AriaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/en/en-US-AriaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/en/en-US-AriaNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/en/en-US-AriaNeural/039.m4a"
+        }
+      },
+      "en-US-JennyNeural": {
+        "devocional": "audio/dia/033/en/en-US-JennyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/en/en-US-JennyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/en/en-US-JennyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/en/en-US-JennyNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/en/en-US-JennyNeural/039.m4a"
+        }
+      },
+      "en-US-GuyNeural": {
+        "devocional": "audio/dia/033/en/en-US-GuyNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/en/en-US-GuyNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/en/en-US-GuyNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/en/en-US-GuyNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/en/en-US-GuyNeural/039.m4a"
+        }
+      },
+      "en-US-BrianNeural": {
+        "devocional": "audio/dia/033/en/en-US-BrianNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/en/en-US-BrianNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/en/en-US-BrianNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/en/en-US-BrianNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/en/en-US-BrianNeural/039.m4a"
+        }
+      }
+    },
+    "es": {
+      "devocional": "audio/es/devocionales/dia_033.mp3",
+      "versiculo_central": "audio/es/versiculos/dia_033.mp3",
+      "es-ES-ElviraNeural": {
+        "devocional": "audio/dia/033/es/es-ES-ElviraNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/es/es-ES-ElviraNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/es/es-ES-ElviraNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/es/es-ES-ElviraNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/es/es-ES-ElviraNeural/039.m4a"
+        }
+      },
+      "es-MX-DaliaNeural": {
+        "devocional": "audio/dia/033/es/es-MX-DaliaNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/es/es-MX-DaliaNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/es/es-MX-DaliaNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/es/es-MX-DaliaNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/es/es-MX-DaliaNeural/039.m4a"
+        }
+      },
+      "es-ES-AlvaroNeural": {
+        "devocional": "audio/dia/033/es/es-ES-AlvaroNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/es/es-ES-AlvaroNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/es/es-ES-AlvaroNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/es/es-ES-AlvaroNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/es/es-ES-AlvaroNeural/039.m4a"
+        }
+      },
+      "es-MX-JorgeNeural": {
+        "devocional": "audio/dia/033/es/es-MX-JorgeNeural/devocional.m4a",
+        "versiculo_central": "audio/dia/033/es/es-MX-JorgeNeural/versiculo_central.m4a",
+        "oracao": "audio/dia/033/es/es-MX-JorgeNeural/oracao.m4a",
+        "biblia": {
+          "EXO_38": "audio/biblia/EXO/es/es-MX-JorgeNeural/038.m4a",
+          "EXO_39": "audio/biblia/EXO/es/es-MX-JorgeNeural/039.m4a"
+        }
+      }
+    }
+  },
+  "conteudo": {
+    "pt": {
+      "titulo": "Êxodo 38–39 — Fidelidade na Obra Recebida",
+      "contexto": "Êxodo 38 a 39 descreve a conclusão de partes importantes do tabernáculo, a prestação de contas dos materiais e a confecção das vestes sacerdotais. O destaque do bloco é a obediência cuidadosa: tudo é feito conforme o Senhor havia ordenado a Moisés.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "O altar, o pátio e a responsabilidade no serviço",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 20
+          },
+          "comentario": "O altar, a pia e o pátio são preparados para o serviço de adoração. O espaço do tabernáculo revela que a aproximação de Deus exige purificação, sacrifício e reverência.",
+          "aplicacao": "A comunhão com Deus não deve ser tratada de modo descuidado. O Senhor ensina seu povo a se aproximar dele de forma santa."
+        },
+        {
+          "ordem": 2,
+          "titulo": "A prestação de contas dos materiais",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 21,
+            "chapter_end": 38,
+            "verse_end": 31
+          },
+          "comentario": "O registro dos materiais mostra ordem, transparência e responsabilidade na administração daquilo que foi consagrado ao Senhor.",
+          "aplicacao": "A obra de Deus deve ser realizada com integridade. Recursos, talentos e responsabilidades precisam ser tratados com fidelidade."
+        },
+        {
+          "ordem": 3,
+          "titulo": "As vestes sacerdotais e a bênção de Moisés",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 43
+          },
+          "comentario": "As vestes dos sacerdotes são feitas com beleza e significado. Ao final, Moisés examina a obra, vê que tudo foi feito conforme o mandamento do Senhor e abençoa o povo.",
+          "aplicacao": "A bênção acompanha a obediência fiel. Deus se agrada quando seu povo serve conforme a sua Palavra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Provérbios 3:9-10",
+            "nota": "Ensina a honrar o Senhor com aquilo que se possui."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 90,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Salmos 90:17",
+            "nota": "Pede que Deus confirme a obra das mãos do seu povo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Colossenses 3:23-24",
+            "nota": "Ensina a trabalhar de coração como para o Senhor."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 8,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Hebreus 8:5",
+            "nota": "Mostra que o tabernáculo seguia um modelo recebido de Deus."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Tenho servido a Deus com fidelidade no que recebi para fazer?",
+        "Minha administração de recursos e responsabilidades revela integridade?",
+        "Busco fazer a vontade de Deus conforme sua Palavra, e não apenas conforme minha opinião?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Êxodo 39:43 resume a obediência do povo na execução da obra e mostra a bênção que acompanha o serviço fiel ao Senhor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 38,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Êxodo 38:21",
+          "nota": "Mostra a prestação de contas dos materiais do tabernáculo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Êxodo 39:30",
+          "nota": "Destaca a santidade ao Senhor nas vestes sacerdotais."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 43,
+          "verse_end": 43,
+          "referencia": "Êxodo 39:43",
+          "nota": "Mostra Moisés examinando e abençoando a obra concluída."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Fidelidade",
+          "significado": "Compromisso constante de cumprir a vontade de Deus com integridade."
+        },
+        {
+          "termo": "Santidade",
+          "significado": "Separação para Deus e reverência diante da sua presença."
+        },
+        {
+          "termo": "Responsabilidade",
+          "significado": "Cuidado correto com aquilo que foi confiado pelo Senhor."
+        }
+      ],
+      "oracao": "Senhor, ajuda-me a servir com fidelidade, ordem e integridade. Que minha vida seja marcada por obediência cuidadosa e reverência diante da tua Palavra. Amém."
+    },
+    "en": {
+      "titulo": "Exodus 38–39 — Faithfulness in the Work Received",
+      "contexto": "Exodus 38 to 39 describes the completion of important parts of the tabernacle, the accounting of the materials, and the making of the priestly garments. The emphasis of the passage is careful obedience: everything is done as the Lord had commanded Moses.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "The altar, the court, and responsibility in service",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 20
+          },
+          "comentario": "The altar, the basin, and the court are prepared for the service of worship. The space of the tabernacle reveals that drawing near to God requires cleansing, sacrifice, and reverence.",
+          "aplicacao": "Communion with God must not be treated carelessly. The Lord teaches his people to approach him in holiness."
+        },
+        {
+          "ordem": 2,
+          "titulo": "The accounting of the materials",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 21,
+            "chapter_end": 38,
+            "verse_end": 31
+          },
+          "comentario": "The record of the materials shows order, transparency, and responsibility in the administration of what was consecrated to the Lord.",
+          "aplicacao": "God’s work should be carried out with integrity. Resources, talents, and responsibilities must be treated with faithfulness."
+        },
+        {
+          "ordem": 3,
+          "titulo": "The priestly garments and Moses’ blessing",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 43
+          },
+          "comentario": "The garments of the priests are made with beauty and meaning. In the end, Moses examines the work, sees that everything was done according to the Lord’s command, and blesses the people.",
+          "aplicacao": "Blessing accompanies faithful obedience. God is pleased when his people serve according to his Word."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Proverbs 3:9-10",
+            "nota": "Teaches honoring the Lord with what one possesses."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 90,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Psalm 90:17",
+            "nota": "Asks God to establish the work of his people’s hands."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Colossians 3:23-24",
+            "nota": "Teaches working heartily as for the Lord."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 8,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Hebrews 8:5",
+            "nota": "Shows that the tabernacle followed a pattern received from God."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "Do I serve God faithfully in what I have received to do?",
+        "Does my stewardship of resources and responsibilities reveal integrity?",
+        "Do I seek to do God’s will according to his Word, and not merely according to my opinion?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Exodus 39:43 summarizes the people’s obedience in carrying out the work and shows the blessing that accompanies faithful service to the Lord."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 38,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Exodus 38:21",
+          "nota": "Shows the accounting of the materials for the tabernacle."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Exodus 39:30",
+          "nota": "Highlights holiness to the Lord in the priestly garments."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 43,
+          "verse_end": 43,
+          "referencia": "Exodus 39:43",
+          "nota": "Shows Moses examining and blessing the completed work."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Faithfulness",
+          "significado": "A steady commitment to fulfill God’s will with integrity."
+        },
+        {
+          "termo": "Holiness",
+          "significado": "Being set apart for God and reverent before his presence."
+        },
+        {
+          "termo": "Responsibility",
+          "significado": "Proper care for what has been entrusted by the Lord."
+        }
+      ],
+      "oracao": "Lord, help me serve with faithfulness, order, and integrity. May my life be marked by careful obedience and reverence before your Word. Amen."
+    },
+    "es": {
+      "titulo": "Éxodo 38–39 — Fidelidad en la Obra Recibida",
+      "contexto": "Éxodo 38 al 39 describe la conclusión de partes importantes del tabernáculo, la rendición de cuentas de los materiales y la confección de las vestiduras sacerdotales. El énfasis del bloque es la obediencia cuidadosa: todo se hace conforme el Señor había mandado a Moisés.",
+      "secoes": [
+        {
+          "ordem": 1,
+          "titulo": "El altar, el atrio y la responsabilidad en el servicio",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 1,
+            "chapter_end": 38,
+            "verse_end": 20
+          },
+          "comentario": "El altar, la fuente y el atrio son preparados para el servicio de adoración. El espacio del tabernáculo revela que acercarse a Dios requiere purificación, sacrificio y reverencia.",
+          "aplicacao": "La comunión con Dios no debe tratarse con descuido. El Señor enseña a su pueblo a acercarse a él en santidad."
+        },
+        {
+          "ordem": 2,
+          "titulo": "La rendición de cuentas de los materiales",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 38,
+            "verse_start": 21,
+            "chapter_end": 38,
+            "verse_end": 31
+          },
+          "comentario": "El registro de los materiales muestra orden, transparencia y responsabilidad en la administración de lo que fue consagrado al Señor.",
+          "aplicacao": "La obra de Dios debe realizarse con integridad. Recursos, talentos y responsabilidades deben ser tratados con fidelidad."
+        },
+        {
+          "ordem": 3,
+          "titulo": "Las vestiduras sacerdotales y la bendición de Moisés",
+          "referencia": {
+            "book_id": "EXO",
+            "chapter_start": 39,
+            "verse_start": 1,
+            "chapter_end": 39,
+            "verse_end": 43
+          },
+          "comentario": "Las vestiduras de los sacerdotes son hechas con belleza y significado. Al final, Moisés examina la obra, ve que todo fue hecho conforme al mandato del Señor y bendice al pueblo.",
+          "aplicacao": "La bendición acompaña la obediencia fiel. Dios se agrada cuando su pueblo sirve conforme a su Palabra."
+        }
+      ],
+      "conexoes_biblicas": {
+        "antigo_testamento": [
+          {
+            "book_id": "PRO",
+            "chapter": 3,
+            "verse_start": 9,
+            "verse_end": 10,
+            "referencia": "Proverbios 3:9-10",
+            "nota": "Enseña a honrar al Señor con lo que se posee."
+          },
+          {
+            "book_id": "PSA",
+            "chapter": 90,
+            "verse_start": 17,
+            "verse_end": 17,
+            "referencia": "Salmos 90:17",
+            "nota": "Pide que Dios confirme la obra de las manos de su pueblo."
+          }
+        ],
+        "novo_testamento": [
+          {
+            "book_id": "COL",
+            "chapter": 3,
+            "verse_start": 23,
+            "verse_end": 24,
+            "referencia": "Colosenses 3:23-24",
+            "nota": "Enseña a trabajar de corazón como para el Señor."
+          },
+          {
+            "book_id": "HEB",
+            "chapter": 8,
+            "verse_start": 5,
+            "verse_end": 5,
+            "referencia": "Hebreos 8:5",
+            "nota": "Muestra que el tabernáculo seguía un modelo recibido de Dios."
+          }
+        ]
+      },
+      "aplicacoes_pessoais": [
+        "¿Sirvo a Dios con fidelidad en lo que he recibido para hacer?",
+        "¿Mi administración de recursos y responsabilidades revela integridad?",
+        "¿Busco hacer la voluntad de Dios conforme a su Palabra, y no solo conforme a mi opinión?"
+      ],
+      "versiculo_central": {
+        "por_que_central": "Éxodo 39:43 resume la obediencia del pueblo en la ejecución de la obra y muestra la bendición que acompaña el servicio fiel al Señor."
+      },
+      "versiculos_destaque": [
+        {
+          "book_id": "EXO",
+          "chapter": 38,
+          "verse_start": 21,
+          "verse_end": 21,
+          "referencia": "Éxodo 38:21",
+          "nota": "Muestra la rendición de cuentas de los materiales del tabernáculo."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 30,
+          "verse_end": 30,
+          "referencia": "Éxodo 39:30",
+          "nota": "Destaca la santidad al Señor en las vestiduras sacerdotales."
+        },
+        {
+          "book_id": "EXO",
+          "chapter": 39,
+          "verse_start": 43,
+          "verse_end": 43,
+          "referencia": "Éxodo 39:43",
+          "nota": "Muestra a Moisés examinando y bendiciendo la obra concluida."
+        }
+      ],
+      "palavras_chave": [
+        {
+          "termo": "Fidelidad",
+          "significado": "Compromiso constante de cumplir la voluntad de Dios con integridad."
+        },
+        {
+          "termo": "Santidad",
+          "significado": "Separación para Dios y reverencia delante de su presencia."
+        },
+        {
+          "termo": "Responsabilidad",
+          "significado": "Cuidado correcto de aquello que ha sido confiado por el Señor."
+        }
+      ],
+      "oracao": "Señor, ayúdame a servir con fidelidad, orden e integridad. Que mi vida sea marcada por obediencia cuidadosa y reverencia delante de tu Palabra. Amén."
+    }
+  }
+}
